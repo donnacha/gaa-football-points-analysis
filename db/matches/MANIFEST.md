@@ -74,12 +74,18 @@ rather than ~60 near-empty per-year fetches. Modern years (2008/2018+) still ext
 | 6 | hurling | under20 | championship (AI+Lein+Mun) | 2019–2025 | 170 | U20 hurling began 2019 (2018 was still U21); often AI final only (no AI semis) |
 | 6 | hurling | under21 | championship (AI+Lein+Mun) | 2008–2018 | 144 | Ulster U21 hurling excluded (out of scope) |
 
-| 6 | football | minor | championship (AI+prov) | 2018–2025 | ~424 | U17; rich provincial+AI; some 2018-19 Leinster boxes blank on Wikipedia |
+| 6 | football | minor | championship (AI+prov) | 2018–2025 | ~424 | U17; rich provincial+AI |
+| 6 | hurling | minor | championship (AI+Lein+Mun) | 2018–2025 | ~282 | U17; Leinster tiered groups feed one knockout |
 
-Running total: **11757 matches across 365 files**. Zero validation warnings.
-Wave 6 continues. Next: **minor hurling 2018–2025** (under `hurling/minor/`), then a finals-list
-sweep for the lower-grade deep history (U21 football/hurling pre-2008, minor football & hurling
-pre-2018, back to each grade's start). Deferred (optional): pre-2008 NFL/NHL finals-only.
+🎯 **Archive past 12,000 matches.** Modern era (2018+) now complete across all four lower-grade/sport
+combos (U20/U21 + minor, football + hurling).
+Running total: **12039 matches across 373 files**. Zero validation warnings.
+
+Next: **wave 7 — finals-list sweep** for lower-grade DEEP history (pre-modern years where per-year
+Wikipedia pages don't exist). One agent per grade/sport pulls the "List of All-Ireland <grade>
+<sport> Championship finals" page → every All-Ireland final back to each grade's start (minor 1929,
+U21 1964). Finals-level only (provincial/full-bracket not available pre-modern). Stored as
+consolidated `<grade>/finals_pre<year>.json` files. Deferred (optional): pre-2008 NFL/NHL finals-only.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the
