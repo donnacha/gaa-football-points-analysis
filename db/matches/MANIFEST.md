@@ -1,0 +1,38 @@
+# Match-level archive — extraction manifest & progress
+
+Scope agreed 2026-06-21: **football + hurling, all grades, all competitions** (championship +
+National League + secondary cups), as deep as sources allow, using all sources for coverage.
+Provenance recorded per match (`source_url`). See `SCHEMA.md` for the data model and
+`../SOURCES_REGISTER.md` for the source catalogue.
+
+This is a large, multi-wave build. Extraction agents write directly into
+`db/matches/<sport>/<grade>/<year>.json`; `compile_matches.py` validates and compiles.
+
+## Priority order (waves)
+
+1. **Football senior championship** (All-Ireland + 4 provincial), 2025 → 1990 → … → 1887. *(in progress)*
+2. **Football senior National League**, modern (full match-level) ~2008 → 2025, then finals/standings back.
+3. **Hurling senior championship** (All-Ireland + Leinster/Munster + others), 2025 → back.
+4. **Hurling senior National League**, modern → back.
+5. **Tailteann Cup** (football, 2022→) and other secondary inter-county cups.
+6. **Under-20 / U21** football & hurling championships.
+7. **Minor** football & hurling championships.
+8. **Junior/Intermediate** inter-county where available.
+
+Within each wave: modern years first (richest fields), working backwards; spot-check against a
+second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
+
+## Progress log
+
+| Wave | Sport | Grade | Competition | Years done | Matches | Notes |
+|------|-------|-------|-------------|-----------|---------|-------|
+| 1 | football | senior | championship (AI+prov) | 2024 | 63 | pilot — full field set, validated |
+
+_Update this table after each extraction wave (run `compile_matches.py` for counts)._
+
+## Known data-quality notes
+- Attendances frequently null on Wikipedia, esp. league/qualifier rounds and pre-1990; approximate-
+  only figures are left null with a note.
+- Some provincial referees missing for modern Leinster rounds.
+- Pre-~1920 provincial early rounds are the biggest genuine gap → may require newspaper archives.
+- League match-by-match only reliable from ~2008; earlier league years = finals/standings.
