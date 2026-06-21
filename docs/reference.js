@@ -30,11 +30,11 @@ function buildFinals(){
     f.forEach(r=>{
       const rep=r.replay?' <span class="rep" title="after a replay">R</span>':'';
       h+=`<tr><td class="total">${r.year}</td><td class="l county">${r.champion}</td>`+
-         `<td>${r.champion_score||'—'}</td><td class="l">${r.runner_up||'—'}</td>`+
-         `<td>${r.runner_up_score||'—'}</td><td>${r.margin==null?'—':r.margin}${rep}</td>`+
-         `<td class="l">${r.venue||'—'}</td>`+
-         `<td>${r.attendance?r.attendance.toLocaleString():'—'}</td>`+
-         `<td class="l">${r.captain||'—'}</td><td class="l">${r.manager||'—'}</td></tr>`;
+         `<td>${r.champion_score||'–'}</td><td class="l">${r.runner_up||'–'}</td>`+
+         `<td>${r.runner_up_score||'–'}</td><td>${r.margin==null?'–':r.margin}${rep}</td>`+
+         `<td class="l">${r.venue||'–'}</td>`+
+         `<td>${r.attendance?r.attendance.toLocaleString():'–'}</td>`+
+         `<td class="l">${r.captain||'–'}</td><td class="l">${r.manager||'–'}</td></tr>`;
     });
     h+='</tbody></table></div>';
     if(!f.length)h='<p class="sub">No finals match that filter.</p>';
@@ -50,7 +50,7 @@ function buildRecords(){
     list.forEach(f=>{
       const v=val(f);
       h+=`<tr><td class="total">${f.year}</td>`+
-         `<td class="l">${f.champion} ${f.champion_score||''} v ${f.runner_up||'—'} ${f.runner_up_score||''}</td>`+
+         `<td class="l">${f.champion} ${f.champion_score||''} v ${f.runner_up||'–'} ${f.runner_up_score||''}</td>`+
          `<td class="num">${v}${unit?' '+unit:''}</td></tr>`;
     });
     h+='</tbody></table></div>'; return h;

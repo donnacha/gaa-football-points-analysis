@@ -1,6 +1,6 @@
 const TIER = {5:'var(--t5)',4:'var(--t4)',3:'var(--t3)',2:'var(--t2)',1:'var(--t1)',0:'var(--t0)'};
 const TIER_LABEL = {5:'All-Ireland champion',4:'Runner-up',3:'Beaten semi-finalist',
-  2:'Beaten quarter-finalist',1:'Provincial finalist / group stage',0:'—'};
+  2:'Beaten quarter-finalist',1:'Provincial finalist / group stage',0:'–'};
 
 let DATA;
 
@@ -46,7 +46,6 @@ function buildStats(){
     [DATA.meta.n_years,`championships (${DATA.meta.span})`],
     [`${top.county} ${top.total}`,'all-time points leader'],
     [`${mt.county} ${mt.n}`,'most All-Ireland titles'],
-    [DATA.meta.n_doubles,'league + championship doubles'],
   ];
   document.getElementById('stats').innerHTML=cards.map(([n,k])=>
     `<div class="stat"><div class="n">${n}</div><div class="k">${k}</div></div>`).join('');
@@ -60,7 +59,7 @@ function buildStandings(){
   const cols=[
     ['rank','#','static'],['county','County','l'],['total','Championship',''],
     ['league','League',''],['combined','Combined',''],
-    ['years_scoring','Yrs',''],['avg_scoring','Avg / scoring yr',''],['best','Best','']
+    ['avg_scoring','Avg / scoring yr',''],['best','Best','']
   ];
   const wrap=document.getElementById('standings-table');
   const render=()=>{
@@ -78,7 +77,7 @@ function buildStandings(){
       h+=`<tr><td class="rank">${i+1}</td><td class="l county">${r.county}</td>`+
          `<td${hot('total')}>${r.total}</td><td${hot('league')}>${fmtPts(r.league)}</td>`+
          `<td class="total"${hot('combined')}>${fmtPts(r.combined)}</td>`+
-         `<td>${r.years_scoring}</td><td>${r.avg_scoring.toFixed(2)}</td>`+
+         `<td${hot('avg_scoring')}>${r.avg_scoring.toFixed(2)}</td>`+
          `<td><span class="cell" style="background:${TIER[r.best]};max-width:30px">${r.best}</span></td></tr>`;
     });
     h+='</tbody></table></div>';
