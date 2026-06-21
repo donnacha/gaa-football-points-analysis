@@ -81,11 +81,16 @@ rather than ~60 near-empty per-year fetches. Modern years (2008/2018+) still ext
 combos (U20/U21 + minor, football + hurling).
 Running total: **12039 matches across 373 files**. Zero validation warnings.
 
-Next: **wave 7 — finals-list sweep** for lower-grade DEEP history (pre-modern years where per-year
-Wikipedia pages don't exist). One agent per grade/sport pulls the "List of All-Ireland <grade>
-<sport> Championship finals" page → every All-Ireland final back to each grade's start (minor 1929,
-U21 1964). Finals-level only (provincial/full-bracket not available pre-modern). Stored as
-consolidated `<grade>/finals_pre<year>.json` files. Deferred (optional): pre-2008 NFL/NHL finals-only.
+| 7 | football/hurling | under21/minor | All-Ireland FINALS (deep history) | minor 1928/29–2017, U21 1964–2017 | ~299 | finals-only; date often null (year in notes); dedup vs per-year copies |
+
+Running total: **12330 matches across 377 files**. Zero validation warnings (10 null-date final
+dupes auto-removed). Compiler now de-duplicates (null-date finals collapse into dated per-year copies;
+two dated records only collapse on identical date).
+
+✅ Wave 7 done: lower grades now have finals-level deep history (minor back to 1928/29, U21 to 1964).
+Next: **league finals deep history** — NFL (football) & NHL (hurling) Division 1 finals pre-2008 via
+their finals-list pages (the only remaining readily-available gap). After that the archive is
+complete to the limit of Wikipedia coverage.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the

@@ -53,8 +53,28 @@ def main():
             m["_t1_total"], m["_t2_total"] = t1, t2
             base = os.path.splitext(os.path.basename(fp))[0]
             ym = re.match(r"(\d{4})", base)        # season year from leading digits
-            m["_year"] = ym.group(1) if ym else base
+            m["_year"] = ym.group(1) if ym else ((m.get("date") or "")[:4] or base)
             matches.append(m)
+
+    # de-duplicate. A "content key" ignores date (grade+comp+stage+teams+score). Two DATED
+    # records only collapse if their dates also match (so two different-year finals with the
+    # same score are both kept). A NULL-date record (e.g. from a finals-list file) collapses
+    # into a dated record of the same content (the per-year copy is preferred/kept).
+    def content_key(m):
+        return (m["sport"], m["grade"], m["competition"], m.get("stage"),
+                m.get("team1"), m.get("team2"), m.get("t1_g"), m.get("t1_p"),
+                m.get("t2_g"), m.get("t2_p"))
+    dated_content = {content_key(m) for m in matches if m.get("date")}
+    seen, deduped, n_dupes = set(), [], 0
+    for m in matches:
+        ck = content_key(m)
+        if not m.get("date") and ck in dated_content:
+            n_dupes += 1; continue                 # null-date dup of a dated record
+        fk = ck + (m.get("date"),)
+        if fk in seen:
+            n_dupes += 1; continue                 # exact dup (incl. date)
+        seen.add(fk); deduped.append(m)
+    matches = deduped
 
     # master CSV (chronological; undated sink to end)
     matches.sort(key=lambda m: (m.get("date") or "9999", m.get("competition","")))
@@ -72,7 +92,7 @@ def main():
     def filled(k): return sum(1 for m in matches if m.get(k) not in (None,"",))
     n = len(matches)
 
-    print(f"Match archive — {n} matches across {len(files)} file(s)")
+    print(f"Match archive — {n} matches across {len(files)} file(s) ({n_dupes} exact dupes removed)")
     print("\nBy sport/grade:")
     for (s,g),c in sorted(by_sg.items()): print(f"  {s:<8} {g:<12} {c}")
     print("\nBy competition:")

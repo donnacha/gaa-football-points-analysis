@@ -2739,6 +2739,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1966-08-21,football,senior,all_ireland,Semi-final,Meath,2,16,22,Down,1,9,12,Meath,"Croke Park, Dublin",44463,M Loftus (Mayo),,https://en.wikipedia.org/wiki/1966_All-Ireland_Senior_Football_Championship
 1966-09-04,hurling,senior,all_ireland,Final,Cork,3,9,18,Kilkenny,1,10,13,Cork,Croke Park,68249,J Hatton (Wicklow),,https://en.wikipedia.org/wiki/1966_All-Ireland_Senior_Hurling_Championship
 1966-09-25,football,senior,all_ireland,Final,Galway,1,10,13,Meath,0,7,7,Galway,"Croke Park, Dublin",71569,J Hatton (Wicklow),,https://en.wikipedia.org/wiki/1966_All-Ireland_Senior_Football_Championship
+1966-10-02,hurling,under21,all_ireland,Final,Cork,3,12,21,Wexford,5,6,21,,Nowlan Park,,,"1966 All-Ireland Under-21 Hurling final; drawn (Cork 3-12 = 21, Wexford 5-06 = 21); went to two replays",https://en.wikipedia.org/wiki/1966_All-Ireland_Under-21_Hurling_Championship
+1966-10-23,hurling,under21,all_ireland,Final replay,Cork,4,9,21,Wexford,4,9,21,,Gaelic Grounds,,,1966 All-Ireland Under-21 Hurling final first replay; drawn (4-09 to 4-09),https://en.wikipedia.org/wiki/1966_All-Ireland_Under-21_Hurling_Championship
+1966-11-03,hurling,under21,all_ireland,Final replay,Cork,9,9,36,Wexford,5,9,24,Cork,Croke Park,,,1966 All-Ireland Under-21 Hurling final second replay; Cork's first title; only final to go to two replays,https://en.wikipedia.org/wiki/1966_All-Ireland_Under-21_Hurling_Championship
 1967-04-23,football,senior,leinster,Provincial first round,Wicklow,0,10,10,Wexford,0,8,8,Wicklow,"Aughrim County Ground, Aughrim",,,,https://en.wikipedia.org/wiki/1967_All-Ireland_Senior_Football_Championship
 1967-05-14,football,senior,leinster,Provincial first round,Laois,3,8,17,Carlow,3,6,15,Laois,"Geraldine Park, Athy",,J Hatton (Wicklow),,https://en.wikipedia.org/wiki/1967_All-Ireland_Senior_Football_Championship
 1967-05-14,hurling,senior,leinster,First Round,Offaly,4,8,20,Westmeath,5,10,25,Westmeath,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1967_All-Ireland_Senior_Hurling_Championship
@@ -11722,6 +11725,96 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-07-20,hurling,senior,all_ireland,Final,Cork,1,18,21,Tipperary,3,27,36,Tipperary,Croke Park,82331,Liam Gordon (Galway),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Hurling_Championship
 2025-07-27,football,senior,all_ireland,Final,Kerry,1,26,29,Donegal,0,19,19,Kerry,"Croke Park, Dublin",82109,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 ,football,minor,all_ireland,Semi-final,Galway,2,9,15,Derry,1,11,14,Galway,Parnell Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Clare,5,3,18,Longford,3,5,14,Clare,,,,1929 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,1,3,6,Mayo,0,5,5,Dublin,,,,1930 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,3,4,13,Louth,0,4,4,Kerry,,,,1931 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,3,8,17,Laois,1,3,6,Kerry,,,,1932 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,4,1,13,Mayo,0,9,9,Kerry,,,,1933 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,1,6,9,Tipperary,1,1,4,Mayo,,,,1935 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Louth,5,1,16,Kerry,1,8,11,Louth,,,,1936 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cavan,1,11,14,Wexford,1,5,8,Cavan,,,,1937 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cavan,3,3,12,Kerry,0,8,8,Cavan,,,,1938 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Roscommon,1,9,12,Monaghan,1,7,10,Roscommon,,,,1939 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Louth,5,5,20,Mayo,2,7,13,Louth,,,,1940 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Roscommon,3,6,15,Louth,0,7,7,Roscommon,,,,1941 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,4,7,19,Leitrim,0,4,4,Dublin,,,,1945 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,3,7,16,Dublin,2,3,9,Kerry,,,,1946 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,4,4,16,Mayo,4,3,15,Tyrone,,,,1947 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,0,11,11,Dublin,1,5,8,Tyrone,,,,1948 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Armagh,1,7,10,Kerry,1,5,8,Armagh,,,,1949 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,3,6,15,Wexford,1,4,7,Kerry,,,,1950 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Roscommon,2,7,13,Armagh,1,5,8,Roscommon,,,,1951 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Galway,2,9,15,Cavan,1,6,9,Galway,,,,1952 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,2,11,17,Clare,1,6,9,Mayo,,,,1953 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,3,3,12,Kerry,1,8,11,Dublin,,,,1954 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,4,4,16,Tipperary,2,7,13,Dublin,,,,1955 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,5,14,29,Leitrim,2,2,8,Dublin,,,,1956 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Meath,3,9,18,Armagh,0,4,4,Meath,,,,1957 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,2,10,16,Mayo,0,8,8,Dublin,,,,1958 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,0,11,11,Cavan,1,4,7,Dublin,,,,1959 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Galway,4,9,21,Cork,1,5,8,Galway,,,,1960 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,3,7,16,Mayo,0,5,5,Cork,,,,1961 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,6,5,23,Mayo,0,7,7,Kerry,,,,1962 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,1,10,13,Westmeath,0,2,2,Kerry,,,,1963 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Offaly,0,15,15,Cork,1,11,14,Offaly,,,,1964 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Derry,2,8,14,Kerry,2,4,10,Derry,,,,1965 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,1,12,15,Down,1,8,11,Mayo,,,,1966 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,5,14,29,Laois,2,3,9,Cork,,,,1967 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,3,5,14,Sligo,1,10,13,Cork,,,,1968 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,2,7,13,Derry,0,11,11,Cork,,,,1969 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Galway,1,8,11,Kerry,2,5,11,,,,,"1970 final; drawn (Galway 1-08, Kerry 2-05), went to replay",https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final replay,Galway,1,11,14,Kerry,1,10,13,Galway,,,,1970 final replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,2,15,21,Cork,2,7,13,Mayo,,,,1971 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,3,11,20,Tyrone,2,11,17,Cork,,,,1972 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,2,11,17,Kildare,1,6,9,Tyrone,,,,1973 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,1,10,13,Mayo,1,6,9,Cork,,,,1974 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,1,10,13,Tyrone,0,4,4,Kerry,,,,1975 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Galway,1,10,13,Cork,0,6,6,Galway,,,,1976 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Down,2,6,12,Meath,0,4,4,Down,,,,1977 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,4,9,21,Dublin,3,8,17,Mayo,,,,1978 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,0,10,10,Kerry,1,6,9,Dublin,,,,1979 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,3,12,21,Derry,0,11,11,Kerry,,,,1980 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,4,9,21,Derry,2,7,13,Cork,,,,1981 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,1,11,14,Kerry,1,5,8,Dublin,,,,1982 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Derry,0,8,8,Cork,1,3,6,Derry,,,,1983 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,1,9,12,Tipperary,0,4,4,Dublin,,,,1984 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,3,3,12,Cork,0,9,9,Mayo,,,,1985 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Galway,3,8,17,Cork,2,7,13,Galway,,,,1986 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Down,1,12,15,Cork,1,5,8,Down,,,,1987 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,2,5,11,Dublin,0,5,5,Kerry,,,,1988 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Derry,3,9,18,Offaly,1,6,9,Derry,,,,1989 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Meath,2,11,17,Kerry,2,9,15,Meath,,,,1990 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,1,9,12,Mayo,1,7,10,Cork,,,,1991 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Meath,2,5,11,Armagh,0,10,10,Meath,,,,1992 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,2,7,13,Meath,0,9,9,Cork,,,,1993 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,0,16,16,Galway,1,7,10,Kerry,,,,1994 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Westmeath,1,10,13,Derry,0,11,11,Westmeath,,,,1995 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Laois,2,11,17,Kerry,1,11,14,Laois,,,,1996 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Laois,3,11,20,Tyrone,1,14,17,Laois,,,,1997 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,2,11,17,Laois,0,11,11,Tyrone,,,,1998 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Down,1,14,17,Mayo,0,14,14,Down,,,,1999 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Cork,2,12,18,Mayo,0,13,13,Cork,,,,2000 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,0,15,15,Dublin,1,12,15,,,,,"2001 final; drawn (Tyrone 0-15, Dublin 1-12), went to replay",https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final replay,Tyrone,2,11,17,Dublin,0,6,6,Tyrone,,,,2001 final replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Derry,1,12,15,Meath,0,8,8,Derry,,,,2002 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Laois,1,11,14,Dublin,1,11,14,,,,,"2003 final; drawn (Laois 1-11, Dublin 1-11), went to replay",https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final replay,Laois,2,10,16,Dublin,1,9,12,Laois,,,,2003 final replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,0,12,12,Kerry,0,10,10,Tyrone,,,,2004 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Down,1,15,18,Mayo,0,8,8,Down,,,,2005 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Roscommon,0,15,15,Kerry,0,15,15,,,,,"2006 final; drawn (Roscommon 0-15, Kerry 0-15), went to replay",https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final replay,Roscommon,1,10,13,Kerry,0,9,9,Roscommon,,,,2006 final replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Galway,1,10,13,Derry,1,9,12,Galway,,,,2007 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,0,14,14,Mayo,0,14,14,,,,,"2008 final; drawn (Tyrone 0-14, Mayo 0-14), went to replay",https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final replay,Tyrone,1,20,23,Mayo,1,15,18,Tyrone,,,,2008 final replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Armagh,0,10,10,Mayo,0,7,7,Armagh,,,,2009 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tyrone,1,13,16,Cork,1,12,15,Tyrone,,,,2010 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Tipperary,3,9,18,Dublin,1,14,17,Tipperary,,,,2011 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Dublin,0,14,14,Meath,1,5,8,Dublin,,,,2012 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Mayo,2,13,19,Tyrone,1,13,16,Mayo,,,,2013 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,0,17,17,Donegal,1,10,13,Kerry,,,,2014 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,4,14,26,Tipperary,0,6,6,Kerry,,,,2015 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,3,7,16,Galway,0,9,9,Kerry,,,,2016 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
+,football,minor,all_ireland,Final,Kerry,6,17,35,Derry,1,8,11,Kerry,,,,2017 final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Football_Championship
 ,football,senior,all_ireland,First round,Tipperary,,,,Dublin,,,,Tipperary,,,,"open draw, no provincial championships; walkover - Dublin scratched (w/o - scr.)",https://en.wikipedia.org/wiki/1887_All-Ireland_Senior_Football_Championship
 ,football,senior,all_ireland,First round,Wexford,,,,Galway,,,,Wexford,,,,"open draw, no provincial championships; Wexford represented by Castlebridge; walkover - Galway scratched (w/o - scr.)",https://en.wikipedia.org/wiki/1887_All-Ireland_Senior_Football_Championship
 ,football,senior,all_ireland,First round,Clare,,,,Wicklow,,,,Clare,,,,"open draw, no provincial championships; walkover - Wicklow scratched (w/o - scr.)",https://en.wikipedia.org/wiki/1887_All-Ireland_Senior_Football_Championship
@@ -11730,13 +11823,212 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,all_ireland,Home Semi-Final,Galway,,,,Antrim,,,,Galway,,,,walkover; Galway awarded the game (Antrim scratched),https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 ,football,senior,all_ireland,Substitute (Central Council) tournament semi-final,Cavan,,,,Kerry,,,,Cavan,,,,"walkover; Kerry withdrew (scratched) in protest, Cavan awarded a walkover; substitute Central Council competition, no bearing on All-Ireland champion status",https://en.wikipedia.org/wiki/1925_All-Ireland_Senior_Football_Championship
 ,football,under21,all_ireland,Final,Galway,0,15,15,Dublin,0,7,7,Galway,,,,,https://en.wikipedia.org/wiki/All-Ireland_Under-20_Football_Championship
+,football,under21,all_ireland,Final,Kerry,1,10,13,Laois,1,3,6,Kerry,,,,1964,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kildare,2,11,17,Cork,1,7,10,Kildare,,,,1965,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Roscommon,2,10,16,Kildare,1,12,15,Roscommon,,,,1966,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Mayo,2,10,16,Kerry,2,10,16,,,,,1967; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final replay,Mayo,4,9,21,Kerry,1,7,10,Mayo,,,,1967; replay,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Derry,3,9,18,Offaly,1,9,12,Derry,,,,1968,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Antrim,1,8,11,Roscommon,0,10,10,Antrim,,,,1969,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,2,11,17,Fermanagh,0,9,9,Cork,,,,1970,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,3,10,19,Fermanagh,0,3,3,Cork,,,,1971,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Galway,2,6,12,Kerry,0,7,7,Galway,,,,1972,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,2,13,19,Mayo,0,13,13,Kerry,,,,1973,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Mayo,0,9,9,Antrim,0,9,9,,,,,1974; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final replay,Mayo,2,10,16,Antrim,2,8,14,Mayo,,,,1974; replay,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,1,15,18,Dublin,0,10,10,Kerry,,,,1975,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,0,14,14,Kildare,1,3,6,Kerry,,,,1976,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,1,11,14,Down,1,5,8,Kerry,,,,1977,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Roscommon,1,9,12,Kerry,1,8,11,Roscommon,,,,1978,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Down,1,9,12,Cork,0,7,7,Down,,,,1979,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,2,8,14,Dublin,1,5,8,Cork,,,,1980,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,0,14,14,Galway,2,8,14,,,,,1981; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final replay,Cork,2,9,15,Galway,1,6,9,Cork,,,,1981; replay,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Donegal,0,8,8,Roscommon,0,5,5,Donegal,,,,1982,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Mayo,2,5,11,Derry,1,8,11,,,,,1983; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final replay,Mayo,1,8,11,Derry,1,5,8,Mayo,,,,1983; replay,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,0,9,9,Mayo,0,6,6,Cork,,,,1984,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,0,14,14,Derry,1,8,11,Cork,,,,1985,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,3,16,25,Offaly,0,12,12,Cork,,,,1986,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Donegal,1,7,10,Kerry,0,10,10,,,,,1987; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final replay,Donegal,1,12,15,Kerry,2,4,10,Donegal,,,,1987; replay,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Offaly,0,11,11,Cavan,0,9,9,Offaly,,,,1988,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,2,8,14,Galway,1,10,13,Cork,,,,1989,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,5,12,27,Tyrone,2,11,17,Kerry,,,,1990,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Tyrone,4,16,28,Kerry,1,5,8,Tyrone,,,,1991,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Tyrone,1,10,13,Galway,1,7,10,Tyrone,,,,1992,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Meath,1,8,11,Kerry,0,10,10,Meath,,,,1993,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,1,12,15,Mayo,1,5,8,Cork,,,,1994,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,2,12,18,Mayo,3,9,18,,,,,1995; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final replay,Kerry,3,10,19,Mayo,1,12,15,Kerry,,,,1995; replay,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,1,17,20,Cavan,2,10,16,Kerry,,,,1996,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Derry,1,12,15,Meath,0,5,5,Derry,,,,1997,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Kerry,2,8,14,Laois,0,11,11,Kerry,,,,1998,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Westmeath,0,12,12,Kerry,0,9,9,Westmeath,,,,1999,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Tyrone,3,12,21,Limerick,0,13,13,Tyrone,,,,2000,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Tyrone,0,13,13,Mayo,0,10,10,Tyrone,,,,2001,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Dublin,0,12,12,Tyrone,0,7,7,Dublin,,,,2003,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Galway,6,5,23,Down,4,6,18,Galway,,,,2005,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Mayo,1,13,16,Cork,1,11,14,Mayo,,,,2006,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,2,10,16,Laois,0,15,15,Cork,,,,2007,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Cork,1,13,16,Down,2,9,15,Cork,,,,2009,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Dublin,1,10,13,Donegal,1,8,11,Dublin,,,,2010,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Galway,1,14,17,Cork,1,11,14,Galway,,,,2013,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Dublin,1,21,24,Roscommon,3,6,15,Dublin,,,,2014,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Tyrone,1,11,14,Tipperary,0,13,13,Tyrone,,,,2015,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,football,under21,all_ireland,Final,Dublin,2,13,19,Galway,2,7,13,Dublin,,,,2017,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Football_Championship
+,hurling,minor,all_ireland,Final,Cork,1,8,11,Dublin,3,2,11,Cork,,,,1928; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Cork,7,6,27,Dublin,4,0,12,Cork,,,,1928; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Waterford,5,0,15,Meath,1,1,4,Waterford,,,,1929,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,4,1,13,Kilkenny,2,1,7,Tipperary,,,,1930,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,4,7,19,Galway,2,3,9,Kilkenny,,,,1931,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,8,6,30,Kilkenny,5,1,16,Tipperary,,,,1932,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,4,6,18,Galway,2,3,9,Tipperary,,,,1933,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,4,3,15,Laois,3,5,14,Tipperary,,,,1934,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,4,2,14,Tipperary,3,3,12,Kilkenny,,,,1935,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,2,4,10,Cork,2,3,9,Kilkenny,,,,1936,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,8,5,29,Kilkenny,2,7,13,Cork,,,,1937,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,7,2,23,Dublin,5,4,19,Cork,,,,1938,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,5,2,17,Kilkenny,2,2,8,Cork,,,,1939,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Limerick,6,4,22,Antrim,2,4,10,Limerick,,,,1940,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,3,11,20,Galway,1,1,4,Cork,,,,1941,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Dublin,3,14,23,Tipperary,4,6,18,Dublin,,,,1945,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Dublin,1,6,9,Tipperary,0,7,7,Dublin,,,,1946,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,9,5,32,Galway,1,5,8,Tipperary,,,,1947,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Waterford,3,8,17,Kilkenny,4,2,14,Waterford,,,,1948,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,6,5,23,Kilkenny,2,4,10,Tipperary,,,,1949,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,4,13,Tipperary,1,5,8,Kilkenny,,,,1950,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,4,5,17,Galway,1,8,11,Cork,,,,1951,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,9,9,36,Dublin,2,3,9,Tipperary,,,,1952,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,8,6,30,Dublin,3,6,15,Tipperary,,,,1953,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Dublin,2,7,13,Tipperary,2,3,9,Dublin,,,,1954,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,5,15,30,Galway,2,5,11,Tipperary,,,,1955,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,4,16,28,Kilkenny,1,5,8,Tipperary,,,,1956,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,4,7,19,Kilkenny,3,7,16,Tipperary,,,,1957,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Limerick,5,8,23,Galway,3,10,19,Limerick,,,,1958,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,2,8,14,Kilkenny,2,7,13,Tipperary,,,,1959,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,7,12,33,Tipperary,1,11,14,Kilkenny,,,,1960,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,13,22,Tipperary,0,15,15,Kilkenny,,,,1961,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,6,15,Tipperary,0,9,9,Kilkenny,,,,1962,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Wexford,6,12,30,Limerick,5,9,24,Wexford,,,,1963,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,10,7,37,Laois,1,4,7,Cork,,,,1964,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Dublin,4,10,22,Limerick,2,7,13,Dublin,,,,1965,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Wexford,6,7,25,Cork,6,7,25,Wexford,Croke Park,,Pat Bernie,1966; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Wexford,6,7,25,Cork,1,8,11,Wexford,Croke Park,,Pat Bernie,1966; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,15,21,Wexford,5,3,18,Cork,Croke Park,,Pat Moylan,1967,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Wexford,2,13,19,Cork,3,7,16,Wexford,Croke Park,,Tom Byrne,1968,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,15,21,Kilkenny,3,6,15,Cork,Croke Park,,Sean Collins,1969,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,5,19,34,Galway,2,9,15,Cork,Croke Park,,Pat Kavanagh,1970,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,11,17,Kilkenny,1,11,14,Cork,Croke Park,,Seamus Coughlan,1971,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,8,7,31,Cork,3,9,18,Kilkenny,Croke Park,,Brian Cody,1972,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,4,5,17,Galway,3,7,16,Kilkenny,Croke Park,,Kevin Robinson,1973,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,1,10,13,Kilkenny,1,8,11,Cork,Croke Park,,Billy Geaney,1974,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,19,28,Cork,1,14,17,Kilkenny,Croke Park,,Harry Ryan,1975,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,2,20,26,Kilkenny,1,7,10,Tipperary,Croke Park,,Joe Hogan,1976,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,4,8,20,Cork,3,11,20,Kilkenny,Croke Park,,Sean Fennelly,1977; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Kilkenny,1,8,11,Cork,0,9,9,Kilkenny,,,Sean Fennelly,1977; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,1,15,18,Kilkenny,1,8,11,Cork,Croke Park,,P. Murphy,1978,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,11,17,Kilkenny,1,9,12,Cork,Croke Park,,Christy Coughlan,1979,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,2,15,21,Wexford,1,10,13,Tipperary,Croke Park,,Jim Maher,1980,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,1,20,23,Galway,3,9,18,Kilkenny,Croke Park,,E. Kennedy,1981,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,2,7,13,Galway,0,4,4,Tipperary,Croke Park,,John Kennedy,1982,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,0,10,10,Dublin,0,7,7,Galway,Croke Park,,Anthony Cunningham,1983,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Limerick,1,14,17,Kilkenny,3,8,17,Limerick,Semple Stadium,,Anthony O'Riordan,1984; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Limerick,2,5,11,Kilkenny,2,4,10,Limerick,Semple Stadium,,Anthony O'Riordan,1984; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,3,10,19,Wexford,0,12,12,Cork,Croke Park,,M. O'Mahony,1985,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Offaly,3,12,21,Cork,3,9,18,Offaly,Croke Park,,M. Hogan,1986,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Offaly,2,8,14,Tipperary,0,12,12,Offaly,Croke Park,,T. Moylan,1987,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,13,22,Cork,0,12,12,Kilkenny,Croke Park,,Patsy Brophy,1988,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Offaly,2,16,22,Clare,1,12,15,Offaly,Croke Park,,Brian Whelahan,1989,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,14,23,Cork,3,14,23,Kilkenny,Croke Park,,James McDermott,1990; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Kilkenny,3,16,25,Cork,1,11,14,Kilkenny,Semple Stadium,,James McDermott,1990; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,0,15,15,Tipperary,1,10,13,Kilkenny,Croke Park,,D. O'Neill,1991,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,1,13,16,Waterford,2,4,10,Galway,Croke Park,,Conor O'Donovan,1992,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,1,17,20,Galway,1,12,15,Kilkenny,Croke Park,,S. Doyle,1993,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,2,10,16,Cork,1,11,14,Galway,Croke Park,,Greg Kennedy,1994,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,10,16,Kilkenny,1,2,5,Cork,Croke Park,,Brian O'Keeffe,1995,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,0,20,20,Galway,3,11,20,Tipperary,Croke Park,,William Maher,1996; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Tipperary,2,14,20,Galway,2,12,18,Tipperary,Croke Park,,William Maher,1996; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Clare,1,11,14,Galway,1,9,12,Clare,Croke Park,,John Reddan,1997,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,15,21,Kilkenny,1,9,12,Cork,Croke Park,,Cathal McCarthy,1998,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,0,13,13,Tipperary,0,10,10,Galway,Croke Park,,John Culkin,1999,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,2,19,25,Cork,4,10,22,Galway,Croke Park,,Richie Murray,2000,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Cork,2,10,16,Galway,1,8,11,Cork,Croke Park,,Tomas O'Leary,2001,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,15,24,Tipperary,1,7,10,Kilkenny,Croke Park,,Michael Rice,2002,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,2,16,22,Galway,2,15,21,Kilkenny,Croke Park,,Richie Power,2003,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,3,12,21,Kilkenny,1,18,21,Galway,Croke Park,,John Lee,2004; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Galway,0,16,16,Kilkenny,1,12,15,Galway,O'Connor Park,,John Lee,2004; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,3,12,21,Limerick,0,17,17,Galway,Croke Park,,Andrew Keary,2005,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,2,18,24,Galway,2,7,13,Tipperary,Croke Park,,Joey McLoughney,2006,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,3,14,23,Cork,2,11,17,Tipperary,Croke Park,,Brendan Maher,2007,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,3,6,15,Galway,0,13,13,Kilkenny,Croke Park,,Thomas Breen,2008,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,2,15,21,Kilkenny,2,11,17,Galway,Croke Park,,Richie Cummins,2009,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,2,10,16,Clare,0,14,14,Kilkenny,Croke Park,,Cillian Buckley,2010,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,1,21,24,Dublin,1,12,15,Galway,Croke Park,,Shane Moloney,2011,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,2,13,19,Dublin,1,16,19,Tipperary,Croke Park,,Bill Maher,2012; drawn final,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final replay,Tipperary,2,18,24,Dublin,1,12,15,Tipperary,Croke Park,,Bill Maher,2012; replay,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Waterford,1,21,24,Galway,0,16,16,Waterford,Croke Park,,Kevin Daly,2013,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Kilkenny,2,17,23,Limerick,0,19,19,Kilkenny,Croke Park,,Darragh Joyce,2014,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,4,13,25,Tipperary,1,16,19,Galway,Croke Park,,Sean Loftus,2015,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Tipperary,1,21,24,Limerick,0,17,17,Tipperary,Croke Park,,Brian McGrath,2016,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
+,hurling,minor,all_ireland,Final,Galway,2,17,23,Cork,2,15,21,Galway,Croke Park,,Darren Morrissey,2017,https://en.wikipedia.org/wiki/All-Ireland_Minor_Hurling_Championship
 ,hurling,senior,all_ireland,All-Ireland Final,Cork,,,,Kilkenny,,,,,,,,not played - championship abandoned/not-completed; no All-Ireland champion awarded due to the American Invasion athletics tour,https://en.wikipedia.org/wiki/1888_All-Ireland_Senior_Hurling_Championship
 ,hurling,under21,all_ireland,semi_final,Clare,4,23,35,Antrim,0,7,7,Clare,"Semple Stadium, Thurles",,A Stapleton (Laois),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Hurling_Championship
 ,hurling,under21,all_ireland,semi_final,Kilkenny,4,15,27,Galway,2,15,21,Kilkenny,"Semple Stadium, Thurles",,J Sexton (Cork),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,8,9,33,Wexford,3,1,10,Tipperary,Nowlan Park,,,1964 All-Ireland Under-21 Hurling final; first All-Ireland U21 hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Wexford,3,7,16,Tipperary,1,4,7,Wexford,Nowlan Park,,,1965 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,1,18,21,Dublin,3,7,16,Tipperary,Croke Park,,,1967 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,2,18,24,Kilkenny,3,9,18,Cork,Walsh Park,,,1968 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,5,13,28,Wexford,4,7,19,Cork,Walsh Park,,,1969 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,5,17,32,Wexford,0,8,8,Cork,Croke Park,,,1970 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,7,8,29,Wexford,1,11,14,Cork,Walsh Park,,,1971 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,2,9,15,Dublin,1,10,13,Galway,Gaelic Grounds,,,1972 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,2,10,16,Wexford,4,2,14,Cork,Páirc Daibhín,,,"1973 All-Ireland Under-21 Hurling final; Cork 2-10 = 16, Wexford 4-02 = 14",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,3,8,17,Waterford,3,7,16,Kilkenny,Semple Stadium,,,1974 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,5,13,28,Cork,2,19,25,Kilkenny,Fraher Field,,,"1975 All-Ireland Under-21 Hurling final; Kilkenny 5-13 = 28, Cork 2-19 = 25",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,2,17,23,Kilkenny,1,8,11,Cork,Walsh Park,,,1976 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,2,9,15,Cork,1,9,12,Kilkenny,Semple Stadium,,,1977 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,3,15,24,Tipperary,2,8,14,Galway,Gaelic Grounds,,,1978 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,2,12,18,Galway,1,9,12,Tipperary,O'Moore Park,,,1979 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,2,9,15,Kilkenny,0,14,14,Tipperary,Walsh Park,,,"1980 All-Ireland Under-21 Hurling final; Tipperary 2-09 = 15, Kilkenny 0-14 = 14",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,2,16,22,Kilkenny,1,10,13,Tipperary,Walsh Park,,,1981 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,0,12,12,Galway,0,11,11,Cork,St. Brendan's Park,,,1982 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,0,12,12,Tipperary,1,6,9,Galway,O'Connor Park,,,"1983 All-Ireland Under-21 Hurling final; Galway 0-12 = 12, Tipperary 1-06 = 9",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,1,12,15,Tipperary,0,11,11,Kilkenny,Walsh Park,,,1984 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,1,10,13,Kilkenny,2,6,12,Tipperary,Walsh Park,,,"1985 All-Ireland Under-21 Hurling final; Tipperary 1-10 = 13, Kilkenny 2-06 = 12",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,0,14,14,Wexford,2,5,11,Galway,Semple Stadium,,,"1986 All-Ireland Under-21 Hurling final; Galway 0-14 = 14, Wexford 2-05 = 11",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Limerick,2,15,21,Galway,3,6,15,Limerick,Cusack Park,,,"1987 All-Ireland Under-21 Hurling final; Limerick 2-15 = 21, Galway 3-06 = 15",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,4,11,23,Kilkenny,1,5,8,Cork,St. Brendan's Park,,,1988 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,4,10,22,Offaly,3,11,20,Tipperary,O'Moore Park,,,"1989 All-Ireland Under-21 Hurling final; Tipperary 4-10 = 22, Offaly 3-11 = 20",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,2,11,17,Tipperary,1,11,14,Kilkenny,O'Moore Park,,,1990 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,2,17,23,Offaly,1,9,12,Galway,Gaelic Grounds,,,1991 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Waterford,0,12,12,Offaly,2,3,9,Waterford,Nowlan Park,,,"1992 All-Ireland Under-21 Hurling final; Waterford 0-12 = 12, Offaly 2-03 = 9",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,2,9,15,Kilkenny,3,3,12,Galway,O'Connor Park,,,"1993 All-Ireland Under-21 Hurling final; Galway 2-09 = 15, Kilkenny 3-03 = 12",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,3,10,19,Galway,0,11,11,Kilkenny,O'Connor Park,,,1994 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,1,14,17,Kilkenny,1,10,13,Tipperary,Semple Stadium,,,1995 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,1,14,17,Wexford,0,7,7,Galway,Semple Stadium,,,1996 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,3,11,20,Galway,0,13,13,Cork,Semple Stadium,,,1997 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Cork,2,15,21,Galway,2,10,16,Cork,Semple Stadium,,,1998 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,1,13,16,Galway,0,14,14,Kilkenny,O'Connor Park,,,"1999 All-Ireland Under-21 Hurling final; Kilkenny 1-13 = 16, Galway 0-14 = 14",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Limerick,1,13,16,Galway,0,13,13,Limerick,Semple Stadium,,,"2000 All-Ireland Under-21 Hurling final; Limerick 1-13 = 16, Galway 0-13 = 13",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Limerick,0,17,17,Wexford,2,10,16,Limerick,Semple Stadium,,,"2001 All-Ireland Under-21 Hurling final; Limerick 0-17 = 17, Wexford 2-10 = 16",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Limerick,3,17,26,Galway,0,8,8,Limerick,Semple Stadium,,,2002 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,2,13,19,Galway,0,12,12,Kilkenny,Semple Stadium,,,2003 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,3,12,21,Tipperary,1,6,9,Kilkenny,Nowlan Park,,,2004 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,1,15,18,Kilkenny,1,14,17,Galway,Gaelic Grounds,,,2005 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Kilkenny,1,11,14,Tipperary,0,11,11,Kilkenny,Semple Stadium,,,"2006 All-Ireland Under-21 Hurling final; Kilkenny 1-11 = 14, Tipperary 0-11 = 11",https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,5,11,26,Dublin,0,12,12,Galway,Croke Park,,,2007 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Tipperary,5,22,37,Galway,0,12,12,Tipperary,Semple Stadium,,,2010 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Galway,3,14,23,Dublin,1,10,13,Galway,Semple Stadium,,,2011 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Clare,2,17,23,Kilkenny,2,11,17,Clare,Semple Stadium,,,2012 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Clare,2,28,34,Antrim,0,12,12,Clare,Semple Stadium,,,2013 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Clare,2,20,26,Wexford,2,11,17,Clare,Semple Stadium,,,2014 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Limerick,0,26,26,Wexford,1,7,10,Limerick,Semple Stadium,,,2015 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Waterford,5,15,30,Galway,0,14,14,Waterford,Semple Stadium,,,2016 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
+,hurling,under21,all_ireland,Final,Limerick,0,17,17,Kilkenny,0,11,11,Limerick,Semple Stadium,,,2017 All-Ireland Under-21 Hurling final,https://en.wikipedia.org/wiki/All-Ireland_Under-21_Hurling_Championship
 ,football,senior,connacht,Final,Sligo,,,,Mayo,,,,draw,,,,"draw; Sligo and Mayo drew the Connacht final, no score given and no record of a replay, so no Connacht champion was decided",https://en.wikipedia.org/wiki/1888_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,Final,Galway,,,,,,,,Galway,,,,"bye - Galway only entrant, received a bye to the All-Ireland semi-final",https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,Final,Roscommon,,,,,,,,Roscommon,,,,bye,https://en.wikipedia.org/wiki/1892_All-Ireland_Senior_Football_Championship
-,football,senior,connacht,Final,Galway,,,,,,,,Galway,,,,"bye; Galway only entrants, won Connacht uncontested",https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,Championship,Galway,,,,,,,,Galway,,,,"bye; Galway only entrants, received a bye to the Home semi-final",https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,semi-final,Galway,,,,Roscommon,,,,Galway,,,,"result only; Galway advanced, no score given on source",https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,Semi-Final,Roscommon,,,,Galway,,,,Roscommon,,,,"walkover; shown as W-L, Roscommon awarded",https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
@@ -11941,7 +12233,6 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,munster,Semi-Final,Limerick,0,0,0,Waterford,0,0,0,draw,,,,"draw; finished 0-0; no replay listed, Waterford progressed to the Munster final",https://en.wikipedia.org/wiki/1891_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,semi-final,Cork,0,4,4,Tipperary,0,3,3,Cork,Cork,,,,https://en.wikipedia.org/wiki/1893_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Quarter-Final,Limerick,0,0,0,Waterford,0,0,0,draw,Tipperary,,,draw,https://en.wikipedia.org/wiki/1895_All-Ireland_Senior_Football_Championship
-,football,senior,munster,Quarter-Final,Tipperary,,,,Kerry,,,,Tipperary,"Mallow, County Cork",,,"no score given; source shows result as Tipperary won, Kerry lost",https://en.wikipedia.org/wiki/1897_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Semi-Final,Clare,1,1,4,Limerick,0,9,9,Limerick,Limerick,,,,https://en.wikipedia.org/wiki/1897_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Semi-Final,Waterford,0,9,9,Tipperary,0,0,0,Waterford,Waterford,,,,https://en.wikipedia.org/wiki/1898_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Quarter-Final,Waterford,0,5,5,Kerry,1,3,6,Kerry,Turners Cross,,,delayed-final; played 1900,https://en.wikipedia.org/wiki/1899_All-Ireland_Senior_Football_Championship
