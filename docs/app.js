@@ -39,6 +39,14 @@ const CONTROL_GROUPS = [
   },
 ];
 
+const QUICK_FIELDS = [
+  ['Champion', ['all_ireland_stage_points.champion']],
+  ['Runner-up', ['all_ireland_stage_points.runner_up']],
+  ['Semi-finalist', ['all_ireland_stage_points.semi_final_loser']],
+  ['QF / Super 8', ['all_ireland_stage_points.quarter_final_loser', 'all_ireland_stage_points.super8_group_exit']],
+  ['Group / prelim', ['all_ireland_stage_points.prelim_qf_loser', 'all_ireland_stage_points.group_exit']],
+];
+
 fetch('data.json').then(r=>r.json()).then(d=>{DATA=d;init();})
   .catch(()=>{document.getElementById('standings-table').innerHTML='<p>Could not load data.json</p>';});
 
@@ -46,6 +54,7 @@ function init(){
   DEFAULT_PARAMS = clone(DATA.params);
   CURRENT_PARAMS = clone(DEFAULT_PARAMS);
   VIEW = recompute(CURRENT_PARAMS);
+  buildQuickControls();
   buildPointControls();
   renderAll();
   document.getElementById('updated').textContent = DATA.meta.updated;
@@ -76,6 +85,19 @@ function setPath(obj,path,value){
   const last=parts.pop();
   const target=parts.reduce((o,k)=>o[k],obj);
   target[last]=value;
+}
+function pathsFor(input){return (input.dataset.paths||input.dataset.path||'').split('|').filter(Boolean);}
+function setPaths(obj,paths,value){paths.forEach(path=>setPath(obj,path,value));}
+function quickValue(paths){return getPath(CURRENT_PARAMS,paths[0]);}
+function applyControlChange(target){
+  if(target.type==='number' && target.value==='')return false;
+  const value=target.type==='checkbox'?target.checked:Number(target.value);
+  if(target.type==='number' && !Number.isFinite(value))return false;
+  setPaths(CURRENT_PARAMS,pathsFor(target),value);
+  syncPointControls();
+  VIEW=recompute(CURRENT_PARAMS);
+  renderAll();
+  return true;
 }
 function fmtPts(v){
   const n=Number(v)||0;
@@ -199,19 +221,12 @@ function buildPointControls(){
     const target=e.target.closest('[data-path]');
     if(!target)return;
     if(target.type==='checkbox')return;
-    if(target.type==='number' && target.value==='')return;
-    const value=target.type==='checkbox'?target.checked:Number(target.value);
-    if(target.type==='number' && !Number.isFinite(value))return;
-    setPath(CURRENT_PARAMS,target.dataset.path,value);
-    VIEW=recompute(CURRENT_PARAMS);
-    renderAll();
+    applyControlChange(target);
   });
   el.addEventListener('change',e=>{
     const target=e.target.closest('input[type=checkbox][data-path]');
     if(!target)return;
-    setPath(CURRENT_PARAMS,target.dataset.path,target.checked);
-    VIEW=recompute(CURRENT_PARAMS);
-    renderAll();
+    applyControlChange(target);
   });
   document.getElementById('reset-points').onclick=()=>{
     CURRENT_PARAMS=clone(DEFAULT_PARAMS);
@@ -219,11 +234,35 @@ function buildPointControls(){
     VIEW=recompute(CURRENT_PARAMS);
     renderAll();
   };
+  document.getElementById('reset-points-secondary').onclick=()=>{
+    CURRENT_PARAMS=clone(DEFAULT_PARAMS);
+    syncPointControls();
+    VIEW=recompute(CURRENT_PARAMS);
+    renderAll();
+  };
+}
+
+function buildQuickControls(){
+  const el=document.getElementById('quick-point-controls');
+  el.innerHTML=QUICK_FIELDS.map(([label,paths])=>{
+    const id='quick-'+paths[0].replace(/\W/g,'-');
+    return `<div class="quick-field">
+      <label for="${id}">${label}</label>
+      <input id="${id}" type="number" min="0" step="0.5" inputmode="decimal"
+        data-paths="${paths.join('|')}" value="${quickValue(paths)}">
+    </div>`;
+  }).join('');
+  el.addEventListener('input',e=>{
+    const target=e.target.closest('[data-paths]');
+    if(!target)return;
+    applyControlChange(target);
+  });
 }
 
 function syncPointControls(){
-  document.querySelectorAll('#point-controls [data-path]').forEach(input=>{
-    const val=getPath(CURRENT_PARAMS,input.dataset.path);
+  document.querySelectorAll('#point-controls [data-path], #quick-point-controls [data-paths]').forEach(input=>{
+    const paths=pathsFor(input);
+    const val=getPath(CURRENT_PARAMS,paths[0]);
     if(input.type==='checkbox')input.checked=!!val;
     else input.value=val;
   });
