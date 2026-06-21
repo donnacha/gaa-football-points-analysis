@@ -26,11 +26,17 @@ second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
 
 | Wave | Sport | Grade | Competition | Years done | Matches | Notes |
 |------|-------|-------|-------------|-----------|---------|-------|
-| 1 | football | senior | championship (AI+prov) | 1960–2024 | 2823 | full field set, validated (0 warnings) |
+| 1 | football | senior | championship (AI+prov) | 1950–2024 | 3125 | full field set, validated (0 warnings) |
 
-Running total: **2823 matches** (football senior championship, 1960–2024).
-Next: continue wave 1 backwards (1950s → 1887, via /loop). Watch for early-era quirks
-(byes, the 1947 Polo Grounds final, sparser pre-1930s coverage). Then wave 2 (senior football National League),
+Running total: **3125 matches** (football senior championship, 1950–2024).
+Next: continue wave 1 backwards (1940s → 1887, via /loop). Watch for early-era quirks
+(byes, the 1947 Polo Grounds final, WWII years, sparser pre-1930s coverage).
+
+### Spot-check / verify later (added)
+- 1955 Leinster SF Dublin v Offaly: Wikipedia score (Dublin 2-3, Offaly 1-9) contradicts the fact
+  that Dublin advanced and won the Leinster final; winner set to Dublin, score kept as-sourced and
+  tagged `[source-score-disputed]` (compiler skips the winner/score check for such rows). Find the
+  correct scoreline from a second source when convenient. Then wave 2 (senior football National League),
 wave 3+ (hurling, then lower grades). Note: ~6 Wikipedia prose winner-labels contradicted the
 scorelines and were corrected by recomputing from goals*3+points (all caught by compile_matches.py).
 
