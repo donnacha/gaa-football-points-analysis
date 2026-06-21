@@ -26,11 +26,12 @@ second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
 
 | Wave | Sport | Grade | Competition | Years done | Matches | Notes |
 |------|-------|-------|-------------|-----------|---------|-------|
-| 1 | football | senior | championship (AI+prov) | 2010–2024 | 876 | full field set, validated (0 warnings) |
+| 1 | football | senior | championship (AI+prov) | 2001–2024 | 1442 | full field set, validated (0 warnings) |
 
-Running total: **876 matches** (football senior championship, 2010–2024).
-Next: continue wave 1 backwards (2001–2009 qualifier era, then 1990–2000, then pre-1990 → 1887).
-Then wave 2 (senior football National League).
+Running total: **1442 matches** (football senior championship, 2001–2024).
+Next: continue wave 1 backwards (1990–2000, then pre-1990 → 1887). Then wave 2 (senior football
+National League). Note: several Wikipedia prose winner-labels contradicted the scorelines and were
+corrected by recomputing from goals*3+points (caught by compile_matches.py).
 
 _Update this table after each extraction wave (run `compile_matches.py` for counts)._
 
