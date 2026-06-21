@@ -5,16 +5,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>GAA Football Championship — Alternative Points Analysis (1887–2025)</title>
 <meta name="description" content="An alternative ranking of the GAA Men's Senior Football Championship, scoring counties by finishing position every year from 1887 to 2025, with finals, roll of honour and National League records.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230b6e4f'/><text x='50' y='72' font-size='62' text-anchor='middle' fill='%23f2c14e' font-family='Georgia,serif' font-weight='700'>G</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="hero">
   <div class="hero-inner">
-    <h1>GAA Football Championship — Alternative Points Analysis</h1>
-    <p>Ranking every county by <strong>finishing position</strong> in the Men's Senior Football
-       All-Ireland Championship, every year from 1887 to 2025 — rewarding sustained contention,
-       not just titles — plus the full finals record, roll of honour and National League history.</p>
-    <span class="tag">138 championships · 1887–2025 · parameter-driven</span>
+    <p class="eyebrow">Men's Senior Football · All-Ireland Championship</p>
+    <h1>An alternative points analysis <span class="years">1887–2025</span></h1>
+    <p class="lede">Forget titles alone. Every county is scored each year on <strong>how far it
+       actually got</strong> — so the counties who were perennially close, not just the ones who won,
+       finally show up. 138 championships, one transparent points table.</p>
+    <div class="tags">
+      <span class="tag">138 championships</span>
+      <span class="tag">1887–2025</span>
+      <span class="tag">parameter-driven database</span>
+    </div>
     <div class="legend" id="legend"></div>
   </div>
 </header>
@@ -119,15 +128,16 @@
       </ul>
 
       <h3>Adding the National League</h3>
-      <p>The <a href="index.html#overall">Overall</a> view combines the championship with the National
-         League. Because they are <strong>separate competitions</strong> run in different parts of the
-         year, their points are <strong>added</strong> within a season rather than taking the best of
-         the two (a county can genuinely win the league and reach the All-Ireland final in the same
-         year). The league sits below the championship — a Division 1 title scores 2 (a championship
-         quarter-final), a league final 1, and a Division 1 semi-final or any lower-division title 0.5
-         — set under <code>league_points</code> in <code>params.json</code>. The league dates from
-         1926, so earlier seasons are championship-only. The <em>Year-by-year</em> tab can fold these
-         league points into the heatmap with the <em>Add league points</em> toggle.</p>
+      <p>The standings table's <em>League</em> and <em>Combined</em> columns fold in the National
+         League. Because the league and the championship are <strong>separate competitions</strong>
+         run in different parts of the year, their points are <strong>added</strong> within a season
+         rather than taking the best of the two (a county can genuinely win the league and reach the
+         All-Ireland final in the same year). The league sits below the championship — a Division 1
+         title scores 2 (a championship quarter-final), a league final 1, and a Division 1 semi-final
+         or any lower-division title 0.5 — set under <code>league_points</code> in
+         <code>params.json</code>. The league dates from 1926, so earlier seasons are
+         championship-only. The <em>Year-by-year</em> tab can fold the same league points into the
+         heatmap with the <em>Add league points</em> toggle.</p>
 
       <div class="note">
         <strong>Reproducible.</strong> The site is generated from a small open database: raw results
