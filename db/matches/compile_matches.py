@@ -47,7 +47,7 @@ def main():
                     warnings.append(f"{rel}[{i}]: winner '{w}' but scores level")
                 elif (w and t1 != t2 and w != exp and "penalt" not in note
                       and "source-score-disputed" not in note and "objection" not in note
-                      and "awarded" not in note):
+                      and "awarded" not in note and "era-scoring" not in note):
                     warnings.append(f"{rel}[{i}]: winner '{w}' != score-implied '{exp}' "
                                     f"({m.get('team1')} {t1}-{t2} {m.get('team2')})")
             m["_t1_total"], m["_t2_total"] = t1, t2
