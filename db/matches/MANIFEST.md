@@ -46,13 +46,16 @@ later finals-only sub-wave (db/matches… `<year>_nfl.json`), not worth full wav
 
 Running total: **8789 matches across 296 files** (football champ 1887–2025; football NFL 2008–2025;
 hurling SHC 1887–2025). Zero validation warnings.
-| 4 | hurling | senior | National League (all divs) | 2014–2025 | 1131 | Div 1A/1B/2A/2B/3A/3B; cross-division Div1 knockout; COVID 2020-21 |
+| 4 | hurling | senior | National League (all divs) | 2008–2025 | 1619 | Div structure varies; lower divs thin to finals/standings 2008-10 (match-level floor) |
 
-Running total: **9920 matches across 308 files** (football champ 1887–2025 + NFL 2008–2025;
-hurling SHC 1887–2025 + NHL 2014–2025). Zero validation warnings.
-Wave 4 in progress — hurling NHL. Next: hurling NHL 2008–2013 (full match-by-match limit).
-Then wave 5 (Tailteann Cup football 2022+), wave 6+ (U20/U21, minor football & hurling).
-Also still open: football pre-2008 NFL (finals-only, deferred).
+✅ **Wave 4 complete to the match-level limit: hurling NHL 2008–2025.**
+🎯 **Archive past 10,000 matches.** Both senior codes now have championship + league archived to the
+data floor: football senior 6760, hurling senior 3648.
+
+Running total: **10408 matches across 314 files** (football champ 1887–2025 + NFL 2008–2025;
+hurling SHC 1887–2025 + NHL 2008–2025). Zero validation warnings.
+Next: **wave 5 — Tailteann Cup** (football tier-2, 2022–2025). Then wave 6+ (U20/U21 & minor
+football and hurling championships). Deferred (optional): pre-2008 NFL/NHL finals-only.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the
