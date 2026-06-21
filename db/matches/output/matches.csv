@@ -7423,6 +7423,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-01-25,football,senior,nfl_div4,Division 4 Round 1,Carlow,0,11,11,Wicklow,0,9,9,Carlow,"Dr Cullen Park, Carlow",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-01-25,football,senior,nfl_div4,Division 4 Round 1,Waterford,0,10,10,Limerick,1,10,13,Limerick,"Fraher Field, Dungarvan",,James Bermingham (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-01-25,football,senior,nfl_div4,Division 4 Round 1,Antrim,3,10,19,Wexford,0,13,13,Antrim,Glenavy,,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-01-25,hurling,senior,nhl_div1a,Division 1A Round 1,Tipperary,0,18,18,Limerick,2,14,20,Limerick,"Semple Stadium, Thurles",11867,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-25,hurling,senior,nhl_div1b,Division 1B Round 1,Laois,2,16,22,Wexford,2,27,33,Wexford,"MW Hire O'Moore Park, Portlaoise",,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-25,hurling,senior,nhl_div2a,Division 2A Round 1,Mayo,0,13,13,Kerry,2,24,30,Kerry,"Elverys MacHale Park, Castlebar",,C Cunning,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-25,hurling,senior,nhl_div2b,Division 2B Round 1,Roscommon,2,19,25,Warwickshire,1,10,13,Roscommon,Dr. Hyde Park,,J Clarke,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-25,hurling,senior,nhl_div3b,Division 3B Round 1,Lancashire,0,15,15,Cavan,0,8,8,Lancashire,Abbotstown,,N Wall,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-01-26,football,senior,nfl_div1,Division 1 Round 1,Tyrone,1,14,17,Meath,1,9,12,Tyrone,"Healy Park, Omagh",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-01-26,football,senior,nfl_div1,Division 1 Round 1,Galway,1,14,17,Monaghan,0,16,16,Galway,"Pearse Stadium, Salthill",,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-01-26,football,senior,nfl_div2,Division 2 Round 1,Westmeath,2,9,15,Clare,1,11,14,Westmeath,"Cusack Park, Mullingar",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7431,6 +7436,18 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-01-26,football,senior,nfl_div3,Division 3 Round 1,Longford,0,16,16,Louth,1,10,13,Longford,"Pearse Park, Longford",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-01-26,football,senior,nfl_div3,Division 3 Round 1,Tipperary,0,10,10,Down,0,10,10,draw,"Clonmel, Tipperary",,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-01-26,football,senior,nfl_div4,Division 4 Round 1,London,0,11,11,Sligo,5,8,23,Sligo,"McGovern Park, Ruislip",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-01-26,hurling,senior,nhl_div1a,Division 1A Round 1,Galway,1,24,27,Westmeath,0,10,10,Galway,"Pearse Stadium, Galway",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div1a,Division 1A Round 1,Waterford,1,24,27,Cork,3,17,26,Waterford,"Walsh Park, Waterford",,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div1b,Division 1B Round 1,Clare,1,27,30,Carlow,0,14,14,Clare,"Cusack Park, Ennis",,L Gordon (Galway),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div1b,Division 1B Round 1,Kilkenny,3,21,30,Dublin,0,18,18,Kilkenny,"UPMC Nowlan Park, Kilkenny",5605,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div2a,Division 2A Round 1,Wicklow,0,11,11,Antrim,0,20,20,Antrim,Aughrim County Ground,,C Mooney,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div2a,Division 2A Round 1,Offaly,0,26,26,Meath,1,21,24,Offaly,"St. Patrick's Park, Birr",,M Murtagh,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div2b,Division 2B Round 1,Kildare,2,26,32,London,0,20,20,Kildare,"St. Conleth's Park, Newbridge",,S Hynes,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div2b,Division 2B Round 1,Derry,1,19,22,Down,0,19,19,Derry,"Celtic Park, Derry",,C McDonald,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div3a,Division 3A Round 1,Donegal,0,15,15,Armagh,2,17,23,Armagh,Letterkenny,,K Brady,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div3a,Division 3A Round 1,Monaghan,0,18,18,Longford,2,16,22,Longford,Inniskeen,,T Conway,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div3a,Division 3A Round 1,Louth,1,16,19,Tyrone,1,21,24,Tyrone,Darver,,R Fitzsimons,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-01-26,hurling,senior,nhl_div3b,Division 3B Round 1,Fermanagh,2,12,18,Leitrim,1,13,16,Fermanagh,"Brewster Park, Enniskillen",,T Gleeson,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-01,football,senior,nfl_div1,Division 1 Round 2,Kerry,1,15,18,Galway,2,11,17,Kerry,"Austin Stack Park, Tralee",,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-01,football,senior,nfl_div1,Division 1 Round 2,Mayo,0,8,8,Dublin,1,11,14,Dublin,"MacHale Park, Castlebar",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-01,football,senior,nfl_div2,Division 2 Round 2,Cavan,1,17,20,Westmeath,1,13,16,Cavan,"Breffni Park, Cavan",,Sean Laverty (Antrim),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7438,6 +7455,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-02-01,football,senior,nfl_div3,Division 3 Round 2,Down,0,14,14,Derry,0,12,12,Down,"Páirc Esler, Newry",,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-01,football,senior,nfl_div4,Division 4 Round 2,Wexford,2,10,16,Carlow,1,6,9,Wexford,Wexford Park,,Seamus Mulhare (Laois),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-01,football,senior,nfl_div4,Division 4 Round 2,Limerick,0,8,8,London,0,7,7,Limerick,"Mick Neville Park, Rathkeale",,David Murnane (Waterford),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-02-01,hurling,senior,nhl_div1a,Division 1A Round 2,Cork,2,24,30,Tipperary,1,25,28,Cork,Páirc Uí Chaoimh,9821,J Owens (Wexford),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-01,hurling,senior,nhl_div2b,Division 2B Round 2,Warwickshire,0,1,1,Kildare,5,19,34,Kildare,"Páirc na hÉireann, Birmingham",,K Brady,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-01,hurling,senior,nhl_div3b,Division 3B Round 2,Sligo,3,18,27,Lancashire,1,15,18,Sligo,Markievicz Park,,J Clarke,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-02,football,senior,nfl_div1,Division 1 Round 2,Monaghan,1,12,15,Tyrone,0,11,11,Monaghan,"St Mary's Park, Castleblayney",,David Gough (Meath),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-02,football,senior,nfl_div1,Division 1 Round 2,Meath,0,7,7,Donegal,3,8,17,Donegal,"Páirc Tailteann, Navan",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-02,football,senior,nfl_div2,Division 2 Round 2,Clare,0,11,11,Kildare,0,10,10,Clare,"Cusack Park, Ennis",,Barry Judge (Sligo),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7447,6 +7467,20 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-02-02,football,senior,nfl_div3,Division 3 Round 2,Offaly,0,10,10,Longford,0,10,10,draw,"O'Connor Park, Tullamore",,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-02,football,senior,nfl_div4,Division 4 Round 2,Wicklow,2,11,17,Waterford,1,6,9,Wicklow,Aughrim,,David Hickey (Carlow),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-02,football,senior,nfl_div4,Division 4 Round 2,Sligo,0,15,15,Antrim,0,14,14,Sligo,"Markievicz Park, Sligo",,Niall McKenna (Monaghan),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-02-02,hurling,senior,nhl_div1a,Division 1A Round 2,Limerick,1,19,22,Galway,0,14,14,Limerick,"LIT Gaelic Grounds, Limerick",14151,C Lyons (Cork),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div1a,Division 1A Round 2,Westmeath,1,15,18,Waterford,3,18,27,Waterford,"TEG Cusack Park, Mullingar",,S Stack (Dublin),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div1b,Division 1B Round 2,Dublin,4,18,30,Laois,2,17,23,Dublin,Parnell Park,,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div1b,Division 1B Round 2,Wexford,0,15,15,Clare,0,18,18,Clare,Chadwick's Wexford Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div1b,Division 1B Round 2,Carlow,0,9,9,Kilkenny,3,21,30,Kilkenny,Netwatch Cullen Park,,C McAllister (Cork),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div2a,Division 2A Round 2,Meath,2,25,31,Wicklow,3,18,27,Meath,"Páirc Tailteann, Navan",,S Hynes,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div2a,Division 2A Round 2,Kerry,2,11,17,Offaly,0,14,14,Kerry,"Austin Stack Park, Tralee",,N Wall,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div2a,Division 2A Round 2,Antrim,4,19,31,Mayo,0,7,7,Antrim,"Fr. Healy Park, Loughguile",,G McGrath,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div2b,Division 2B Round 2,Down,3,23,32,Roscommon,0,11,11,Down,"McKenna Park, Rubane",,T Gleeson,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div2b,Division 2B Round 2,London,2,19,25,Derry,4,15,27,Derry,"McGovern Park, Ruislip",,T Walsh,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div3a,Division 3A Round 2,Longford,1,15,18,Louth,1,10,13,Longford,"Pearse Park, Longford",,C Mooney,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div3a,Division 3A Round 2,Tyrone,1,15,18,Donegal,2,23,29,Donegal,Healy Park,,T Conway,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div3a,Division 3A Round 2,Armagh,3,25,34,Monaghan,1,10,13,Armagh,Athletic Grounds,,C McDonald,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-02,hurling,senior,nhl_div3b,Division 3B Round 2,Cavan,0,17,17,Fermanagh,0,12,12,Cavan,Breffni Park,,M Murtagh,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-08,football,senior,nfl_div1,Division 1 Round 3,Dublin,1,15,18,Monaghan,1,15,18,draw,"Croke Park, Dublin",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-08,football,senior,nfl_div2,Division 2 Round 3,Armagh,0,16,16,Kildare,0,10,10,Armagh,"Athletic Grounds, Armagh",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-08,football,senior,nfl_div4,Division 4 Round 3,Waterford,0,8,8,Wexford,2,3,9,Wexford,"Fraher Field, Dungarvan",,John Ryan (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7460,15 +7494,32 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-02-09,football,senior,nfl_div3,Division 3 Round 3,Derry,0,10,10,Tipperary,0,6,6,Derry,"Celtic Park, Derry",,Jerome Henry (Mayo),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-09,football,senior,nfl_div3,Division 3 Round 3,Longford,2,14,20,Leitrim,1,9,12,Longford,"Pearse Park, Longford",,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-09,football,senior,nfl_div3,Division 3 Round 3,Cork,0,16,16,Down,1,8,11,Cork,"Páirc Uí Chaoimh, Cork",,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-02-15,hurling,senior,nhl_div1b,Division 1B Round 3,Carlow,0,9,9,Dublin,0,20,20,Dublin,Netwatch Cullen Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-15,hurling,senior,nhl_div2a,Division 2A Round 3,Meath,0,8,8,Kerry,0,13,13,Kerry,"St. Loman's Park, Trim",,D Cunning,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-15,hurling,senior,nhl_div2b,Division 2B Round 3,Down,3,22,31,Warwickshire,2,8,14,Down,"McKenna Park, Rubane",,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-15,hurling,senior,nhl_div3b,Division 3B Round 3,Leitrim,0,13,13,Cavan,0,5,5,Leitrim,Ballinamore,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-16,football,senior,nfl_div2,Division 2 Round 3,Laois,1,6,9,Cavan,3,10,19,Cavan,"O'Moore Park, Portlaoise",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-16,football,senior,nfl_div3,Division 3 Round 3,Louth,2,10,16,Offaly,2,13,19,Offaly,"Gaelic Grounds, Drogheda",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-16,football,senior,nfl_div4,Division 4 Round 3,Wicklow,1,15,18,Sligo,1,10,13,Wicklow,Aughrim,,Kevin Faloon (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-02-16,hurling,senior,nhl_div1a,Division 1A Round 3,Westmeath,1,14,17,Cork,3,12,21,Cork,"TEG Cusack Park, Mullingar",,L Gordon (Galway),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div1b,Division 1B Round 3,Clare,0,17,17,Laois,0,9,9,Clare,"Cusack Park, Ennis",,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div1b,Division 1B Round 3,Wexford,1,16,19,Kilkenny,1,14,17,Wexford,Chadwick's Wexford Park,,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div2a,Division 2A Round 3,Mayo,1,13,16,Wicklow,1,16,19,Wicklow,"Connacht Centre of Excellence, Bekan",,M Murtagh,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div2b,Division 2B Round 3,Roscommon,0,13,13,London,0,10,10,Roscommon,Dr. Hyde Park,,K Jordan,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div3a,Division 3A Round 3,Longford,0,9,9,Armagh,0,9,9,draw,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div3a,Division 3A Round 3,Monaghan,1,7,10,Tyrone,2,17,23,Tyrone,Castleblayney,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-16,hurling,senior,nhl_div3a,Division 3A Round 3,Louth,1,10,13,Donegal,2,9,15,Donegal,Darver,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-22,football,senior,nfl_div1,Division 1 Round 4,Dublin,1,15,18,Donegal,1,14,17,Dublin,"Croke Park, Dublin",26153,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-22,football,senior,nfl_div2,Division 2 Round 4,Fermanagh,1,11,14,Cavan,2,11,17,Cavan,"Brewster Park, Enniskillen",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-22,football,senior,nfl_div3,Division 3 Round 4,Down,2,13,19,Longford,1,14,17,Down,"Páirc Esler, Newry",,Cormac Reilly (Meath),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-22,football,senior,nfl_div3,Division 3 Round 4,Tipperary,0,21,21,Cork,3,13,22,Cork,"Semple Stadium, Thurles",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-22,football,senior,nfl_div4,Division 4 Round 4,Sligo,0,16,16,Waterford,2,12,18,Waterford,"Markievicz Park, Sligo",,Kevin Faloon (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-22,football,senior,nfl_div4,Division 4 Round 4,Limerick,5,10,25,Wicklow,1,14,17,Limerick,"Mick Neville Park, Rathkeale",,Brendan Griffin (Kerry),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-02-22,hurling,senior,nhl_div1b,Division 1B Round 4,Dublin,0,18,18,Wexford,2,14,20,Wexford,Croke Park,26153,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-22,hurling,senior,nhl_div1b,Division 1B Round 4,Laois,0,15,15,Carlow,0,14,14,Laois,MW Hire O'Moore Park,,C McAllister (Cork),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-22,hurling,senior,nhl_div2a,Division 2A Round 4,Wicklow,1,12,15,Kerry,1,20,23,Kerry,"Pearse Park, Arklow",,C Mooney,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-22,hurling,senior,nhl_div2b,Division 2B Round 4,Derry,4,22,34,Warwickshire,2,7,13,Derry,,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-22,hurling,senior,nhl_div3b,Division 3B Round 4,Lancashire,1,12,15,Fermanagh,0,6,6,Lancashire,Abbotstown,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-23,football,senior,nfl_div1,Division 1 Round 4,Kerry,1,19,22,Meath,2,13,19,Kerry,"Fitzgerald Stadium, Killarney",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-23,football,senior,nfl_div1,Division 1 Round 4,Galway,2,25,31,Tyrone,0,12,12,Galway,"Pearse Stadium, Salthill",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-23,football,senior,nfl_div1,Division 1 Round 4,Monaghan,2,16,22,Mayo,0,13,13,Monaghan,"St Tiernach's Park, Clones",,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7479,6 +7530,18 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-02-23,football,senior,nfl_div3,Division 3 Round 4,Leitrim,0,14,14,Offaly,2,16,22,Offaly,"Páirc Seán MacDiarmada, Carrick-on-Shannon",,Sean Laverty (Antrim),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-23,football,senior,nfl_div4,Division 4 Round 4,Wexford,4,15,27,London,1,9,12,Wexford,Wexford Park,,David Murnane (Waterford),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-23,football,senior,nfl_div4,Division 4 Round 4,Antrim,0,11,11,Carlow,1,8,11,draw,Glenavy,,Conor Dourneen (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-02-23,hurling,senior,nhl_div1a,Division 1A Round 4,Cork,2,21,27,Limerick,0,29,29,Limerick,Páirc Uí Chaoimh,11212,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div1a,Division 1A Round 4,Waterford,0,17,17,Galway,0,16,16,Waterford,Walsh Park,3652,J Owens (Wexford),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div1a,Division 1A Round 4,Tipperary,3,27,36,Westmeath,0,16,16,Tipperary,Semple Stadium,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div1b,Division 1B Round 4,Kilkenny,1,19,22,Clare,3,13,22,draw,UPMC Nowlan Park,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div2a,Division 2A Round 4,Antrim,5,27,42,Meath,1,15,18,Antrim,Portglenone,,S Stack,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div2a,Division 2A Round 4,Mayo,1,13,16,Offaly,5,29,44,Offaly,"Connacht Centre of Excellence, Bekan",,N Wall,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div2b,Division 2B Round 4,Kildare,5,21,36,Roscommon,2,12,18,Kildare,,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div2b,Division 2B Round 4,London,0,16,16,Down,2,28,34,Down,,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div3a,Division 3A Round 4,Donegal,1,15,18,Monaghan,1,5,8,Donegal,Letterkenny,,T Conway,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div3a,Division 3A Round 4,Tyrone,0,23,23,Longford,1,15,18,Tyrone,Healy Park,,C McDonald,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div3a,Division 3A Round 4,Armagh,1,19,22,Louth,1,18,21,Armagh,Athletic Grounds,,T Gleeson,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-02-23,hurling,senior,nhl_div3b,Division 3B Round 4,Sligo,2,17,23,Leitrim,1,15,18,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-02-29,football,senior,nfl_div1,Division 1 Round 5,Tyrone,1,10,13,Dublin,1,7,10,Tyrone,"Healy Park, Omagh",,Cormac Reilly (Meath),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-29,football,senior,nfl_div4,Division 4 Round 5,London,2,10,16,Wicklow,5,9,24,Wicklow,"McGovern Park, Ruislip",,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-02-29,football,senior,nfl_div4,Division 4 Round 5,Wexford,1,9,12,Sligo,2,7,13,Sligo,Wexford Park,,Sean Lonergan (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7494,7 +7557,32 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-03-01,football,senior,nfl_div3,Division 3 Round 5,Cork,3,13,22,Derry,3,11,20,Cork,"Páirc Uí Chaoimh, Cork",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-03-01,football,senior,nfl_div3,Division 3 Round 5,Longford,3,12,21,Tipperary,3,7,16,Longford,"Pearse Park, Longford",,Niall McKenna (Monaghan),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-03-01,football,senior,nfl_div3,Division 3 Round 5,Offaly,0,9,9,Down,0,17,17,Down,"O'Connor Park, Tullamore",,James Bermingham (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-03-01,hurling,senior,nhl_div1a,Division 1A Round 5,Limerick,1,24,27,Westmeath,0,18,18,Limerick,"LIT Gaelic Grounds, Limerick",,S Hynes (Galway),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div1a,Division 1A Round 5,Galway,2,18,24,Cork,1,16,19,Galway,Pearse Stadium,,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div1a,Division 1A Round 5,Tipperary,0,24,24,Waterford,2,16,22,Tipperary,Semple Stadium,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div1b,Division 1B Round 5,Wexford,2,29,35,Carlow,1,11,14,Wexford,Chadwick's Wexford Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div1b,Division 1B Round 5,Clare,0,27,27,Dublin,1,15,18,Clare,"Cusack Park, Ennis",3360,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div1b,Division 1B Round 5,Kilkenny,3,22,31,Laois,1,19,22,Kilkenny,UPMC Nowlan Park,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div2a,Division 2A Round 5,Offaly,4,29,41,Wicklow,2,14,20,Offaly,"Bord na Móna O'Connor Park, Tullamore",,A Kelly,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div2a,Division 2A Round 5,Meath,1,17,20,Mayo,0,18,18,Meath,"Páirc Tailteann, Navan",,M Murtagh,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div2a,Division 2A Round 5,Kerry,2,14,20,Antrim,2,20,26,Antrim,"Austin Stack Park, Tralee",,C McAllister,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div2b,Division 2B Round 5,London,,,,Warwickshire,,,,London,"McGovern Park, Ruislip",,,walkover; Warwickshire scratched,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div2b,Division 2B Round 5,Down,0,19,19,Kildare,1,14,17,Down,"Fontenoy Park, Castlewellan",,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div2b,Division 2B Round 5,Roscommon,0,10,10,Derry,0,16,16,Derry,"Connacht Centre of Excellence, Bekan",,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div3a,Division 3A Round 5,Longford,0,13,13,Donegal,0,19,19,Donegal,,,R Fitzsimons,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div3a,Division 3A Round 5,Monaghan,3,12,21,Louth,1,10,13,Monaghan,Inniskeen,,A Ferguson,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div3a,Division 3A Round 5,Armagh,3,16,25,Tyrone,0,25,25,draw,Athletic Grounds,,J Connors,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div3b,Division 3B Round 5,Leitrim,2,13,19,Lancashire,1,11,14,Leitrim,Páirc Seán Mac Diarmada,,C McDonald,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-01,hurling,senior,nhl_div3b,Division 3B Round 5,Cavan,3,10,19,Sligo,4,20,32,Sligo,Breffni Park,,K Jordan,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-03-07,football,senior,nfl_div2,Division 2 Round 5,Fermanagh,0,10,10,Armagh,3,14,23,Armagh,"Brewster Park, Enniskillen",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-03-07,hurling,senior,nhl_div1a,Division 1A Round 3,Limerick,1,21,24,Waterford,1,17,20,Limerick,"LIT Gaelic Grounds, Limerick",9097,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div1,Division 1 Relegation Play-off,Westmeath,1,17,20,Carlow,2,8,14,Westmeath,"TEG Cusack Park, Mullingar",,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div1a,Division 1A Round 3,Galway,3,21,30,Tipperary,3,13,22,Galway,"Pearse Stadium, Galway",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div2a,Division 2A Round 3,Offaly,0,20,20,Antrim,2,14,20,draw,"Bord na Móna O'Connor Park, Tullamore",,D Hughes,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div2b,Division 2B Round 3,Derry,2,16,22,Kildare,3,13,22,draw,Owenbeg,,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div2b,Division 2B Relegation Play-off,London,1,20,23,Warwickshire,0,5,5,London,"McGovern Park, Ruislip",,C Mooney,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div3a,Division 3A Final,Donegal,1,18,21,Armagh,0,19,19,Donegal,"Páirc Naomh Colmcille, Carrickmore",,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-03-08,hurling,senior,nhl_div3b,Division 3B Round 3,Fermanagh,0,14,14,Sligo,3,21,30,Sligo,"Brewster Park, Enniskillen",,T Gleeson,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-10-17,football,senior,nfl_div1,Division 1 Round 6,Monaghan,0,14,14,Kerry,0,17,17,Kerry,"Páirc Grattan, Inniskeen",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-17,football,senior,nfl_div1,Division 1 Round 6,Dublin,1,20,23,Meath,0,19,19,Dublin,"Parnell Park, Dublin",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-17,football,senior,nfl_div2,Division 2 Round 6,Armagh,0,15,15,Roscommon,3,10,19,Roscommon,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7510,6 +7598,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-10-18,football,senior,nfl_div2,Division 2 Round 6,Kildare,1,21,24,Cavan,0,20,20,Kildare,"St Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-18,football,senior,nfl_div3,Division 3 Round 6,Tipperary,1,16,19,Offaly,0,16,16,Tipperary,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-18,football,senior,nfl_div4,Division 4 Round 6,Limerick,1,10,13,Wexford,1,13,16,Wexford,"Mick Neville Park, Rathkeale",,,,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-10-18,hurling,senior,nhl_div2a,Division 2A Final,Antrim,2,23,29,Kerry,2,20,26,Antrim,"Bord na Móna O'Connor Park, Tullamore",,L Gordon,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-10-18,hurling,senior,nhl_div2b,Division 2B Final,Derry,0,17,17,Down,2,16,22,Down,"Athletic Grounds, Armagh",,J Clarke,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-10-18,hurling,senior,nhl_div3b,Division 3B Final,Sligo,3,17,26,Leitrim,2,16,22,Sligo,"Connacht Centre of Excellence, Bekan",,,,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-10-24,football,senior,nfl_div1,Division 1 Round 7,Kerry,2,18,24,Donegal,0,10,10,Kerry,"Austin Stack Park, Tralee",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-24,football,senior,nfl_div2,Division 2 Round 7,Cavan,0,13,13,Roscommon,1,12,15,Roscommon,"Breffni Park, Cavan",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-24,football,senior,nfl_div2,Division 2 Round 7,Clare,1,13,16,Armagh,1,18,21,Armagh,"Cusack Park, Ennis",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -7525,6 +7616,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-10-25,football,senior,nfl_div3,Division 3 Round 7,Louth,3,14,23,Down,0,16,16,Louth,"Dowdallshill, Dundalk",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-25,football,senior,nfl_div3,Division 3 Round 7,Leitrim,0,15,15,Tipperary,2,11,17,Tipperary,"Páirc Seán MacDiarmada, Carrick-on-Shannon",,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-25,football,senior,nfl_div3,Division 3 Round 7,Offaly,1,10,13,Derry,1,12,15,Derry,"O'Connor Park, Tullamore",,John Ryan (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-10-25,hurling,senior,nhl_div1,Division 1 Final,Clare,1,23,26,Limerick,0,36,36,Limerick,"Semple Stadium, Thurles",0,Fergal Horgan (Tipperary),played behind closed doors due to COVID-19,https://en.wikipedia.org/wiki/2020_National_Hurling_League
 2020-10-31,football,senior,munster,Provincial quarter-final,Waterford,0,9,9,Limerick,2,14,20,Limerick,"Fraher Field, Dungarvan",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2020_Munster_Senior_Football_Championship
 2020-10-31,hurling,senior,munster,Provincial semi-final,Waterford,1,28,31,Cork,1,24,27,Waterford,"Semple Stadium, Thurles",,,behind closed doors,https://en.wikipedia.org/wiki/2020_Munster_Senior_Hurling_Championship
 2020-10-31,football,senior,ulster,Provincial preliminary round,Monaghan,1,17,20,Cavan,2,15,21,Cavan,"St Tiernach's Park, Clones",,Ciaran Branagan (Down),after extra time,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
@@ -7566,6 +7658,17 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-12-06,football,senior,all_ireland,Semi-final,Mayo,5,20,35,Tipperary,3,13,22,Mayo,"Croke Park, Dublin",,David Gough (Meath),,https://en.wikipedia.org/wiki/2020_All-Ireland_Senior_Football_Championship
 2020-12-13,hurling,senior,all_ireland,Final,Limerick,0,30,30,Waterford,0,19,19,Limerick,"Croke Park, Dublin",,F Horgan (Tipperary),behind closed doors,https://en.wikipedia.org/wiki/2020_All-Ireland_Senior_Hurling_Championship
 2020-12-19,football,senior,all_ireland,Final,Dublin,2,14,20,Mayo,0,15,15,Dublin,"Croke Park, Dublin",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2020_All-Ireland_Senior_Football_Championship
+2021-05-08,hurling,senior,nhl_div1a,Division 1 Group A Round 1,Westmeath,1,16,19,Galway,5,34,49,Galway,TEG Cusack Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-08,hurling,senior,nhl_div1a,Division 1 Group A Round 1,Limerick,0,20,20,Tipperary,0,20,20,draw,LIT Gaelic Grounds,,C Lyons (Cork),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-08,hurling,senior,nhl_div1b,Division 1 Group B Round 1,Dublin,0,18,18,Kilkenny,1,20,23,Kilkenny,Parnell Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div1a,Division 1 Group A Round 1,Cork,5,22,37,Waterford,1,27,30,Cork,Páirc Uí Chaoimh,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div1b,Division 1 Group B Round 1,Antrim,1,21,24,Clare,0,22,22,Antrim,Corrigan Park,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div1b,Division 1 Group B Round 1,Wexford,4,17,29,Laois,0,10,10,Wexford,Chadwicks Wexford Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div2a,Division 2A Round 1,Kerry,4,18,30,Down,0,19,19,Kerry,Austin Stack Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div2a,Division 2A Round 1,Meath,3,9,18,Offaly,3,25,34,Offaly,Páirc Tailteann,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div2a,Division 2A Round 1,Carlow,3,19,28,Wicklow,0,17,17,Carlow,Netwatch Cullen Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div2b,Division 2B Round 1,Donegal,1,13,16,Roscommon,1,11,14,Donegal,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-09,hurling,senior,nhl_div2b,Division 2B Round 1,Mayo,0,21,21,Derry,1,16,19,Mayo,Elvery's McHale Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-05-15,football,senior,nfl_div1,Division 1 North Round 1,Tyrone,0,16,16,Donegal,0,18,18,Donegal,"Healy Park, Omagh",,Joe McQuillan,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-15,football,senior,nfl_div1,Division 1 South Round 1,Kerry,4,21,33,Galway,0,11,11,Kerry,"Austin Stack Park, Tralee",,Conor Lane,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-15,football,senior,nfl_div2,Division 2 North Round 1,Mayo,2,21,27,Down,1,11,14,Mayo,"MacHale Park, Castlebar",,Fergal Kelly,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
@@ -7575,12 +7678,27 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-05-15,football,senior,nfl_div3,Division 3 South Round 1,Limerick,1,13,16,Tipperary,0,14,14,Limerick,"Gaelic Grounds, Limerick",,Brendan Griffin,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-15,football,senior,nfl_div4,Division 4 North Round 1,Louth,3,8,17,Antrim,1,15,18,Antrim,"McGeough Park, Haggardstown",,Barry Tiernan,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-15,football,senior,nfl_div4,Division 4 South Round 1,Waterford,0,10,10,Carlow,3,16,25,Carlow,"Fraher Field, Dungarvan",,John Ryan,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-05-15,hurling,senior,nhl_div1a,Division 1 Group A Round 2,Tipperary,0,22,22,Cork,2,16,22,draw,Semple Stadium,,J Ryan (Limerick),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-15,hurling,senior,nhl_div1b,Division 1 Group B Round 2,Laois,1,19,22,Dublin,0,30,30,Dublin,MW Hire O'Moore Park,,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-15,hurling,senior,nhl_div2a,Division 2A Round 2,Wicklow,0,11,11,Meath,0,20,20,Meath,Aughrim County Ground,,T Gleeson (Waterford),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-15,hurling,senior,nhl_div2b,Division 2B Round 2,Kildare,4,29,41,Donegal,0,14,14,Kildare,St. Conleth's Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-15,hurling,senior,nhl_div2b,Division 2B Round 2,Roscommon,1,9,12,Mayo,1,20,23,Mayo,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-05-16,football,senior,nfl_div1,Division 1 North Round 1,Monaghan,1,12,15,Armagh,1,16,19,Armagh,"Brewster Park, Enniskillen",,Ciaran Branagan,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-16,football,senior,nfl_div1,Division 1 South Round 1,Roscommon,0,16,16,Dublin,1,22,25,Dublin,"Dr Hyde Park, Roscommon",,Derek O'Mahoney,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-16,football,senior,nfl_div2,Division 2 North Round 1,Meath,0,16,16,Westmeath,0,15,15,Meath,"Páirc Tailteann, Navan",,Brendan Cawley,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-16,football,senior,nfl_div2,Division 2 South Round 1,Clare,1,16,19,Laois,0,12,12,Clare,"Cusack Park, Ennis",,Sean Lonergan,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-16,football,senior,nfl_div3,Division 3 South Round 1,Wicklow,1,10,13,Offaly,1,14,17,Offaly,Aughrim County Ground,,Seamus Mulhare,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-16,football,senior,nfl_div4,Division 4 North Round 1,Sligo,2,19,25,Leitrim,0,18,18,Sligo,"Markievicz Park, Sligo",,Niall Cullen,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-05-16,hurling,senior,nhl_div1a,Division 1 Group A Round 2,Waterford,1,22,25,Westmeath,1,19,22,Waterford,Walsh Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div1a,Division 1 Group A Round 2,Galway,0,26,26,Limerick,1,17,20,Galway,Pearse Stadium,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div1b,Division 1 Group B Round 2,Clare,1,21,24,Wexford,2,19,25,Wexford,Cusack Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div1b,Division 1 Group B Round 2,Kilkenny,1,28,31,Antrim,3,15,24,Kilkenny,UPMC Nowlan Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div2a,Division 2A Round 2,Down,3,20,29,Carlow,3,18,27,Down,McKenna Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div2a,Division 2A Round 2,Offaly,2,28,34,Kerry,0,13,13,Offaly,Bord na Móna O'Connor Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div3a,Division 3A Round 1,Armagh,2,21,27,Longford,0,15,15,Armagh,Athletic Grounds,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div3a,Division 3A Round 1,Tyrone,1,25,28,Monaghan,2,13,19,Tyrone,Healy Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div3b,Division 3B Round 1,Cavan,1,19,22,Fermanagh,2,16,22,draw,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-16,hurling,senior,nhl_div3b,Division 3B Round 1,Leitrim,2,12,18,Louth,1,16,19,Louth,Avantcard Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-05-22,football,senior,nfl_div1,Division 1 North Round 2,Donegal,1,20,23,Monaghan,4,11,23,draw,"MacCumhaill Park, Ballybofey",,Barry Cassidy,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-22,football,senior,nfl_div1,Division 1 North Round 2,Armagh,2,10,16,Tyrone,2,15,21,Tyrone,"Athletic Grounds, Armagh",,David Gough,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-22,football,senior,nfl_div2,Division 2 North Round 2,Westmeath,2,12,18,Mayo,0,21,21,Mayo,"Cusack Park, Mullingar",,Noel Mooney,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
@@ -7590,12 +7708,26 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-05-22,football,senior,nfl_div3,Division 3 South Round 2,Offaly,0,16,16,Limerick,1,11,14,Offaly,"O'Connor Park, Tullamore",,John Gilmartin,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-22,football,senior,nfl_div3,Division 3 South Round 2,Tipperary,2,12,18,Wicklow,1,12,15,Tipperary,"Semple Stadium, Thurles",,Seamus Mulvihill,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-22,football,senior,nfl_div4,Division 4 South Round 2,Wexford,0,18,18,Waterford,2,13,19,Waterford,Wexford Park,,John Hickey,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-05-22,hurling,senior,nhl_div1a,Division 1 Group A Round 3,Tipperary,2,19,25,Galway,0,20,20,Tipperary,Semple Stadium,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-22,hurling,senior,nhl_div1b,Division 1 Group B Round 3,Dublin,1,26,29,Antrim,1,18,21,Dublin,Parnell Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-22,hurling,senior,nhl_div3a,Division 3A Round 2,Longford,2,22,28,Tyrone,2,22,28,draw,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-22,hurling,senior,nhl_div3a,Division 3A Round 2,Sligo,2,24,30,Armagh,1,18,21,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-05-23,football,senior,nfl_div1,Division 1 South Round 2,Dublin,4,9,21,Kerry,1,18,21,draw,"Semple Stadium, Thurles",,Sean Hurson,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-23,football,senior,nfl_div1,Division 1 South Round 2,Galway,2,16,22,Roscommon,1,13,16,Galway,"Pearse Stadium, Salthill",,David Coldrick,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-23,football,senior,nfl_div2,Division 2 North Round 2,Down,0,14,14,Meath,2,15,21,Meath,"Athletic Grounds, Armagh",,Niall Cullen,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-23,football,senior,nfl_div2,Division 2 South Round 2,Kildare,0,13,13,Clare,1,13,16,Clare,"St. Conleth's Park, Newbridge",,Fergal Kelly,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-23,football,senior,nfl_div4,Division 4 North Round 2,Leitrim,0,10,10,Louth,0,19,19,Louth,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Patrick Maguire,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-23,football,senior,nfl_div4,Division 4 North Round 2,Antrim,3,13,22,Sligo,3,12,21,Antrim,"Corrigan Park, Belfast",,Conor Dourneen,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-05-23,hurling,senior,nhl_div1a,Division 1 Group A Round 3,Cork,7,27,48,Westmeath,0,15,15,Cork,Páirc Uí Chaoimh,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div1a,Division 1 Group A Round 3,Waterford,1,22,25,Limerick,0,21,21,Waterford,Walsh Park,,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div1b,Division 1 Group B Round 3,Laois,1,17,20,Clare,2,27,33,Clare,MW Hire O'Moore Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div2a,Division 2A Round 3,Kerry,1,24,27,Meath,0,24,24,Kerry,Austin Stack Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div2a,Division 2A Round 3,Carlow,1,17,20,Offaly,2,25,31,Offaly,Netwatch Cullen Park,,T Gleeson (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div2a,Division 2A Round 3,Wicklow,0,14,14,Down,3,26,35,Down,Aughrim County Ground,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div2b,Division 2B Round 3,Donegal,4,18,30,Mayo,0,13,13,Donegal,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div2b,Division 2B Round 3,Kildare,5,17,32,Derry,1,14,17,Kildare,Manguard Plus Hawkfield,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div3b,Division 3B Round 2,Louth,0,19,19,Cavan,2,12,18,Louth,Darver,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-23,hurling,senior,nhl_div3b,Division 3B Round 2,Fermanagh,1,19,22,Leitrim,1,11,14,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-05-29,football,senior,nfl_div1,Division 1 North Round 3,Armagh,1,16,19,Donegal,1,16,19,draw,"Athletic Grounds, Armagh",,,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-29,football,senior,nfl_div1,Division 1 North Round 3,Tyrone,0,14,14,Monaghan,0,14,14,draw,"Healy Park, Omagh",,,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-29,football,senior,nfl_div3,Division 3 North Round 3,Cavan,2,11,17,Derry,1,16,19,Derry,"Breffni Park, Cavan",,Padraig Hughes,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
@@ -7603,6 +7735,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-05-29,football,senior,nfl_div3,Division 3 South Round 3,Offaly,1,17,20,Tipperary,1,12,15,Offaly,"O'Connor Park, Tullamore",,James Bermingham,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-29,football,senior,nfl_div3,Division 3 South Round 3,Wicklow,1,12,15,Limerick,2,19,25,Limerick,Aughrim County Ground,,Niall McKenna,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-29,football,senior,nfl_div4,Division 4 South Round 3,Carlow,2,12,18,Wexford,2,11,17,Carlow,"Dr Cullen Park, Carlow",,Fergal Smyth,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-05-29,hurling,senior,nhl_div3a,Division 3A Round 3,Sligo,5,23,38,Longford,2,19,25,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-05-30,football,senior,nfl_div1,Division 1 South Round 3,Galway,1,15,18,Dublin,2,16,22,Dublin,"Tuam Stadium, Tuam",,Brendan Cawley,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-30,football,senior,nfl_div1,Division 1 South Round 3,Roscommon,1,12,15,Kerry,2,15,21,Kerry,"Dr Hyde Park, Roscommon",,Joe McQuillan,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-30,football,senior,nfl_div2,Division 2 North Round 3,Mayo,3,17,26,Meath,2,12,18,Mayo,"MacHale Park, Castlebar",,Martin McNally,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
@@ -7611,6 +7744,21 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-05-30,football,senior,nfl_div2,Division 2 South Round 3,Clare,1,18,21,Cork,0,22,22,Cork,"Cusack Park, Ennis",,Derek O'Mahoney,South group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-30,football,senior,nfl_div4,Division 4 North Round 3,Antrim,2,17,23,Leitrim,1,19,22,Antrim,"Corrigan Park, Belfast",,Kevin Faloon,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-05-30,football,senior,nfl_div4,Division 4 North Round 3,Louth,3,18,27,Sligo,1,14,17,Louth,"McGeough Park, Haggardstown",,Sean Laverty,North group,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-05-30,hurling,senior,nhl_div1b,Division 1 Group B Round 3,Kilkenny,2,27,33,Wexford,0,23,23,Kilkenny,UPMC Nowlan Park,,C Lyons (Cork),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-05-30,hurling,senior,nhl_div3a,Division 3A Round 3,Monaghan,2,15,21,Armagh,1,27,30,Armagh,Grattan Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-05,hurling,senior,nhl_div1a,Division 1 Group A Round 4,Limerick,0,33,33,Cork,2,19,25,Limerick,LIT Gaelic Grounds,,A Kelly (Galway),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-05,hurling,senior,nhl_div1b,Division 1 Group B Round 4,Antrim,1,21,24,Wexford,2,18,24,draw,Corrigan Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-05,hurling,senior,nhl_div1b,Division 1 Group B Round 4,Dublin,2,23,29,Clare,0,34,34,Clare,Parnell Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-05,hurling,senior,nhl_div2a,Division 2A Round 4,Kerry,4,30,42,Wicklow,1,17,20,Kerry,Austin Stack Park,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div1a,Division 1 Group A Round 4,Westmeath,0,16,16,Tipperary,4,27,39,Tipperary,TEG Cusack Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div1a,Division 1 Group A Round 4,Galway,4,28,40,Waterford,3,23,32,Galway,Pearse Stadium,,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div1b,Division 1 Group B Round 4,Kilkenny,1,29,32,Laois,0,22,22,Kilkenny,UPMC Nowlan Park,,R McGann (Clare),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div2a,Division 2A Round 4,Meath,0,17,17,Carlow,5,28,43,Carlow,Páirc Tailteann,,R Fitzsimons (Offaly),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div2a,Division 2A Round 4,Offaly,5,25,40,Down,1,19,22,Offaly,St. Brendan's Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div2b,Division 2B Round 4,Derry,3,22,31,Donegal,3,21,30,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div2b,Division 2B Round 4,Roscommon,0,10,10,Kildare,4,25,37,Kildare,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div3b,Division 3B Round 3,Louth,3,16,25,Fermanagh,0,15,15,Louth,Darver,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-06,hurling,senior,nhl_div3b,Division 3B Round 3,Leitrim,1,17,20,Cavan,1,20,23,Cavan,Avantcard Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-06-12,football,senior,nfl_div1,Division 1 Semi-Final,Kerry,6,15,33,Tyrone,1,14,17,Kerry,"Fitzgerald Stadium, Killarney",,Conor Lane,Dublin and Kerry shared the Division 1 title; no final was played,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-12,football,senior,nfl_div1,Division 1 Semi-Final,Donegal,1,14,17,Dublin,1,18,21,Dublin,"Kingspan Breffni Park, Cavan",,Ciaran Branagan,Dublin and Kerry shared the Division 1 title; no final was played,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-12,football,senior,nfl_div2,Division 2 Relegation Play-off,Cork,3,22,31,Westmeath,0,25,25,Cork,"Páirc Uí Chaoimh, Cork",,,relegation play-off,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
@@ -7619,6 +7767,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-06-12,football,senior,nfl_div3,Division 3 Semi-Final,Offaly,1,14,17,Fermanagh,0,12,12,Offaly,"O'Connor Park, Tullamore",,Patrick Maguire,,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-12,football,senior,nfl_div3,Division 3 Relegation Play-off,Cavan,0,18,18,Wicklow,3,11,20,Wicklow,"Páirc Tailteann, Navan",,Barry Judge,relegation play-off,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-12,football,senior,nfl_div4,Division 4 Semi-Final,Louth,1,23,26,Carlow,1,15,18,Louth,"Dr Cullen Park, Carlow",,Barry Tiernan,Antrim and Louth shared the Division 4 title; no final was played,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-06-12,hurling,senior,nhl_div1b,Division 1 Group B Round 5,Clare,4,20,32,Kilkenny,1,25,28,Clare,Cusack Park,,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-12,hurling,senior,nhl_div1b,Division 1 Group B Round 5,Antrim,2,23,29,Laois,1,22,25,Antrim,Corrigan Park,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-12,hurling,senior,nhl_div1b,Division 1 Group B Round 5,Wexford,0,25,25,Dublin,1,18,21,Wexford,Chadwicks Wexford Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-12,hurling,senior,nhl_div2b,Division 2B Round 5,Derry,1,26,29,Roscommon,0,14,14,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-12,hurling,senior,nhl_div2b,Division 2B Round 5,Mayo,1,19,22,Kildare,2,24,30,Kildare,Elvery's MacHale Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-12,hurling,senior,nhl_div3a,Division 3A Round 4,Longford,3,13,22,Monaghan,1,20,23,Monaghan,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-12,hurling,senior,nhl_div3a,Division 3A Round 4,Tyrone,0,13,13,Sligo,1,18,21,Sligo,Healy Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-06-13,football,senior,nfl_div1,Division 1 Relegation Play-off,Armagh,1,17,20,Roscommon,0,11,11,Armagh,"Athletic Grounds, Armagh",,,relegation play-off,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-13,football,senior,nfl_div1,Division 1 Relegation Play-off,Monaghan,1,21,24,Galway,2,17,23,Monaghan,"St. Tiernach's Park, Clones",,,relegation play-off; after extra time,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-13,football,senior,nfl_div2,Division 2 Semi-Final,Clare,2,18,24,Mayo,2,22,28,Mayo,"Cusack Park, Ennis",,Niall Cullen,Kildare and Mayo shared the Division 2 title; no final was played,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
@@ -7626,7 +7781,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-06-13,football,senior,nfl_div3,Division 3 Relegation Play-off,Longford,1,13,16,Tipperary,0,9,9,Longford,"Glennon Brothers Pearse Park, Longford",,Seamus Mulhare,relegation play-off,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-13,football,senior,nfl_div4,Division 4 Semi-Final,Waterford,0,11,11,Antrim,1,15,18,Antrim,"Fraher Field, Dungarvan",,David Murnane,Antrim and Louth shared the Division 4 title; no final was played,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
 2021-06-13,football,senior,nfl_div4,Division 4 Shield Final,Sligo,0,9,9,Wexford,2,15,21,Wexford,"O'Moore Park, Portlaoise",,David Hickey,shield final,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-06-13,hurling,senior,nhl_div1a,Division 1 Group A Round 5,Westmeath,0,18,18,Limerick,3,26,35,Limerick,TEG Cusack Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-13,hurling,senior,nhl_div1a,Division 1 Group A Round 5,Cork,2,23,29,Galway,3,25,34,Galway,Páirc Uí Chaoimh,,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-13,hurling,senior,nhl_div1a,Division 1 Group A Round 5,Waterford,2,29,35,Tipperary,3,21,30,Waterford,Walsh Park,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-13,hurling,senior,nhl_div2a,Division 2A Round 5,Down,4,23,35,Meath,0,14,14,Down,McKenna Park,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-13,hurling,senior,nhl_div2a,Division 2A Round 5,Carlow,3,25,34,Kerry,0,14,14,Carlow,Netwatch Cullen Park,,N Wall (Cork),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-13,hurling,senior,nhl_div2a,Division 2A Round 5,Wicklow,0,10,10,Offaly,1,32,35,Offaly,Baltinglass,,D Hughes (Kilkenny),,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-06-19,football,senior,nfl_div3,Division 3 Final,Derry,0,21,21,Offaly,1,6,9,Derry,"Croke Park, Dublin",2400,Sean Lonergan,,https://en.wikipedia.org/wiki/2021_National_Football_League_(Ireland)
+2021-06-19,hurling,senior,nhl_div3a,Division 3A Round 5,Armagh,1,25,28,Tyrone,2,19,25,Armagh,Athletic Grounds,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
+2021-06-19,hurling,senior,nhl_div3a,Division 3A Round 5,Monaghan,0,19,19,Sligo,0,21,21,Sligo,Inniskeen,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-06-26,football,senior,connacht,Provincial quarter-final,Mayo,3,23,32,Sligo,0,12,12,Mayo,"Markievicz Park, Sligo",200,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2021_Connacht_Senior_Football_Championship
 2021-06-26,hurling,senior,leinster,Quarter-final,Dublin,3,31,40,Antrim,0,22,22,Dublin,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/2021_Leinster_Senior_Hurling_Championship
 2021-06-26,hurling,senior,leinster,Quarter-final,Wexford,5,31,46,Laois,1,23,26,Wexford,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/2021_Leinster_Senior_Hurling_Championship
@@ -7664,6 +7827,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-07-18,football,senior,ulster,Provincial semi-final,Tyrone,0,23,23,Donegal,1,14,17,Tyrone,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2021_Ulster_Senior_Football_Championship
 2021-07-24,hurling,senior,all_ireland,Qualifier round 2,Waterford,1,30,33,Galway,3,20,29,Waterford,"Semple Stadium, Thurles",,Sean Stack (Dublin),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
 2021-07-24,hurling,senior,all_ireland,Qualifier round 2,Cork,3,19,28,Clare,1,23,26,Cork,"Gaelic Grounds, Limerick",,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
+2021-07-24,hurling,senior,nhl_div1,Division 1 Relegation Play-off,Westmeath,0,27,27,Laois,1,27,30,Laois,O'Moore Park,,Patrick Murphy (Carlow),relegation play-off; Westmeath relegated,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-07-25,football,senior,connacht,Provincial final,Mayo,2,14,20,Galway,2,8,14,Mayo,"Croke Park, Dublin",18000,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2021_Connacht_Senior_Football_Championship
 2021-07-25,football,senior,munster,Provincial final,Kerry,4,22,34,Cork,1,9,12,Kerry,"Fitzgerald Stadium, Killarney",2500,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2021_Munster_Senior_Football_Championship
 2021-07-31,hurling,senior,all_ireland,Quarter-final,Tipperary,2,27,33,Waterford,4,28,40,Waterford,"Páirc Uí Chaoimh, Cork",,C Lyons (Cork),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
@@ -7696,6 +7860,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-02-05,football,senior,nfl_div2,Division 2 Round 2,Down,0,9,9,Galway,1,12,15,Galway,"Páirc Esler, Newry",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-05,football,senior,nfl_div2,Division 2 Round 2,Cork,1,13,16,Clare,1,13,16,draw,"Páirc Uí Chaoimh, Cork",,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-05,football,senior,nfl_div3,Division 3 Round 2,Antrim,0,11,11,Limerick,2,9,15,Limerick,"Corrigan Park, Belfast",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-02-05,hurling,senior,nhl_div1a,Division 1A Round 1,Cork,2,30,36,Clare,2,21,27,Cork,Páirc Uí Chaoimh,,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-05,hurling,senior,nhl_div1b,Division 1B Round 1,Laois,1,14,17,Tipperary,0,21,21,Tipperary,MW Hire O'Moore Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-05,hurling,senior,nhl_div2b,Division 2B Round 1,Derry,2,14,20,Sligo,1,14,17,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-05,hurling,senior,nhl_div3b,Division 3B Round 1,Fermanagh,1,20,23,Cavan,0,13,13,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-02-06,football,senior,nfl_div1,Division 1 Round 2,Armagh,2,14,20,Tyrone,0,14,14,Armagh,"Athletic Grounds, Armagh",14328,David Gough (Meath),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-06,football,senior,nfl_div1,Division 1 Round 2,Monaghan,1,11,14,Mayo,2,10,16,Mayo,"St. Tiernach's Park, Clones",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-06,football,senior,nfl_div1,Division 1 Round 2,Donegal,2,11,17,Kildare,1,9,12,Donegal,"MacCumhaill Park, Ballybofey",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
@@ -7708,6 +7876,36 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-02-06,football,senior,nfl_div4,Division 4 Round 2,London,1,12,15,Waterford,2,8,14,London,"McGovern Park, Ruislip",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-06,football,senior,nfl_div4,Division 4 Round 2,Sligo,0,28,28,Carlow,0,5,5,Sligo,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-06,football,senior,nfl_div4,Division 4 Round 2,Tipperary,2,8,14,Leitrim,2,16,22,Leitrim,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-02-06,hurling,senior,nhl_div1a,Division 1A Round 1,Wexford,1,11,14,Limerick,0,11,11,Wexford,Chadwick's Wexford Park,6500,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div1a,Division 1A Round 1,Galway,4,22,34,Offaly,0,17,17,Galway,Pearse Stadium,,R McGann (Clare),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div1b,Division 1B Round 1,Kilkenny,2,15,21,Antrim,3,9,18,Kilkenny,UPMC Nowlan Park,2163,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div1b,Division 1B Round 1,Dublin,0,21,21,Waterford,2,15,21,draw,Parnell Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div2a,Division 2A Round 1,Down,2,10,16,Carlow,1,12,15,Down,McKenna Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div2a,Division 2A Round 1,Westmeath,3,15,24,Kerry,1,15,18,Westmeath,TEG Cusack Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div2a,Division 2A Round 1,Kildare,0,15,15,Meath,0,18,18,Meath,St. Conleth's Park,,R Fitzsimons (Offaly),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div2b,Division 2B Round 1,Mayo,2,15,21,Wicklow,2,15,21,draw,James Stephens Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div2b,Division 2B Round 1,Donegal,3,16,25,London,0,8,8,Donegal,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div3a,Division 3A Round 1,Armagh,2,16,22,Louth,3,12,21,Armagh,Athletic Grounds,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div3a,Division 3A Round 1,Warwickshire,2,8,14,Monaghan,1,12,15,Monaghan,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div3a,Division 3A Round 1,Roscommon,0,20,20,Tyrone,1,17,20,draw,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-06,hurling,senior,nhl_div3b,Division 3B Round 1,Leitrim,4,16,28,Lancashire,2,8,14,Leitrim,Abbottstown,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-12,hurling,senior,nhl_div1a,Division 1A Round 2,Limerick,1,18,21,Galway,0,27,27,Galway,TUS Gaelic Grounds,13877,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-12,hurling,senior,nhl_div1b,Division 1B Round 2,Antrim,2,15,21,Dublin,2,19,25,Dublin,Corrigan Park,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div1a,Division 1A Round 2,Clare,1,20,23,Wexford,2,20,26,Wexford,Cusack Park,2855,C Lyons (Cork),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div1a,Division 1A Round 2,Offaly,1,15,18,Cork,4,25,37,Cork,St. Brendan's Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div1b,Division 1B Round 2,Waterford,7,31,52,Laois,0,19,19,Waterford,Walsh Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div1b,Division 1B Round 2,Tipperary,1,19,22,Kilkenny,1,18,21,Tipperary,FBD Semple Stadium,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div2a,Division 2A Round 2,Kerry,4,18,30,Kildare,2,16,22,Kerry,Austin Stack Park,,N Wall (Cork),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div2a,Division 2A Round 2,Meath,1,19,22,Down,2,18,24,Down,St. Loman's Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div2a,Division 2A Round 2,Carlow,1,20,23,Westmeath,1,14,17,Carlow,Netwatch Cullen Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div2b,Division 2B Round 2,London,4,11,23,Mayo,1,10,13,London,McGovern Park,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div2b,Division 2B Round 2,Wicklow,0,12,12,Derry,2,24,30,Derry,Aughrim County Ground,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div2b,Division 2B Round 2,Sligo,2,14,20,Donegal,1,19,22,Donegal,Markievicz Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div3a,Division 3A Round 2,Tyrone,4,29,41,Warwickshire,0,7,7,Tyrone,O'Neill's Healy Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div3a,Division 3A Round 2,Louth,0,14,14,Roscommon,2,21,27,Roscommon,St. Brigid's Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div3a,Division 3A Round 2,Monaghan,0,13,13,Armagh,4,22,34,Armagh,Grattan Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div3b,Division 3B Round 2,Cavan,0,12,12,Lancashire,0,23,23,Lancashire,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-13,hurling,senior,nhl_div3b,Division 3B Round 2,Longford,0,11,11,Fermanagh,1,10,13,Fermanagh,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-02-19,football,senior,nfl_div1,Division 1 Round 3,Armagh,1,7,10,Monaghan,0,10,10,draw,"Athletic Grounds, Armagh",11500,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-19,football,senior,nfl_div1,Division 1 Round 3,Dublin,0,12,12,Mayo,2,11,17,Mayo,"Croke Park, Dublin",24000,David Gough (Meath),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-19,football,senior,nfl_div3,Division 3 Round 3,Antrim,2,10,16,Wicklow,1,7,10,Antrim,"Corrigan Park, Belfast",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
@@ -7726,6 +7924,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-02-26,football,senior,nfl_div3,Division 3 Round 4,Wicklow,1,9,12,Limerick,1,13,16,Limerick,Aughrim County Ground,,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-26,football,senior,nfl_div3,Division 3 Round 4,Laois,1,8,11,Antrim,1,8,11,draw,"O'Moore Park, Portlaoise",,Niall McKenna (Monaghan),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-26,football,senior,nfl_div4,Division 4 Round 4,Tipperary,1,13,16,Sligo,1,9,12,Tipperary,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-02-26,hurling,senior,nhl_div1b,Division 1B Round 3,Tipperary,0,21,21,Dublin,2,16,22,Dublin,FBD Semple Stadium,,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-26,hurling,senior,nhl_div3b,Division 3B Round 3,Leitrim,1,13,16,Cavan,0,9,9,Leitrim,Abbottstown,,J Judge,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-02-27,football,senior,nfl_div1,Division 1 Round 4,Kildare,1,12,15,Dublin,0,12,12,Kildare,"St. Conleth's Park, Newbridge",,Sean Hurson,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-27,football,senior,nfl_div1,Division 1 Round 4,Mayo,0,15,15,Armagh,1,10,13,Mayo,"Dr. Hyde Park, Roscommon",11000,David Coldrick,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-27,football,senior,nfl_div1,Division 1 Round 4,Monaghan,1,12,15,Kerry,3,14,23,Kerry,"Páirc Grattan, Inniskeen",,Paddy Neilan,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
@@ -7735,11 +7935,43 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-02-27,football,senior,nfl_div4,Division 4 Round 4,London,1,6,9,Wexford,0,11,11,Wexford,"McGovern Park, Ruislip",,Kevin Faloon (Armagh),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-27,football,senior,nfl_div4,Division 4 Round 4,Cavan,0,19,19,Carlow,1,12,15,Cavan,"Breffni Park, Cavan",,S Laverty (Antrim),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-02-27,football,senior,nfl_div4,Division 4 Round 4,Waterford,1,13,16,Leitrim,2,17,23,Leitrim,"Fraher Field, Dungarvan",,D Hickey (Carlow),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-02-27,hurling,senior,nhl_div1a,Division 1A Round 3,Galway,0,15,15,Wexford,2,15,21,Wexford,Pearse Stadium,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div1a,Division 1A Round 3,Offaly,0,16,16,Clare,4,20,32,Clare,Bord na Móna O'Connor Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div1a,Division 1A Round 3,Limerick,1,13,16,Cork,2,19,25,Cork,TUS Gaelic Grounds,12081,S Stack (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div1b,Division 1B Round 3,Antrim,2,22,28,Waterford,3,21,30,Waterford,Corrigan Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div1b,Division 1B Round 3,Kilkenny,2,28,34,Laois,0,17,17,Kilkenny,UPMC Nowlan Park,,R Fitzsimons (Offaly),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div2a,Division 2A Round 3,Carlow,0,13,13,Kerry,0,20,20,Kerry,Netwatch Cullen Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div2a,Division 2A Round 3,Down,0,22,22,Kildare,2,17,23,Kildare,McKenna Park,,K Brady (Louth),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div2a,Division 2A Round 3,Meath,1,15,18,Westmeath,4,23,35,Westmeath,St. Loman's Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div2b,Division 2B Round 3,Sligo,1,24,27,London,1,15,18,Sligo,Connacht COE,,B Keon (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div2b,Division 2B Round 3,Wicklow,3,8,17,Donegal,2,16,22,Donegal,Aughrim County Ground,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div2b,Division 2B Round 3,Derry,4,24,36,Mayo,1,13,16,Derry,Owenbeg COE,,K Parke (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div3a,Division 3A Round 3,Louth,0,7,7,Monaghan,2,8,14,Monaghan,Darver COE,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div3a,Division 3A Round 3,Roscommon,4,20,32,Warwickshire,0,6,6,Roscommon,St Brigid's GAA Grounds,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div3a,Division 3A Round 3,Tyrone,2,21,27,Armagh,1,14,17,Tyrone,O'Neill's Healy Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-02-27,hurling,senior,nhl_div3b,Division 3B Round 3,Longford,1,26,29,Lancashire,3,11,20,Longford,Abbottstown,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-03-05,football,senior,nfl_div3,Division 3 Round 3,Westmeath,0,10,10,Longford,0,14,14,Longford,"Cusack Park, Mullingar",,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-05,football,senior,nfl_div3,Division 3 Round 3,Fermanagh,3,15,24,Laois,3,9,18,Fermanagh,"Brewster Park, Enniskillen",,Joe Mc Quillan (Cavan),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-03-05,hurling,senior,nhl_div1a,Division 1A Round 4,Wexford,1,22,25,Offaly,2,12,18,Wexford,Chadwick's Wexford Park,,N Wall (Cork),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-05,hurling,senior,nhl_div1a,Division 1A Round 4,Cork,1,26,29,Galway,0,23,23,Cork,Páirc Uí Chaoimh,13063,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-05,hurling,senior,nhl_div1b,Division 1B Round 4,Dublin,0,16,16,Kilkenny,2,23,29,Kilkenny,Parnell Park,,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-03-06,football,senior,nfl_div2,Division 2 Round 3,Galway,2,17,23,Offaly,3,10,19,Galway,"Pearse Stadium, Salthill",,David Murnane (Cork),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-06,football,senior,nfl_div4,Division 4 Round 3,Sligo,0,10,10,Cavan,1,13,16,Cavan,"Markievicz Park, Sligo",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-06,football,senior,nfl_div4,Division 4 Round 3,Wexford,0,15,15,Tipperary,4,4,16,Tipperary,Wexford Park,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-03-06,hurling,senior,nhl_div1a,Division 1A Round 4,Clare,0,18,18,Limerick,0,18,18,draw,Cusack Park,10016,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div1b,Division 1B Round 4,Waterford,1,28,31,Tipperary,0,21,21,Waterford,Walsh Park,5865,C Lyons (Cork),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div1b,Division 1B Round 4,Laois,1,20,23,Antrim,1,19,22,Laois,MW Hire O'Moore Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div2a,Division 2A Round 4,Kerry,2,31,37,Meath,0,14,14,Kerry,Austin Stack Park,,R McGann (Clare),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div2a,Division 2A Round 4,Kildare,2,14,20,Carlow,0,20,20,draw,St. Conleth's Park,,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div2a,Division 2A Round 4,Westmeath,1,16,19,Down,1,18,21,Down,TEG Cusack Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div2b,Division 2B Round 4,London,3,16,25,Wicklow,1,9,12,London,McGovern Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div2b,Division 2B Round 4,Donegal,0,15,15,Derry,0,23,23,Derry,Letterkenny,,J Judge,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div2b,Division 2B Round 4,Mayo,0,19,19,Sligo,4,13,25,Sligo,Ballina,,J Connors,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div3a,Division 3A Round 4,Warwickshire,3,13,22,Louth,1,19,22,draw,Páirc na hÉireann,,K Parke (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div3a,Division 3A Round 4,Armagh,1,19,22,Roscommon,2,17,23,Roscommon,Athletic Grounds,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div3a,Division 3A Round 4,Monaghan,1,11,14,Tyrone,3,14,23,Tyrone,Grattan Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div3b,Division 3B Round 4,Fermanagh,2,22,28,Lancashire,0,9,9,Fermanagh,Darver COE,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-06,hurling,senior,nhl_div3b,Division 3B Round 4,Longford,1,15,18,Leitrim,1,14,17,Longford,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-03-12,football,senior,nfl_div1,Division 1 Round 5,Armagh,1,12,15,Kildare,0,10,10,Armagh,"Athletic Grounds, Armagh",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-12,football,senior,nfl_div1,Division 1 Round 5,Kerry,1,12,15,Mayo,0,14,14,Kerry,"Austin Stack Park, Tralee",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-12,football,senior,nfl_div2,Division 2 Round 5,Down,0,14,14,Offaly,0,15,15,Offaly,"Páirc Esler, Newry",,Barry Judge (Sligo),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
@@ -7758,6 +7990,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-03-13,football,senior,nfl_div4,Division 4 Round 5,Wexford,0,15,15,Waterford,0,14,14,Wexford,Wexford Park,,J Hayes (Limerick),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-19,football,senior,nfl_div1,Division 1 Round 6,Tyrone,0,11,11,Mayo,0,9,9,Tyrone,"Healy Park, Omagh",,Maurice Deegan,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-19,football,senior,nfl_div3,Division 3 Round 6,Laois,0,14,14,Limerick,0,15,15,Limerick,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-03-19,hurling,senior,nhl_div2a,Division 2A Round 5,Down,1,19,22,Kerry,0,20,20,Down,McKenna Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-19,hurling,senior,nhl_div3b,Division 3B Round 5,Cavan,0,9,9,Longford,2,14,20,Longford,Kingspan Breffni Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-03-20,football,senior,nfl_div1,Division 1 Round 6,Armagh,0,13,13,Kerry,1,13,16,Kerry,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-20,football,senior,nfl_div1,Division 1 Round 6,Kildare,0,24,24,Monaghan,1,12,15,Kildare,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-20,football,senior,nfl_div1,Division 1 Round 6,Dublin,2,15,21,Donegal,2,11,17,Dublin,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
@@ -7772,9 +8006,31 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-03-20,football,senior,nfl_div4,Division 4 Round 6,Waterford,1,11,14,Sligo,0,15,15,Sligo,"Fraher Field, Dungarvan",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-20,football,senior,nfl_div4,Division 4 Round 6,Leitrim,3,9,18,Wexford,1,11,14,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-20,football,senior,nfl_div4,Division 4 Round 6,Tipperary,2,16,22,Carlow,0,11,11,Tipperary,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-03-20,hurling,senior,nhl_div1a,Division 1A Round 5,Galway,0,25,25,Clare,1,20,23,Galway,Pearse Stadium,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div1a,Division 1A Round 5,Limerick,4,29,41,Offaly,0,17,17,Limerick,TUS Gaelic Grounds,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div1a,Division 1A Round 5,Wexford,1,22,25,Cork,1,17,20,Wexford,Chadwick's Wexford Park,,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div1b,Division 1B Round 5,Kilkenny,2,21,27,Waterford,0,21,21,Kilkenny,UPMC Nowlan Park,,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div1b,Division 1B Round 5,Laois,1,24,27,Dublin,2,31,37,Dublin,MW Hire O'Moore Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div1b,Division 1B Round 5,Tipperary,7,29,50,Antrim,1,17,20,Tipperary,FBD Semple Stadium,,R McGann (Clare),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div2a,Division 2A Round 5,Meath,1,21,24,Carlow,2,21,27,Carlow,Páirc Tailteann,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div2a,Division 2A Round 5,Kildare,0,14,14,Westmeath,1,21,24,Westmeath,St. Conleth's Park,,M Kennedy (Kilkenny),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div2b,Division 2B Round 5,Derry,0,25,25,London,0,9,9,Derry,Celtic Park,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div2b,Division 2B Round 5,Wicklow,3,17,26,Sligo,3,17,26,draw,Aughrim County Ground,,K Brady (Louth),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div2b,Division 2B Round 5,Mayo,1,13,16,Donegal,2,17,23,Donegal,Ballina,,B McKeon (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div3a,Division 3A Round 5,Roscommon,2,24,30,Monaghan,1,15,18,Roscommon,Dr Hyde Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div3a,Division 3A Round 5,Tyrone,3,16,25,Louth,2,13,19,Tyrone,O'Neill's Healy Park,,J Judge (Mayo),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div3a,Division 3A Round 5,Warwickshire,0,18,18,Armagh,5,18,33,Armagh,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-20,hurling,senior,nhl_div3b,Division 3B Round 5,Leitrim,1,16,19,Fermanagh,2,15,21,Fermanagh,Avant Money Páirc Seán Mac Diarmada,,A McAleer (Donegal),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-03-26,football,senior,nfl_div4,Division 4 Round 7,Tipperary,1,14,17,London,0,12,12,Tipperary,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-26,football,senior,nfl_div4,Division 4 Round 7,Carlow,0,14,14,Wexford,1,11,14,draw,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-26,football,senior,nfl_div4,Division 4 Round 7,Cavan,3,21,30,Waterford,0,10,10,Cavan,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-03-26,hurling,senior,nhl_div1a,Division 1 Semi-final,Cork,1,27,30,Kilkenny,2,20,26,Cork,Páirc Uí Chaoimh,16910,S Stack (Dublin),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-26,hurling,senior,nhl_div1b,Division 1 Relegation Play-off,Antrim,2,24,30,Offaly,2,17,23,Antrim,Páirc Tailteann,,R McGann (Clare),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-26,hurling,senior,nhl_div2a,Division 2A Semi-final,Westmeath,2,18,24,Kerry,0,21,21,Westmeath,TEG Cusack Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-26,hurling,senior,nhl_div2b,Division 2B Semi-final,Donegal,1,19,22,Sligo,1,20,23,Sligo,O'Donnell Park,,K Parke (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-26,hurling,senior,nhl_div2b,Division 2B Relegation Play-off,Wicklow,0,16,16,Mayo,0,15,15,Wicklow,Bord na Móna O'Connor Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-26,hurling,senior,nhl_div3a,Division 3A Semi-final,Roscommon,0,20,20,Armagh,1,22,25,Armagh,Dr Hyde Park,,,,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-03-26,hurling,senior,nhl_div3b,Division 3B Semi-final,Longford,1,26,29,Leitrim,2,13,19,Longford,Glennon Brothers Pearse Park,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-03-27,football,senior,nfl_div1,Division 1 Round 7,Donegal,1,14,17,Armagh,1,13,16,Donegal,"O'Donnell Park, Letterkenny",5650,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-27,football,senior,nfl_div1,Division 1 Round 7,Kerry,2,11,17,Tyrone,1,15,18,Tyrone,"Fitzgerald Stadium, Killarney",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-27,football,senior,nfl_div1,Division 1 Round 7,Mayo,2,20,26,Kildare,0,18,18,Mayo,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
@@ -7788,8 +8044,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-03-27,football,senior,nfl_div3,Division 3 Round 7,Limerick,1,16,19,Fermanagh,0,14,14,Limerick,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-27,football,senior,nfl_div3,Division 3 Round 7,Wicklow,1,13,16,Louth,2,17,23,Louth,Aughrim County Ground,,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-03-27,football,senior,nfl_div4,Division 4 Round 7,Sligo,2,16,22,Leitrim,2,10,16,Sligo,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-03-27,hurling,senior,nhl_div1a,Division 1 Semi-final,Wexford,0,16,16,Waterford,5,20,35,Waterford,UPMC Nowlan Park,7815,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-04-02,football,senior,nfl_div3,Division 3 Final,Louth,1,14,17,Limerick,0,12,12,Louth,"Croke Park, Dublin",,B. Griffin (Kerry),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-04-02,football,senior,nfl_div4,Division 4 Final,Cavan,2,10,16,Tipperary,0,15,15,Cavan,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
+2022-04-02,hurling,senior,nhl_div1a,Division 1 Final,Cork,1,23,26,Waterford,4,20,32,Waterford,FBD Semple Stadium,18930,L Gordon (Galway),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-04-02,hurling,senior,nhl_div2a,Division 2A Final,Down,1,17,20,Westmeath,5,19,34,Westmeath,FBD Semple Stadium,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-04-02,hurling,senior,nhl_div2b,Division 2B Final,Derry,1,23,26,Sligo,2,15,21,Derry,St Joseph's Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-04-02,hurling,senior,nhl_div3a,Division 3A Final,Tyrone,2,21,27,Armagh,2,19,25,Tyrone,Derry COE,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
+2022-04-02,hurling,senior,nhl_div3b,Division 3B Final,Fermanagh,2,18,24,Longford,1,17,20,Fermanagh,Avant Money Páirc Seán Mac Diarmada,,T Conway (Derry),,https://en.wikipedia.org/wiki/2022_National_Hurling_League
 2022-04-03,football,senior,nfl_div1,Division 1 Final,Kerry,3,19,28,Mayo,0,13,13,Kerry,"Croke Park, Dublin",31506,N Mooney (Cavan),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-04-03,football,senior,nfl_div2,Division 2 Final,Roscommon,1,20,23,Galway,0,22,22,Roscommon,"Croke Park, Dublin",31506,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2022_National_Football_League_(Ireland)
 2022-04-16,hurling,senior,leinster,Round 1,Wexford,1,19,22,Galway,1,19,22,draw,Chadwicks Wexford Park,10200,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2022_Leinster_Senior_Hurling_Championship
@@ -7888,6 +8150,20 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-01-29,football,senior,nfl_div4,Division 4 Round 1,Sligo,0,11,11,Laois,2,11,17,Laois,"Markievicz Park, Sligo",,Kieran Eannetta (Tyrone),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-04,football,senior,nfl_div3,Division 3 Round 2,Down,2,18,24,Antrim,2,17,23,Down,"Pairc Esler, Newry",,B Tiernan,,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-04,football,senior,nfl_div4,Division 4 Round 2,Waterford,0,10,10,Carlow,1,11,14,Carlow,"Carriganore, Waterford",,David Murnane (Cork),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-02-04,hurling,senior,nhl_div1a,Division 1A Round 1,Wexford,0,15,15,Galway,0,23,23,Galway,Chadwicks Wexford Park,8200,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div1a,Division 1A Round 1,Cork,2,17,23,Limerick,0,22,22,Cork,Páirc Uí Chaoimh,19516,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div1b,Division 1B Round 1,Antrim,0,15,15,Kilkenny,1,18,21,Kilkenny,Corrigan Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div1b,Division 1B Round 1,Tipperary,2,32,38,Laois,0,18,18,Tipperary,FBD Semple Stadium,7000,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div2a,Division 2A Round 1,Carlow,0,11,11,Kildare,0,25,25,Kildare,Netwatch Cullen Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div2a,Division 2A Round 1,Derry,0,14,14,Kerry,2,22,28,Kerry,Celtic Park,,C McDonald,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div2b,Division 2B Round 1,Donegal,1,16,19,Sligo,0,15,15,Donegal,Letterkenny,,T Conway,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div2b,Division 2B Round 1,Meath,2,24,30,Wicklow,2,14,20,Meath,Páirc Tailteann,,C Doyle,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div2b,Division 2B Round 1,Tyrone,1,26,29,London,3,18,27,Tyrone,O'Neill Park,,P Owens,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div3a,Division 3A Round 1,Louth,1,16,19,Armagh,3,18,27,Armagh,Darver COE,,C Daly,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div3a,Division 3A Round 1,Monaghan,2,13,19,Fermanagh,1,14,17,Monaghan,St. Tiernach's Park,,A Mc Aleer,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div3a,Division 3A Round 1,Mayo,0,17,17,Roscommon,0,17,17,draw,Hastings Insurance MacHale Park,,N Malone,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div3b,Division 3B Round 1,Longford,0,14,14,Cavan,1,13,16,Cavan,Pearse Park,,M Farrell,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-04,hurling,senior,nhl_div3b,Division 3B Round 1,Warwickshire,3,6,15,Leitrim,1,21,24,Leitrim,Páirc na hÉireann,,K Parke,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-02-05,football,senior,nfl_div1,Division 1 Round 2,Kerry,3,16,25,Monaghan,0,14,14,Kerry,"Fitzgerald Stadium, Killarney",10232,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-05,football,senior,nfl_div1,Division 1 Round 2,Galway,0,8,8,Roscommon,0,9,9,Roscommon,"Pearse Stadium, Galway",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-05,football,senior,nfl_div1,Division 1 Round 2,Tyrone,0,16,16,Donegal,0,8,8,Tyrone,"O'Neill's Healy Park, Omagh",,David Gough (Meath),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7902,6 +8178,26 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-02-05,football,senior,nfl_div4,Division 4 Round 2,London,1,15,18,Leitrim,3,12,21,Leitrim,"McGovern Park, Ruislip",,J Hayes (Limerick),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-05,football,senior,nfl_div4,Division 4 Round 2,Wicklow,0,12,12,Sligo,0,18,18,Sligo,"Echelon Park, Aughrim",,S Lonergan,,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-05,football,senior,nfl_div4,Division 4 Round 2,Laois,1,18,21,Wexford,1,13,16,Laois,"O'Moore Park, Portlaoise",,C Maguire (Clare),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-02-05,hurling,senior,nhl_div1a,Division 1A Round 1,Clare,4,27,39,Westmeath,0,14,14,Clare,Cusack Park,3523,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-05,hurling,senior,nhl_div1b,Division 1B Round 1,Waterford,2,19,25,Dublin,3,16,25,draw,Fraher Field,3600,L Gordon (Galway),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-05,hurling,senior,nhl_div2a,Division 2A Round 1,Down,0,18,18,Offaly,0,21,21,Offaly,McKenna Park,,J Clarke,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-11,hurling,senior,nhl_div1a,Division 1A Round 2,Limerick,1,27,30,Clare,2,18,24,Limerick,TUS Gaelic Grounds,15521,J Owens (Wexford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-11,hurling,senior,nhl_div1b,Division 1B Round 2,Laois,2,19,25,Waterford,2,31,37,Waterford,MW Hire O'Moore Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-11,hurling,senior,nhl_div3a,Division 3A Round 2,Armagh,0,22,22,Monaghan,2,17,23,Monaghan,Box-It Athletic Grounds,,P Owens,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-11,hurling,senior,nhl_div3b,Division 3B Round 2,Cavan,2,20,26,Warwickshire,2,9,15,Cavan,Breffni Park,,C Daly,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-11,hurling,senior,nhl_div3b,Division 3B Round 2,Leitrim,3,21,30,Lancashire,3,16,25,Leitrim,Páirc Seán Mac Diarmada,,A McAleer,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div1a,Division 1A Round 2,Westmeath,1,15,18,Wexford,2,23,29,Wexford,TEG Cusack Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div1a,Division 1A Round 2,Galway,3,22,31,Cork,4,24,36,Cork,Pearse Stadium,8872,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div1b,Division 1B Round 2,Kilkenny,1,21,24,Tipperary,2,24,30,Tipperary,UPMC Nowlan Park,10458,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div1b,Division 1B Round 2,Dublin,0,28,28,Antrim,2,19,25,Dublin,Parnell Park,,C Lyons (Cork),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div2a,Division 2A Round 2,Kildare,1,17,20,Down,0,19,19,Kildare,Hawkfield COE,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div2a,Division 2A Round 2,Offaly,0,33,33,Derry,1,15,18,Offaly,Glenisk O'Connor Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div2a,Division 2A Round 2,Kerry,0,18,18,Carlow,1,13,16,Kerry,Austin Stack Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div2b,Division 2B Round 2,London,2,13,19,Donegal,1,18,21,Donegal,McGovern Park,,J Clarke,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div2b,Division 2B Round 2,Sligo,1,13,16,Meath,0,22,22,Meath,Markievicz Park,,C Flynn,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div2b,Division 2B Round 2,Wicklow,0,15,15,Tyrone,0,12,12,Wicklow,Joule Park,,K Brady,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div3a,Division 3A Round 2,Roscommon,0,15,15,Louth,2,16,22,Louth,Dr Hyde Park,,Brian Keon,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-12,hurling,senior,nhl_div3a,Division 3A Round 2,Fermanagh,2,18,24,Mayo,2,16,22,Fermanagh,Ederney,,M Farrell,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-02-18,football,senior,nfl_div1,Division 1 Round 3,Mayo,2,14,20,Kerry,1,10,13,Mayo,"MacHale Park, Castlebar",15756,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-18,football,senior,nfl_div2,Division 2 Round 3,Derry,2,15,21,Meath,1,7,10,Derry,"Owenbeg, Dungiven",,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-18,football,senior,nfl_div2,Division 2 Round 3,Cork,2,10,16,Dublin,0,18,18,Dublin,Pairc Ui Chaoimh,10232,Seamus Mulhare (Laois),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7918,6 +8214,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-02-19,football,senior,nfl_div4,Division 4 Round 3,Sligo,0,21,21,Waterford,0,13,13,Sligo,"Markievicz Park, Sligo",,E McFeely (Donegal),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-19,football,senior,nfl_div4,Division 4 Round 3,Carlow,2,8,14,Laois,1,17,20,Laois,"Dr Cullen Park, Carlow",,J Hayes (Limerick),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-19,football,senior,nfl_div4,Division 4 Round 3,Wexford,0,19,19,Leitrim,0,15,15,Wexford,"Wexford Park, Wexford",,F Pierce (Offaly),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-02-19,hurling,senior,nhl_div2b,Division 2B Round 3,Meath,1,23,26,Donegal,0,16,16,Meath,Páirc Tailteann,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-02-25,football,senior,nfl_div1,Division 1 Round 4,Kerry,0,12,12,Armagh,0,11,11,Kerry,"Austin Stack Park, Tralee",11603,James Molloy (Galway),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-25,football,senior,nfl_div1,Division 1 Round 4,Mayo,4,10,22,Tyrone,0,12,12,Mayo,"MacHale Park, Castlebar",12218,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-25,football,senior,nfl_div2,Division 2 Round 4,Dublin,0,16,16,Clare,1,12,15,Dublin,"Croke Park, Dublin",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7925,6 +8222,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-02-25,football,senior,nfl_div3,Division 3 Round 4,Down,1,10,13,Westmeath,0,11,11,Down,"Pairc Esler, Newry",,David Gough (Meath),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-25,football,senior,nfl_div4,Division 4 Round 4,Laois,2,10,16,Wicklow,2,12,18,Wicklow,"O'Moore Park, Portlaoise",,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-25,football,senior,nfl_div4,Division 4 Round 4,Waterford,1,6,9,Wexford,2,12,18,Wexford,"SETU Complex, Waterford",,A Nolan (Wicklow),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-02-25,hurling,senior,nhl_div1b,Division 1B Round 3,Dublin,0,24,24,Tipperary,2,23,29,Tipperary,Croke Park,,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-25,hurling,senior,nhl_div2a,Division 2A Round 3,Kerry,1,18,21,Offaly,0,22,22,Offaly,Fitzgerald Stadium,,K Jordan,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-25,hurling,senior,nhl_div3b,Division 3B Round 3,Lancashire,3,11,20,Cavan,0,14,14,Lancashire,National Sports Campus,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-25,hurling,senior,nhl_div3b,Division 3B Round 3,Warwickshire,1,6,9,Longford,2,10,16,Longford,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-02-26,football,senior,nfl_div1,Division 1 Round 4,Donegal,1,9,12,Galway,1,9,12,draw,"O'Donnell Park, Letterkenny",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-26,football,senior,nfl_div1,Division 1 Round 4,Monaghan,0,14,14,Roscommon,0,11,11,Monaghan,"St Tiernach's Park, Clones",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-26,football,senior,nfl_div2,Division 2 Round 4,Kildare,0,7,7,Derry,2,15,21,Derry,"St Conleth's Park, Newbridge",,Barry Judge (Sligo),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7934,6 +8235,18 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-02-26,football,senior,nfl_div3,Division 3 Round 4,Longford,0,14,14,Tipperary,1,11,14,draw,"Pearse Park, Longford",,J Ryan (Cork),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-26,football,senior,nfl_div4,Division 4 Round 4,London,0,6,6,Sligo,1,10,13,Sligo,"McGovern Park, Ruislip",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-02-26,football,senior,nfl_div4,Division 4 Round 4,Leitrim,2,22,28,Carlow,0,13,13,Leitrim,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",,N McKenna (Monaghan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-02-26,hurling,senior,nhl_div1a,Division 1A Round 3,Cork,2,21,27,Westmeath,0,21,21,Cork,Páirc Uí Chaoimh,7347,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div1a,Division 1A Round 3,Wexford,1,18,21,Clare,6,25,43,Clare,Chadwicks Wexford Park,6840,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div1a,Division 1A Round 3,Galway,0,19,19,Limerick,0,24,24,Limerick,Pearse Stadium,12246,S Stack (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div1b,Division 1B Round 3,Waterford,1,22,25,Antrim,0,17,17,Waterford,Fraher Field,,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div1b,Division 1B Round 3,Laois,1,18,21,Kilkenny,0,34,34,Kilkenny,MW Hire O'Moore Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div2a,Division 2A Round 3,Derry,0,19,19,Kildare,2,23,29,Kildare,Owenbeg COE,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div2a,Division 2A Round 3,Carlow,5,24,39,Down,1,19,22,Carlow,Netwatch Cullen Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div2b,Division 2B Round 3,Sligo,0,11,11,Tyrone,2,15,21,Tyrone,Markievicz Park,,J Connors (Donegal),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div2b,Division 2B Round 3,Wicklow,0,23,23,London,0,14,14,Wicklow,Joule Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div3a,Division 3A Round 3,Monaghan,1,19,22,Louth,1,15,18,Monaghan,St. Mary's Park,,A McAleer (Donegal),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div3a,Division 3A Round 3,Armagh,2,16,22,Mayo,0,21,21,Armagh,Box-It Athletic Grounds,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-02-26,hurling,senior,nhl_div3a,Division 3A Round 3,Fermanagh,1,14,17,Roscommon,1,14,17,draw,Derrylin Grounds,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-03-04,football,senior,nfl_div1,Division 1 Round 5,Armagh,0,13,13,Donegal,0,10,10,Armagh,"Athletic Grounds, Armagh",12582,Jerome Henry (Mayo),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-04,football,senior,nfl_div2,Division 2 Round 5,Derry,1,11,14,Dublin,0,13,13,Derry,"Celtic Park, Derry",12077,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-04,football,senior,nfl_div4,Division 4 Round 5,Laois,2,13,19,Waterford,1,5,8,Laois,"O'Moore Park, Portlaoise",,T Murphy (Galway),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7950,6 +8263,23 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-03-06,football,senior,nfl_div4,Division 4 Round 5,London,0,9,9,Carlow,0,13,13,Carlow,"McGovern Park, Ruislip",,C Maguire (Clare),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-06,football,senior,nfl_div4,Division 4 Round 5,Wicklow,0,15,15,Leitrim,1,9,12,Wicklow,"Echelon Park, Aughrim",,S Lafferty (Antrim),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-06,football,senior,nfl_div4,Division 4 Round 5,Sligo,1,20,23,Wexford,3,8,17,Sligo,"Markievicz Park, Sligo",,J Hayes (Limerick),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-03-11,hurling,senior,nhl_div1b,Division 1B Round 4,Tipperary,4,23,35,Waterford,0,25,25,Tipperary,FBD Semple Stadium,5513,J Owens (Wexford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-11,hurling,senior,nhl_div2a,Division 2A Round 4,Kildare,2,20,26,Kerry,0,21,21,Kildare,St. Conleth's Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-11,hurling,senior,nhl_div2a,Division 2A Round 4,Offaly,1,19,22,Carlow,1,12,15,Offaly,Glenisk O'Connor Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-11,hurling,senior,nhl_div2b,Division 2B Round 4,London,5,16,31,Sligo,2,20,26,London,McGovern Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-11,hurling,senior,nhl_div2b,Division 2B Round 4,Tyrone,0,8,8,Meath,2,17,23,Meath,O'Neill's Healy Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-11,hurling,senior,nhl_div3b,Division 3B Round 4,Longford,0,18,18,Lancashire,0,10,10,Longford,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div1a,Division 1A Round 4,Clare,0,22,22,Galway,1,24,27,Galway,Cusack Park,6190,C Lyons (Cork),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div1a,Division 1A Round 4,Westmeath,1,15,18,Limerick,1,27,30,Limerick,TEG Cusack Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div1a,Division 1A Round 4,Cork,2,14,20,Wexford,0,18,18,Cork,Páirc Uí Chaoimh,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div1b,Division 1B Round 4,Antrim,3,18,27,Laois,1,18,21,Antrim,Corrigan Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div1b,Division 1B Round 4,Kilkenny,2,25,31,Dublin,1,17,20,Kilkenny,UPMC Nowlan Park,,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div2a,Division 2A Round 4,Down,0,23,23,Derry,1,20,23,draw,McKenna Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div2b,Division 2B Round 4,Donegal,0,11,11,Wicklow,2,24,30,Wicklow,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div3a,Division 3A Round 4,Roscommon,2,20,26,Armagh,0,6,6,Roscommon,Dr. Hyde Park,,C Doyle (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div3a,Division 3A Round 4,Louth,0,19,19,Fermanagh,1,15,18,Louth,Darver COE,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div3a,Division 3A Round 4,Mayo,5,25,40,Monaghan,0,13,13,Mayo,Hastings MacHale Park,,M Farrell (Roscommon),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-12,hurling,senior,nhl_div3b,Division 3B Round 4,Cavan,0,21,21,Leitrim,2,11,17,Cavan,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-03-18,football,senior,nfl_div1,Division 1 Round 6,Kerry,1,12,15,Roscommon,0,12,12,Kerry,"Austin Stack Park, Tralee",,Derek O'Mahony (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-18,football,senior,nfl_div1,Division 1 Round 6,Armagh,1,6,9,Galway,1,8,11,Galway,"Athletic Grounds, Armagh",,David Gough (Meath),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-18,football,senior,nfl_div2,Division 2 Round 6,Meath,1,11,14,Dublin,2,19,25,Dublin,"Pairc Tailteann, Navan",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7960,13 +8290,36 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-03-18,football,senior,nfl_div4,Division 4 Round 6,Carlow,0,11,11,Sligo,2,10,16,Sligo,"Netwatch Cullen Park, Carlow",,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-18,football,senior,nfl_div4,Division 4 Round 6,Waterford,2,9,15,London,2,5,11,Waterford,"Pairc Naomh Brid, Lemybrien",,S Mulhare (Laois),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-18,football,senior,nfl_div4,Division 4 Round 6,Wexford,0,19,19,Wicklow,2,13,19,draw,"Chadwicks Wexford Park, Wexford",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-03-18,hurling,senior,nhl_div3a,Division 3A Round 5,Armagh,3,17,26,Fermanagh,3,16,25,Armagh,Box-It Athletic Grounds,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-18,hurling,senior,nhl_div3a,Division 3A Round 5,Monaghan,0,14,14,Roscommon,1,19,22,Roscommon,Páirc Uí Néill,,T Conway (Derry),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-18,hurling,senior,nhl_div3a,Division 3A Round 5,Louth,0,15,15,Mayo,5,20,35,Mayo,Darver COE,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-18,hurling,senior,nhl_div3b,Division 3B Round 5,Lancashire,5,20,35,Warwickshire,1,15,18,Lancashire,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-18,hurling,senior,nhl_div3b,Division 3B Round 5,Leitrim,0,10,10,Longford,0,9,9,Leitrim,Shane McGettigan Memorial Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-03-19,football,senior,nfl_div1,Division 1 Round 6,Donegal,0,9,9,Mayo,1,17,20,Mayo,"MacCumhaill Park, Ballybofey",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-19,football,senior,nfl_div1,Division 1 Round 6,Monaghan,0,13,13,Tyrone,2,15,21,Tyrone,"St Tiernach's Park, Clones",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-19,football,senior,nfl_div2,Division 2 Round 6,Limerick,2,7,13,Kildare,3,10,19,Kildare,"TUS Gaelic Grounds, Limerick",,John Ryan (Cork),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-19,football,senior,nfl_div2,Division 2 Round 6,Louth,1,10,13,Cork,0,10,10,Louth,"Pairc Mhuire, Ardee",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-19,football,senior,nfl_div2,Division 2 Round 6,Derry,0,14,14,Clare,0,4,4,Derry,"Owenbeg, Dungiven",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-19,football,senior,nfl_div4,Division 4 Round 6,Leitrim,2,14,20,Laois,0,18,18,Leitrim,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-03-19,hurling,senior,nhl_div1a,Division 1A Round 5,Clare,2,18,24,Cork,2,18,24,draw,Cusack Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div1a,Division 1A Round 5,Westmeath,1,12,15,Galway,4,27,39,Galway,TEG Cusack Park,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div1a,Division 1A Round 5,Limerick,2,20,26,Wexford,0,15,15,Limerick,TUS Gaelic Grounds,8341,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div1b,Division 1B Round 5,Antrim,2,16,22,Tipperary,4,28,40,Tipperary,Corrigan Park,,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div1b,Division 1B Round 5,Dublin,1,29,32,Laois,0,20,20,Dublin,Parnell Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div1b,Division 1B Round 5,Waterford,0,16,16,Kilkenny,0,18,18,Kilkenny,UPMC Nowlan Park,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div2a,Division 2A Round 5,Carlow,2,21,27,Derry,0,16,16,Carlow,Netwatch Cullen Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div2a,Division 2A Round 5,Kerry,1,20,23,Down,1,19,22,Kerry,Austin Stack Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div2a,Division 2A Round 5,Offaly,2,17,23,Kildare,0,23,23,draw,Glenisk O'Connor Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div2b,Division 2B Round 5,Donegal,1,18,21,Tyrone,1,17,20,Donegal,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div2b,Division 2B Round 5,London,2,21,27,Meath,2,22,28,Meath,McGovern Park,,C Flynn (Wexford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-19,hurling,senior,nhl_div2b,Division 2B Round 5,Sligo,1,14,17,Wicklow,0,12,12,Sligo,O'Donnell Park,,A McAleer (Donegal),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-03-25,football,senior,nfl_div4,Division 4 Round 7,Wexford,1,16,19,Carlow,0,13,13,Wexford,"Chadwicks Wexford Park, Wexford",,S Lonergan (Tipperary),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-03-25,hurling,senior,nhl_div1a,Division 1 Semi-Final,Tipperary,0,25,25,Limerick,1,28,31,Limerick,TUS Gaelic Grounds,11812,L Gordon (Galway),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-25,hurling,senior,nhl_div1b,Division 1 Relegation Play-off,Westmeath,3,24,33,Laois,1,26,29,Westmeath,FBD Semple Stadium,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-25,hurling,senior,nhl_div2a,Division 2A Semi-Final,Offaly,0,23,23,Kerry,0,19,19,Offaly,Glenisk O'Connor Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-25,hurling,senior,nhl_div2b,Division 2B Semi-Final,Wicklow,0,16,16,Donegal,0,17,17,Donegal,Echelon Park Aughrim,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-25,hurling,senior,nhl_div3a,Division 3A Semi-Final,Armagh,2,23,29,Monaghan,0,16,16,Armagh,BOX-IT Athletic Grounds,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-25,hurling,senior,nhl_div3b,Division 3B Semi-Final,Leitrim,2,16,22,Longford,1,12,15,Leitrim,Shane McGettigan Park,,,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-03-26,football,senior,nfl_div1,Division 1 Round 7,Galway,1,13,16,Kerry,0,14,14,Galway,"Pearse Stadium, Galway",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-26,football,senior,nfl_div1,Division 1 Round 7,Mayo,0,14,14,Monaghan,2,14,20,Monaghan,"MacHale Park, Castlebar",,David Gough (Meath),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-26,football,senior,nfl_div1,Division 1 Round 7,Roscommon,0,21,21,Donegal,0,9,9,Roscommon,"Dr Hyde Park, Roscommon",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
@@ -7982,10 +8335,16 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-03-26,football,senior,nfl_div4,Division 4 Round 7,London,2,8,14,Laois,6,6,24,Laois,"McGovern Park, Ruislip",,K Eannetta (Tyrone),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-26,football,senior,nfl_div4,Division 4 Round 7,Waterford,0,8,8,Wicklow,2,8,14,Wicklow,"Fraher Field, Dungarvan",,F Pierce (Offaly),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-03-26,football,senior,nfl_div4,Division 4 Round 7,Leitrim,2,11,17,Sligo,1,15,18,Sligo,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-03-26,hurling,senior,nhl_div1a,Division 1 Semi-Final,Cork,0,22,22,Kilkenny,2,22,28,Kilkenny,UPMC Nowlan Park,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-03-26,hurling,senior,nhl_div2b,Division 2B Relegation Play-off,London,1,27,30,Sligo,1,25,28,London,Páirc Colmcille,,T Conway,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-04-01,football,senior,nfl_div3,Division 3 Final,Fermanagh,1,7,10,Cavan,0,16,16,Cavan,"Croke Park, Dublin",,A Nolan (Wicklow),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-04-01,football,senior,nfl_div4,Division 4 Final,Sligo,2,10,16,Wicklow,0,14,14,Sligo,"Croke Park, Dublin",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-04-01,hurling,senior,nhl_div3a,Division 3A Final,Roscommon,2,17,23,Armagh,0,15,15,Roscommon,Páirc Tailteann,,J Connors (Donegal),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-04-01,hurling,senior,nhl_div3b,Division 3B Final,Cavan,0,17,17,Leitrim,0,16,16,Cavan,National Games Development Centre,,P Owens (Down,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-04-02,football,senior,nfl_div1,Division 1 Final,Mayo,0,14,14,Galway,0,11,11,Mayo,"Croke Park, Dublin",45041,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
 2023-04-02,football,senior,nfl_div2,Division 2 Final,Derry,0,11,11,Dublin,4,6,18,Dublin,"Croke Park, Dublin",45041,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2023_National_Football_League_(Ireland)
+2023-04-02,hurling,senior,nhl_div2a,Division 2A Final,Kildare,1,18,21,Offaly,0,24,24,Offaly,MW Hire O'Moore Park,2000,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
+2023-04-02,hurling,senior,nhl_div2b,Division 2B Final,Meath,0,20,20,Donegal,0,14,14,Meath,Avant Money Páirc Seán Mac Diarmada,,C McDonald,,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-04-08,football,senior,connacht,Quarter-final,London,0,12,12,Sligo,2,20,26,Sligo,"McGovern Park, Ruislip",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2023_Connacht_Senior_Football_Championship
 2023-04-08,football,senior,connacht,Quarter-final,New York,0,15,15,Leitrim,0,15,15,New York,"Gaelic Park, New York City",,David Coldrick (Meath),After extra time; New York won 2-0 on penalties,https://en.wikipedia.org/wiki/2023_Connacht_Senior_Football_Championship
 2023-04-08,football,senior,ulster,Preliminary round,Armagh,0,20,20,Antrim,1,8,11,Armagh,"Athletic Grounds, Armagh",10063,Jerome Henry,,https://en.wikipedia.org/wiki/2023_Ulster_Senior_Football_Championship
@@ -7995,6 +8354,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-04-09,football,senior,leinster,Preliminary round,Laois,2,17,23,Wexford,2,13,19,Laois,"O'Moore Park, Portlaoise",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Football_Championship
 2023-04-09,football,senior,munster,Quarter-final,Clare,0,14,14,Cork,0,13,13,Clare,"Cusack Park, Ennis",3661,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2023_Munster_Senior_Football_Championship
 2023-04-09,football,senior,munster,Quarter-final,Tipperary,3,9,18,Waterford,1,11,14,Tipperary,"Semple Stadium, Thurles",1443,James Molloy (Galway),,https://en.wikipedia.org/wiki/2023_Munster_Senior_Football_Championship
+2023-04-09,hurling,senior,nhl_div1a,Division 1 Final,Limerick,2,20,26,Kilkenny,0,15,15,Limerick,Páirc Uí Chaoimh,17243,Paud O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2023_National_Hurling_League
 2023-04-15,football,senior,ulster,Quarter-final,Fermanagh,2,8,14,Derry,3,17,26,Derry,"Brewster Park, Enniskillen",6928,Joe McQuillan,,https://en.wikipedia.org/wiki/2023_Ulster_Senior_Football_Championship
 2023-04-16,football,senior,ulster,Quarter-final,Tyrone,1,18,21,Monaghan,2,17,23,Monaghan,"Healy Park, Omagh",10067,Niall Cullen,,https://en.wikipedia.org/wiki/2023_Ulster_Senior_Football_Championship
 2023-04-22,football,senior,connacht,Semi-final,Sligo,2,16,22,New York,0,6,6,Sligo,"Markievicz Park, Sligo",5677,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2023_Connacht_Senior_Football_Championship
@@ -8106,6 +8466,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-02-03,football,senior,nfl_div3,Division 3 Round 2,Down,3,16,25,Limerick,0,9,9,Down,Páirc Esler,,Jerome Henry,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-03,football,senior,nfl_div4,Division 4 Round 2,Carlow,1,17,20,Waterford,0,9,9,Carlow,Dr Cullen Park,,Pat Clarke,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-03,football,senior,nfl_div4,Division 4 Round 2,Wexford,0,12,12,Laois,1,19,22,Laois,Wexford Park,,Barry Tiernan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-02-03,hurling,senior,nhl_div1,Division 1 Group B Round 1,Dublin,0,22,22,Tipperary,2,27,33,Tipperary,Parnell Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-03,hurling,senior,nhl_div1,Division 1 Group B Round 1,Limerick,1,36,39,Antrim,1,9,12,Limerick,FBD Semple Stadium,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-03,hurling,senior,nhl_div3a,Division 3A Round 1,Sligo,4,19,31,Cavan,3,18,27,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-03,hurling,senior,nhl_div3b,Division 3B Round 1,Lancashire,0,12,12,Longford,1,9,12,draw,Abbottstown COE,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-03,hurling,senior,nhl_div3b,Division 3B Round 1,Warwickshire,1,17,20,Leitrim,0,20,20,draw,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-02-04,football,senior,nfl_div1,Division 1 Round 2,Monaghan,1,12,15,Kerry,3,15,24,Kerry,St Tiernach's Park,,Seán Hurson,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-04,football,senior,nfl_div1,Division 1 Round 2,Roscommon,0,9,9,Galway,0,9,9,draw,Dr Hyde Park,6128,Conor Lane,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-04,football,senior,nfl_div1,Division 1 Round 2,Derry,1,12,15,Tyrone,0,9,9,Derry,Celtic Park,11629,Noel Mooney,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
@@ -8116,6 +8481,35 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-02-04,football,senior,nfl_div3,Division 3 Round 2,Westmeath,1,11,14,Clare,0,13,13,Westmeath,Cusack Park,,D Murnane,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-04,football,senior,nfl_div4,Division 4 Round 2,Leitrim,1,8,11,London,0,6,6,Leitrim,Páirc Seán Mac Diarmada,,Tommy Murphy,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-04,football,senior,nfl_div4,Division 4 Round 2,Longford,0,14,14,Tipperary,0,16,16,Tipperary,Pearse Park,,Christopher Ryan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-02-04,hurling,senior,nhl_div1,Division 1 Group A Round 1,Offaly,0,17,17,Waterford,3,20,29,Waterford,Glenisk O'Connor Park,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div1,Division 1 Group A Round 1,Clare,1,25,28,Cork,2,19,25,Clare,"Cusack Park, Ennis",7380,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div1,Division 1 Group A Round 1,Kilkenny,2,16,22,Wexford,2,16,22,draw,UPMC Nowlan Park,8224,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div1,Division 1 Group B Round 1,Galway,4,31,43,Westmeath,0,14,14,Galway,Pearse Stadium,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div2a,Division 2A Round 1,Meath,2,20,26,Kildare,3,14,23,Meath,Páirc Tailteann,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div2a,Division 2A Round 1,Laois,2,18,24,Down,0,17,17,Laois,Laois Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div2a,Division 2A Round 1,Kerry,0,19,19,Carlow,3,22,31,Carlow,Austin Stack Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div2b,Division 2B Round 1,Roscommon,0,24,24,London,1,15,18,Roscommon,Athleague Grounds,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div2b,Division 2B Round 1,Wicklow,0,13,13,Donegal,2,23,29,Donegal,Echelon Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div2b,Division 2B Round 1,Derry,2,20,26,Tyrone,0,16,16,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div3a,Division 3A Round 1,Mayo,1,18,21,Armagh,2,7,13,Mayo,Hastings Insurance MacHale Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-04,hurling,senior,nhl_div3a,Division 3A Round 1,Louth,4,14,26,Monaghan,1,20,23,Louth,Páirc Naomh Bríd,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-10,hurling,senior,nhl_div1,Division 1 Group A Round 2,Cork,1,17,20,Kilkenny,0,21,21,Kilkenny,Páirc Uí Chaoimh,16274,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-10,hurling,senior,nhl_div2a,Division 2A Round 2,Down,2,23,29,Kerry,1,19,22,Down,McKenna Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-10,hurling,senior,nhl_div2b,Division 2B Round 2,Donegal,0,19,19,Derry,2,20,26,Derry,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-10,hurling,senior,nhl_div3a,Division 3A Round 2,Cavan,3,19,28,Louth,1,19,22,Cavan,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-10,hurling,senior,nhl_div3b,Division 3B Round 2,Longford,2,21,27,Warwickshire,1,15,18,Longford,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-10,hurling,senior,nhl_div3b,Division 3B Round 2,Leitrim,1,5,8,Fermanagh,1,26,29,Fermanagh,Seán O'Heslin Memorial Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div1,Division 1 Group A Round 2,Wexford,0,20,20,Offaly,1,17,20,draw,Chadwicks Wexford Park,3664,S Stack (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div1,Division 1 Group A Round 2,Waterford,1,16,19,Clare,0,20,20,Clare,Walsh Park,3951,L Gordon (Galway),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div1,Division 1 Group B Round 2,Tipperary,1,26,29,Galway,0,24,24,Tipperary,FBD Semple Stadium,5941,C Lyons (Cork),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div1,Division 1 Group B Round 2,Westmeath,0,17,17,Limerick,1,20,23,Limerick,TEG Cusack Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div1,Division 1 Group B Round 2,Antrim,1,19,22,Dublin,1,20,23,Dublin,Corrigan Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div2a,Division 2A Round 2,Kildare,1,20,23,Laois,3,22,31,Laois,Hawkfield COE,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div2a,Division 2A Round 2,Carlow,3,22,31,Meath,1,16,19,Carlow,Netwatch Cullen Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div2b,Division 2B Round 2,London,3,30,39,Wicklow,1,21,24,London,McGovern Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div2b,Division 2B Round 2,Tyrone,0,20,20,Roscommon,0,11,11,Tyrone,Páirc Colmcille,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div3a,Division 3A Round 2,Monaghan,0,9,9,Mayo,5,20,35,Mayo,St Mary's Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-11,hurling,senior,nhl_div3a,Division 3A Round 2,Armagh,1,15,18,Sligo,2,12,18,draw,St Oliver Plunkett Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-02-17,football,senior,nfl_div1,Division 1 Round 3,Dublin,1,19,22,Roscommon,1,12,15,Dublin,Croke Park,,Seán Hurson,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-17,football,senior,nfl_div1,Division 1 Round 3,Derry,3,17,26,Monaghan,0,13,13,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-17,football,senior,nfl_div1,Division 1 Round 3,Kerry,0,16,16,Mayo,0,15,15,Kerry,Austin Stack Park,,David O'Mahoney,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
@@ -8136,6 +8530,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-02-24,football,senior,nfl_div1,Division 1 Round 4,Dublin,3,18,27,Kerry,1,14,17,Dublin,Croke Park,36807,Conor Lane,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-24,football,senior,nfl_div3,Division 3 Round 4,Down,4,12,24,Offaly,2,14,20,Down,Páirc Esler,,,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-24,football,senior,nfl_div4,Division 4 Round 4,Wexford,0,21,21,Waterford,1,7,10,Wexford,Wexford Park,,Seamus Mulvihill,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-02-24,hurling,senior,nhl_div1,Division 1 Group B Round 3,Dublin,1,18,21,Limerick,3,30,39,Limerick,Croke Park,36807,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-24,hurling,senior,nhl_div2a,Division 2A Round 3,Laois,0,21,21,Carlow,1,23,26,Carlow,Laois Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-24,hurling,senior,nhl_div2b,Division 2B Round 3,Tyrone,1,17,20,Donegal,0,20,20,draw,O'Neill's Healy Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-24,hurling,senior,nhl_div3b,Division 3B Round 3,Leitrim,2,18,24,Lancashire,0,17,17,Leitrim,Avant Money Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-24,hurling,senior,nhl_div3b,Division 3B Round 3,Fermanagh,1,19,22,Warwickshire,2,5,11,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-02-25,football,senior,nfl_div1,Division 1 Round 4,Roscommon,1,16,19,Monaghan,0,7,7,Roscommon,Dr Hyde Park,5672,Brendan Griffin,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-25,football,senior,nfl_div1,Division 1 Round 4,Galway,1,11,14,Derry,3,10,19,Derry,Pearse Stadium,,Derek O'Mahoney,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-25,football,senior,nfl_div2,Division 2 Round 4,Meath,0,12,12,Kildare,0,9,9,Meath,Páirc Tailteann,,Seamus Mulhare,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
@@ -8148,6 +8547,18 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-02-25,football,senior,nfl_div4,Division 4 Round 4,Longford,3,12,21,London,1,10,13,Longford,Pearse Park,,Niall Quinn,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-25,football,senior,nfl_div4,Division 4 Round 4,Carlow,2,14,20,Leitrim,1,16,19,Carlow,Dr Cullen Park,,Christopher Ryan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-02-25,football,senior,nfl_div4,Division 4 Round 4,Tipperary,1,7,10,Laois,0,11,11,Laois,Semple Stadium,,F Pierce,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-02-25,hurling,senior,nhl_div1,Division 1 Group A Round 3,Cork,1,21,24,Waterford,1,19,22,Cork,Páirc Uí Chaoimh,10622,J Owens (Wexford),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div1,Division 1 Group A Round 3,Kilkenny,1,26,29,Offaly,1,19,22,Kilkenny,UPMC Nowlan Park,3523,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div1,Division 1 Group A Round 3,Wexford,1,13,16,Clare,0,16,16,draw,Chadwicks Wexford Park,4386,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div1,Division 1 Group B Round 3,Tipperary,3,25,34,Westmeath,2,21,27,Tipperary,FBD Semple Stadium,1962,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div1,Division 1 Group B Round 3,Antrim,1,13,16,Galway,2,35,41,Galway,Corrigan Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div2a,Division 2A Round 3,Kerry,3,14,23,Meath,0,16,16,Kerry,Austin Stack Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div2a,Division 2A Round 3,Down,1,24,27,Kildare,1,24,27,draw,McKenna Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div2b,Division 2B Round 3,Derry,1,27,30,London,2,15,21,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div2b,Division 2B Round 3,Wicklow,1,15,18,Roscommon,2,12,18,draw,Echelon Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div3a,Division 3A Round 3,Louth,3,17,26,Sligo,5,19,34,Sligo,Páirc Naomh Bríd,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div3a,Division 3A Round 3,Monaghan,0,23,23,Armagh,0,20,20,Monaghan,St Tiernach's Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-02-25,hurling,senior,nhl_div3a,Division 3A Round 3,Mayo,2,17,23,Cavan,1,13,16,Mayo,Hastings Insurance MacHale Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-03-02,football,senior,nfl_div1,Division 1 Round 5,Derry,1,11,14,Dublin,1,16,19,Dublin,Celtic Park,13265,Martin McNally,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-02,football,senior,nfl_div1,Division 1 Round 5,Mayo,0,15,15,Roscommon,0,9,9,Mayo,MacHale Park,9610,Joe McQuillan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-02,football,senior,nfl_div2,Division 2 Round 5,Cavan,0,11,11,Meath,0,11,11,draw,Breffni Park,,James Molloy,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
@@ -8164,6 +8575,23 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-03-03,football,senior,nfl_div3,Division 3 Round 5,Antrim,0,9,9,Westmeath,0,13,13,Westmeath,Corrigan Park,,Fintan Pierce,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-03,football,senior,nfl_div4,Division 4 Round 5,Tipperary,0,16,16,Waterford,1,13,16,draw,Galtee Rovers GAA,,D Hickey,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-03,football,senior,nfl_div4,Division 4 Round 5,Longford,1,16,19,Leitrim,0,13,13,Longford,Pearse Park,,Kevin Faloon,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-03-09,hurling,senior,nhl_div1,Division 1 Group B Round 4,Limerick,0,26,26,Tipperary,3,16,25,Limerick,Páirc Uí Chaoimh,5605,L Gordon (Galway),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-09,hurling,senior,nhl_div2a,Division 2A Round 4,Kildare,1,21,24,Kerry,1,14,17,Kildare,Hawkfield COE,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-09,hurling,senior,nhl_div3a,Division 3A Round 4,Cavan,2,13,19,Armagh,0,16,16,Cavan,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-09,hurling,senior,nhl_div3b,Division 3B Round 4,Fermanagh,1,13,16,Lancashire,1,8,11,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-09,hurling,senior,nhl_div3b,Division 3B Round 4,Longford,2,15,21,Leitrim,1,7,10,Longford,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div1,Division 1 Group A Round 4,Offaly,0,16,16,Cork,5,28,43,Cork,Glenisk O'Connor Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div1,Division 1 Group A Round 4,Clare,0,19,19,Kilkenny,0,16,16,Clare,"Cusack Park, Ennis",6824,J Owens (Wexford),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div1,Division 1 Group A Round 4,Waterford,1,23,26,Wexford,2,23,29,Wexford,Walsh Park,3500,C Lyons (Cork),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div1,Division 1 Group B Round 4,Westmeath,2,18,24,Antrim,1,15,18,Westmeath,TEG Cusack Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div1,Division 1 Group B Round 4,Galway,1,23,26,Dublin,1,15,18,Galway,Pearse Stadium,,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div2a,Division 2A Round 4,Carlow,3,20,29,Down,2,18,24,Carlow,Netwatch Cullen Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div2a,Division 2A Round 4,Meath,1,21,24,Laois,4,26,38,Laois,Páirc Tailteann,,N Malone (Clare),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div2b,Division 2B Round 4,London,0,18,18,Tyrone,0,11,11,London,McGovern Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div2b,Division 2B Round 4,Roscommon,1,14,17,Donegal,0,24,24,Donegal,Dr Hyde Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div2b,Division 2B Round 4,Wicklow,0,18,18,Derry,0,18,18,draw,Echelon Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div3a,Division 3A Round 4,Sligo,2,23,29,Monaghan,1,20,23,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-10,hurling,senior,nhl_div3a,Division 3A Round 4,Mayo,0,28,28,Louth,0,13,13,Mayo,Connacht COE,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-03-16,football,senior,nfl_div1,Division 1 Round 6,Galway,0,14,14,Dublin,0,22,22,Dublin,Pearse Stadium,,Brendan Cawley,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-16,football,senior,nfl_div1,Division 1 Round 6,Tyrone,1,19,22,Monaghan,2,13,19,Tyrone,Healy Park,,Jerome Henry,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-16,football,senior,nfl_div2,Division 2 Round 6,Armagh,2,21,27,Cavan,0,12,12,Armagh,Athletic Grounds,,Liam Devenney,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
@@ -8174,16 +8602,38 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-03-16,football,senior,nfl_div4,Division 4 Round 6,London,1,13,16,Waterford,0,11,11,London,McGovern Park,,Fintan Pierce,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-16,football,senior,nfl_div4,Division 4 Round 6,Laois,1,13,16,Leitrim,0,17,17,Leitrim,O'Moore Park,,John Ryan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-16,football,senior,nfl_div4,Division 4 Round 6,Longford,0,14,14,Carlow,0,8,8,Longford,Pearse Park,,Chris Maguire,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-03-16,hurling,senior,nhl_div1,Division 1 Group A Round 5,Offaly,1,19,22,Clare,0,23,23,Clare,St Brendan's Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div1,Division 1 Group A Round 5,Waterford,2,9,15,Kilkenny,0,18,18,Kilkenny,Walsh Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div1,Division 1 Group A Round 5,Wexford,1,15,18,Cork,3,21,30,Cork,Chadwicks Wexford Park,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div1,Division 1 Group B Round 5,Antrim,0,12,12,Tipperary,2,21,27,Tipperary,Corrigan Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div1,Division 1 Group B Round 5,Dublin,2,22,28,Westmeath,0,15,15,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div1,Division 1 Group B Round 5,Galway,0,17,17,Limerick,0,17,17,draw,Pearse Stadium,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div2a,Division 2A Round 5,Kildare,1,16,19,Carlow,0,15,15,Kildare,Hawkfield COE,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div2a,Division 2A Round 5,Laois,4,20,32,Kerry,1,19,22,Laois,Laois Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div2a,Division 2A Round 5,Down,3,19,28,Meath,1,16,19,Down,McKenna Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div3a,Division 3A Round 5,Armagh,0,19,19,Louth,2,10,16,Armagh,P. J. O'Neill Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div3a,Division 3A Round 5,Cavan,2,13,19,Monaghan,0,13,13,Cavan,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div3a,Division 3A Round 5,Sligo,0,14,14,Mayo,2,12,18,Mayo,Kent Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div3b,Division 3B Round 5,Fermanagh,0,11,11,Longford,0,7,7,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-16,hurling,senior,nhl_div3b,Division 3B Round 5,Warwickshire,3,23,32,Lancashire,3,17,26,Warwickshire,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-03-17,football,senior,nfl_div1,Division 1 Round 6,Roscommon,1,11,14,Kerry,1,17,20,Kerry,Dr Hyde Park,6464,Noel Mooney,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-17,football,senior,nfl_div1,Division 1 Round 6,Mayo,2,13,19,Derry,3,15,24,Derry,MacHale Park,9373,S Lonergan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-17,football,senior,nfl_div3,Division 3 Round 6,Clare,0,15,15,Antrim,0,12,12,Clare,Cusack Park,,Derek O'Mahoney,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-17,football,senior,nfl_div3,Division 3 Round 6,Sligo,0,13,13,Offaly,1,10,13,draw,Markievicz Park,,Fergal Kelly,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-17,football,senior,nfl_div3,Division 3 Round 6,Westmeath,0,13,13,Down,1,10,13,draw,Cusack Park,,James Molloy,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-17,football,senior,nfl_div4,Division 4 Round 6,Tipperary,0,8,8,Wexford,4,10,22,Wexford,Fethard Town Park,,David Hickey,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-03-17,hurling,senior,nhl_div2b,Division 2B Round 5,Derry,2,32,38,Roscommon,0,14,14,Derry,Lavey Grounds,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-17,hurling,senior,nhl_div2b,Division 2B Round 5,Donegal,2,26,32,London,1,16,19,Donegal,O'Donnell Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-17,hurling,senior,nhl_div2b,Division 2B Round 5,Tyrone,1,29,32,Wicklow,2,17,23,Tyrone,Dungannon Grounds,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-03-23,football,senior,nfl_div2,Division 2 Round 7,Kildare,0,12,12,Louth,1,12,15,Louth,Dr Cullen Park,,Joe McQuillan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-23,football,senior,nfl_div2,Division 2 Round 7,Donegal,1,18,21,Meath,1,10,13,Donegal,MacCumhaill Park,,Paddy Neilan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-23,football,senior,nfl_div2,Division 2 Round 7,Cork,2,16,22,Armagh,2,16,22,draw,Páirc Uí Chaoimh,,Brendan Griffin,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-23,football,senior,nfl_div2,Division 2 Round 7,Cavan,1,13,16,Fermanagh,2,14,20,Fermanagh,Breffni Park,,Kieran Eannetta,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-03-23,hurling,senior,nhl_div1,Division 1 Semi-Final,Limerick,1,15,18,Kilkenny,3,17,26,Kilkenny,Páirc Uí Chaoimh,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-23,hurling,senior,nhl_div2a,Division 2A Semi-Final,Laois,1,24,27,Down,0,13,13,Laois,Laois Hire O'Moore Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-23,hurling,senior,nhl_div2b,Division 2B Semi-Final,Donegal,3,14,23,Tyrone,5,9,24,Tyrone,O'Donnell Park,,P Owens (Down),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-23,hurling,senior,nhl_div3a,Division 3A Semi-Final,Sligo,0,22,22,Cavan,1,14,17,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-23,hurling,senior,nhl_div3b,Division 3B Semi-Final,Longford,1,12,15,Warwickshire,1,16,19,Warwickshire,Glennon Brothers Pearse Park,,K Brady,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-03-24,football,senior,nfl_div1,Division 1 Round 7,Kerry,0,15,15,Galway,1,10,13,Kerry,Fitzgerald Stadium,,Séamus Mulhare,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-24,football,senior,nfl_div1,Division 1 Round 7,Monaghan,1,14,17,Mayo,2,13,19,Mayo,St Tiernach's Park,,Niall Cullen,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-24,football,senior,nfl_div1,Division 1 Round 7,Derry,2,19,25,Roscommon,1,9,12,Derry,Celtic Park,,David Gough,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
@@ -8196,11 +8646,17 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-03-24,football,senior,nfl_div4,Division 4 Round 7,Leitrim,0,15,15,Tipperary,0,9,9,Leitrim,Páirc Seán Mac Diarmada,,Margaret Farrelly,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-24,football,senior,nfl_div4,Division 4 Round 7,Carlow,1,17,20,London,1,10,13,Carlow,Dr Cullen Park,,,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-24,football,senior,nfl_div4,Division 4 Round 7,Waterford,0,9,9,Laois,5,19,34,Laois,Fraher Field,,David Hickey,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-03-24,hurling,senior,nhl_div1,Division 1 Semi-Final,Clare,1,24,27,Tipperary,2,13,19,Clare,Laois Hire O'Moore Park,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-03-30,football,senior,nfl_div3,Division 3 Final,Down,0,13,13,Westmeath,2,10,16,Westmeath,Croke Park,,Barry Tiernan,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-30,football,senior,nfl_div4,Division 4 Final,Laois,3,14,23,Leitrim,0,9,9,Laois,Croke Park,,Thomas Murphy,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-31,football,senior,nfl_div1,Division 1 Final,Dublin,2,21,27,Derry,3,18,27,draw,Croke Park,33121,Conor Lane,Drawn after extra time 27-27; Derry won 3-1 on penalties,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
 2024-03-31,football,senior,nfl_div2,Division 2 Final,Armagh,0,14,14,Donegal,0,15,15,Donegal,Croke Park,,Paul Faloon,,https://en.wikipedia.org/wiki/2024_National_Football_League_(Ireland)
+2024-03-31,hurling,senior,nhl_div2a,Division 2A Final,Carlow,1,12,15,Laois,2,22,28,Laois,Netwatch Cullen Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-31,hurling,senior,nhl_div2b,Division 2B Final,Derry,1,14,17,Tyrone,1,8,11,Derry,Owenbeg COE,,J Connors,,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-31,hurling,senior,nhl_div3a,Division 3A Final,Mayo,3,19,28,Sligo,3,16,25,Mayo,MacHale Park,,N Malone (Clare),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
+2024-03-31,hurling,senior,nhl_div3b,Division 3B Final,Fermanagh,1,13,16,Warwickshire,1,18,21,Warwickshire,Brewster Park,,C Daly (Kildare),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-04-06,football,senior,connacht,Quarter-final,London,0,9,9,Galway,5,21,36,Galway,"McGovern Park, Ruislip",,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2024_Connacht_Senior_Football_Championship
+2024-04-06,hurling,senior,nhl_div1,Division 1 Final,Clare,3,16,25,Kilkenny,1,20,23,Clare,FBD Semple Stadium,12307,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2024_National_Hurling_League
 2024-04-07,football,senior,connacht,Quarter-final,Leitrim,0,6,6,Sligo,0,15,15,Sligo,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",4117,Kieran Eannetta (Tyrone),,https://en.wikipedia.org/wiki/2024_Connacht_Senior_Football_Championship
 2024-04-07,football,senior,connacht,Quarter-final,New York,2,6,12,Mayo,2,21,27,Mayo,"Gaelic Park, New York City",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2024_Connacht_Senior_Football_Championship
 2024-04-07,football,senior,leinster,Preliminary round,Wexford,4,19,31,Carlow,0,8,8,Wexford,Wexford Park,,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2024_Leinster_Senior_Football_Championship
@@ -8308,13 +8764,28 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-01-25,football,senior,nfl_div3,Division 3 Round 1,Offaly,1,17,20,Sligo,0,13,13,Offaly,O'Connor Park,,Chris Maguire,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-01-25,football,senior,nfl_div4,Division 4 Round 1,Carlow,2,13,19,Tipperary,1,16,19,draw,Dr. Cullen Park,,Eoin Morrissey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-01-25,football,senior,nfl_div4,Division 4 Round 1,Wexford,2,24,30,London,2,6,12,Wexford,Wexford Park,,David Hickey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-01-25,hurling,senior,nhl_div1a,Division 1A Round 1,Wexford,0,12,12,Cork,2,21,27,Cork,Chadwicks Wexford Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-25,hurling,senior,nhl_div1b,Division 1B Round 1,Offaly,0,19,19,Carlow,1,16,19,draw,Glenisk O'Connor Park,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-25,hurling,senior,nhl_div1b,Division 1B Round 1,Dublin,1,25,28,Antrim,0,14,14,Dublin,Croke Park,24160,J Owens (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-25,hurling,senior,nhl_div2,Division 2 Round 1,Down,2,19,25,Kildare,0,22,22,Down,McKenna Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-25,hurling,senior,nhl_div2,Division 2 Round 1,Meath,2,12,18,Donegal,1,14,17,Meath,St. Loman's Park,,C O'Regan (Cork),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-25,hurling,senior,nhl_div2,Division 2 Round 1,Tyrone,0,14,14,Derry,1,13,16,Derry,O'Neill's Healy Park,,C McCloskey (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-01-26,football,senior,nfl_div2,Division 2 Round 1,Roscommon,3,21,30,Down,1,20,23,Roscommon,Dr. Hyde Park,,Niall Cullen,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-01-26,football,senior,nfl_div2,Division 2 Round 1,Westmeath,0,18,18,Louth,1,17,20,Louth,Cusack Park,,Barry Tiernan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-01-26,football,senior,nfl_div4,Division 4 Round 1,Longford,2,12,18,Limerick,1,15,18,draw,Pearse Park,,Mark Dorrian,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-01-26,hurling,senior,nhl_div1a,Division 1A Round 1,Clare,0,21,21,Kilkenny,0,23,23,Kilkenny,Cusack Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-26,hurling,senior,nhl_div1a,Division 1A Round 1,Galway,2,16,22,Tipperary,3,25,34,Tipperary,Pearse Stadium,,C Lyons (Cork),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-26,hurling,senior,nhl_div3,Division 3 Round 1,London,1,15,18,Roscommon,1,10,13,London,McGovern Park,,P Dunne (Laois),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-01-26,hurling,senior,nhl_div3,Division 3 Round 1,Sligo,2,8,14,Wicklow,1,16,19,Wicklow,Markievicz Park,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-02-01,football,senior,nfl_div1,Division 1 Round 2,Armagh,1,23,26,Tyrone,0,18,18,Armagh,Athletic Grounds,,Joe McQuillan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-01,football,senior,nfl_div1,Division 1 Round 2,Donegal,0,20,20,Dublin,0,16,16,Donegal,MacCumhaill Park,,Paddy Neilan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-01,football,senior,nfl_div4,Division 4 Round 2,Tipperary,3,13,22,Longford,1,18,21,Tipperary,,,Niall Quinn,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-01,football,senior,nfl_div4,Division 4 Round 2,Waterford,0,12,12,Carlow,2,15,21,Carlow,Fraher Field,,Jonathon Hayes,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-02-01,hurling,senior,nhl_div1a,Division 1A Round 2,Cork,1,16,19,Limerick,1,16,19,draw,SuperValu Páirc Uí Chaoimh,23402,S Stack (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-01,hurling,senior,nhl_div2,Division 2 Round 2,Kildare,2,28,34,Kerry,0,17,17,Kildare,Cedral St Conleth's Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-01,hurling,senior,nhl_div2,Division 2 Round 2,Derry,0,13,13,Down,2,26,32,Down,Derry CoE,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-01,hurling,senior,nhl_div3,Division 3 Round 2,Wicklow,1,17,20,London,1,18,21,London,Echelon Park Aughrim,,N O'Toole (Waterford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-01,hurling,senior,nhl_div3,Division 3 Round 2,Cavan,1,17,20,Sligo,1,12,15,Cavan,Kingspan Breffni Park,,P Owens (Down),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-02-02,football,senior,nfl_div1,Division 1 Round 2,Derry,1,24,27,Kerry,5,15,30,Kerry,Celtic Park,,Martin McNally,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-02,football,senior,nfl_div1,Division 1 Round 2,Mayo,0,16,16,Galway,0,26,26,Galway,MacHale Park,,Noel Mooney,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-02,football,senior,nfl_div2,Division 2 Round 2,Down,1,19,22,Cork,2,15,21,Down,Pairc Esler,,Barry Cassidy,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8327,9 +8798,28 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-02-02,football,senior,nfl_div3,Division 3 Round 2,Laois,1,17,20,Offaly,2,19,25,Offaly,O'Moore Park,,Jerome Henry,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-02,football,senior,nfl_div4,Division 4 Round 2,London,1,20,23,Wicklow,0,21,21,London,,,Alan Coyne,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-02,football,senior,nfl_div4,Division 4 Round 2,Limerick,0,13,13,Wexford,0,17,17,Wexford,,,Christopher Ryan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-02-02,hurling,senior,nhl_div1a,Division 1A Round 2,Kilkenny,1,19,22,Galway,2,19,25,Galway,UPMC Nowlan Park,5460,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-02,hurling,senior,nhl_div1a,Division 1A Round 2,Tipperary,1,22,25,Wexford,0,19,19,Tipperary,FBD Semple Stadium,5125,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-02,hurling,senior,nhl_div1b,Division 1B Round 2,Laois,1,15,18,Offaly,1,24,27,Offaly,Laois Hire O'Moore Park,,A Kelly (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-02,hurling,senior,nhl_div1b,Division 1B Round 2,Carlow,2,21,27,Waterford,1,19,22,Carlow,Netwatch Cullen Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-02,hurling,senior,nhl_div1b,Division 1B Round 2,Antrim,2,25,31,Westmeath,1,19,22,Antrim,Corrigan Park,,B Keon (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-02,hurling,senior,nhl_div2,Division 2 Round 2,Donegal,1,20,23,Tyrone,0,13,13,Donegal,O'Donnell Park,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-02,hurling,senior,nhl_div3,Division 3 Round 2,Roscommon,1,22,25,Armagh,0,10,10,Roscommon,Dr Hyde Park,,A Tierney (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-02-08,football,senior,nfl_div1,Division 1 Round 1,Kerry,1,18,21,Donegal,0,23,23,Donegal,Fitzgerald Stadium,,Brendan Cawley,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-08,football,senior,nfl_div3,Division 3 Round 1,Leitrim,0,6,6,Laois,3,20,29,Laois,Pairc Sean Ui Eslin,,Fergal Kelly,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-08,football,senior,nfl_div4,Division 4 Round 1,Wicklow,3,17,26,Waterford,1,19,22,Wicklow,Echelon Park,,Diarmuid Boylan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-02-08,hurling,senior,nhl_div1a,Division 1A Round 3,Wexford,0,15,15,Kilkenny,2,17,23,Kilkenny,Chadwicks Wexford Park,4562,L Gordon (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-08,hurling,senior,nhl_div1a,Division 1A Round 3,Galway,2,21,27,Clare,0,20,20,Galway,Pearse Stadium,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div1a,Division 1A Round 3,Limerick,0,30,30,Tipperary,1,23,26,Limerick,TUS Gaelic Grounds,11213,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div1b,Division 1B Round 3,Offaly,2,26,32,Antrim,0,17,17,Offaly,Glenisk O'Connor Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div1b,Division 1B Round 3,Waterford,1,27,30,Laois,0,20,20,Waterford,Walsh Park,1792,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div1b,Division 1B Round 3,Westmeath,0,18,18,Dublin,1,22,25,Dublin,TEG Cusack Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div2,Division 2 Round 3,Kerry,5,20,35,Derry,1,12,15,Kerry,Austin Stack Park,,N Malone (Clare),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div2,Division 2 Round 3,Down,3,17,26,Donegal,0,17,17,Down,Ballycran,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div2,Division 2 Round 3,Tyrone,2,14,20,Meath,2,22,28,Meath,Garvaghey Centre,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div3,Division 3 Round 3,London,1,19,22,Cavan,1,10,13,London,McGovern Park,,E Furlong (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div3,Division 3 Round 3,Armagh,0,16,16,Wicklow,2,19,25,Wicklow,BOX-IT Athletic Grounds,,K Parke (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-09,hurling,senior,nhl_div3,Division 3 Round 3,Sligo,0,13,13,Mayo,1,12,15,Mayo,Markievicz Park,,A Tierney (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-02-15,football,senior,nfl_div1,Division 1 Round 3,Derry,0,16,16,Galway,1,13,16,draw,Celtic Park,,David Gough,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-15,football,senior,nfl_div1,Division 1 Round 3,Kerry,1,15,18,Dublin,0,19,19,Dublin,Austin Stack Park,,Liam Devenney,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-15,football,senior,nfl_div2,Division 2 Round 3,Cork,3,18,27,Westmeath,3,17,26,Cork,Pairc Ui Chaoimh,,Brendan Griffin,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8346,6 +8836,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-02-16,football,senior,nfl_div4,Division 4 Round 3,London,0,11,11,Limerick,1,16,19,Limerick,McGovern Park,,Pat Clarke,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-16,football,senior,nfl_div4,Division 4 Round 3,Waterford,0,9,9,Tipperary,1,14,17,Tipperary,Walsh Park,,David Hickey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-16,football,senior,nfl_div4,Division 4 Round 3,Wicklow,2,15,21,Longford,0,12,12,Wicklow,Echelon Park,,Eoin Morrissey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-02-16,hurling,senior,nhl_div1b,Division 1B Round 1,Westmeath,1,19,22,Laois,4,18,30,Laois,TEG Cusack Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-16,hurling,senior,nhl_div3,Division 3 Round 1,Mayo,1,23,26,Cavan,2,14,20,Mayo,Adrian Freeman Memorial Park,,M Connolly (Sligo),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-02-22,football,senior,nfl_div1,Division 1 Round 4,Armagh,1,17,20,Mayo,1,17,20,draw,Athletic Grounds,,Barry Tiernan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-22,football,senior,nfl_div1,Division 1 Round 4,Dublin,3,20,29,Derry,2,12,18,Dublin,Croke Park,,Noel Mooney,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-22,football,senior,nfl_div2,Division 2 Round 4,Monaghan,3,16,25,Cork,1,15,18,Monaghan,Grattan Park,,Fergal Kelly,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8353,6 +8845,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-02-22,football,senior,nfl_div3,Division 3 Round 4,Kildare,0,21,21,Laois,0,9,9,Kildare,St. Conleth's Park,,Conor Lane,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-22,football,senior,nfl_div4,Division 4 Round 4,Tipperary,0,17,17,London,2,12,18,London,Semple Stadium,,Niall Quinn,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-22,football,senior,nfl_div4,Division 4 Round 4,Carlow,0,13,13,Limerick,1,17,20,Limerick,Dr. Cullen Park,,Christopher Ryan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-02-22,hurling,senior,nhl_div1a,Division 1A Round 4,Tipperary,2,22,28,Cork,1,21,24,Tipperary,FBD Semple Stadium,11357,L Gordon (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-22,hurling,senior,nhl_div1b,Division 1B Round 4,Dublin,1,23,26,Offaly,0,27,27,Offaly,Croke Park,18920,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-22,hurling,senior,nhl_div2,Division 2 Round 4,Derry,0,17,17,Kildare,2,25,31,Kildare,Derry CoE,,P Owens (Down),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-22,hurling,senior,nhl_div3,Division 3 Round 4,Mayo,1,17,20,London,2,16,22,London,MacHale Park,,M Farrell (Roscommon),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-02-23,football,senior,nfl_div1,Division 1 Round 4,Tyrone,2,13,19,Kerry,3,13,22,Kerry,Plunkett Park,,Paddy Neilan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-23,football,senior,nfl_div1,Division 1 Round 4,Galway,0,21,21,Donegal,0,14,14,Galway,Pearse Stadium,,David Coldrick,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-23,football,senior,nfl_div2,Division 2 Round 4,Westmeath,0,21,21,Cavan,1,22,25,Cavan,Cusack Park,,Derek O'Mahoney,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8360,6 +8856,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-02-23,football,senior,nfl_div2,Division 2 Round 4,Meath,2,18,24,Roscommon,0,17,17,Meath,Pairc Tailteann,,Joe McQuillan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-23,football,senior,nfl_div3,Division 3 Round 4,Fermanagh,1,13,16,Offaly,3,6,15,Fermanagh,,,Kevin Faloon,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-02-23,football,senior,nfl_div4,Division 4 Round 4,Longford,2,11,17,Waterford,1,12,15,Longford,Pearse Park,,Enda McFeely,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-02-23,hurling,senior,nhl_div1a,Division 1A Round 4,Clare,1,17,20,Wexford,1,23,26,Wexford,Cusack Park,4641,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-23,hurling,senior,nhl_div1b,Division 1B Round 4,Antrim,0,11,11,Waterford,2,23,29,Waterford,Corrigan Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-23,hurling,senior,nhl_div2,Division 2 Round 4,Donegal,5,14,29,Kerry,3,16,25,Donegal,O'Donnell Park,,C McCloskey (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-02-23,hurling,senior,nhl_div3,Division 3 Round 4,Wicklow,4,19,31,Roscommon,2,13,19,Wicklow,Bray Emmets GAA,,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-01,football,senior,nfl_div1,Division 1 Round 5,Mayo,0,21,21,Kerry,1,16,19,Mayo,MacHale Park,,Sean Hurson,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-01,football,senior,nfl_div1,Division 1 Round 5,Armagh,1,20,23,Dublin,1,12,15,Armagh,Athletic Grounds,,Niall Cullen,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-01,football,senior,nfl_div2,Division 2 Round 5,Cavan,1,20,23,Down,1,18,21,Cavan,Breffni Park,,James Molloy,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8367,6 +8867,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-03-01,football,senior,nfl_div3,Division 3 Round 5,Laois,0,22,22,Antrim,1,17,20,Laois,O'Moore Park,,Jonathon Hayes,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-01,football,senior,nfl_div3,Division 3 Round 5,Fermanagh,0,19,19,Sligo,0,19,19,draw,Brewster Park,,Diarmuid Boylan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-01,football,senior,nfl_div4,Division 4 Round 5,Limerick,2,20,26,Waterford,0,12,12,Limerick,,,Pat Clarke,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-01,hurling,senior,nhl_div1a,Division 1A Round 5,Cork,1,22,25,Kilkenny,2,16,22,Cork,SuperValu Páirc Uí Chaoimh,22193,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-01,hurling,senior,nhl_div1a,Division 1A Round 5,Wexford,1,20,23,Galway,2,19,25,Galway,Chadwicks Wexford Park,4658,S Stack (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-01,hurling,senior,nhl_div2,Division 2 Round 5,Kerry,1,20,23,Meath,0,20,20,Kerry,Austin Stack Park,,P Dunne (Laois),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-02,football,senior,nfl_div1,Division 1 Round 5,Galway,1,18,21,Tyrone,1,18,21,draw,Tuam Stadium,,Brendan Cawley,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-02,football,senior,nfl_div1,Division 1 Round 5,Donegal,1,22,25,Derry,1,19,22,Donegal,Ballyshannon,,Jerome Henry,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-02,football,senior,nfl_div2,Division 2 Round 5,Louth,1,21,24,Monaghan,1,27,30,Monaghan,Gaelic Grounds,,Seamus Mulhare,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8376,13 +8879,38 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-03-02,football,senior,nfl_div4,Division 4 Round 5,Carlow,2,16,22,London,1,13,16,Carlow,Dr. Cullen Park,,Andrew Smith,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-02,football,senior,nfl_div4,Division 4 Round 5,Wicklow,1,17,20,Tipperary,0,15,15,Wicklow,Echelon Park,,Eoin Morrissey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-02,football,senior,nfl_div4,Division 4 Round 5,Longford,0,12,12,Wexford,2,17,23,Wexford,Pearse Park,,David Hickey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-02,hurling,senior,nhl_div1a,Division 1A Round 5,Limerick,0,21,21,Clare,1,21,24,Clare,TUS Gaelic Grounds,16789,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div1b,Division 1B Round 5,Offaly,1,22,25,Westmeath,0,19,19,Offaly,Glenisk O'Connor Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div1b,Division 1B Round 5,Waterford,1,23,26,Dublin,2,18,24,Waterford,Walsh Park,5481,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div1b,Division 1B Round 5,Carlow,1,21,24,Antrim,2,18,24,draw,Netwatch Cullen Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div2,Division 2 Round 5,Down,9,26,53,Tyrone,0,13,13,Down,Ballycran,,C O'Regan (Cork),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div2,Division 2 Round 5,Kildare,3,21,30,Donegal,1,15,18,Kildare,Cedral St Conleth's Park,,N O'Toole (Waterford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div3,Division 3 Round 5,Cavan,2,20,26,Wicklow,1,18,21,Cavan,Kingspan Breffni Park,,A Tierney (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div3,Division 3 Round 5,Mayo,3,25,34,Roscommon,1,12,15,Mayo,MacHale Park,,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-02,hurling,senior,nhl_div3,Division 3 Round 5,Sligo,1,19,22,Armagh,3,15,24,Armagh,Markievicz Park,,M Farrell (Roscommon),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-08,football,senior,nfl_div4,Division 4 Round 4,Wexford,1,18,21,Wicklow,2,14,20,Wexford,Wexford Park,,David Murnane,Rescheduled from original date due to unplayable pitch,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-08,hurling,senior,nhl_div1a,Division 1A Round 6,Limerick,1,27,30,Galway,0,18,18,Limerick,TUS Gaelic Grounds,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-08,hurling,senior,nhl_div1b,Division 1B Round 6,Dublin,2,29,35,Carlow,3,17,26,Dublin,Parnell Park,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-08,hurling,senior,nhl_div2,Division 2 Round 6,Kildare,2,34,40,Tyrone,0,8,8,Kildare,Cedral St Conleth's Park,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-08,hurling,senior,nhl_div2,Division 2 Round 6,Derry,1,27,30,Meath,1,23,26,Derry,Derry CoE,,K Parke (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-08,hurling,senior,nhl_div3,Division 3 Round 6,Roscommon,1,19,22,Cavan,0,19,19,Roscommon,Dr Hyde Park,,J Judge (Mayo),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-08,hurling,senior,nhl_div3,Division 3 Round 6,London,2,20,26,Sligo,0,18,18,London,McGovern Park,,K Brady (Louth),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-09,football,senior,nfl_div3,Division 3 Round 4,Sligo,1,19,22,Clare,2,14,20,Sligo,Markievicz Park,,Kieran Eannetta,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-09,hurling,senior,nhl_div1a,Division 1A Round 6,Kilkenny,1,19,22,Tipperary,2,25,31,Tipperary,UPMC Nowlan Park,9563,S Stack (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-09,hurling,senior,nhl_div1a,Division 1A Round 6,Clare,0,23,23,Cork,6,20,38,Cork,Cusack Park,11410,L Gordon (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-09,hurling,senior,nhl_div1b,Division 1B Round 6,Antrim,4,22,34,Laois,0,21,21,Antrim,Corrigan Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-09,hurling,senior,nhl_div1b,Division 1B Round 6,Westmeath,0,24,24,Waterford,7,34,55,Waterford,TEG Cusack Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-09,hurling,senior,nhl_div2,Division 2 Round 6,Kerry,1,23,26,Down,0,28,28,Down,Austin Stack Park,,N O'Toole (Waterford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-09,hurling,senior,nhl_div3,Division 3 Round 6,Armagh,1,18,21,Mayo,3,21,30,Mayo,BOX-IT Athletic Grounds,,A McAleer (Donegal),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-15,football,senior,nfl_div1,Division 1 Round 6,Kerry,2,21,27,Armagh,0,17,17,Kerry,Austin Stack Park,,Conor Lane,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-15,football,senior,nfl_div1,Division 1 Round 6,Dublin,2,19,25,Galway,2,13,19,Dublin,Croke Park,,Martin McNally,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-15,football,senior,nfl_div2,Division 2 Round 6,Down,1,26,29,Westmeath,0,28,28,Down,Pairc Esler,,Sean Lonergan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-15,football,senior,nfl_div3,Division 3 Round 6,Laois,1,21,24,Clare,2,22,28,Clare,O'Moore Park,,David Murnane,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-15,football,senior,nfl_div4,Division 4 Round 6,Waterford,0,10,10,Wexford,3,23,32,Wexford,Walsh Park,,Diarmuid Boylan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-15,hurling,senior,nhl_div1a,Division 1A Round 4,Kilkenny,0,29,29,Limerick,0,20,20,Kilkenny,UPMC Nowlan Park,6514,C Lyons (Cork),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-15,hurling,senior,nhl_div1b,Division 1B Round 4,Laois,0,29,29,Carlow,2,26,32,Carlow,Laois Hire O'Moore Park,,B Keon (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-15,hurling,senior,nhl_div2,Division 2 Round 4,Meath,2,30,36,Down,4,21,33,Meath,St. Loman's Park,,E Furlong (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-15,hurling,senior,nhl_div3,Division 3 Round 4,Cavan,2,15,21,Armagh,2,21,27,Armagh,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-16,football,senior,nfl_div1,Division 1 Round 6,Derry,1,17,20,Mayo,2,19,25,Mayo,Celtic Park,,Fergal Kelly,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-16,football,senior,nfl_div1,Division 1 Round 6,Donegal,0,19,19,Tyrone,0,25,25,Tyrone,O'Donnell Park,,Paul Faloon,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-16,football,senior,nfl_div2,Division 2 Round 6,Roscommon,0,20,20,Cavan,0,22,22,Cavan,Dr. Hyde Park,,Sean Hurson,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8393,6 +8921,18 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-03-16,football,senior,nfl_div4,Division 4 Round 6,London,1,19,22,Carlow,1,14,17,London,McGovern Park,,Christopher Ryan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-16,football,senior,nfl_div4,Division 4 Round 6,Tipperary,1,21,24,Longford,1,13,16,Tipperary,,,Pat Clarke,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-16,football,senior,nfl_div4,Division 4 Round 6,Limerick,1,23,26,Wicklow,1,13,16,Limerick,,,Eoin Morrissey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-22,hurling,senior,nhl_div1a,Division 1A Round 7,Cork,4,22,34,Galway,0,22,22,Cork,SuperValu Páirc Uí Chaoimh,20010,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div1a,Division 1A Round 7,Limerick,1,12,15,Wexford,1,19,22,Wexford,TUS Gaelic Grounds,4800,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div1a,Division 1A Round 7,Tipperary,0,22,22,Clare,1,18,21,Tipperary,FBD Semple Stadium,6531,C Lyons (Cork),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div1b,Division 1B Round 7,Carlow,3,15,24,Westmeath,3,18,27,Westmeath,Netwatch Cullen Park,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div1b,Division 1B Round 7,Laois,0,13,13,Dublin,2,21,27,Dublin,Laois Hire O'Moore Park,,J Owens (Wexford),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div1b,Division 1B Round 7,Waterford,0,22,22,Offaly,1,11,14,Waterford,Walsh Park,2294,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div2,Division 2 Round 7,Donegal,0,9,9,Derry,2,23,29,Derry,O'Donnell Park,,P Owens (Down),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div2,Division 2 Round 7,Meath,1,14,17,Kildare,1,24,27,Kildare,St. Loman's Park,,C Doyle (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div2,Division 2 Round 7,Tyrone,1,13,16,Kerry,1,19,22,Kerry,Garvaghey Centre,,M Connolly (Sligo),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div3,Division 3 Round 7,Armagh,0,10,10,London,2,15,21,London,BOX-IT Athletic Grounds,,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div3,Division 3 Round 7,Roscommon,2,15,21,Sligo,2,13,19,Roscommon,Connacht GAA CoE,,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-22,hurling,senior,nhl_div3,Division 3 Round 7,Wicklow,2,15,21,Mayo,4,15,27,Mayo,Echelon Park Aughrim,,,,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-23,football,senior,nfl_div1,Division 1 Round 7,Armagh,4,24,36,Derry,1,18,21,Armagh,Athletic Grounds,,David Gough,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-23,football,senior,nfl_div1,Division 1 Round 7,Tyrone,2,20,26,Dublin,1,16,19,Tyrone,Healy Park,,David Coldrick,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-23,football,senior,nfl_div1,Division 1 Round 7,Galway,2,19,25,Kerry,3,23,32,Kerry,Pearse Stadium,,Derek O'Mahoney,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8410,6 +8950,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-03-23,football,senior,nfl_div4,Division 4 Round 7,Wicklow,2,18,24,London,0,16,16,Wicklow,Echelon Park,,Andrew Smith,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-23,football,senior,nfl_div4,Division 4 Round 7,Longford,1,14,17,Waterford,1,11,14,Longford,Pearse Park,,Eoin Morrissey,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-29,football,senior,nfl_div2,Division 2 Final,Monaghan,1,26,29,Roscommon,0,19,19,Monaghan,Croke Park,11450,Barry Tiernan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
+2025-03-29,hurling,senior,nhl_div2,Division 2 Final,Down,4,22,34,Kildare,3,18,27,Down,Inniskeen,,B Keon (Galway),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-03-29,hurling,senior,nhl_div3,Division 3 Final,London,1,8,11,Mayo,0,14,14,Mayo,"Manguard Park, Hawkfield",,P Owens (Down),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-03-30,football,senior,nfl_div1,Division 1 Final,Kerry,1,18,21,Mayo,1,12,15,Kerry,Croke Park,,David Coldrick,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-30,football,senior,nfl_div3,Division 3 Final,Kildare,1,18,21,Offaly,2,17,23,Offaly,Croke Park,,Kieran Eannetta,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 2025-03-30,football,senior,nfl_div4,Division 4 Final,Wexford,2,21,27,Limerick,0,18,18,Wexford,Croke Park,,Diarmuid Boylan,,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
@@ -8421,6 +8963,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-06,football,senior,connacht,Quarter-final,Mayo,2,20,26,Sligo,2,17,23,Mayo,"MacHale Park, Castlebar",,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2025_Connacht_Senior_Football_Championship
 2025-04-06,football,senior,leinster,Preliminary round,Meath,1,30,33,Carlow,0,19,19,Meath,"Pairc Tailteann, Navan",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2025_Leinster_Senior_Football_Championship
 2025-04-06,football,senior,leinster,Preliminary round,Longford,1,20,23,Wicklow,2,23,29,Wicklow,"Pearse Park, Longford",,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2025_Leinster_Senior_Football_Championship
+2025-04-06,hurling,senior,nhl_div1a,Division 1A Final,Tipperary,0,23,23,Cork,3,24,33,Cork,SuperValu Páirc Uí Chaoimh,43243,S Stack (Dublin),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
+2025-04-06,hurling,senior,nhl_div1b,Division 1B Final,Waterford,1,27,30,Offaly,2,20,26,Waterford,SuperValu Páirc Uí Chaoimh,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2025_National_Hurling_League
 2025-04-06,football,senior,ulster,Preliminary round,Donegal,1,25,28,Derry,1,15,18,Donegal,"MacCumhaill Park, Ballybofey",15023,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2025_Ulster_Senior_Football_Championship
 2025-04-12,football,senior,leinster,Quarter-final,Kildare,2,17,23,Westmeath,0,21,21,Kildare,"St Conleth's Park, Newbridge",,David Gough (Meath),,https://en.wikipedia.org/wiki/2025_Leinster_Senior_Football_Championship
 2025-04-12,football,senior,ulster,Quarter-final,Antrim,1,23,26,Armagh,1,34,37,Armagh,"Corrigan Park, Belfast",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2025_Ulster_Senior_Football_Championship
