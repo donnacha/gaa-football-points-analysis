@@ -43,9 +43,9 @@ def main():
                 w = m.get("winner")
                 note = (m.get("notes") or "").lower()
                 # penalties/extra-time can override a level full-time score; skip those
-                if t1 == t2 and w not in ("draw", m.get("team1"), m.get("team2")):
+                if w and t1 == t2 and w not in ("draw", m.get("team1"), m.get("team2")):
                     warnings.append(f"{rel}[{i}]: winner '{w}' but scores level")
-                elif t1 != t2 and w != exp and "penalt" not in note and "source-score-disputed" not in note:
+                elif w and t1 != t2 and w != exp and "penalt" not in note and "source-score-disputed" not in note:
                     warnings.append(f"{rel}[{i}]: winner '{w}' != score-implied '{exp}' "
                                     f"({m.get('team1')} {t1}-{t2} {m.get('team2')})")
             m["_t1_total"], m["_t2_total"] = t1, t2

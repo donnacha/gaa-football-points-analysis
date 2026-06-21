@@ -26,11 +26,12 @@ second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
 
 | Wave | Sport | Grade | Competition | Years done | Matches | Notes |
 |------|-------|-------|-------------|-----------|---------|-------|
-| 1 | football | senior | championship (AI+prov) | 1950–2024 | 3125 | full field set, validated (0 warnings) |
+| 1 | football | senior | championship (AI+prov) | 1940–2024 | 3440 | full field set, validated (0 warnings) |
 
-Running total: **3125 matches** (football senior championship, 1950–2024).
-Next: continue wave 1 backwards (1940s → 1887, via /loop). Watch for early-era quirks
-(byes, the 1947 Polo Grounds final, WWII years, sparser pre-1930s coverage).
+Running total: **3440 matches** (football senior championship, 1940–2024).
+Next: continue wave 1 backwards (1930s → 1887, via /loop). Watch for early-era quirks
+(byes, objections/abandoned games with null winner, multi-replay finals, sparser pre-1930s coverage).
+Compiler now skips the winner/score check for null-winner rows (abandoned/void games).
 
 ### Spot-check / verify later (added)
 - 1955 Leinster SF Dublin v Offaly: Wikipedia score (Dublin 2-3, Offaly 1-9) contradicts the fact
