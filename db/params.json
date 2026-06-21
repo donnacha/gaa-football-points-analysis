@@ -16,6 +16,16 @@
     "runner_up": 1
   },
 
+  "_PROVINCIAL_BRACKET_README": "In the pure-knockout eras the provincial rounds ARE the lower rounds of the All-Ireland bracket: four provincial champions go straight to two All-Ireland semis with no real All-Ireland quarter-final. With this credit ON, a beaten provincial finalist is scored as a de-facto All-Ireland quarter-final loser (the '2's) and a beaten provincial semi-finalist as a de-facto preliminary-round loser (the '1's), routed through the all_ireland_stage_points tiers named below and folded into best-finish. Eras with a REAL All-Ireland quarter-final (qualifier/super8/round_robin) score those rounds directly and are unaffected, so they are not listed. The two count_* switches are independent. Turn the whole thing off to fall back to scoring beaten provincial finalists at provincial_points.runner_up and giving provincial semi-finalists nothing.",
+  "provincial_bracket_credit": {
+    "enabled": true,
+    "eras": ["sam_maguire", "pre_qualifier", "knockout_covid"],
+    "count_provincial_final_as_qf": true,
+    "count_provincial_semifinal_as_prelim": true,
+    "final_loser_tier": "quarter_final_loser",
+    "semifinal_loser_tier": "prelim_qf_loser"
+  },
+
   "_LEAGUE_README": "Points for the National Football League, used ONLY in the 'overall annual performance' view that ADDS league points to championship points for the same year. The league is a separate competition, so within a year the two are added (not best-of); within the league best-finish applies (a county scores the MAX tier it reached). The league is scored below the championship: a Division 1 title (2) equals a championship quarter-final, below an All-Ireland semi-final (3). The third tier (0.5) covers reaching a Division 1 semi-final OR winning any division below the top flight; semi_final and lower_division are separate keys so they can be tuned independently. Set a tier to 0 to disable it.",
   "league_points": {
     "champion": 2,

@@ -17,8 +17,15 @@ Best finish only — a county scores its single highest placement each year.
 | 5 | All-Ireland champion |
 | 4 | All-Ireland runner-up |
 | 3 | Beaten All-Ireland semi-finalist |
-| 2 | Beaten All-Ireland quarter-finalist (incl. Super 8s group exit, 2018–19) |
-| 1 | Provincial finalist (winner or runner-up), or All-Ireland group-stage / preliminary-QF exit (2023–25) |
+| 2 | Beaten All-Ireland quarter-finalist — or a beaten provincial finalist in the no-QF knockout eras (1928–2000, 2020–21); Super 8s group exit (2018–19) also scores here |
+| 1 | Beaten provincial semi-finalist in the no-QF eras; All-Ireland group-stage / preliminary-QF exit (2023–25); or a beaten provincial finalist in eras with a real All-Ireland quarter-final |
+
+In the pure-knockout eras (1928–2000 and the 2020–21 COVID knockout) the four provincial champions went straight to the All-Ireland
+semis, so there was no real quarter-final — but the provincial rounds **are** the lower rounds of the
+same bracket. By default the beaten provincial finalist is credited as a de-facto quarter-finalist
+(the **2s**) and the beaten provincial semi-finalist as a de-facto preliminary-round loser (the
+**1s**). This is the `provincial_bracket_credit` switch in `params.json` (on by default; turn it off
+to score beaten provincial finalists at 1 and leave provincial semi-finalists unscored).
 
 The championship's structure changed repeatedly over 138 years — foundation-era knockout (1887–1927),
 the settled Sam Maguire knockout (1928–1989), pre-qualifier (1990–2000), qualifier/back-door,
