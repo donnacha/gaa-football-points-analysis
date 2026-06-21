@@ -111,9 +111,16 @@ Running total: **12909 matches across 411 files**. Zero validation warnings.
 
 | 9 | hurling | senior | Nicky Rackard Cup deep history | 2005–2017 | ~192 | back to 2005 inception; → Nicky Rackard total 303 (2005–2025) |
 
-🎯 **Archive past 13,000 matches.** Running total: **13328 matches across 437 files**. Zero warnings.
-Next: **Lory Meagher back to 2009**, plus the **Tommy Murphy Cup** (football tier-2, 2004–2008,
-pre-Tailteann). Then modern competition coverage is essentially exhausted.
+| 9 | hurling | senior | Lory Meagher Cup deep history | 2009–2017 | ~95 | back to 2009 inception; → Lory Meagher total 186 (2009–2025) |
+| 9 | football | senior | Tommy Murphy Cup (tier 2) | 2004–2008 | 43 | pre-Tailteann football secondary cup; knockout |
+
+Running total: **13466 matches across 451 files**. Zero validation warnings.
+✅ Wave 9 complete: all four secondary hurling cups back to inception + Tommy Murphy Cup.
+
+Next: **wave 10 — Intermediate & Junior championships** (the original plan's wave 8). All-Ireland
+Intermediate Hurling (2004→) & Football, and All-Ireland Junior Hurling & Football (modern, incl.
+the London/New York/overseas teams), under `<sport>/intermediate/` & `<sport>/junior/`. This is the
+last readily-available inter-county category on Wikipedia.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 

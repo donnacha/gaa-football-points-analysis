@@ -4745,11 +4745,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2004-08-01,football,senior,all_ireland,Round 4 qualifier,Tyrone,3,15,24,Laois,2,4,10,Tyrone,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-07,football,senior,all_ireland,Quarter-final,Fermanagh,0,12,12,Armagh,0,11,11,Fermanagh,"Croke Park, Dublin",,J. Bannon (Longford),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-07,football,senior,all_ireland,Quarter-final,Mayo,0,16,16,Tyrone,1,9,12,Mayo,"Croke Park, Dublin",,P. Russell (Tipperary),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
+2004-08-07,football,senior,tommy_murphy,semi-final,Clare,2,11,17,Louth,0,8,8,Clare,,,T. Quigley,,https://en.wikipedia.org/wiki/2004_Tommy_Murphy_Cup
+2004-08-07,football,senior,tommy_murphy,semi-final,Antrim,1,10,13,Sligo,1,11,14,Sligo,Dungannon,,,After extra time (aet),https://en.wikipedia.org/wiki/2004_Tommy_Murphy_Cup
 2004-08-08,hurling,senior,all_ireland,Semi-final,Kilkenny,3,12,21,Waterford,0,18,18,Kilkenny,"Croke Park, Dublin",51263,A. Mac Suibhne (Dublin),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Hurling_Championship
 2004-08-14,football,senior,all_ireland,Quarter-final,Derry,2,9,15,Westmeath,0,13,13,Derry,"Croke Park, Dublin",,M. Curley (Galway),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-14,football,senior,all_ireland,Quarter-final,Kerry,1,15,18,Dublin,1,8,11,Kerry,"Croke Park, Dublin",,P. McEnaney (Monaghan),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-15,hurling,senior,all_ireland,Semi-final,Cork,1,27,30,Wexford,0,12,12,Cork,"Croke Park, Dublin",63223,B. Kelly (Westmeath),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Hurling_Championship
 2004-08-22,football,senior,all_ireland,Semi-final,Mayo,0,9,9,Fermanagh,0,9,9,draw,"Croke Park, Dublin",,M. Collins (Cork),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
+2004-08-22,football,senior,tommy_murphy,final,Clare,1,11,14,Sligo,0,11,11,Clare,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2004_Tommy_Murphy_Cup
 2004-08-28,football,senior,all_ireland,Semi-final,Mayo,0,13,13,Fermanagh,1,8,11,Mayo,"Croke Park, Dublin",,J. Bannon (Longford),Replay,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-29,football,senior,all_ireland,Semi-final,Derry,1,11,14,Kerry,1,17,20,Kerry,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-09-05,football,under21,all_ireland,Semi-final,Mayo,1,13,16,Kildare,1,7,10,Mayo,"Pearse Stadium, Galway",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Under-21_Football_Championship
@@ -4865,6 +4868,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2005-07-16,hurling,senior,christy_ring,group_a_round_5,Roscommon,1,12,15,Meath,3,26,35,Meath,Athleague Sportsfield,,,Group A,https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
 2005-07-16,hurling,senior,christy_ring,group_b_round_5,Wicklow,3,16,25,Mayo,3,12,21,Wicklow,Pearse Park (Arklow),,,Group B,https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
 2005-07-16,hurling,senior,nicky_rackard,Quarter-final play-off,Longford,2,14,20,Armagh,1,14,17,Longford,"Breffni Park, Cavan",,,After extra time,https://en.wikipedia.org/wiki/2005_Nicky_Rackard_Cup
+2005-07-16,football,senior,tommy_murphy,preliminary_round,Longford,1,13,16,Wicklow,0,10,10,Longford,Leo Casey Park,,S Doyle (Wexford),,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
+2005-07-16,football,senior,tommy_murphy,preliminary_round,London,1,15,18,Kilkenny,0,9,9,London,Pairc Tailteann,,M Sludden (Tyrone),,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
+2005-07-16,football,senior,tommy_murphy,preliminary_round,Tipperary,2,9,15,Leitrim,1,11,14,Tipperary,Semple Stadium,,E Whelan (Laois),,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
+2005-07-16,football,senior,tommy_murphy,preliminary_round,Fermanagh,,,,Carlow,,,,Fermanagh,,,,Walkover; Carlow withdrew/scratched. No score recorded.,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-07-17,football,senior,all_ireland,Round 3 qualifier,Cavan,1,8,11,Meath,1,6,9,Cavan,"St. Tiernach's Park, Clones",,G Ó Conamha (Galway),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-07-17,football,senior,all_ireland,Round 3 qualifier,Sligo,1,13,16,Clare,0,11,11,Sligo,"McHale Park, Castlebar",,M. Deegan (Laois),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-07-17,football,senior,all_ireland,Round 3 qualifier,Derry,0,13,13,Limerick,0,9,9,Derry,"McHale Park, Castlebar",,J. Bannon (Longford),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
@@ -4880,6 +4887,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2005-07-30,hurling,senior,all_ireland,Relegation final,Laois,1,23,26,Antrim,1,15,18,Laois,"Páirc Tailteann, Navan",,M Wadding (Waterford),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Hurling_Championship
 2005-07-30,hurling,senior,christy_ring,semi_final,Westmeath,7,14,35,Kildare,1,12,15,Westmeath,Páirc Tailteann,,D Connolly (Kilkenny),,https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
 2005-07-30,hurling,senior,christy_ring,relegation_semi_final,Wicklow,2,27,33,Derry,3,22,31,Wicklow,Páirc Tailteann,,,Relegation play-off; Wicklow 2-27 (33) defeated Derry 3-22 (31),https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
+2005-07-30,football,senior,tommy_murphy,quarter_final,Wexford,2,8,14,Fermanagh,1,7,10,Wexford,Wexford Park,,G Kinneavey (Galway),,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
+2005-07-30,football,senior,tommy_murphy,quarter_final,Longford,2,15,21,Waterford,0,7,7,Longford,Leo Casey Park,,E Whelan (Laois),,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-07-31,hurling,senior,all_ireland,Quarter-final,Galway,2,20,26,Tipperary,2,18,24,Galway,"Croke Park, Dublin",44438,A Mac Suibhne (Dublin),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Hurling_Championship
 2005-07-31,hurling,senior,all_ireland,Quarter-final,Kilkenny,0,18,18,Limerick,0,13,13,Kilkenny,"Croke Park, Dublin",44438,G Harrington (Cork),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Hurling_Championship
 2005-07-31,hurling,senior,christy_ring,semi_final,Down,4,23,35,Carlow,1,11,14,Down,Parnell Park,,T Ryan (Tipperary),,https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
@@ -4890,16 +4899,21 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2005-08-07,football,senior,all_ireland,Quarter-final,Kerry,2,15,21,Mayo,0,18,18,Kerry,"Croke Park, Dublin",,B. Crowe (Cavan),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-08-07,football,senior,all_ireland,Quarter-final,Cork,2,14,20,Galway,2,11,17,Cork,"Croke Park, Dublin",,M. Deegan (Laois),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-08-07,hurling,senior,nicky_rackard,Semi-final,London,3,13,22,Donegal,1,10,13,London,"O'Donnell Park, Letterkenny",,,,https://en.wikipedia.org/wiki/2005_Nicky_Rackard_Cup
+2005-08-07,football,senior,tommy_murphy,quarter_final,Roscommon,1,15,18,London,0,9,9,Roscommon,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-08-13,football,senior,all_ireland,Quarter-final,Tyrone,1,14,17,Dublin,1,14,17,draw,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-08-13,hurling,senior,christy_ring,relegation_final,Mayo,4,14,26,Derry,1,10,13,Mayo,Markievicz Park,,A Heagney (Clare),Relegation final,https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
 2005-08-14,hurling,senior,all_ireland,Semi-final,Cork,0,16,16,Clare,0,15,15,Cork,"Croke Park, Dublin",50596,D Murphy (Wexford),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Hurling_Championship
 2005-08-14,hurling,senior,christy_ring,final,Westmeath,1,23,26,Down,2,18,24,Westmeath,Croke Park,,D Richardson (Limerick),Inaugural Christy Ring Cup final; Westmeath 1-23 (26) defeated Down 2-18 (24),https://en.wikipedia.org/wiki/2005_Christy_Ring_Cup
+2005-08-14,football,senior,tommy_murphy,quarter_final,Tipperary,,,,Antrim,,,,Tipperary,,,,Walkover; Antrim withdrew/scratched. No score recorded.,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-08-20,football,senior,all_ireland,Quarter-final,Armagh,2,17,23,Laois,1,11,14,Armagh,"Croke Park, Dublin",,J. Geaney (Cork),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
+2005-08-20,football,senior,tommy_murphy,semi_final,Wexford,3,19,28,Longford,2,13,19,Wexford,Wexford Park,,M Ryan (Limerick),,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-08-21,hurling,senior,all_ireland,Semi-final,Galway,5,18,33,Kilkenny,4,18,30,Galway,"Croke Park, Dublin",39975,S Roche (Tipperary),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Hurling_Championship
 2005-08-21,hurling,senior,nicky_rackard,Final,London,5,8,23,Louth,1,5,8,London,"Croke Park, Dublin",,T Mahon (Fermanagh),,https://en.wikipedia.org/wiki/2005_Nicky_Rackard_Cup
+2005-08-22,football,senior,tommy_murphy,semi_final,Tipperary,0,15,15,Roscommon,0,11,11,Tipperary,Semple Stadium,,,,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-08-27,football,senior,all_ireland,Quarter-final replay,Tyrone,2,18,24,Dublin,1,14,17,Tyrone,"Croke Park, Dublin",,G Ó Conamha (Galway),replay,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-08-28,football,senior,all_ireland,Semi-final,Kerry,1,19,22,Cork,0,9,9,Kerry,"Croke Park, Dublin",,J. McQuillan (Cavan),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-09-04,football,senior,all_ireland,Semi-final,Tyrone,1,11,14,Armagh,1,12,15,Armagh,"Croke Park, Dublin",,P. Russell (Tipperary),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
+2005-09-04,football,senior,tommy_murphy,final,Tipperary,3,10,19,Wexford,0,15,15,Tipperary,Croke Park,,J White (Donegal),Tipperary won the championship. Single match (no replay). Mattie Forde (Wexford) top scorer of tournament with 2-14.,https://en.wikipedia.org/wiki/2005_Tommy_Murphy_Cup
 2005-09-11,hurling,senior,all_ireland,Final,Cork,1,21,24,Galway,1,16,19,Cork,"Croke Park, Dublin",81136,S Roche (Tipperary),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Hurling_Championship
 2005-09-25,football,senior,all_ireland,Final,Kerry,2,10,16,Tyrone,1,16,19,Tyrone,"Croke Park, Dublin",82112,M. Monahan (Kildare),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2006-05-07,football,senior,ulster,Preliminary round,Down,1,13,16,Cavan,0,11,11,Down,"Casement Park, Belfast",,E. Murtagh (Longford),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
@@ -5020,27 +5034,39 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2006-07-22,hurling,senior,all_ireland,Quarter-final,Kilkenny,2,22,28,Galway,3,14,23,Kilkenny,Semple Stadium,34202,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
 2006-07-22,hurling,senior,christy_ring,Relegation Final,Kerry,2,19,25,Roscommon,1,7,10,Kerry,Cusack Park (Ennis),,,,https://en.wikipedia.org/wiki/2006_Christy_Ring_Cup
 2006-07-22,hurling,senior,nicky_rackard,Quarter-final,Longford,1,19,22,Louth,2,7,13,Longford,Pearse Park,,,,https://en.wikipedia.org/wiki/2006_Nicky_Rackard_Cup
+2006-07-22,football,senior,tommy_murphy,preliminary_round,Carlow,1,10,13,Wicklow,0,11,11,Carlow,"Dr Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
+2006-07-22,football,senior,tommy_murphy,preliminary_round,Tipperary,0,12,12,Waterford,1,7,10,Tipperary,Dungarvan,,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-07-23,hurling,senior,all_ireland,Quarter-final,Clare,1,27,30,Wexford,1,15,18,Clare,Croke Park,45928,M Haverty (Galway),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
 2006-07-23,hurling,senior,all_ireland,Quarter-final,Waterford,1,22,25,Tipperary,3,13,22,Waterford,Croke Park,45928,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
 2006-07-23,hurling,senior,christy_ring,Semi-Final,Kildare,0,6,6,Antrim,2,21,27,Antrim,Cusack Park (Mullingar),,,,https://en.wikipedia.org/wiki/2006_Christy_Ring_Cup
 2006-07-23,hurling,senior,christy_ring,Semi-Final,Down,5,8,23,Carlow,2,19,25,Carlow,Cusack Park (Mullingar),,,,https://en.wikipedia.org/wiki/2006_Christy_Ring_Cup
+2006-07-23,football,senior,tommy_murphy,preliminary_round,Antrim,1,23,26,Kilkenny,1,8,11,Antrim,"Casement Park, Belfast",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
+2006-07-25,football,senior,tommy_murphy,preliminary_round,Cavan,2,12,18,Roscommon,0,14,14,Cavan,"Kingspan Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
+2006-07-25,football,senior,tommy_murphy,preliminary_round,Louth,2,14,20,Clare,3,9,18,Louth,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-07-29,football,senior,all_ireland,Round 4 qualifier,Fermanagh,0,8,8,Donegal,0,11,11,Donegal,"Brewster Park, Enniskillen",,E. Murtagh (Longford),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-07-29,football,senior,all_ireland,Round 4 qualifier,Galway,0,10,10,Westmeath,1,8,11,Westmeath,"Pearse Stadium, Galway",,A. Mangan (Kerry),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-07-29,football,senior,all_ireland,Round 4 qualifier,Laois,1,9,12,Offaly,0,4,4,Laois,"O'Moore Park, Portlaoise",16800,J. McQuillan (Cavan),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-07-29,hurling,senior,nicky_rackard,Semi-final,Derry,3,10,19,Armagh,0,10,10,Derry,Crossmaglen,,,,https://en.wikipedia.org/wiki/2006_Nicky_Rackard_Cup
+2006-07-29,football,senior,tommy_murphy,quarter_final,Leitrim,0,14,14,Tipperary,1,6,9,Leitrim,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
+2006-07-29,football,senior,tommy_murphy,quarter_final,Antrim,2,14,20,Cavan,2,9,15,Antrim,"Casement Park, Belfast",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
+2006-07-29,football,senior,tommy_murphy,quarter_final,Carlow,1,11,14,London,0,7,7,Carlow,"Dr Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-07-30,football,senior,all_ireland,Round 4 qualifier,Kerry,4,11,23,Longford,1,11,14,Kerry,"Fitzgerald Stadium, Killarney",,V. Neary (Mayo),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-07-30,hurling,senior,nicky_rackard,Semi-final,Donegal,1,19,22,Longford,0,10,10,Donegal,Enniskillen,,,,https://en.wikipedia.org/wiki/2006_Nicky_Rackard_Cup
+2006-08-04,football,senior,tommy_murphy,quarter_final,Louth,3,13,22,Monaghan,1,13,16,Louth,Dundalk,,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-08-05,football,senior,all_ireland,Quarter-final,Armagh,1,13,16,Kerry,3,15,24,Kerry,"Croke Park, Dublin",,D. Coldrick (Meath),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-08-05,football,senior,all_ireland,Quarter-final,Cork,1,11,14,Donegal,1,10,13,Cork,"Croke Park, Dublin",,T. Quigley (Dublin),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-08-06,hurling,senior,all_ireland,Semi-final,Cork,1,16,19,Waterford,1,15,18,Cork,Croke Park,61753,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
 2006-08-06,hurling,senior,christy_ring,Final,Antrim,5,13,28,Carlow,1,7,10,Antrim,Croke Park,,J McGrath (Westmeath),,https://en.wikipedia.org/wiki/2006_Christy_Ring_Cup
 2006-08-12,football,senior,all_ireland,Quarter-final,Dublin,1,12,15,Westmeath,0,5,5,Dublin,"Croke Park, Dublin",,B. Crowe (Cavan),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-08-12,hurling,senior,nicky_rackard,Final,Derry,5,15,30,Donegal,1,11,14,Derry,"Croke Park, Dublin",,,Derry promoted to the 2007 Christy Ring Cup,https://en.wikipedia.org/wiki/2006_Nicky_Rackard_Cup
+2006-08-12,football,senior,tommy_murphy,semi_final,Louth,0,22,22,Antrim,0,8,8,Louth,Dundalk,,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-08-13,football,senior,all_ireland,Quarter-final,Mayo,0,15,15,Laois,0,15,15,draw,"Croke Park, Dublin",,P. McEnaney (Monaghan),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-08-13,hurling,senior,all_ireland,Semi-final,Kilkenny,2,21,27,Clare,1,16,19,Kilkenny,Croke Park,70978,S Roche (Tipperary),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
+2006-08-13,football,senior,tommy_murphy,semi_final,Leitrim,2,12,18,Carlow,0,8,8,Leitrim,Birr,,,,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-08-20,football,senior,all_ireland,Quarter-final,Mayo,0,14,14,Laois,0,11,11,Mayo,"Croke Park, Dublin",,J. McQuillan (Cavan),replay,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-08-20,football,senior,all_ireland,Semi-final,Kerry,0,16,16,Cork,0,10,10,Kerry,"Croke Park, Dublin",58703,J. Bannon (Longford),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-08-27,football,senior,all_ireland,Semi-final,Mayo,1,16,19,Dublin,2,12,18,Mayo,"Croke Park, Dublin",82148,,,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
+2006-08-27,football,senior,tommy_murphy,final,Louth,3,14,23,Leitrim,1,11,14,Louth,"Croke Park, Dublin",,J. McKee (Armagh),Throw-in 2pm. Louth's first Tommy Murphy Cup title.,https://en.wikipedia.org/wiki/2006_Tommy_Murphy_Cup
 2006-09-03,hurling,senior,all_ireland,Final,Kilkenny,1,16,19,Cork,1,13,16,Kilkenny,Croke Park,82275,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
 2006-09-17,football,senior,all_ireland,Final,Kerry,4,15,27,Mayo,3,5,14,Kerry,"Croke Park, Dublin",82289,B. Crowe (Cavan),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2007-03-08,football,under21,munster,quarter_final,Cork,0,17,17,Limerick,0,9,9,Cork,"Páirc Uí Rinn, Cork",,P O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
@@ -5111,6 +5137,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2007-06-30,hurling,senior,nicky_rackard,group_3b,Longford,0,12,12,Donegal,0,16,16,Donegal,"Pearse Park, Longford",,,Group 3B,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
 2007-06-30,hurling,senior,nicky_rackard,group_3c,Fermanagh,2,11,17,Monaghan,2,14,20,Monaghan,Lisnaskea,,,Group 3C,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
 2007-06-30,hurling,senior,nicky_rackard,group_3d,Louth,0,17,17,Cavan,0,7,7,Louth,Dowdallshill,,,Group 3D,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
+2007-06-30,football,senior,tommy_murphy,preliminary_round,Kilkenny,1,0,3,Antrim,3,32,41,Antrim,Nowlan Park,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
 2007-07-01,football,senior,leinster,Semi-final,Wexford,0,13,13,Laois,1,13,16,Laois,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-07-01,hurling,senior,leinster,Provincial final,Wexford,1,12,15,Kilkenny,2,24,30,Kilkenny,"Croke Park, Dublin",34872,P O'Connor (Limerick),,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Hurling_Championship
 2007-07-01,football,senior,munster,Final,Kerry,1,15,18,Cork,1,13,16,Kerry,"FitzGerald Stadium, Killarney",31420,Marty Duffy (Sligo),,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
@@ -5132,6 +5159,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2007-07-07,hurling,senior,nicky_rackard,group_3b,Donegal,2,22,28,Leitrim,2,4,10,Donegal,"O'Donnell Park, Letterkenny",,,Group 3B,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
 2007-07-07,hurling,senior,nicky_rackard,group_3c,Monaghan,0,14,14,Roscommon,2,21,27,Roscommon,"St. Tiernach's Park, Clones",,,Group 3C,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
 2007-07-07,hurling,senior,nicky_rackard,group_3d,Cavan,0,7,7,Warwickshire,2,15,21,Warwickshire,"Kingspan Breffni Park, Cavan",,,Group 3D,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
+2007-07-07,football,senior,tommy_murphy,first_round,Waterford,8,10,34,Carlow,0,7,7,Waterford,Fraher Field,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
+2007-07-07,football,senior,tommy_murphy,first_round,Wicklow,1,16,19,Offaly,1,11,14,Wicklow,Aughrim Park,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
+2007-07-07,football,senior,tommy_murphy,first_round,Tipperary,0,12,12,Clare,1,13,16,Clare,Ardfinnan,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
+2007-07-07,football,senior,tommy_murphy,first_round,London,1,10,13,Antrim,4,11,23,Antrim,Ruislip,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
 2007-07-08,football,senior,all_ireland,Round 1 qualifier,Fermanagh,1,12,15,Wexford,1,8,11,Fermanagh,"St. Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-07-08,football,senior,all_ireland,Round 1 qualifier,Armagh,0,9,9,Derry,0,10,10,Derry,"St. Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-07-08,football,senior,connacht,Final,Sligo,1,10,13,Galway,0,12,12,Sligo,"Dr. Hyde Park, Roscommon",,,,https://en.wikipedia.org/wiki/2007_Connacht_Senior_Football_Championship
@@ -5152,6 +5183,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2007-07-14,hurling,senior,nicky_rackard,quarter-final,Donegal,2,14,20,Longford,2,8,14,Donegal,"O'Donnell Park, Letterkenny",,,,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
 2007-07-14,hurling,senior,nicky_rackard,quarter-final,Louth,4,25,37,Warwickshire,1,3,6,Louth,Drogheda,,,,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
 2007-07-14,hurling,senior,nicky_rackard,quarter-final,Roscommon,4,20,32,Monaghan,1,8,11,Roscommon,Athleague,,,,https://en.wikipedia.org/wiki/2007_Nicky_Rackard_Cup
+2007-07-14,football,senior,tommy_murphy,semi_final,Clare,0,10,10,Antrim,1,11,14,Antrim,Cusack Park,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
+2007-07-14,football,senior,tommy_murphy,semi_final,Wicklow,2,15,21,Waterford,0,14,14,Wicklow,Aughrim Park,,,,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
 2007-07-15,football,senior,leinster,Final,Dublin,3,14,23,Laois,1,14,17,Dublin,"Croke Park, Dublin",81394,Michael Hughes (Tyrone),,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-07-15,football,senior,ulster,Final,Monaghan,1,13,16,Tyrone,1,15,18,Tyrone,"St. Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-07-21,football,senior,all_ireland,Round 3 qualifier,Cork,0,16,16,Louth,0,14,14,Cork,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
@@ -5168,6 +5201,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2007-07-29,hurling,senior,all_ireland,Quarter-final,Waterford,3,16,25,Cork,3,16,25,draw,"Croke Park, Dublin",72426,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Hurling_Championship
 2007-08-04,football,senior,all_ireland,Quarter-final,Sligo,0,8,8,Cork,1,11,14,Cork,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-08-04,football,senior,all_ireland,Quarter-final,Tyrone,2,8,14,Meath,1,13,16,Meath,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
+2007-08-04,football,senior,tommy_murphy,final,Antrim,1,17,20,Wicklow,3,13,22,Wicklow,Croke Park,,,After extra time,https://en.wikipedia.org/wiki/2007_Tommy_Murphy_Cup
 2007-08-05,hurling,senior,all_ireland,Quarter-final,Waterford,2,17,23,Cork,0,20,20,Waterford,"Croke Park, Dublin",54924,B Kelly (Westmeath),Replay,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Hurling_Championship
 2007-08-05,hurling,senior,all_ireland,Semi-final,Wexford,1,10,13,Kilkenny,0,23,23,Kilkenny,"Croke Park, Dublin",54924,M Haverty (Galway),,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Hurling_Championship
 2007-08-05,hurling,senior,christy_ring,final,Westmeath,2,15,21,Kildare,0,13,13,Westmeath,Croke Park,,J Sexton (Cork),Christy Ring Cup final; Westmeath champions,https://en.wikipedia.org/wiki/2007_Christy_Ring_Cup
@@ -5315,6 +5349,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2008-07-12,hurling,senior,nicky_rackard,Group 3B,Fermanagh,2,13,19,South Down,4,15,27,South Down,,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
 2008-07-12,hurling,senior,nicky_rackard,Group 3C,Monaghan,0,19,19,Donegal,1,15,18,Monaghan,,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
 2008-07-12,hurling,senior,nicky_rackard,Group 3D,Warwickshire,2,10,16,Sligo,1,15,18,Sligo,,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
+2008-07-12,football,senior,tommy_murphy,Preliminary round,Kilkenny,0,8,8,London,4,13,25,London,Freshford,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
 2008-07-13,football,senior,connacht,Provincial final,Galway,2,12,18,Mayo,1,14,17,Galway,"McHale Park, Castlebar",31789,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2008_Connacht_Senior_Football_Championship
 2008-07-13,hurling,senior,munster,Provincial final,Tipperary,2,21,27,Clare,0,19,19,Tipperary,"Gaelic Grounds, Limerick",48077,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Hurling_Championship
 2008-07-17,hurling,under21,munster,Semi-final,Tipperary,1,13,16,Limerick,0,15,15,Tipperary,Semple Stadium,,D Copps (Cork),,https://en.wikipedia.org/wiki/2008_All-Ireland_Under-21_Hurling_Championship
@@ -5336,6 +5371,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2008-07-19,hurling,senior,nicky_rackard,Quarter-final,South Down,2,16,22,Louth,4,13,25,Louth,Páirc Esler,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
 2008-07-19,hurling,senior,nicky_rackard,Quarter-final,Monaghan,1,11,14,Cavan,0,9,9,Monaghan,St Tiernach's Park,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
 2008-07-19,hurling,senior,nicky_rackard,Quarter-final,Sligo,2,15,21,Tyrone,2,11,17,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
+2008-07-19,football,senior,tommy_murphy,Quarter-final,London,3,14,23,Sligo,2,12,18,London,Ruislip,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
+2008-07-19,football,senior,tommy_murphy,Quarter-final,Antrim,1,10,13,Carlow,0,11,11,Antrim,Casement Park,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
+2008-07-19,football,senior,tommy_murphy,Quarter-final,Clare,1,8,11,Leitrim,1,12,15,Leitrim,Cusack Park (Ennis),,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
+2008-07-19,football,senior,tommy_murphy,Quarter-final,Wicklow,0,18,18,Waterford,0,12,12,Wicklow,Aughrim Park,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
 2008-07-20,football,senior,leinster,Provincial final,Wexford,0,9,9,Dublin,3,23,32,Dublin,"Croke Park, Dublin",80112,Gearoid Ó Conamha (Galway),,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Football_Championship
 2008-07-20,hurling,under21,munster,Semi-final,Cork,1,11,14,Clare,1,20,23,Clare,Páirc Uí Chaoimh,,N Cosgrave (Tipperary),,https://en.wikipedia.org/wiki/2008_All-Ireland_Under-21_Hurling_Championship
 2008-07-20,football,senior,ulster,Provincial final,Fermanagh,1,11,14,Armagh,2,8,14,draw,"St Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/2008_Ulster_Senior_Football_Championship
@@ -5350,6 +5389,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2008-07-26,hurling,senior,christy_ring,relegation play-off quarter-final,Roscommon,3,6,15,Meath,3,19,28,Meath,"Cusack Park, Mullingar",,T Carroll (Offaly),,https://en.wikipedia.org/wiki/2008_Christy_Ring_Cup
 2008-07-26,hurling,senior,nicky_rackard,Semi-final,Monaghan,1,13,16,Louth,0,18,18,Louth,Monaghan,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
 2008-07-26,hurling,senior,nicky_rackard,Semi-final,Sligo,1,16,19,Fingal,0,11,11,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2008_Nicky_Rackard_Cup
+2008-07-26,football,senior,tommy_murphy,Semi-final,Antrim,1,19,22,London,0,13,13,Antrim,Casement Park,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
+2008-07-26,football,senior,tommy_murphy,Semi-final,Wicklow,0,15,15,Leitrim,0,12,12,Wicklow,Aughrim Park,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
 2008-07-27,hurling,senior,all_ireland,Quarter-final,Wexford,3,15,24,Waterford,2,19,25,Waterford,"Semple Stadium, Thurles",46571,J Sexton (Cork),,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Hurling_Championship
 2008-07-27,hurling,senior,all_ireland,Quarter-final,Clare,2,17,23,Cork,2,19,25,Cork,"Semple Stadium, Thurles",46571,D Murphy (Wexford),,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Hurling_Championship
 2008-07-27,football,senior,ulster,Provincial final replay,Fermanagh,0,8,8,Armagh,1,11,14,Armagh,"St Tiernach's Park, Clones",,,replay,https://en.wikipedia.org/wiki/2008_Ulster_Senior_Football_Championship
@@ -5357,6 +5398,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2008-08-02,football,senior,all_ireland,Round 3 qualifier,Tyrone,0,13,13,Mayo,1,9,12,Tyrone,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Football_Championship
 2008-08-02,football,senior,all_ireland,Round 3 qualifier,Down,0,12,12,Wexford,2,13,19,Wexford,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Football_Championship
 2008-08-02,hurling,senior,christy_ring,relegation play-off semi-final,London,3,16,25,Roscommon,3,12,21,London,O'Moore Park,,D Connolly (Kilkenny),,https://en.wikipedia.org/wiki/2008_Christy_Ring_Cup
+2008-08-02,football,senior,tommy_murphy,Final,Antrim,3,12,21,Wicklow,1,15,18,Antrim,Croke Park,,,,https://en.wikipedia.org/wiki/2008_Tommy_Murphy_Cup
 2008-08-03,football,senior,all_ireland,Round 3 qualifier,Kildare,0,11,11,Fermanagh,0,5,5,Kildare,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Football_Championship
 2008-08-03,football,senior,all_ireland,Round 3 qualifier,Monaghan,0,13,13,Kerry,1,13,16,Kerry,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Football_Championship
 2008-08-03,hurling,senior,christy_ring,final,Carlow,3,22,31,Westmeath,4,16,28,Carlow,O'Connor Park,,N Cosgrove (Tipperary),After extra time. Carlow won the Christy Ring Cup.,https://en.wikipedia.org/wiki/2008_Christy_Ring_Cup
@@ -5591,6 +5633,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2009-06-03,hurling,under21,munster,Quarter-final,Tipperary,2,22,28,Cork,0,25,25,Tipperary,Semple Stadium,,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Under-21_Hurling_Championship
 2009-06-06,hurling,senior,christy_ring,Semi-final,Down,4,21,33,Mayo,0,14,14,Down,"Pairc Esler, Newry",,A. Stapleton (Laois),,https://en.wikipedia.org/wiki/2009_Christy_Ring_Cup
 2009-06-06,hurling,senior,christy_ring,Semi-final,Carlow,1,15,18,Kerry,2,12,18,draw,"Dr. Cullen Park, Carlow",,T. Carroll (Offaly),Match drawn on totals (18-18); went to a replay won by Carlow,https://en.wikipedia.org/wiki/2009_Christy_Ring_Cup
+2009-06-06,hurling,senior,lory_meagher,Round 1,Tyrone,3,9,18,South Down,5,6,21,South Down,Healy Park,,G Duffy (Antrim),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
+2009-06-06,hurling,senior,lory_meagher,Round 1,Fermanagh,0,14,14,Leitrim,1,12,15,Leitrim,Brewster Park,,,,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
+2009-06-06,hurling,senior,lory_meagher,Round 1,Donegal,0,20,20,Cavan,1,12,15,Donegal,O'Donnell Park,,O Elliott (Antrim),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-06-06,hurling,senior,nicky_rackard,Round 1,Roscommon,1,11,14,Fingal,1,8,11,Roscommon,Athleague,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-06,hurling,senior,nicky_rackard,Round 1,Sligo,0,10,10,Meath,1,23,26,Meath,Sligo,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-06,hurling,senior,nicky_rackard,Round 1,Armagh,0,12,12,London,1,19,22,London,Armagh,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
@@ -5598,12 +5643,17 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2009-06-06,football,senior,ulster,Provincial quarter-final,Cavan,0,13,13,Fermanagh,1,9,12,Cavan,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-07,football,senior,leinster,Provincial quarter-final,Dublin,0,14,14,Meath,0,12,12,Dublin,"Croke Park, Dublin",75250,Marty Duffy (Sligo),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-07,hurling,senior,leinster,Provincial quarter-final,Dublin,2,16,22,Antrim,0,12,12,Dublin,"Croke Park, Dublin",75250,J McGrath (Westmeath),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
+2009-06-07,hurling,senior,lory_meagher,Round 1,Warwickshire,0,14,14,Longford,1,14,17,Longford,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-06-07,football,senior,munster,Provincial semi-final,Clare,1,9,12,Limerick,1,13,16,Limerick,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-07,football,senior,munster,Provincial semi-final,Kerry,0,13,13,Cork,1,10,13,draw,"FitzGerald Stadium, Killarney",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-10,hurling,under21,leinster,Semi-final,Dublin,1,24,27,Wexford,0,8,8,Dublin,Parnell Park,,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2009_All-Ireland_Under-21_Hurling_Championship
 2009-06-10,hurling,under21,leinster,Semi-final,Kilkenny,0,18,18,Offaly,0,15,15,Kilkenny,Nowlan Park,,F Smith (Meath),,https://en.wikipedia.org/wiki/2009_All-Ireland_Under-21_Hurling_Championship
 2009-06-13,hurling,senior,christy_ring,Semi-final replay,Kerry,2,11,17,Carlow,6,10,28,Carlow,"Austin Stack Park, Tralee",,D. O'Driscoll (Limerick),Replay of the drawn semi-final,https://en.wikipedia.org/wiki/2009_Christy_Ring_Cup
 2009-06-13,football,senior,leinster,Provincial quarter-final,Kildare,2,12,18,Wexford,0,11,11,Kildare,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
+2009-06-13,hurling,senior,lory_meagher,Round 2A,Leitrim,1,14,17,South Down,2,14,20,South Down,Páirc Seán Mac Diarmada,,A Carroll (Offaly),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
+2009-06-13,hurling,senior,lory_meagher,Round 2A,Longford,5,15,30,Donegal,2,22,28,Longford,Hugh Devine Park,,,,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
+2009-06-13,hurling,senior,lory_meagher,Round 2B,Tyrone,3,19,28,Warwickshire,1,16,19,Tyrone,Healy Park,,E Elliot (Antrim),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
+2009-06-13,hurling,senior,lory_meagher,Round 2B,Cavan,3,9,18,Fermanagh,3,15,24,Fermanagh,Breffni Park,,D McGee (Down),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-06-13,football,senior,munster,Provincial semi-final,Cork,1,17,20,Kerry,0,12,12,Cork,"Páirc Uí Chaoimh, Cork",,,replay,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-13,hurling,senior,nicky_rackard,Round 2A,London,1,22,25,Roscommon,1,11,14,London,Ruislip,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-13,hurling,senior,nicky_rackard,Round 2A,Meath,1,26,29,Louth,0,10,10,Meath,Navan,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
@@ -5615,14 +5665,18 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2009-06-14,football,senior,ulster,Provincial quarter-final,Donegal,0,12,12,Antrim,1,10,13,Antrim,"MacCumhaill Park, Ballybofey",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-20,football,senior,connacht,Provincial semi-final,Mayo,3,18,27,Roscommon,0,7,7,Mayo,"McHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-20,hurling,senior,leinster,Provincial semi-final,Galway,3,13,22,Kilkenny,2,20,26,Kilkenny,"O'Connor Park, Tullamore",,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
+2009-06-20,hurling,senior,lory_meagher,Quarter-final,Tyrone,1,20,23,Leitrim,3,8,17,Tyrone,Healy Park,,J O'Rourke (Monaghan),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-06-20,hurling,senior,munster,Provincial semi-final,Limerick,0,17,17,Waterford,0,25,25,Waterford,"Semple Stadium, Thurles",,B Gavin (Offaly),replay,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
 2009-06-20,hurling,senior,nicky_rackard,Relegation Play-off,Sligo,3,14,23,Monaghan,2,9,15,Sligo,Ballinamore,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-20,hurling,senior,nicky_rackard,Quarter-final,Armagh,6,26,44,Roscommon,2,9,15,Armagh,Armagh,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-20,hurling,senior,nicky_rackard,Quarter-final,Fingal,0,16,16,Louth,1,11,14,Fingal,Swords,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-21,hurling,senior,leinster,Provincial semi-final,Dublin,0,18,18,Wexford,1,13,16,Dublin,"Nowlan Park, Kilkenny",9490,C McAllister (Cork),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
+2009-06-21,hurling,senior,lory_meagher,Quarter-final,Fermanagh,0,8,8,Donegal,3,20,29,Donegal,Brewster Park,,,,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-06-21,hurling,senior,munster,Provincial semi-final,Tipperary,3,18,27,Clare,1,22,25,Tipperary,"Gaelic Grounds, Limerick",,J Owens (Wexford),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
 2009-06-21,football,senior,ulster,Provincial semi-final,Derry,0,7,7,Tyrone,0,15,15,Tyrone,"Casement Park, Belfast",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-06-27,football,senior,leinster,Provincial semi-final,Kildare,2,18,24,Laois,0,9,9,Kildare,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
+2009-06-27,hurling,senior,lory_meagher,Semi-final,South Down,2,11,17,Donegal,1,15,18,Donegal,Ballela,,A Stapleton (Laois),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
+2009-06-27,hurling,senior,lory_meagher,Semi-final,Longford,4,9,21,Tyrone,3,16,25,Tyrone,Hugh Devine Park,,M O'Connor (Limerick),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-06-27,hurling,senior,nicky_rackard,Semi-final,London,1,19,22,Fingal,2,8,14,London,Ruislip,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-27,hurling,senior,nicky_rackard,Semi-final,Meath,0,21,21,Armagh,1,14,17,Meath,Navan,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-06-27,football,senior,ulster,Provincial semi-final,Cavan,1,7,10,Antrim,0,13,13,Antrim,"St Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
@@ -5651,6 +5705,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2009-07-11,hurling,senior,all_ireland,Phase 2 qualifier,Wexford,0,14,14,Limerick,1,13,16,Limerick,"Wexford Park, Wexford",,M Wadding (Waterford),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
 2009-07-11,hurling,senior,all_ireland,Phase 2 qualifier,Clare,1,11,14,Galway,2,18,24,Galway,"Cusack Park, Ennis",,J Owens (Wexford),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
 2009-07-11,hurling,senior,christy_ring,Final,Carlow,1,15,18,Down,0,14,14,Carlow,"Croke Park, Dublin",,T. Ryan (Tipperary),Carlow retained the cup; promoted to 2010 Liam MacCarthy Cup,https://en.wikipedia.org/wiki/2009_Christy_Ring_Cup
+2009-07-11,hurling,senior,lory_meagher,Final,Donegal,3,16,25,Tyrone,5,11,26,Tyrone,Croke Park,,T Carroll (Offaly),,https://en.wikipedia.org/wiki/2009_Lory_Meagher_Cup
 2009-07-11,hurling,senior,nicky_rackard,Final,London,1,15,18,Meath,2,18,24,Meath,Croke Park,,,,https://en.wikipedia.org/wiki/2009_Nicky_Rackard_Cup
 2009-07-12,football,senior,leinster,Provincial final,Kildare,0,18,18,Dublin,2,15,21,Dublin,"Croke Park, Dublin",74573,Pat McEnaney (Monaghan),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-07-12,hurling,senior,munster,Provincial final,Tipperary,4,14,26,Waterford,2,16,22,Tipperary,"Semple Stadium, Thurles",,J Sexton (Cork),,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Hurling_Championship
@@ -5946,6 +6001,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-06-05,hurling,senior,christy_ring,Semi-final,Kerry,2,17,23,Wicklow,2,14,20,Kerry,"McDonagh Park, Nenagh",,D. O'Driscoll (Limerick),,https://en.wikipedia.org/wiki/2010_Christy_Ring_Cup
 2010-06-05,football,senior,connacht,Quarter-final,Sligo,0,15,15,Mayo,1,8,11,Sligo,"Markievicz Park, Sligo",,J. White (Donegal),,https://en.wikipedia.org/wiki/2010_Connacht_Senior_Football_Championship
 2010-06-05,football,senior,leinster,Quarter-final,Louth,1,22,25,Kildare,1,16,19,Louth,"Pairc Tailteann, Navan",,M. Duffy (Sligo),,https://en.wikipedia.org/wiki/2010_Leinster_Senior_Football_Championship
+2010-06-05,hurling,senior,lory_meagher,Round 1,Leitrim,1,13,16,South Down,1,12,15,Leitrim,Carrick-on-Shannon,,A. Kelly (Galway),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
+2010-06-05,hurling,senior,lory_meagher,Round 1,Donegal,3,13,22,Longford,1,15,18,Donegal,Letterkenny,,M. Mulholland (Derry),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
+2010-06-05,hurling,senior,lory_meagher,Round 1,Warwickshire,2,17,23,Fermanagh,1,8,11,Warwickshire,Solihull,,G. Devlin (Armagh),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
 2010-06-05,hurling,senior,nicky_rackard,Round 1,Armagh,3,15,24,Fingal,1,12,15,Armagh,Crossmaglen,,R. Mathews (Antrim),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-05,hurling,senior,nicky_rackard,Round 1,Roscommon,4,16,28,Monaghan,0,18,18,Roscommon,Athleague,,M. Haverty (Galway),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-05,hurling,senior,nicky_rackard,Round 1,Louth,3,17,26,Tyrone,1,7,10,Louth,Dundalk,,G. Duffy (Antrim),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
@@ -5958,6 +6016,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-06-07,hurling,senior,munster,Provincial semi-final,Clare,1,15,18,Waterford,0,22,22,Waterford,"Semple Stadium, Thurles",11027,B. Gavin (Offaly),,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Hurling_Championship
 2010-06-09,hurling,under21,leinster,quarter-final,Laois,0,9,9,Carlow,1,14,17,Carlow,"O'Moore Park, Portlaoise",,C Groome (Offaly),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Hurling_Championship
 2010-06-09,hurling,under21,leinster,quarter-final,Kilkenny,2,31,37,Offaly,0,8,8,Kilkenny,"Nowlan Park, Kilkenny",,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Hurling_Championship
+2010-06-12,hurling,senior,lory_meagher,Round 2A,Donegal,0,21,21,Warwickshire,2,9,15,Donegal,Letterkenny,,E. Hassan (Derry),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
+2010-06-12,hurling,senior,lory_meagher,Round 2A,Cavan,1,14,17,Leitrim,2,14,20,Leitrim,"Breffni Park, Cavan",,J. O'Rourke (Monaghan),Cavan received a bye to Round 2A,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
+2010-06-12,hurling,senior,lory_meagher,Round 2B,Longford,5,13,28,South Down,1,13,16,Longford,"Pearse Park, Longford",,T. Carroll (Offaly),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
 2010-06-12,hurling,senior,nicky_rackard,Round 2A,Louth,1,8,11,Roscommon,0,17,17,Roscommon,Dundalk,,O. Elliott (Antrim),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-12,hurling,senior,nicky_rackard,Round 2A,Armagh,4,26,38,London,2,23,29,Armagh,Crossmaglen,,D. McGee (Down),After extra time,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-12,hurling,senior,nicky_rackard,Round 2B,Fingal,1,18,21,Tyrone,2,9,15,Fingal,Swords,,R. Mathews (Antrim),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
@@ -5967,6 +6028,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-06-13,football,senior,leinster,Quarter-final,Wexford,0,15,15,Dublin,2,16,22,Dublin,"Croke Park, Dublin",49757,M. Haggins (Fermanagh),After extra time,https://en.wikipedia.org/wiki/2010_Leinster_Senior_Football_Championship
 2010-06-13,football,senior,munster,Semi-final,Kerry,1,15,18,Cork,1,14,17,Kerry,"Pairc Ui Chaoimh, Cork",26486,Pat McEnaney (Monaghan),Replay,https://en.wikipedia.org/wiki/2010_Munster_Senior_Football_Championship
 2010-06-19,football,senior,leinster,Quarter-final,Meath,2,14,20,Laois,0,10,10,Meath,"O'Connor Park, Tullamore",12659,M. Condon (Waterford),Replay,https://en.wikipedia.org/wiki/2010_Leinster_Senior_Football_Championship
+2010-06-19,hurling,senior,lory_meagher,Quarter-final,Fermanagh,0,19,19,Cavan,1,7,10,Fermanagh,"Brewster Park, Enniskillen",,E. Hassan (Derry),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
+2010-06-19,hurling,senior,lory_meagher,Quarter-final,Warwickshire,2,12,18,Longford,2,22,28,Longford,Solihull,,P. Casey (Waterford),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
 2010-06-19,hurling,senior,nicky_rackard,Quarter-final,Louth,2,15,21,Sligo,3,18,27,Sligo,"Pearse Park, Longford",,M. Haverty (Galway),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-19,hurling,senior,nicky_rackard,Quarter-final,London,5,17,32,Fingal,1,11,14,London,"Parnell Park, Dublin",,D. Murphy (Wexford),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-19,hurling,senior,nicky_rackard,Relegation play-off,Monaghan,,,,Tyrone,,,,Monaghan,,,,Monaghan defeated Tyrone; score not stated. Tyrone relegated to 2011 Lory Meagher Cup.,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
@@ -5985,6 +6048,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-06-26,football,senior,all_ireland,Round 1 qualifier,Cavan,0,15,15,Wicklow,2,8,14,Cavan,"Breffni Park, Cavan",,C. Reilly (Meath),,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Football_Championship
 2010-06-26,hurling,senior,all_ireland,Preliminary round qualifier,Carlow,1,19,22,Laois,3,12,21,Carlow,"Dr Cullen Park, Carlow",,M. Wadding (Waterford),,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Hurling_Championship
 2010-06-26,hurling,senior,leinster,Provincial semi-final,Galway,3,17,26,Offaly,2,18,24,Galway,"O'Moore Park, Portlaoise",,C. McAllister (Cork),replay,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Hurling_Championship
+2010-06-26,hurling,senior,lory_meagher,Semi-final,Leitrim,0,10,10,Longford,2,21,27,Longford,"Pearse Park, Longford",,P. Green (Galway),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
+2010-06-26,hurling,senior,lory_meagher,Semi-final,Donegal,1,22,25,Fermanagh,1,11,14,Donegal,Omagh,,A. Kelly (Galway),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
 2010-06-26,hurling,senior,nicky_rackard,Semi-final,Armagh,5,18,33,Sligo,1,18,21,Armagh,"Breffni Park, Cavan",,G. Duffy (Antrim),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-26,hurling,senior,nicky_rackard,Semi-final,Roscommon,1,14,17,London,1,15,18,London,"Parnell Park, Dublin",,E. Morris (Dublin),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-06-27,football,senior,all_ireland,Round 1 qualifier,Wexford,4,22,34,London,0,9,9,Wexford,Ruislip,,D. Fahy (Longford),,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Football_Championship
@@ -5998,6 +6063,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-07-03,hurling,senior,all_ireland,Phase 1 qualifier,Tipperary,3,24,33,Wexford,0,19,19,Tipperary,"Semple Stadium, Thurles",,J. McGrath (Westmeath),,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Hurling_Championship
 2010-07-03,hurling,senior,christy_ring,Final,Westmeath,2,16,22,Kerry,1,18,21,Westmeath,"Croke Park, Dublin",,T. Carroll (Offaly),Westmeath promoted to Liam MacCarthy Cup 2011,https://en.wikipedia.org/wiki/2010_Christy_Ring_Cup
 2010-07-03,football,senior,connacht,Semi-final,Sligo,1,14,17,Galway,0,16,16,Sligo,"Markievicz Park, Sligo",,M. Deegan (Laois),Replay,https://en.wikipedia.org/wiki/2010_Connacht_Senior_Football_Championship
+2010-07-03,hurling,senior,lory_meagher,Final,Longford,1,20,23,Donegal,1,12,15,Longford,"Croke Park, Dublin",,R. Mathews (Antrim),,https://en.wikipedia.org/wiki/2010_Lory_Meagher_Cup
 2010-07-03,hurling,senior,nicky_rackard,Final,Armagh,3,15,24,London,3,14,23,Armagh,"Croke Park, Dublin",,D. Magee (Down),,https://en.wikipedia.org/wiki/2010_Nicky_Rackard_Cup
 2010-07-04,hurling,senior,leinster,Provincial final,Galway,1,12,15,Kilkenny,1,19,22,Kilkenny,"Croke Park, Dublin",31376,M. Wadding (Waterford),,https://en.wikipedia.org/wiki/2010_All-Ireland_Senior_Hurling_Championship
 2010-07-04,football,senior,munster,Final,Limerick,1,14,17,Kerry,1,17,20,Kerry,"FitzGerald Stadium, Killarney",23864,Patrick Fox (Westmeath),,https://en.wikipedia.org/wiki/2010_Munster_Senior_Football_Championship
@@ -6279,6 +6345,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2011-04-23,hurling,senior,christy_ring,Round 1,Down,1,13,16,Derry,2,17,23,Derry,"McKenna Park, Ballycran",,P. Murphy (Carlow),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-04-23,hurling,senior,christy_ring,Round 1,Mayo,1,17,20,Wicklow,1,19,22,Wicklow,"McHale Park, Castlebar",,C. Browne (Galway),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-04-23,hurling,senior,christy_ring,Round 1,Armagh,1,17,20,Meath,2,21,27,Meath,"Athletic Grounds, Armagh",,G. Duffy,,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
+2011-04-23,hurling,senior,lory_meagher,Round 1,Warwickshire,1,13,16,Donegal,3,16,25,Donegal,"Páirc na hÉireann, Birmingham",,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-04-23,hurling,senior,lory_meagher,Round 1,Longford,2,12,18,Tyrone,4,17,29,Tyrone,"Pearse Park, Longford",,C Groome (Offaly),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-04-23,hurling,senior,lory_meagher,Round 1,South Down,4,25,37,Leitrim,0,8,8,South Down,Liatroim,,O Elliott (Antrim),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-04-23,hurling,senior,lory_meagher,Round 1,Fermanagh,,,,Cavan,,,,Fermanagh,,,,Fermanagh won by walkover,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
 2011-04-23,football,senior,nfl_div3,Division 3 Final,Louth,1,15,18,Westmeath,0,13,13,Louth,"Croke Park, Dublin",,Rory Hickey (Clare),,https://en.wikipedia.org/wiki/2011_National_Football_League_(Ireland)
 2011-04-23,football,senior,nfl_div4,Division 4 Final,Longford,2,11,17,Roscommon,1,8,11,Longford,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2011_National_Football_League_(Ireland)
 2011-04-23,hurling,senior,nicky_rackard,Round 1,London,1,19,22,Roscommon,1,17,20,London,Ruislip,,S Whelan (Wexford),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
@@ -6289,6 +6359,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2011-04-30,hurling,senior,christy_ring,Round 2A,Wicklow,3,16,25,Derry,2,11,17,Wicklow,"Aughrim County Ground, Aughrim",,S. Whelan (Wexford),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-04-30,hurling,senior,christy_ring,Round 2B,Mayo,2,10,16,Kildare,1,20,23,Kildare,"McHale Park, Castlebar",,J. O'Mahoney (Limerick),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-04-30,hurling,senior,christy_ring,Round 2B,Down,1,20,23,Armagh,0,6,6,Down,"McKenna Park, Ballycran",,R. Matthews (Antrim),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
+2011-04-30,hurling,senior,lory_meagher,Round 2A,Donegal,3,18,27,Fermanagh,2,8,14,Donegal,Letterkenny,,E Hassan (Derry),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-04-30,hurling,senior,lory_meagher,Round 2A,Tyrone,2,14,20,South Down,1,9,12,Tyrone,Omagh,,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-04-30,hurling,senior,lory_meagher,Round 2B,Leitrim,2,11,17,Warwickshire,4,11,23,Warwickshire,"Páirc Sheáin Mhic Dhiarmada, Carrick on Shannon",,M O'Connor (Limerick),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
 2011-04-30,hurling,senior,nhl_div2,Division 2 Final,Clare,2,13,19,Limerick,4,12,24,Limerick,Cusack Park,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
 2011-04-30,hurling,senior,nicky_rackard,Round 2,Fingal,2,12,18,Monaghan,1,17,20,Monaghan,Swords,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
 2011-04-30,hurling,senior,nicky_rackard,Round 2,Louth,1,10,13,London,6,20,38,London,"Dowdallshill, Dundalk",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
@@ -6297,12 +6370,16 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2011-05-01,hurling,senior,nhl_div1,Division 1 Final,Dublin,0,22,22,Kilkenny,1,7,10,Dublin,Croke Park,42030,M Wadding (Waterford),,https://en.wikipedia.org/wiki/2011_National_Hurling_League
 2011-05-07,hurling,senior,christy_ring,Quarter-final,Down,1,18,21,Meath,1,7,10,Down,"McKenna Park, Ballycran",,E. Hasson (Derry),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-05-07,hurling,senior,christy_ring,Quarter-final,Derry,1,13,16,Kildare,4,18,30,Kildare,"Fr. McNally Park, Banagher",,G. Duffy (Antrim),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
+2011-05-07,hurling,senior,lory_meagher,Quarter-final,Longford,1,14,17,South Down,2,14,20,South Down,Liatroim,,R Matthews (Antrim),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-05-07,hurling,senior,lory_meagher,Quarter-final,Fermanagh,1,10,13,Warwickshire,4,8,20,Warwickshire,"Brewster Park, Enniskillen",,C Brown (Galway),,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
 2011-05-07,hurling,senior,nicky_rackard,Quarter-final,Sligo,0,11,11,Fingal,3,19,28,Fingal,Swords,,P Dwyer (Carlow),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
 2011-05-07,hurling,senior,nicky_rackard,Quarter-final,Roscommon,1,14,17,Louth,3,9,18,Louth,"Dowdallshill, Dundalk",,F Smith (Meath),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
 2011-05-14,hurling,senior,leinster,Preliminary round,Laois,3,12,21,Antrim,1,21,24,Antrim,O'Moore Park,,A Kelly (Galway),,https://en.wikipedia.org/wiki/2011_All-Ireland_Senior_Hurling_Championship
 2011-05-15,football,senior,ulster,Preliminary round,Donegal,1,10,13,Antrim,0,7,7,Donegal,"MacCumhaill Park, Ballybofey",7385,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2011_Ulster_Senior_Football_Championship
 2011-05-21,hurling,senior,christy_ring,Semi-final,Kerry,1,18,21,Down,1,17,20,Kerry,"Páirc Esler, Newry",,S. Whelan (Wexford),,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-05-21,hurling,senior,christy_ring,Semi-final,Wicklow,3,11,20,Kildare,2,11,17,Wicklow,"Aughrim County Ground, Aughrim",,D. O'Driscoll,,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
+2011-05-21,hurling,senior,lory_meagher,Semi-final,Tyrone,2,15,21,Warwickshire,0,17,17,Tyrone,Páirc na hÉireann,,J O'Connell,,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
+2011-05-21,hurling,senior,lory_meagher,Semi-final,Donegal,1,15,18,South Down,1,12,15,Donegal,"Páirc Esler, Newry",,S Cleere (Kilkenny),After extra time,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
 2011-05-21,hurling,senior,nicky_rackard,Semi-final,London,1,29,32,Fingal,1,5,8,London,Ruislip,,T Ryan (Tipperary),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
 2011-05-21,hurling,senior,nicky_rackard,Semi-final,Louth,2,17,23,Monaghan,1,13,16,Louth,"Clones, County Monaghan",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
 2011-05-22,football,senior,connacht,Quarter-final,Leitrim,1,10,13,Sligo,0,10,10,Leitrim,"Markievicz Park, Sligo",7354,J Curley (Meath),,https://en.wikipedia.org/wiki/2011_Connacht_Senior_Football_Championship
@@ -6321,6 +6398,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2011-06-01,hurling,under21,munster,Quarter-Final,Tipperary,4,12,24,Waterford,1,16,19,Tipperary,"Semple Stadium, Thurles",,D. Kirwan (Cork),,https://en.wikipedia.org/wiki/2011_All-Ireland_Under-21_Hurling_Championship
 2011-06-04,hurling,senior,christy_ring,Final,Kerry,2,21,27,Wicklow,2,8,14,Kerry,"Croke Park, Dublin",,G. Duffy,Kerry's 1st Christy Ring Cup title.,https://en.wikipedia.org/wiki/2011_Christy_Ring_Cup
 2011-06-04,hurling,senior,leinster,Quarter-final,Westmeath,2,14,20,Galway,4,17,29,Galway,Cusack Park,,,,https://en.wikipedia.org/wiki/2011_All-Ireland_Senior_Hurling_Championship
+2011-06-04,hurling,senior,lory_meagher,Final,Tyrone,0,17,17,Donegal,2,12,18,Donegal,"Croke Park, Dublin",,F Smith,Donegal won their first championship in eight years,https://en.wikipedia.org/wiki/2011_Lory_Meagher_Cup
 2011-06-04,football,senior,munster,Semi-final,Kerry,1,26,29,Limerick,3,9,18,Kerry,"Pairc na nGael, Limerick",6800,R Hickey (Clare),,https://en.wikipedia.org/wiki/2011_Munster_Senior_Football_Championship
 2011-06-04,hurling,senior,nicky_rackard,Final,London,2,20,26,Louth,0,11,11,London,"Croke Park, Dublin",,M. Haverty (Galway),"Canty and Finn inspire Exiles to title (Irish Independent, 6 June 2011)",https://en.wikipedia.org/wiki/2011_Nicky_Rackard_Cup
 2011-06-05,football,senior,leinster,Quarter-final,Kildare,0,16,16,Meath,0,10,10,Kildare,"Croke Park, Dublin",41786,S Doyle (Wexford),,https://en.wikipedia.org/wiki/2011_Leinster_Senior_Football_Championship
@@ -6654,6 +6732,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-05-05,hurling,senior,christy_ring,Round 1,Wicklow,2,20,26,Kerry,2,15,21,Wicklow,"Aughrim County Ground, Aughrim",,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
 2012-05-05,hurling,senior,christy_ring,Round 1,Mayo,0,17,17,Down,0,19,19,Down,"McHale Park, Castlebar",,S Hourigan (Limerick),,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
 2012-05-05,hurling,senior,christy_ring,Round 1,Derry,1,22,25,Kildare,2,18,24,Derry,"Celtic Park, Derry",,G Duffy (Antrim),,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
+2012-05-05,hurling,senior,lory_meagher,Round 1,Leitrim,1,6,9,Tyrone,4,22,34,Tyrone,Ballinamore,,G Chapman (Sligo),,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
+2012-05-05,hurling,senior,lory_meagher,Round 1,Fermanagh,1,19,22,Longford,1,8,11,Fermanagh,"Brewster Park, Enniskillen",,B Sweeney (Cavan),,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
 2012-05-05,hurling,senior,nicky_rackard,Round 1,Louth,1,8,11,Armagh,0,20,20,Armagh,"Dowdallshill, Drogheda",,P O'Dwyer,,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-05-05,hurling,senior,nicky_rackard,Round 1,Donegal,1,15,18,Roscommon,0,14,14,Donegal,Letterkenny,,E Hassan,,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-05-06,football,under21,all_ireland,Final,Dublin,2,12,18,Roscommon,0,11,11,Dublin,Tullamore,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
@@ -6664,6 +6744,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-05-12,hurling,senior,christy_ring,Round 2A,Down,2,23,29,Meath,1,19,22,Down,"Pairc Esler, Newry",,,,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
 2012-05-12,hurling,senior,christy_ring,Round 2B,Kildare,2,21,27,Kerry,1,16,19,Kildare,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
 2012-05-12,hurling,senior,christy_ring,Round 2B,London,2,15,21,Mayo,3,10,19,London,"Emerald GAA Grounds, Ruislip",,,,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
+2012-05-12,hurling,senior,lory_meagher,Round 2,Leitrim,1,10,13,Warwickshire,2,14,20,Warwickshire,Ballinamore,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
 2012-05-12,hurling,senior,nicky_rackard,Round 2,Monaghan,0,15,15,Donegal,1,16,19,Donegal,Clones,,D McGee,,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-05-12,hurling,senior,nicky_rackard,Round 2,Armagh,1,20,23,Sligo,0,8,8,Armagh,Crossmaglen,,L McAuley,,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-05-19,hurling,senior,christy_ring,Quarter-Final,Derry,1,15,18,London,3,11,20,London,"Celtic Park, Derry",,G Duffy (Antrim),,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
@@ -6677,8 +6758,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-05-20,football,senior,leinster,Preliminary round,Longford,1,10,13,Laois,0,12,12,Longford,"Pearse Park, Longford",5587,M Duffy (Sligo),,https://en.wikipedia.org/wiki/2012_Leinster_Senior_Football_Championship
 2012-05-20,football,senior,munster,Quarter-final,Limerick,2,12,18,Waterford,0,7,7,Limerick,"Gaelic Grounds, Limerick",2431,C Lane (Cork),,https://en.wikipedia.org/wiki/2012_Munster_Senior_Football_Championship
 2012-05-20,football,senior,ulster,Preliminary round,Cavan,1,10,13,Donegal,1,16,19,Donegal,"Breffni Park, Cavan",12847,C Reilly (Meath),,https://en.wikipedia.org/wiki/2012_Ulster_Senior_Football_Championship
+2012-05-21,hurling,senior,lory_meagher,Round 3,Longford,3,11,20,Leitrim,2,18,24,Leitrim,"Pearse Park, Longford",,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
 2012-05-26,hurling,senior,christy_ring,Semi-Final,Down,1,21,24,London,1,21,24,draw,"Pairc Esler, Newry",,P Murphy (Carlow),After extra time; draw requiring replay,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
 2012-05-26,hurling,senior,christy_ring,Semi-Final,Wicklow,3,17,26,Meath,2,12,18,Wicklow,Arklow,,T Carroll (Offaly),,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
+2012-05-26,hurling,senior,lory_meagher,Semi-final,Fermanagh,3,16,25,Leitrim,2,12,18,Fermanagh,Maguiresbridge,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
+2012-05-26,hurling,senior,lory_meagher,Semi-final,Warwickshire,1,16,19,Tyrone,2,15,21,Tyrone,"Páirc na hÉireann, Solihull",,D Copps (Cork),,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
 2012-05-26,hurling,senior,nicky_rackard,Semi-final,Armagh,4,12,24,Roscommon,1,17,20,Armagh,Crossmaglen,,E Hassan,,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-05-26,hurling,senior,nicky_rackard,Semi-final,Donegal,0,7,7,Louth,3,18,27,Louth,Letterkenny,,O Elliot,,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-05-27,football,senior,leinster,Preliminary round,Meath,0,16,16,Wicklow,0,11,11,Meath,"Dr Cullen Park, Carlow",7350,P Hughes (Armagh),,https://en.wikipedia.org/wiki/2012_Leinster_Senior_Football_Championship
@@ -6698,6 +6782,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-06-06,hurling,under21,munster,quarter_final,Cork,0,17,17,Tipperary,0,18,18,Tipperary,"Páirc Uí Chaoimh, Cork",,P Casey (Waterford),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Hurling_Championship
 2012-06-09,hurling,senior,christy_ring,Final,Wicklow,1,17,20,London,4,18,30,London,"Croke Park, Dublin",,,London break free in second half; promoted to All-Ireland Championship tier for 2013,https://en.wikipedia.org/wiki/2012_Christy_Ring_Cup
 2012-06-09,football,senior,connacht,Semi-final,Sligo,2,14,20,Galway,0,15,15,Sligo,"Pearse Stadium, Galway",8556,M Deegan (Laois),,https://en.wikipedia.org/wiki/2012_Connacht_Senior_Football_Championship
+2012-06-09,hurling,senior,lory_meagher,Final,Tyrone,2,24,30,Fermanagh,3,20,29,Tyrone,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2012_Lory_Meagher_Cup
 2012-06-09,football,senior,munster,Semi-final,Clare,1,13,16,Limerick,0,15,15,Clare,"Gaelic Grounds, Limerick",4446,D Fahy (Longford),,https://en.wikipedia.org/wiki/2012_Munster_Senior_Football_Championship
 2012-06-09,hurling,senior,nicky_rackard,Final,Armagh,3,20,29,Louth,1,15,18,Armagh,"Croke Park, Dublin",,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2012_Nicky_Rackard_Cup
 2012-06-10,football,senior,leinster,Quarter-final,Longford,0,15,15,Wexford,1,13,16,Wexford,"O'Connor Park, Tullamore",10171,C Lane (Cork),replay,https://en.wikipedia.org/wiki/2012_Leinster_Senior_Football_Championship
@@ -6996,6 +7081,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-05-04,hurling,senior,christy_ring,Round 1,Derry,1,11,14,Wicklow,1,10,13,Derry,Owenbeg,,O Elliott (Antrim),,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
 2013-05-04,hurling,senior,christy_ring,Round 1,Meath,1,20,23,Armagh,2,10,16,Meath,St. Loman's Park,,C Browne (Galway),,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
 2013-05-04,hurling,senior,christy_ring,Round 1,Kildare,1,23,26,Mayo,0,16,16,Kildare,St. Conleth's Park,,S Hourigan (Limerick),,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
+2013-05-04,hurling,senior,lory_meagher,Round 1,Warwickshire,1,15,18,Longford,1,10,13,Warwickshire,Páirc na hÉireann,,G McGrath,Throw-in 16:00,https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
+2013-05-04,hurling,senior,lory_meagher,Round 1,Leitrim,0,12,12,Fermanagh,3,13,22,Fermanagh,Seán O'Heslin Park,,G Chapman,Throw-in 15:00,https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
 2013-05-04,hurling,senior,nicky_rackard,round_1,Tyrone,1,11,14,Louth,0,12,12,Tyrone,Carrickmore,,,,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-05-04,hurling,senior,nicky_rackard,round_1,Roscommon,1,18,21,Sligo,0,14,14,Roscommon,Athleague,,,,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-05-05,football,senior,connacht,Quarter-final,New York,0,7,7,Leitrim,4,19,31,Leitrim,"Gaelic Park, New York City",,Martin Higgins (Fermanagh),,https://en.wikipedia.org/wiki/2013_Connacht_Senior_Football_Championship
@@ -7007,6 +7094,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-05-11,hurling,senior,christy_ring,Round 2B,Kerry,0,14,14,Derry,0,8,8,Kerry,Austin Stack Park,,,,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
 2013-05-11,hurling,senior,christy_ring,Round 2B,Wicklow,4,19,31,Mayo,3,10,19,Wicklow,Pearse Park (Arklow),,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
 2013-05-11,hurling,senior,christy_ring,Round 2B,Armagh,1,11,14,Down,1,20,23,Down,St. Oliver Plunkett Park,,,,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
+2013-05-11,hurling,senior,lory_meagher,Round 2,Longford,3,12,21,Leitrim,0,7,7,Longford,Glennon Brothers Pearse Park,,S Cleere,Throw-in 15:00,https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
+2013-05-11,hurling,senior,lory_meagher,Round 2,Fermanagh,0,15,15,Warwickshire,1,12,15,draw,Brewster Park,,J Clarke,Throw-in 15:00; both totals equal at 15,https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
 2013-05-11,hurling,senior,nicky_rackard,round_2,Tyrone,2,19,25,Monaghan,1,10,13,Tyrone,Killyclogher,,,,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-05-11,hurling,senior,nicky_rackard,round_2,Roscommon,0,16,16,Donegal,1,16,19,Donegal,Athleague,,,,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-05-17,hurling,senior,nicky_rackard,Qualifier Round 2,Louth,1,9,12,Donegal,5,14,29,Donegal,St. Brigid's Park,,C Cunning,Date shown as 2013 on source page (apparent Wikipedia typo),https://en.wikipedia.org/wiki/2014_Nicky_Rackard_Cup
@@ -7014,6 +7103,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-05-18,hurling,senior,christy_ring,Quarter-final,Down,3,7,16,Derry,0,9,9,Down,Páirc Esler,,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
 2013-05-18,hurling,senior,leinster,First round,Carlow,4,17,29,London,2,13,19,Carlow,Dr. Cullen Park,,J Sexton (Cork),,https://en.wikipedia.org/wiki/2013_All-Ireland_Senior_Hurling_Championship
 2013-05-18,hurling,senior,leinster,First round,Laois,1,16,19,Antrim,0,13,13,Laois,O'Moore Park,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Senior_Hurling_Championship
+2013-05-18,hurling,senior,lory_meagher,Round 3,Longford,6,13,31,Fermanagh,1,10,13,Longford,Pearse Park,,S Cleere,Throw-in 15:00,https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
+2013-05-18,hurling,senior,lory_meagher,Round 3,Warwickshire,,,,Leitrim,,,,Warwickshire,,,,Walkover; Leitrim scratched (w/o - scr.),https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
 2013-05-18,hurling,senior,nicky_rackard,quarter_final,Monaghan,5,12,27,Sligo,2,7,13,Monaghan,Inniskeen,,,,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-05-18,hurling,senior,nicky_rackard,quarter_final,Roscommon,2,14,20,Louth,0,13,13,Roscommon,Connacht Centre of Excellence,,,,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-05-19,football,senior,connacht,Quarter-final,Galway,0,11,11,Mayo,4,16,28,Mayo,"Pearse Stadium, Galway",16233,Marty Duffy (Sligo),,https://en.wikipedia.org/wiki/2013_Connacht_Senior_Football_Championship
@@ -7041,6 +7132,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-06-05,hurling,under21,leinster,quarter-final,Laois,2,15,21,Offaly,2,16,22,Offaly,O'Moore Park,,P Burke (Kilkenny),,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Hurling_Championship
 2013-06-08,hurling,senior,christy_ring,Final,Kerry,2,17,23,Down,3,16,25,Down,Croke Park,,C Browne (Galway),Down won the championship,https://en.wikipedia.org/wiki/2013_Christy_Ring_Cup
 2013-06-08,hurling,senior,leinster,Quarter-final,Wexford,1,17,20,Dublin,1,17,20,draw,Wexford Park,7512,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2013_All-Ireland_Senior_Hurling_Championship
+2013-06-08,hurling,senior,lory_meagher,Final,Warwickshire,2,16,22,Longford,0,10,10,Warwickshire,Croke Park,,L McAuley,Throw-in 12:00; referee from Antrim,https://en.wikipedia.org/wiki/2013_Lory_Meagher_Cup
 2013-06-08,hurling,senior,nicky_rackard,final,Donegal,3,20,29,Roscommon,3,16,25,Donegal,Croke Park,,P Murphy (Carlow),Donegal's 1st Nicky Rackard Cup title,https://en.wikipedia.org/wiki/2013_Nicky_Rackard_Cup
 2013-06-09,football,senior,leinster,Quarter-final,Louth,1,15,18,Wexford,2,13,19,Wexford,"Drogheda Park, Drogheda",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2013_Leinster_Senior_Football_Championship
 2013-06-09,hurling,senior,leinster,Quarter-final,Offaly,4,9,21,Kilkenny,0,26,26,Kilkenny,O'Connor Park,8237,A Kelly (Galway),,https://en.wikipedia.org/wiki/2013_All-Ireland_Senior_Hurling_Championship
@@ -7344,6 +7436,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2014-05-03,hurling,senior,christy_ring,Round 1,Meath,0,17,17,Down,1,8,11,Meath,St. Loman's Park,,J Heffernan (Wexford),,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-05-03,hurling,senior,christy_ring,Round 1,Mayo,0,20,20,Armagh,1,14,17,Mayo,Elvery's MacHale Park,,D O'Driscoll (Limerick),,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-05-03,hurling,senior,christy_ring,Round 1,Kildare,1,27,30,Wicklow,2,24,30,draw,St. Conleth's Park,,P O'Dwyer (Carlow),"After extra time; drew 1-27 to 2-24, went to replay",https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
+2014-05-03,hurling,senior,lory_meagher,Round 1,Warwickshire,0,18,18,Fermanagh,2,17,23,Fermanagh,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
+2014-05-03,hurling,senior,lory_meagher,Round 1,Leitrim,0,9,9,Longford,0,12,12,Longford,Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
 2014-05-03,hurling,senior,nicky_rackard,Round 1,Tyrone,1,27,30,Sligo,2,21,27,Tyrone,O'Neill Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2014_Nicky_Rackard_Cup
 2014-05-03,hurling,senior,nicky_rackard,Round 1,Fingal,0,12,12,Louth,0,10,10,Fingal,Lawless Memorial Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2014_Nicky_Rackard_Cup
 2014-05-03,hurling,senior,nicky_rackard,Round 1,Monaghan,0,9,9,Roscommon,2,15,21,Roscommon,Grattan Park,,,,https://en.wikipedia.org/wiki/2014_Nicky_Rackard_Cup
@@ -7352,9 +7446,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2014-05-10,hurling,senior,christy_ring,Round 1 Replay,Wicklow,3,13,22,Kildare,1,20,23,Kildare,Pearse Park,,D Hughes,,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-05-10,hurling,senior,christy_ring,Round 2A,Mayo,0,15,15,Meath,0,16,16,Meath,Elvery's MacHale Park,,J O'Brien (Tipperary),,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-05-10,hurling,senior,christy_ring,Round 2B,Derry,2,16,22,Down,3,12,21,Derry,Owenbeg Centre of Excellence,,O Elliott,,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
+2014-05-10,hurling,senior,lory_meagher,Round 2,Longford,2,17,23,Warwickshire,0,4,4,Longford,Glennon Brothers Pearse Park,,P O'Dwyer,,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
+2014-05-10,hurling,senior,lory_meagher,Round 2,Fermanagh,3,16,25,Leitrim,1,9,12,Fermanagh,Brewster Park,,B Sweeney,,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
 2014-05-17,hurling,senior,christy_ring,Round 2A,Kildare,1,16,19,Kerry,3,18,27,Kerry,St. Conleth's Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-05-17,hurling,senior,christy_ring,Round 2B,Armagh,3,13,22,Wicklow,3,19,28,Wicklow,Athletic Grounds,,S Keane (Galway),,https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-05-17,football,senior,leinster,Preliminary round,Westmeath,1,9,12,Louth,1,14,17,Louth,"Cusack Park, Mullingar",4500,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2014_Leinster_Senior_Football_Championship
+2014-05-17,hurling,senior,lory_meagher,Round 3,Leitrim,2,9,15,Warwickshire,1,15,18,Warwickshire,Páirc Seán Mac Diarmada,,J Clarke,,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
+2014-05-17,hurling,senior,lory_meagher,Round 3,Longford,1,18,21,Fermanagh,2,15,21,draw,Glennon Brothers Pearse Park,,L McAuley (Antrim),,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
 2014-05-18,football,senior,connacht,Quarter-final,Roscommon,1,18,21,Leitrim,0,13,13,Roscommon,"Dr Hyde Park, Roscommon",8055,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2014_Connacht_Senior_Football_Championship
 2014-05-18,football,senior,leinster,Preliminary round,Wicklow,1,11,14,Laois,0,21,21,Laois,"Aughrim County Ground, Aughrim",3200,R Hickey (Clare),,https://en.wikipedia.org/wiki/2014_Leinster_Senior_Football_Championship
 2014-05-18,football,senior,leinster,Preliminary round,Longford,0,19,19,Offaly,0,15,15,Longford,"Pearse Park, Longford",2700,M Higgins (Fermanagh),,https://en.wikipedia.org/wiki/2014_Leinster_Senior_Football_Championship
@@ -7383,6 +7481,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2014-06-07,hurling,senior,christy_ring,Final,Kerry,2,22,28,Kildare,4,18,30,Kildare,Croke Park,,S Cleere (Kilkenny),"Wikipedia marks Kerry as winner, but by total score Kerry 2-22=28 and Kildare 4-18=30, so Kildare has the higher total. Winner set to Kildare per total-score rule; source scoreline may be transposed/in error.",https://en.wikipedia.org/wiki/2014_Christy_Ring_Cup
 2014-06-07,football,senior,leinster,Quarter-final,Longford,1,13,16,Wexford,1,15,18,Wexford,"Pearse Park, Longford",,David Gough (Meath),,https://en.wikipedia.org/wiki/2014_Leinster_Senior_Football_Championship
 2014-06-07,hurling,senior,leinster,Quarter-final,Kilkenny,5,32,47,Offaly,1,18,21,Kilkenny,Nowlan Park,11841,J Owens (Wexford),,https://en.wikipedia.org/wiki/2014_Leinster_Senior_Hurling_Championship
+2014-06-07,hurling,senior,lory_meagher,Final,Longford,3,18,27,Fermanagh,3,16,25,Longford,Croke Park,,J Clarke (Cavan),Longford won the title and were promoted to the 2015 Nicky Rackard Cup.,https://en.wikipedia.org/wiki/2014_Lory_Meagher_Cup
 2014-06-07,football,senior,munster,Quarter-final,Clare,2,8,14,Waterford,2,8,14,draw,"Cusack Park, Ennis",,C Lane (Cork),,https://en.wikipedia.org/wiki/2014_Munster_Senior_Football_Championship
 2014-06-07,hurling,senior,nicky_rackard,Final,Tyrone,1,17,20,Fingal,1,16,19,Tyrone,Croke Park,,D O'Driscoll (Limerick),Tyrone won their first Nicky Rackard Cup title,https://en.wikipedia.org/wiki/2014_Nicky_Rackard_Cup
 2014-06-08,football,senior,connacht,Semi-final,Mayo,0,13,13,Roscommon,1,9,12,Mayo,"Dr Hyde Park, Roscommon",15873,Eddie Kinsella (Laois),,https://en.wikipedia.org/wiki/2014_Connacht_Senior_Football_Championship
@@ -7714,6 +7813,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-05-02,hurling,senior,christy_ring,Round 1,Derry,0,13,13,Mayo,0,11,11,Derry,Owenbeg,,,Throw-in 14:00,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-02,hurling,senior,christy_ring,Round 1,London,2,23,29,Kildare,2,23,29,draw,Emerald GAA Grounds,,,"Throw-in 14:00; drawn, went to replay",https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-02,hurling,senior,christy_ring,Round 1,Meath,1,21,24,Wicklow,1,5,8,Meath,St. Loman's Park,,D Hughes (Carlow),Throw-in 16:00,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
+2015-05-02,hurling,senior,lory_meagher,Round 1,Fermanagh,3,12,21,Warwickshire,2,7,13,Fermanagh,Brewster Park,,K Brady (Louth),,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
+2015-05-02,hurling,senior,lory_meagher,Round 1,Leitrim,2,12,18,Sligo,4,16,28,Sligo,Páirc Sheáin Uí Eislin,,,,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
 2015-05-02,hurling,senior,nicky_rackard,Round 1,Donegal,0,11,11,Tyrone,1,12,15,Tyrone,Letterkenny,,O Elliott,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-02,hurling,senior,nicky_rackard,Round 1,Monaghan,4,10,22,Longford,0,10,10,Monaghan,Clones,,G McGrath,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-02,hurling,senior,nicky_rackard,Round 1,Fingal,0,9,9,Roscommon,3,12,21,Roscommon,Swords,,P Murphy,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
@@ -7723,6 +7824,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-05-09,hurling,senior,christy_ring,Round 1 Replay,Kildare,0,19,19,London,3,16,25,London,St. Conleth's Park,,J O'Brien (Tipperary),Throw-in 13:00; replay of drawn Round 1,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-09,hurling,senior,christy_ring,Round 2A,Kerry,1,23,26,Meath,2,18,24,Kerry,Austin Stack Park,,D O'Driscoll (Limerick),Throw-in 12:30,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-09,hurling,senior,christy_ring,Round 2B,Down,1,19,22,Wicklow,0,13,13,Down,McKenna Park,,O Elliott (Antrim),Throw-in 15:00,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
+2015-05-09,hurling,senior,lory_meagher,Round 2,Lancashire,3,9,18,Fermanagh,2,16,22,Fermanagh,Páirc na hÉireann,,,,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
+2015-05-09,hurling,senior,lory_meagher,Round 2,Warwickshire,1,15,18,Leitrim,1,18,21,Leitrim,Páirc na hÉireann,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
 2015-05-09,hurling,senior,nicky_rackard,Round 2A,Roscommon,1,24,27,Monaghan,0,17,17,Roscommon,Athleague,,J Clarke,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-09,hurling,senior,nicky_rackard,Round 2A,Tyrone,0,20,20,Armagh,3,17,26,Armagh,Carrickmore,,E Hassan,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-09,hurling,senior,nicky_rackard,Round 2B,Donegal,4,21,33,Longford,1,9,12,Donegal,Pearse Park,,Justin Heffernan,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
@@ -7731,6 +7834,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-05-16,hurling,senior,christy_ring,Round 2B,Mayo,1,16,19,Kildare,2,18,24,Kildare,James Stephens Park,,E Hasson (Derry),,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-16,football,senior,leinster,Preliminary round,Offaly,0,13,13,Longford,0,16,16,Longford,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/2015_Leinster_Senior_Football_Championship
 2015-05-16,football,senior,leinster,Preliminary round,Laois,3,16,25,Carlow,0,8,8,Laois,"Dr Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2015_Leinster_Senior_Football_Championship
+2015-05-16,hurling,senior,lory_meagher,Round 3,Sligo,1,15,18,Warwickshire,3,12,21,Warwickshire,Markievicz Park,,B Sweeney,,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
+2015-05-16,hurling,senior,lory_meagher,Round 3,Leitrim,1,16,19,Lancashire,1,14,17,Leitrim,Páirc Sheáin Uí Eislin,,J Clarke,,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
 2015-05-16,hurling,senior,nicky_rackard,Quarter-Final,Monaghan,2,13,19,Donegal,6,12,30,Donegal,Clones,,Alan Nash,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-16,hurling,senior,nicky_rackard,Quarter-Final,Fingal,0,20,20,Tyrone,1,21,24,Tyrone,Swords,,Patrick Murphy,After extra time,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-17,football,senior,connacht,Quarter-final,Leitrim,0,8,8,Galway,1,13,16,Galway,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2015_Connacht_Senior_Football_Championship
@@ -7739,6 +7844,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-05-23,hurling,senior,christy_ring,Quarter-final,Meath,2,18,24,Kildare,3,23,32,Kildare,St. Loman's Park,,T Carroll (Offaly),Throw-in 14:00,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-23,hurling,senior,christy_ring,Quarter-final,Down,1,22,25,London,1,13,16,Down,McKenna Park,,E Hassan (Derry),,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-23,hurling,senior,christy_ring,Relegation play-off,Wicklow,1,18,21,Mayo,1,11,14,Wicklow,Cusack Park (Mullingar),,,Throw-in 13:00,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
+2015-05-23,hurling,senior,lory_meagher,Round 4,Lancashire,0,13,13,Sligo,3,21,30,Sligo,Páirc na hÉireann,,G McGrath (Wexford),,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
+2015-05-23,hurling,senior,lory_meagher,Round 4,Fermanagh,2,14,20,Leitrim,1,14,17,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
 2015-05-23,football,senior,munster,Quarter-final,Clare,0,15,15,Limerick,0,13,13,Clare,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/2015_Munster_Senior_Football_Championship
 2015-05-23,hurling,senior,nicky_rackard,Semi-Final,Tyrone,0,14,14,Roscommon,1,16,19,Roscommon,Carrickmore,,Liam Mc Auley,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-05-23,hurling,senior,nicky_rackard,Semi-Final,Armagh,1,19,22,Donegal,1,12,15,Armagh,Athletic Grounds,,Colum Cunning,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
@@ -7751,12 +7858,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-05-27,hurling,under21,leinster,quarter-final,Kildare,0,14,14,Wexford,0,23,23,Wexford,St. Conleth's Park,,A Devine (Westmeath),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Hurling_Championship
 2015-05-30,hurling,senior,christy_ring,Semi-final,Kildare,0,9,9,Kerry,6,27,45,Kerry,St. Conleth's Park,,S Cleere (Kilkenny),Source page shows date as '30 May 2014' (typo); corrected to 2015,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-05-30,hurling,senior,christy_ring,Semi-final,Derry,0,23,23,Down,2,12,18,Derry,Owenbeg,,O Elliott (Antrim),Source page shows date as '30 May 2014' (typo); corrected to 2015,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
+2015-05-30,hurling,senior,lory_meagher,Round 5,Sligo,5,16,31,Fermanagh,0,12,12,Sligo,Kilcoyne Park,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
+2015-05-30,hurling,senior,lory_meagher,Round 5,Warwickshire,3,13,22,Lancashire,2,14,20,Warwickshire,Páirc na hÉireann,,K McGeeney,,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
 2015-05-31,football,senior,leinster,Quarter-final,Longford,0,10,10,Dublin,4,25,37,Dublin,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2015_Leinster_Senior_Football_Championship
 2015-05-31,football,senior,munster,Quarter-final,Tipperary,1,24,27,Waterford,0,5,5,Tipperary,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2015_Munster_Senior_Football_Championship
 2015-05-31,football,senior,ulster,Quarter-final,Fermanagh,1,13,16,Antrim,0,8,8,Fermanagh,"Brewster Park, Enniskillen",7726,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2015_Ulster_Senior_Football_Championship
 2015-06-02,hurling,under21,leinster,quarter-final,Dublin,2,16,22,Kilkenny,4,12,24,Kilkenny,Parnell Park,,M Murtagh (Westmeath),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Hurling_Championship
 2015-06-06,hurling,senior,christy_ring,Final,Kerry,1,20,23,Derry,0,12,12,Kerry,Croke Park,,John Keane (Galway),Throw-in 17:30,https://en.wikipedia.org/wiki/2015_Christy_Ring_Cup
 2015-06-06,football,senior,leinster,Quarter-final,Laois,0,16,16,Kildare,0,16,16,draw,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/2015_Leinster_Senior_Football_Championship
+2015-06-06,hurling,senior,lory_meagher,Final,Sligo,1,17,20,Fermanagh,3,16,25,Fermanagh,Croke Park,,J Keane (Galway),Fermanagh won their first Lory Meagher Cup title; throw-in 15:30 BST,https://en.wikipedia.org/wiki/2015_Lory_Meagher_Cup
 2015-06-06,hurling,senior,nicky_rackard,Final,Armagh,1,14,17,Roscommon,2,12,18,Roscommon,Croke Park,,John O Brien,,https://en.wikipedia.org/wiki/2015_Nicky_Rackard_Cup
 2015-06-07,hurling,senior,munster,Semi-final,Cork,1,21,24,Waterford,3,19,28,Waterford,Semple Stadium,21047,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2015_All-Ireland_Senior_Hurling_Championship
 2015-06-07,football,senior,ulster,Quarter-final,Derry,0,12,12,Down,0,11,11,Derry,"Celtic Park, Derry",10541,Eddie Kinsella (Laois),,https://en.wikipedia.org/wiki/2015_Ulster_Senior_Football_Championship
@@ -8059,6 +8169,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-04-23,hurling,senior,christy_ring,Round 1,Down,2,12,18,London,2,17,23,London,"McKenna Park, Ballycran",,G McGrath (Wexford),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-04-23,hurling,senior,christy_ring,Round 1,Meath,3,18,27,Wicklow,2,12,18,Meath,"St. Loman's Park, Trim",,J O'Brien (Tipperary),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-04-23,hurling,senior,christy_ring,Round 1,Roscommon,2,20,26,Derry,0,15,15,Roscommon,Athleague Sportsfield,,J Keane (Galway),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
+2016-04-23,hurling,senior,lory_meagher,Round 1,Leitrim,1,15,18,Warwickshire,3,19,28,Warwickshire,"Seán O'Heslin Memorial Park, Ballinamore",,K McGeeney (Roscommon),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
+2016-04-23,hurling,senior,lory_meagher,Round 1,Louth,0,22,22,Sligo,1,15,18,Louth,Louth GAA Centre of Excellence,,M Murtagh (Armagh),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
 2016-04-23,football,senior,nfl_div3,Division 3 Final,Clare,2,17,23,Kildare,1,19,22,Clare,"Croke Park, Dublin",,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-04-23,hurling,senior,nicky_rackard,Round 1,Fermanagh,1,15,18,Monaghan,5,12,27,Monaghan,"Brewster Park, Enniskillen",,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-04-23,hurling,senior,nicky_rackard,Round 1,Armagh,2,19,25,Donegal,3,13,22,Armagh,"Athletic Grounds, Armagh",,E Hassan (Derry),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
@@ -8071,6 +8183,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-04-30,hurling,senior,christy_ring,Round 2A,Antrim,2,14,20,Roscommon,1,12,15,Antrim,"Pearse Park, Dunloy",,J Keane (Galway),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-04-30,hurling,senior,christy_ring,Round 2B,Wicklow,0,9,9,Kildare,0,17,17,Kildare,"Pearse Park, Arklow",,G McGrath (Wexford),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-04-30,hurling,senior,christy_ring,Round 2B,Derry,1,15,18,Down,1,18,21,Down,Owenbeg,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
+2016-04-30,hurling,senior,lory_meagher,Round 2,Warwickshire,2,10,16,Louth,3,14,23,Louth,"Páirc na hÉireann, Solihull",,R McGann,,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
+2016-04-30,hurling,senior,lory_meagher,Round 2,Lancashire,2,10,16,Leitrim,2,18,24,Leitrim,"Páirc na hÉireann, Solihull",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
 2016-04-30,hurling,senior,nicky_rackard,Round 2A,Mayo,0,22,22,Armagh,1,11,14,Mayo,"James Stephens Park, Ballina",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-04-30,hurling,senior,nicky_rackard,Round 2A,Monaghan,3,14,23,Fingal,2,19,25,Fingal,"St. Mary's Park, Castleblaney",,G Quilty (Kilkenny),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-04-30,hurling,senior,nicky_rackard,Round 2B,Donegal,3,15,24,Fermanagh,3,11,20,Donegal,"O'Donnell Park, Letterkenny",,K McGeeney (Mayo),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
@@ -8083,17 +8197,23 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-05-07,hurling,senior,christy_ring,Quarter-final,Down,1,14,17,Roscommon,1,7,10,Down,"McKenna Park, Ballycran",,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-05-07,hurling,senior,leinster,Group stage Round 2,Kerry,1,13,16,Westmeath,1,18,21,Westmeath,"Austin Stack Park, Tralee",,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
 2016-05-07,hurling,senior,leinster,Group stage Round 2,Offaly,1,17,20,Carlow,2,11,17,Offaly,"O'Connor Park, Tullamore",950,J McGrath (Westmeath),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
+2016-05-07,hurling,senior,lory_meagher,Round 3,Louth,3,15,24,Lancashire,0,10,10,Louth,Dunleer,,A Ferguson,,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
+2016-05-07,hurling,senior,lory_meagher,Round 3,Sligo,3,18,27,Warwickshire,3,11,20,Sligo,Sligo GAA Centre of Excellence,,J Connors (Donegal),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
 2016-05-07,hurling,senior,nicky_rackard,Quarter-Final,Longford,2,11,17,Armagh,3,19,28,Armagh,"Glennon Brothers Pearse Park, Longford",,P Burke (Kilkenny),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-05-07,hurling,senior,nicky_rackard,Quarter-Final,Monaghan,3,14,23,Donegal,4,14,26,Donegal,"Páirc Grattan, Inniskeen",,M Murtagh,,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-05-08,hurling,senior,nhl_div1a,Division 1 Final,Waterford,2,19,25,Clare,1,23,26,Clare,Semple Stadium,14210,,replay,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-05-14,football,senior,leinster,Preliminary round,Laois,3,16,25,Wicklow,0,18,18,Laois,"O'Moore Park, Portlaoise",4575,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2016_Leinster_Senior_Football_Championship
 2016-05-14,football,senior,leinster,Preliminary round,Louth,2,24,30,Carlow,3,11,20,Louth,"O'Moore Park, Portlaoise",4575,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2016_Leinster_Senior_Football_Championship
+2016-05-14,hurling,senior,lory_meagher,Round 4,Lancashire,0,15,15,Sligo,1,25,28,Sligo,"Páirc na hÉireann, Solihull",,K Brady (Louth),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
+2016-05-14,hurling,senior,lory_meagher,Round 4,Leitrim,1,12,15,Louth,0,16,16,Louth,Páirc Seán Mac Diarmada,,J Connors (Donegal),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
 2016-05-15,football,senior,leinster,Preliminary round,Offaly,2,21,27,Longford,2,13,19,Offaly,"O'Connor Park, Tullamore",5023,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2016_Leinster_Senior_Football_Championship
 2016-05-15,football,senior,ulster,Preliminary round,Fermanagh,1,12,15,Antrim,0,9,9,Fermanagh,"Brewster Park, Enniskillen",9124,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2016_Ulster_Senior_Football_Championship
 2016-05-21,hurling,senior,christy_ring,Semi-final,Antrim,1,24,27,Down,0,23,23,Antrim,"St. Patrick's Park, Loughguile",,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-05-21,hurling,senior,christy_ring,Relegation play-off (bottom play-off),Wicklow,2,23,29,Derry,0,15,15,Wicklow,"Páirc Esler, Newry",,J O'Brien (Tipperary),,https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-05-21,football,senior,leinster,Quarter-final,Kildare,0,9,9,Wexford,0,8,8,Kildare,"Croke Park, Dublin",13066,Rory Hickey (Clare),,https://en.wikipedia.org/wiki/2016_Leinster_Senior_Football_Championship
 2016-05-21,hurling,senior,leinster,Quarter-final,Dublin,2,19,25,Wexford,0,12,12,Dublin,"Croke Park, Dublin",13066,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
+2016-05-21,hurling,senior,lory_meagher,Round 5,Sligo,1,22,25,Leitrim,2,5,11,Sligo,"Markievicz Park, Sligo",,R McGann (Clare),,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
+2016-05-21,hurling,senior,lory_meagher,Round 5,Warwickshire,7,16,37,Lancashire,2,11,17,Warwickshire,"Páirc na hÉireann, Solihull",,,,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
 2016-05-21,hurling,senior,nicky_rackard,Semi-Final,Mayo,1,18,21,Donegal,2,11,17,Mayo,"O'Donnell Park, Letterkenny",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-05-21,hurling,senior,nicky_rackard,Semi-Final,Fingal,1,11,14,Armagh,3,19,28,Armagh,"Páirc Barróg, Dublin",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-05-21,hurling,senior,nicky_rackard,Bottom Play-off,Fermanagh,1,14,17,Tyrone,3,22,31,Tyrone,"O'Neill Park, Dungannon",,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
@@ -8113,6 +8233,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-06-01,hurling,under21,leinster,quarter-final,Wexford,1,8,11,Dublin,2,12,18,Dublin,"Innovate Wexford Park, Wexford",,P Burke (Kilkenny),,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Hurling_Championship
 2016-06-04,hurling,senior,christy_ring,Final,Meath,2,17,23,Antrim,1,20,23,draw,"Croke Park, Dublin",,J O'Brien (Tipperary),"Drawn final. Scoreboard originally showed Meath 2-18; CCCC corrected to 2-17 after a point that was not actually scored had been awarded to Meath, making it a draw and forcing a replay",https://en.wikipedia.org/wiki/2016_Christy_Ring_Cup
 2016-06-04,football,senior,leinster,Quarter-final,Dublin,2,21,27,Laois,2,10,16,Dublin,"Nowlan Park, Kilkenny",16764,Ciarán Branagan (Down),,https://en.wikipedia.org/wiki/2016_Leinster_Senior_Football_Championship
+2016-06-04,hurling,senior,lory_meagher,Final,Louth,4,15,27,Sligo,4,11,23,Louth,"Croke Park, Dublin",,Mick Murtagh (Westmeath),Louth's 1st title; first championship win in 39 years,https://en.wikipedia.org/wiki/2016_Lory_Meagher_Cup
 2016-06-04,hurling,senior,nicky_rackard,Final,Mayo,2,16,22,Armagh,1,15,18,Mayo,"Croke Park, Dublin",,J Murphy (Limerick),Throw-in 15:30,https://en.wikipedia.org/wiki/2016_Nicky_Rackard_Cup
 2016-06-05,hurling,senior,leinster,Quarter-final,Westmeath,0,19,19,Galway,3,27,36,Galway,"Cusack Park, Mullingar",,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
 2016-06-05,hurling,senior,leinster,Quarter-final,Offaly,3,22,31,Laois,2,14,20,Offaly,"O'Connor Park, Tullamore",,J Ryan (Tipperary),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
@@ -8444,6 +8565,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-04-22,hurling,senior,christy_ring,Round 1,Down,2,24,30,Roscommon,1,20,23,Down,"McKenna Park, Ballycran",,M Murtagh (Westmeath),,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-04-22,hurling,senior,christy_ring,Round 1,Carlow,2,22,28,Antrim,3,20,29,Antrim,"Dr. Cullen Park, Carlow",,C McAllister (Cork),After extra time,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-04-22,hurling,senior,christy_ring,Round 1,Mayo,0,16,16,Kildare,0,17,17,Kildare,"James Stephens Park, Ballina",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
+2017-04-22,hurling,senior,lory_meagher,Round 1,Sligo,4,14,26,Lancashire,0,17,17,Sligo,"Markievicz Park, Sligo",,K McGeeney (Roscommon),,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-04-22,hurling,senior,lory_meagher,Round 1,Cavan,1,14,17,Warwickshire,3,28,37,Warwickshire,"Breffni Park, Cavan",,S Hynes (Galway),,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-04-22,hurling,senior,lory_meagher,Round 1,Fermanagh,5,13,28,Leitrim,2,21,27,Fermanagh,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
 2017-04-22,hurling,senior,nicky_rackard,Round 1,Louth,1,12,15,Derry,2,17,23,Derry,"St. Brigid's Park, Dowdallshill",,T Carroll (Offaly),Longford received a bye in Round 1,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-04-22,hurling,senior,nicky_rackard,Round 1,Donegal,1,19,22,Armagh,0,13,13,Donegal,"O'Donnell Park, Letterkenny",,,,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-04-22,hurling,senior,nicky_rackard,Round 1,Monaghan,0,16,16,Tyrone,2,11,17,Tyrone,"St. Mary's Park, Castleblayney",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
@@ -8456,21 +8580,33 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-04-29,hurling,senior,christy_ring,Round 2A,Kildare,2,19,25,Wicklow,3,18,27,Wicklow,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-04-29,hurling,senior,christy_ring,Round 2B,Carlow,5,18,33,Mayo,2,7,13,Carlow,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-04-29,hurling,senior,christy_ring,Round 2B,Roscommon,1,9,12,London,4,24,36,London,"Dr. Hyde Park, Roscommon",,,,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
+2017-04-29,hurling,senior,lory_meagher,Round 2,Leitrim,1,20,23,Cavan,0,12,12,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-04-29,hurling,senior,lory_meagher,Round 2,Warwickshire,2,20,26,Sligo,2,9,15,Warwickshire,"Páirc na hÉireann, Birmingham",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-04-29,hurling,senior,lory_meagher,Round 2,Lancashire,2,22,28,Fermanagh,0,15,15,Lancashire,"Old Bedians, Manchester",,J Larkin (Cork),,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
 2017-04-29,hurling,senior,nicky_rackard,Round 2A,Tyrone,4,19,31,Donegal,0,16,16,Tyrone,"Pairc Naomh Colmcille, Carrickmore",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-04-29,hurling,senior,nicky_rackard,Round 2A,Derry,8,21,45,Longford,1,14,17,Derry,"Owenbeg Centre, Dungiven",,,,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-04-29,hurling,senior,nicky_rackard,Round 2B,Armagh,0,23,23,Louth,2,9,15,Armagh,"Athletic Grounds, Armagh",,,Monaghan received a bye in Round 2B,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-04-30,hurling,senior,leinster,Group stage,Kerry,0,20,20,Westmeath,2,12,18,Kerry,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-04-30,hurling,senior,leinster,Group stage,Laois,3,25,34,Meath,2,13,19,Laois,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
+2017-05-05,hurling,senior,lory_meagher,Round 3,Leitrim,1,12,15,Lancashire,0,14,14,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-05-05,hurling,senior,lory_meagher,Round 3,Cavan,0,9,9,Sligo,1,20,23,Sligo,"Kingspan Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-05-05,hurling,senior,lory_meagher,Round 3,Fermanagh,3,9,18,Warwickshire,6,16,34,Warwickshire,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
 2017-05-06,hurling,senior,christy_ring,Quarter-final,Kildare,0,15,15,Carlow,1,23,26,Carlow,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-05-06,hurling,senior,nicky_rackard,Quarter-final,Armagh,4,20,32,Longford,0,12,12,Armagh,"St. Oliver Plunkett Park, Crossmaglen",,J Connors (Donegal),,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-05-06,hurling,senior,nicky_rackard,Quarter-final,Monaghan,1,16,19,Donegal,1,12,15,Monaghan,"Grattan Park, Inniskeen",,,,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-05-07,hurling,senior,christy_ring,Quarter-final,London,0,19,19,Down,2,19,25,Down,"Pairc na hEireann, Birmingham",,J Keane,,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-05-07,football,senior,connacht,Preliminary round,New York,1,13,16,Sligo,1,21,24,Sligo,"Gaelic Park, New York",5000,David Gough (Meath),,https://en.wikipedia.org/wiki/2017_Connacht_Senior_Football_Championship
+2017-05-13,hurling,senior,lory_meagher,Round 4,Lancashire,0,24,24,Cavan,1,18,21,Lancashire,"Old Bedians, Manchester",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-05-13,hurling,senior,lory_meagher,Round 4,Sligo,5,14,29,Fermanagh,2,13,19,Sligo,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-05-13,hurling,senior,lory_meagher,Round 4,Warwickshire,2,16,22,Leitrim,1,11,14,Warwickshire,"Páirc na hÉireann, Solihull",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
 2017-05-14,hurling,senior,leinster,Group stage,Laois,2,21,27,Kerry,3,15,24,Laois,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-05-14,hurling,senior,leinster,Group stage,Westmeath,1,18,21,Meath,0,19,19,Westmeath,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-05-20,hurling,senior,christy_ring,Semi-final,Carlow,0,24,24,Wicklow,2,8,14,Carlow,"Dr. Cullen Park, Carlow",,J Keane (Galway),,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-05-20,hurling,senior,christy_ring,Semi-final,Antrim,4,23,35,Down,0,15,15,Antrim,"Pairc Mhuire, Cushendall",,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-05-20,hurling,senior,christy_ring,Relegation play-off,Mayo,1,25,28,Roscommon,2,12,18,Mayo,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
+2017-05-20,hurling,senior,lory_meagher,Round 5,Fermanagh,0,17,17,Cavan,4,17,29,Cavan,Lisbellaw,,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-05-20,hurling,senior,lory_meagher,Round 5,Lancashire,1,10,13,Warwickshire,1,15,18,Warwickshire,"Old Bedians, Manchester",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
+2017-05-20,hurling,senior,lory_meagher,Round 5,Leitrim,3,15,24,Sligo,3,8,17,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
 2017-05-20,hurling,senior,nicky_rackard,Semi-final,Tyrone,1,14,17,Armagh,2,25,31,Armagh,"Pairc Naomh Colmcille, Carrickmore",,,,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-05-20,hurling,senior,nicky_rackard,Semi-final,Monaghan,1,12,15,Derry,6,17,35,Derry,"Grattan Park, Inniskeen",,,,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-05-20,football,senior,ulster,Preliminary round,Monaghan,1,20,23,Fermanagh,0,11,11,Monaghan,"St Tiernach's Park, Clones",7473,Derek O'Mahony (Tipperary),,https://en.wikipedia.org/wiki/2017_Ulster_Senior_Football_Championship
@@ -8499,6 +8635,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-06-04,football,senior,ulster,Quarter-final,Down,0,15,15,Armagh,2,7,13,Down,"Páirc Esler, Newry",16168,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2017_Ulster_Senior_Football_Championship
 2017-06-10,hurling,senior,christy_ring,Final,Carlow,5,23,38,Antrim,4,15,27,Carlow,"Croke Park, Dublin",,M Murtagh (Westmeath),Carlow won their 3rd Christy Ring Cup title,https://en.wikipedia.org/wiki/2017_Christy_Ring_Cup
 2017-06-10,hurling,senior,leinster,Semi-final,Wexford,1,20,23,Kilkenny,3,11,20,Wexford,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
+2017-06-10,hurling,senior,lory_meagher,Final,Warwickshire,0,17,17,Leitrim,0,11,11,Warwickshire,"Croke Park, Dublin",,J Connors (Donegal),,https://en.wikipedia.org/wiki/2017_Lory_Meagher_Cup
 2017-06-10,football,senior,munster,Semi-final,Cork,1,10,13,Tipperary,1,9,12,Cork,"Páirc Uí Rinn, Cork",4570,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2017_Munster_Senior_Football_Championship
 2017-06-10,hurling,senior,nicky_rackard,Final,Armagh,2,15,21,Derry,3,23,32,Derry,"Croke Park, Dublin",,S Hynes (Galway),Derry champions,https://en.wikipedia.org/wiki/2017_Nicky_Rackard_Cup
 2017-06-11,football,senior,connacht,Semi-final,Galway,0,15,15,Mayo,1,11,14,Galway,"Pearse Stadium, Salthill",22046,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2017_Connacht_Senior_Football_Championship
@@ -13303,6 +13440,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,hurling,senior,nicky_rackard,Round 5,Armagh,3,14,23,Louth,0,27,27,Louth,,,,,https://en.wikipedia.org/wiki/2023_Nicky_Rackard_Cup
 ,hurling,senior,nicky_rackard,Round 5,Donegal,1,18,21,Wicklow,2,17,23,Wicklow,,,,,https://en.wikipedia.org/wiki/2023_Nicky_Rackard_Cup
 ,hurling,senior,nicky_rackard,Round 5,Roscommon,2,17,23,Fermanagh,1,18,21,Roscommon,,,,,https://en.wikipedia.org/wiki/2023_Nicky_Rackard_Cup
+,football,senior,tommy_murphy,quarter-final,Clare,,,,London,,,,Clare,,,,Clare won on a walkover; London scratched (w/o - scr),https://en.wikipedia.org/wiki/2004_Tommy_Murphy_Cup
 ,football,senior,ulster,Final,Antrim,,,,,,,,Antrim,,,,"bye; Antrim only entrants, won Ulster uncontested",https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 ,football,senior,ulster,quarter-final,Tyrone,0,0,0,Derry,0,0,0,draw,,,,draw,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 ,football,senior,ulster,quarter-final,Monaghan,0,4,4,Fermanagh,0,1,1,Monaghan,Enniskillen,,,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
