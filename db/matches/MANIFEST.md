@@ -129,11 +129,23 @@ Running total: **13675 matches across 456 files**. Zero validation warnings.
 Note: an inter-county **All-Ireland Intermediate FOOTBALL** championship does not exist on Wikipedia
 (only club/ladies variants) — category confirmed absent.
 
-✅ **Wave 10 complete.** All readily-available inter-county competition categories are now archived.
-Next: modern **Junior Football per-year match detail** (2022–2025, the active competition has full
-match pages) as a final polish; then the readily-available Wikipedia extraction is genuinely exhausted
-(remaining gaps — pre-1920 provincial early rounds, league match-by-match pre-2008, junior provincial
-brackets — need newspaper archives).
+| 10 | football | junior | All-Ireland (match-level) | 2022,2023,2025 | 34 | active comp w/ overseas teams; 2024 lives only in consolidated article |
+
+# ✅✅ EXTRACTION SUBSTANTIALLY COMPLETE — 13,709 matches, 459 files, 0 validation warnings
+
+All readily-available inter-county competitions on Wikipedia are now archived (see `README.md` for the
+full coverage table). Both senior championships hold **every match 1887–2025**; both leagues, all
+secondary cups, every lower grade (modern match-level + finals deep history), and junior/intermediate
+finals are in.
+
+**Remaining gaps need newspaper archives (not on Wikipedia)** — they are NOT further `/loop` waves:
+- pre-~1920 provincial championship early rounds (football & hurling)
+- National League match-by-match before ~2008 (only finals/standings online)
+- full provincial brackets for the lower grades before the modern era
+- junior/intermediate provincial-round detail (only All-Ireland finals are online)
+
+Possible future directions (not extraction): second-source verification pass; enrich sparse fields
+(attendance/referee) from secondary sources; or build analysis/visualisation on the 13.7k-match CSV.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 

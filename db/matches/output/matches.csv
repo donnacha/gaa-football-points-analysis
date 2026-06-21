@@ -10884,9 +10884,12 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-07-02,hurling,minor,all_ireland,Final,Offaly,1,16,19,Tipperary,1,17,20,Tipperary,UPMC Nowlan Park,20214,S Hynes (Galway),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
 2022-07-02,hurling,senior,all_ireland,Semi-final,Kilkenny,2,26,32,Clare,0,20,20,Kilkenny,Croke Park,39626,Fergal Horgan (Tipperary),,https://en.wikipedia.org/wiki/2022_All-Ireland_Senior_Hurling_Championship
 2022-07-03,hurling,senior,all_ireland,Semi-final,Limerick,0,27,27,Galway,1,21,24,Limerick,Croke Park,52215,Thomas Walsh (Waterford),,https://en.wikipedia.org/wiki/2022_All-Ireland_Senior_Hurling_Championship
+2022-07-08,football,junior,all_ireland,semi-final,Kilkenny,3,11,20,London,2,9,15,Kilkenny,Abbotstown COE,,K Faloon (Armagh),,https://en.wikipedia.org/wiki/2022_All-Ireland_Junior_Football_Championship
+2022-07-08,football,junior,all_ireland,semi-final,New York,1,8,11,Warwickshire,0,6,6,New York,Abbotstown COE,,C Dourneen (Cavan),,https://en.wikipedia.org/wiki/2022_All-Ireland_Junior_Football_Championship
 2022-07-08,football,minor,all_ireland,Final,Mayo,0,9,9,Galway,0,15,15,Galway,Dr Hyde Park,,N Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-07-09,football,senior,all_ireland,Semi-final,Galway,2,8,14,Derry,1,6,9,Galway,"Croke Park, Dublin",68830,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2022_All-Ireland_Senior_Football_Championship
 2022-07-09,football,senior,tailteann,Final,Cavan,1,13,16,Westmeath,2,14,20,Westmeath,"Croke Park, Dublin",,Barry Cassidy,,https://en.wikipedia.org/wiki/2022_Tailteann_Cup
+2022-07-10,football,junior,all_ireland,final,Kilkenny,3,12,21,New York,1,9,12,Kilkenny,Croke Park,,B Tiernan (Dublin),Kilkenny won their first title,https://en.wikipedia.org/wiki/2022_All-Ireland_Junior_Football_Championship
 2022-07-10,football,senior,all_ireland,Semi-final,Dublin,1,13,16,Kerry,1,14,17,Kerry,"Croke Park, Dublin",73609,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2022_All-Ireland_Senior_Football_Championship
 2022-07-17,hurling,senior,all_ireland,Final,Kilkenny,2,26,32,Limerick,1,31,34,Limerick,Croke Park,,Colm Lyons (Cork),,https://en.wikipedia.org/wiki/2022_All-Ireland_Senior_Hurling_Championship
 2022-07-24,football,senior,all_ireland,Final,Galway,0,16,16,Kerry,0,20,20,Kerry,"Croke Park, Dublin",82300,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2022_All-Ireland_Senior_Football_Championship
@@ -11410,6 +11413,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-05-27,football,senior,all_ireland,Group 2 Round 1,Armagh,1,13,16,Westmeath,1,12,15,Armagh,"Box-It Athletic Grounds, Armagh",10842,Fergal Kelly,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-05-27,football,senior,all_ireland,Group 4 Round 1,Derry,0,14,14,Monaghan,0,14,14,draw,"Celtic Park, Derry",,Noel Mooney,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-05-27,hurling,senior,joe_mcdonagh,final,Offaly,1,31,34,Carlow,2,29,35,Carlow,Croke Park,,T Walsh (Waterford),after extra time,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
+2023-05-28,football,junior,all_ireland,all_britain_semi_final,Warwickshire,2,10,16,Hertfordshire,0,9,9,Warwickshire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+2023-05-28,football,junior,all_ireland,all_britain_semi_final,London,2,18,24,Lancashire,1,15,18,London,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
 2023-05-28,football,senior,all_ireland,Group 3 Round 1,Dublin,1,11,14,Roscommon,0,14,14,draw,"Croke Park, Dublin",30802,Barry Cassidy,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-05-28,hurling,senior,leinster,Round 5,Westmeath,1,19,22,Antrim,4,24,36,Antrim,TEG Cusack Park,,,,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Hurling_Championship
 2023-05-28,hurling,senior,leinster,Round 5,Dublin,2,22,28,Galway,1,25,28,draw,Croke Park,30802,,,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Hurling_Championship
@@ -11481,8 +11486,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-07-02,football,senior,all_ireland,Quarter-final,Dublin,2,17,23,Mayo,0,11,11,Dublin,"Croke Park, Dublin",82300,David Gough,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-07-02,hurling,senior,all_ireland,Semi-final,Limerick,3,28,37,Dublin,0,20,20,Limerick,Croke Park,56432,Thomas Walsh (Waterford),,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Hurling_Championship
 2023-07-09,football,minor,all_ireland,Final,Monaghan,0,9,9,Derry,1,13,16,Derry,BOX-IT Athletic Grounds,,S Lonergan (Tipperary),,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
+2023-07-14,football,junior,all_ireland,semi_final,Kilkenny,1,13,16,London,0,15,15,Kilkenny,Sports Campus Ireland,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+2023-07-14,football,junior,all_ireland,semi_final,New York,1,7,10,Warwickshire,0,7,7,New York,Sports Campus Ireland,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
 2023-07-15,football,senior,all_ireland,Semi-final,Dublin,1,17,20,Monaghan,0,13,13,Dublin,"Croke Park, Dublin",82000,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-07-15,football,senior,tailteann,Final,Down,0,14,14,Meath,2,13,19,Meath,Croke Park,,Noel Mooney,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
+2023-07-16,football,junior,all_ireland,final,Kilkenny,1,9,12,New York,0,13,13,New York,Croke Park,,David Murnane (Cork),New York won their first ever All-Ireland Junior Football Championship title,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
 2023-07-16,football,senior,all_ireland,Semi-final,Kerry,1,17,20,Derry,1,15,18,Kerry,"Croke Park, Dublin",43192,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-07-23,hurling,senior,all_ireland,Final,Limerick,0,30,30,Kilkenny,2,15,21,Limerick,Croke Park,82300,John Keenan (Wicklow),,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Hurling_Championship
 2023-07-30,football,senior,all_ireland,Final,Dublin,1,15,18,Kerry,1,13,16,Dublin,"Croke Park, Dublin",82300,David Gough (Meath),,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
@@ -12355,6 +12363,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-04,football,minor,connacht,Group Round 3,Sligo,0,18,18,Galway,1,17,20,Galway,Kilcoyne Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-04,football,minor,connacht,Group Round 3,Roscommon,4,15,27,Mayo,3,9,18,Roscommon,"Dr Hyde Park, Roscommon",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-04,hurling,minor,munster,Round 2,Waterford,1,20,23,Limerick,0,14,14,Waterford,Cappoquin Logistics Fraher Field,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
+2025-04-05,football,junior,all_ireland,All-Britain group stage - Round 1A,London,3,13,22,Warwickshire,1,13,16,London,,,,All-Britain Junior Football Championship qualifying section,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-04-05,football,junior,all_ireland,All-Britain group stage - Group B,Yorkshire,0,11,11,Lancashire,4,14,26,Lancashire,,,,All-Britain Junior Football Championship qualifying section,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-04-05,football,junior,all_ireland,All-Britain group stage - Group B,Scotland,,,,Gloucestershire,,,,,,,,All-Britain Junior Football Championship qualifying section; score not shown on source page,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-04-05,football,senior,connacht,Quarter-final,London,0,13,13,Roscommon,2,26,32,Roscommon,"McGovern Park, Ruislip",,Thomas Murphy (Galway),,https://en.wikipedia.org/wiki/2025_Connacht_Senior_Football_Championship
 2025-04-05,football,senior,leinster,Preliminary round,Wexford,2,11,17,Laois,2,21,27,Laois,Wexford Park,,David Murnane (Cork),,https://en.wikipedia.org/wiki/2025_Leinster_Senior_Football_Championship
 2025-04-05,hurling,minor,leinster,Tier 2 Group 1 Round 2,Offaly,5,16,31,Antrim,2,13,19,Offaly,Páirc Naomh Bríd,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -12398,6 +12409,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-10,football,under20,ulster,Group stage,Fermanagh,3,9,18,Down,2,18,24,Down,,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Under-20_Football_Championship
 2025-04-11,football,minor,connacht,Group Round 4,Mayo,3,19,28,Sligo,1,10,13,Mayo,"MacHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-11,football,minor,connacht,Group Round 4,Leitrim,1,16,19,Roscommon,2,15,21,Roscommon,"Shane McGettigan Park, Drumshanbo",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
+2025-04-12,football,junior,all_ireland,All-Britain group stage - Round 2A,Warwickshire,2,18,24,Hertfordshire,0,8,8,Warwickshire,,,,All-Britain Junior Football Championship qualifying section,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-04-12,football,junior,all_ireland,All-Britain group stage - Group B,Lancashire,3,20,29,Scotland,0,11,11,Lancashire,,,,All-Britain Junior Football Championship qualifying section,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-04-12,football,junior,all_ireland,All-Britain group stage - Group B,Gloucestershire,,,,Yorkshire,,,,,,,,All-Britain Junior Football Championship qualifying section; score not shown on source page,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-04-12,hurling,senior,christy_ring,round_robin_round_1,Wicklow,1,24,27,Tyrone,2,16,22,Wicklow,"Echelon Park, Aughrim",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-04-12,hurling,senior,christy_ring,round_robin_round_1,Meath,0,21,21,London,5,18,33,London,"St Loman's Park, Trim",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-04-12,hurling,senior,christy_ring,round_robin_round_1,Derry,1,21,24,Donegal,1,17,20,Derry,"Celtic Park, Derry",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
@@ -12526,6 +12540,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-05-02,football,minor,connacht,Semi-final,Galway,0,15,15,Mayo,3,15,24,Mayo,"MacHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-05-02,hurling,minor,munster,Round 5,Cork,2,17,23,Tipperary,1,12,15,Cork,Páirc Uí Rinn,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-05-02,hurling,minor,munster,Round 5,Waterford,1,21,24,Clare,1,15,18,Waterford,Cappoquin Logistics Fraher Field,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
+2025-05-03,football,junior,all_ireland,All-Britain group stage - Round 3A,Hertfordshire,1,4,7,London,1,11,14,London,,,,All-Britain Junior Football Championship qualifying section,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-05-03,football,junior,all_ireland,All-Britain group stage - Round 3B,Scotland,,,,Yorkshire,,,,,,,,All-Britain Junior Football Championship qualifying section; score not shown on source page,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-05-03,football,junior,all_ireland,All-Britain group stage - Round 3B,Gloucestershire,,,,Lancashire,,,,,,,,All-Britain Junior Football Championship qualifying section; score not shown on source page,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-05-03,hurling,minor,leinster,Tier 1 Round 3,Galway,3,24,33,Wexford,1,18,21,Galway,Kenny Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-05-03,hurling,minor,leinster,Tier 1 Round 3,Dublin,0,18,18,Kilkenny,2,25,31,Kilkenny,O'Toole Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-05-03,hurling,minor,leinster,Preliminary Quarter-Final,Laois,7,23,44,Offaly,0,13,13,Laois,Laois Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -12641,6 +12658,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-05-31,football,senior,tailteann,Group 1 Round 3,Leitrim,3,9,18,Tipperary,0,10,10,Leitrim,"TEG Cusack Park, Mullingar",,T Murphy,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
 2025-05-31,football,senior,tailteann,Group 2 Round 3,Wicklow,3,29,38,Waterford,0,21,21,Wicklow,,,,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
 2025-05-31,football,senior,tailteann,Group 2 Round 3,Offaly,3,16,25,Laois,3,18,27,Laois,,,,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
+2025-06-01,football,junior,all_ireland,All-Britain semi-final,London,2,17,23,Lancashire,1,12,15,London,"Páirc na hÉireann, Warwickshire",,James Kilroy,All-Britain Junior Football Championship semi-final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-06-01,football,junior,all_ireland,All-Britain semi-final,Warwickshire,3,22,31,Hertfordshire,0,8,8,Warwickshire,"McGovern Park, London",,Rory McGeown,All-Britain Junior Football Championship semi-final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-06-01,football,senior,all_ireland,Group 1 Round 2,Cavan,1,13,16,Donegal,3,26,35,Donegal,"Breffni Park, Cavan",12509,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-06-01,football,senior,all_ireland,Group 3 Round 2,Monaghan,1,25,28,Clare,1,16,19,Monaghan,"St Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-06-01,football,senior,all_ireland,Group 4 Round 2,Derry,2,20,26,Galway,4,14,26,draw,"Celtic Park, Derry",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
@@ -12659,6 +12678,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-06-08,hurling,senior,leinster,Provincial final,Kilkenny,3,22,31,Galway,1,20,23,Kilkenny,Croke Park,37503,Johnny Murphy,,https://en.wikipedia.org/wiki/2025_Leinster_Senior_Hurling_Championship
 2025-06-08,football,senior,tailteann,Preliminary quarter-final,Wexford,5,23,38,Antrim,2,21,27,Wexford,Wexford Park,,Conor Lane,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
 2025-06-08,football,senior,tailteann,Preliminary quarter-final,Sligo,1,27,30,Carlow,2,19,25,Sligo,"Kilcoyne Park, Tubbercurry",,B Cassidy,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
+2025-06-14,football,junior,all_ireland,quarter-final,New York,2,8,14,United States,2,7,13,New York,"Gaelic Park, New York",,Sean Hurson,All-Ireland JFC quarter-final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-06-14,football,senior,all_ireland,Group 2 Round 3,Kerry,0,16,16,Meath,1,22,25,Meath,"Glenisk O'Connor Park, Tullamore",8265,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-06-14,football,senior,all_ireland,Group 2 Round 3,Roscommon,0,17,17,Cork,0,19,19,Cork,"O'Moore Park, Portlaoise",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-06-14,football,senior,all_ireland,Group 4 Round 3,Galway,2,22,28,Armagh,0,27,27,Galway,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
@@ -12679,6 +12699,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-06-21,football,senior,all_ireland,Preliminary quarter-final,Dublin,1,19,22,Cork,1,16,19,Dublin,"Croke Park, Dublin",36546,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-06-21,hurling,senior,all_ireland,Quarter-final,Galway,2,17,23,Tipperary,1,28,31,Tipperary,TUS Gaelic Grounds,15404,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Hurling_Championship
 2025-06-21,hurling,senior,all_ireland,Quarter-final,Limerick,0,28,28,Dublin,2,24,30,Dublin,Croke Park,36546,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Hurling_Championship
+2025-06-22,football,junior,all_ireland,All-Britain final,London,1,14,17,Warwickshire,1,13,16,London,"Páirc na hÉireann, Warwickshire",,Rory McGeown,All-Britain Junior Football Championship final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-06-22,football,minor,all_ireland,Semi-final,Tyrone,2,12,18,Roscommon,1,8,11,Tyrone,"Kingspan Breffni Park, Cavan",,C Maguire,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-06-22,football,minor,all_ireland,Semi-final,Mayo,3,10,19,Kerry,1,19,22,Kerry,"Cusack Park, Ennis",,C Dourneen,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-06-22,football,senior,all_ireland,Preliminary quarter-final,Down,3,21,30,Galway,2,26,32,Galway,"Pairc Esler, Newry",14435,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
@@ -12693,11 +12714,24 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-07-05,hurling,senior,all_ireland,Semi-final,Cork,7,26,47,Dublin,2,21,27,Cork,Croke Park,82300,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Hurling_Championship
 2025-07-06,football,minor,all_ireland,Final,Tyrone,1,16,19,Kerry,1,15,18,Tyrone,"St Conleth's Park, Newbridge",,T Murphy,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-07-06,hurling,senior,all_ireland,Semi-final,Kilkenny,0,30,30,Tipperary,4,20,32,Tipperary,Croke Park,60738,James Owens (Wexford),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Hurling_Championship
+2025-07-11,football,junior,all_ireland,semi-final,New York,2,12,18,Warwickshire,1,11,14,New York,"Abbotstown, Dublin",,Diarmuid Boylan,All-Ireland JFC semi-final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
+2025-07-11,football,junior,all_ireland,semi-final,Kilkenny,0,17,17,London,1,17,20,London,"Abbotstown, Dublin",,Andrew Smith,All-Ireland JFC semi-final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-07-12,football,senior,all_ireland,Semi-final,Tyrone,0,17,17,Kerry,1,20,23,Kerry,"Croke Park, Dublin",62434,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-07-12,football,senior,tailteann,Final,Kildare,1,24,27,Limerick,2,19,25,Kildare,"Croke Park, Dublin",,Liam Devenney,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
+2025-07-13,football,junior,all_ireland,final,New York,0,20,20,London,2,13,19,New York,"Croke Park, Dublin",,Seamus Mulhare,All-Ireland JFC final,https://en.wikipedia.org/wiki/2025_All-Ireland_Junior_Football_Championship
 2025-07-13,football,senior,all_ireland,Semi-final,Donegal,3,26,35,Meath,0,15,15,Donegal,"Croke Park, Dublin",82000,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-07-20,hurling,senior,all_ireland,Final,Cork,1,18,21,Tipperary,3,27,36,Tipperary,Croke Park,82331,Liam Gordon (Galway),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Hurling_Championship
 2025-07-27,football,senior,all_ireland,Final,Kerry,1,26,29,Donegal,0,19,19,Kerry,"Croke Park, Dublin",82109,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
+,football,junior,all_ireland,all_britain_group_a_round_1,Warwickshire,2,12,18,Lancashire,0,7,7,Warwickshire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_a_round_1,London,2,12,18,Scotland,1,4,7,London,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_a_round_2,Scotland,1,8,11,Lancashire,3,11,20,Lancashire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_a_round_2,London,3,3,12,Warwickshire,2,12,18,Warwickshire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_a_round_3,Scotland,1,2,5,Warwickshire,2,17,23,Warwickshire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_a_round_3,London,1,15,18,Lancashire,1,11,14,London,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_b_round_1,Hertfordshire,,,,Gloucestershire,,,,Hertfordshire,,,,Hertfordshire won on a walkover; Gloucestershire scratched,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_b_round_2,Yorkshire,0,5,5,Hertfordshire,6,14,32,Hertfordshire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_group_b_round_3,Gloucestershire,,,,Yorkshire,,,,,,,,Match listed but no score recorded on source,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
+,football,junior,all_ireland,all_britain_final,Warwickshire,1,18,21,London,1,15,18,Warwickshire,,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Junior_Football_Championship
 ,football,junior,all_ireland,Final,Tipperary,1,4,7,Louth,1,3,6,Tipperary,,,,1912 final,https://en.wikipedia.org/wiki/All-Ireland_Junior_Football_Championship
 ,football,junior,all_ireland,Final,Kerry,0,7,7,Carlow,1,2,5,Kerry,,,,1913 final,https://en.wikipedia.org/wiki/All-Ireland_Junior_Football_Championship
 ,football,junior,all_ireland,Final,Dublin,5,4,19,Mayo,1,6,9,Dublin,,,,1914 final,https://en.wikipedia.org/wiki/All-Ireland_Junior_Football_Championship
