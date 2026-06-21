@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GAA Football Championship — Alternative Points Analysis (1990–2025)</title>
+<meta name="description" content="An alternative ranking of the GAA Men's Senior Football Championship, scoring counties by finishing position every year from 1990 to 2025.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <h1>GAA Football Championship — Alternative Points Analysis</h1>
+    <p>Ranking every county by <strong>finishing position</strong> in the Men's Senior Football
+       All-Ireland Championship, each year from 1990 to 2025 — rewarding sustained contention,
+       not just titles.</p>
+    <span class="tag">36 championships · 1990–2025 · parameter-driven</span>
+    <div class="legend" id="legend"></div>
+  </div>
+</header>
+
+<main>
+  <nav class="tabs">
+    <button class="active" data-t="overview">Overview</button>
+    <button data-t="standings">Standings</button>
+    <button data-t="eras">By era</button>
+    <button data-t="matrix">Year-by-year</button>
+    <button data-t="chart">Points race</button>
+    <button data-t="method">Method</button>
+  </nav>
+
+  <section class="panel active" id="overview">
+    <h2>The idea</h2>
+    <p class="sub">A single All-Ireland is worth a lot — but it tells you little about the counties
+       who were perennially close. This system scores every county on how far it got each year,
+       so consistency over 36 seasons becomes visible.</p>
+    <div class="cards" id="stats"></div>
+    <div class="note">
+      <strong>Why averages matter.</strong> The championship changed shape five times since 1990
+      (see <em>By era</em>), so raw totals reward longevity. The <em>Avg / scoring year</em> column
+      in the standings is the era-fair view: how deep a county runs <em>when</em> it shows up.
+    </div>
+  </section>
+
+  <section class="panel" id="standings">
+    <h2>All-time standings</h2>
+    <p class="sub">Click any column to sort. Points are cumulative, 1990–2025.</p>
+    <div id="standings-table"></div>
+  </section>
+
+  <section class="panel" id="eras">
+    <h2>Points by format era</h2>
+    <p class="sub">The competition's structure — and therefore how many points were available —
+       changed across five distinct eras.</p>
+    <div id="eras-table"></div>
+  </section>
+
+  <section class="panel" id="matrix">
+    <h2>Year-by-year heatmap</h2>
+    <p class="sub">Every county's points each season. Darker = deeper run. Scroll horizontally for
+       the full 36 years.</p>
+    <div id="matrix-table"></div>
+  </section>
+
+  <section class="panel" id="chart">
+    <h2>Cumulative points race</h2>
+    <p class="sub">The top eight counties, points accumulating across the decades.</p>
+    <div class="chart-wrap" style="height:460px"><canvas id="raceChart"></canvas></div>
+  </section>
+
+  <section class="panel" id="method">
+    <div class="prose">
+      <h2>Methodology</h2>
+      <p>Each county scores its <strong>best finish only</strong> in a given year (a champion scores
+         5, not 5 plus extra for also winning its province). Points:</p>
+      <table>
+        <tr><th>Points</th><th>Finishing position</th></tr>
+        <tr><td>5</td><td>All-Ireland champion</td></tr>
+        <tr><td>4</td><td>All-Ireland runner-up</td></tr>
+        <tr><td>3</td><td>Beaten All-Ireland semi-finalist</td></tr>
+        <tr><td>2</td><td>Beaten All-Ireland quarter-finalist (incl. Super 8s group exit, 2018–19)</td></tr>
+        <tr><td>1</td><td>Provincial finalist (winner or runner-up), or All-Ireland group-stage / preliminary-QF exit (2023–25)</td></tr>
+      </table>
+
+      <h3>Handling five different formats</h3>
+      <p>The structure changed repeatedly, so the tiers map differently by era:</p>
+      <ul>
+        <li><strong>1990–2000 — pre-qualifier.</strong> Four provincial champions went straight to the
+            semi-finals; there was no quarter-final, so nobody scores 2.</li>
+        <li><strong>2001–2017 &amp; 2022 — qualifier / back-door.</strong> An 8-team knockout
+            quarter-final; the full ladder applies. Beaten provincial finalists who went deep via the
+            qualifiers score their deeper finish (best-finish rule).</li>
+        <li><strong>2018–2019 — Super 8s.</strong> The quarter-final round was a group of eight; the
+            four teams eliminated at that stage take the 2-point tier.</li>
+        <li><strong>2020–2021 — COVID knockout.</strong> Straight knockout, four provincial champions
+            into the semi-finals — structurally identical to the early 1990s, no quarter-final.</li>
+        <li><strong>2023–2025 — round-robin.</strong> A 16-team group stage feeds preliminary
+            quarter-finals and quarter-finals. Reaching the group stage but exiting before the
+            quarter-finals earns 1 point.</li>
+      </ul>
+
+      <div class="note">
+        <strong>Reproducible.</strong> The site is generated from a small open database: raw results
+        in <code>championship.json</code>, an editable scoring table in <code>params.json</code>, and
+        <code>build.py</code>, which applies the best-finish rule. Change a parameter, re-run, and every
+        table here updates. See the <a href="https://github.com/donnacha" id="repo-link">repository</a>.
+      </div>
+
+      <p class="sub">Sources: per-year All-Ireland Senior Football Championship and provincial
+         championship records (Wikipedia), cross-checked round by round.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  Generated from the project database · last updated <span id="updated"></span> ·
+  an alternative, finishing-position view of the GAA Football Championship.
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "_README": "Editable scoring parameters. Change any value and re-run build.py to re-derive every table. 'best finish only' is enforced by build.py: a county's score in a year is the MAXIMUM points it qualifies for across its provincial result and its All-Ireland-series stage. Set a tier to 0 to disable it. The provincial CHAMPION tier is normally 0 because champions always advance to the All-Ireland series and score higher there via best-finish; raise it only if you want to reward winning a province in its own right.",
+
+  "all_ireland_stage_points": {
+    "champion": 5,
+    "runner_up": 4,
+    "semi_final_loser": 3,
+    "quarter_final_loser": 2,
+    "super8_group_exit": 2,
+    "prelim_qf_loser": 1,
+    "group_exit": 1
+  },
+
+  "provincial_points": {
+    "champion": 1,
+    "runner_up": 1
+  }
+}
