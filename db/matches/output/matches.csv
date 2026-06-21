@@ -8384,6 +8384,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-05-07,hurling,under21,munster,Quarter-final,Clare,0,13,13,Limerick,3,18,27,Limerick,"Cusack Park, Ennis",3135,P Kelly (Tipperary),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-21_Hurling_Championship
 2018-05-11,football,minor,connacht,Round 2,Sligo,0,10,10,Galway,3,15,24,Galway,"Markievicz Park, Sligo",,Declan Corcoran (Mayo),,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Football_Championship
 2018-05-11,football,minor,connacht,Round 2,Roscommon,4,12,24,Mayo,0,11,11,Roscommon,"Kiltoom, Roscommon",,,,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Football_Championship
+2018-05-12,hurling,senior,christy_ring,Group 1 Round 1,Kildare,4,26,38,Roscommon,1,9,12,Kildare,"St. Conleth's Park, Newbridge",,S Hynes (Galway),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-05-12,hurling,senior,christy_ring,Group 1 Round 1,Wicklow,1,20,23,Mayo,2,11,17,Wicklow,"Joule Park, Aughrim",,P Burke (Kilkenny),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-05-12,hurling,senior,christy_ring,Group 2 Round 1,Derry,1,18,21,London,1,20,23,London,"Dean McGlinchey Park, Ballinascreen",,J Keane (Galway),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-05-12,hurling,senior,christy_ring,Group 2 Round 1,Down,6,21,39,Armagh,0,11,11,Down,"McKenna Park, Ballycran",,A Devine (Westmeath),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-05-12,hurling,senior,joe_mcdonagh,round_robin_round_2,Antrim,2,16,22,Carlow,0,19,19,Antrim,"Corrigan Park, Belfast",,J O'Brien (Laois),,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
 2018-05-12,football,senior,leinster,Preliminary round,Wexford,1,18,21,Laois,2,21,27,Laois,Wexford Park,,Martin McNally (Monaghan),After extra time,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-05-12,hurling,minor,leinster,Tier 1 Round 1,Wexford,1,21,24,Laois,0,18,18,Wexford,"Innovate Wexford Park, Wexford",,AJ Redmond,,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Hurling_Championship
@@ -8403,6 +8407,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-05-13,hurling,senior,leinster,Round 1,Dublin,3,16,25,Kilkenny,1,24,27,Kilkenny,"Parnell Park, Dublin",,Diarmuid Kirwan (Cork),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-05-13,football,minor,ulster,Qualifier Round 2,Donegal,1,10,13,Monaghan,1,12,15,Monaghan,"MacCumhaill Park, Ballybofey",,Conor Dourneen,,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Football_Championship
 2018-05-13,football,senior,ulster,Preliminary round,Donegal,2,20,26,Cavan,1,15,18,Donegal,"MacCumhaill Park, Ballybofey",9612,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-05-19,hurling,senior,christy_ring,Group 1 Round 2,Mayo,1,15,18,Kildare,2,14,20,Kildare,"MacHale Park, Castlebar",,R McGann (Clare),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-05-19,hurling,senior,christy_ring,Group 1 Round 2,Roscommon,0,16,16,Wicklow,2,16,22,Wicklow,"Dr. Hyde Park, Roscommon",,N Wall (Cork),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-05-19,hurling,senior,christy_ring,Group 2 Round 2,Armagh,1,14,17,Derry,2,30,36,Derry,"Athletic Grounds, Armagh",,L Gordon (Galway),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-05-19,hurling,senior,joe_mcdonagh,round_robin_round_3,Carlow,0,21,21,Meath,1,14,17,Carlow,"Dr. Cullen Park, Carlow",,J Keane (Galway),,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
 2018-05-19,hurling,senior,joe_mcdonagh,round_robin_round_3,Antrim,1,19,22,Laois,1,20,23,Laois,"Pearse Park, Dunloy",,J Heffernan (Wexford),,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
 2018-05-19,hurling,minor,leinster,Tier 1 Round 2,Kilkenny,3,21,30,Wexford,1,12,15,Kilkenny,"Nowlan Park, Kilkenny",,S Stack (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Hurling_Championship
@@ -8413,6 +8420,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-05-19,football,senior,munster,Quarter-final,Limerick,0,14,14,Clare,1,23,26,Clare,"Gaelic Grounds, Limerick",2304,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Football_Championship
 2018-05-19,football,senior,munster,Quarter-final,Tipperary,0,20,20,Waterford,0,9,9,Tipperary,"Semple Stadium, Thurles",1658,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Football_Championship
 2018-05-19,football,senior,ulster,Quarter-final,Fermanagh,0,12,12,Armagh,0,7,7,Fermanagh,"Brewster Park, Enniskillen",8421,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-05-20,hurling,senior,christy_ring,Group 2 Round 2,London,1,23,26,Down,2,22,28,Down,"McGovern Park, Ruislip",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-05-20,hurling,senior,joe_mcdonagh,round_robin_round_3,Kerry,0,15,15,Westmeath,2,12,18,Westmeath,"Austin Stack Park, Tralee",,C McAllister (Cork),,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
 2018-05-20,hurling,senior,leinster,Round 2,Kilkenny,2,19,25,Offaly,1,13,16,Kilkenny,"Nowlan Park, Kilkenny",6996,James Owens (Wexford),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-05-20,hurling,senior,leinster,Round 2,Wexford,0,22,22,Dublin,2,14,20,Wexford,"Wexford Park, Wexford",10248,Colm Lyons (Cork),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
@@ -8453,6 +8461,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-05-28,football,under20,leinster,Group 2 Round 1,Meath,6,16,34,Wicklow,1,9,12,Meath,Joule Park,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-05-28,football,under20,leinster,Group 2 Round 1,Kildare,1,17,20,Laois,4,6,18,Kildare,Newbridge,,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-05-28,football,under20,leinster,Group 3 Round 1,Offaly,2,19,25,Carlow,1,10,13,Offaly,Dr. Cullen Park,,Darragh Sheppard (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-02,hurling,senior,christy_ring,Group 1 Round 3,Wicklow,3,18,27,Kildare,4,19,31,Kildare,"Joule Park, Aughrim",,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-06-02,hurling,senior,christy_ring,Group 1 Round 3,Roscommon,1,17,20,Mayo,0,11,11,Roscommon,"Athleague Sportsfield, Athleague",,S Stack (Dublin),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-06-02,hurling,senior,christy_ring,Group 2 Round 3,Derry,1,29,32,Down,2,19,25,Derry,"Watty Graham Park, Maghera",,,,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
+2018-06-02,hurling,senior,christy_ring,Group 2 Round 3,Armagh,0,11,11,London,4,27,39,London,"Athletic Grounds, Armagh",,A Devine (Westmeath),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-06-02,football,under20,connacht,Quarter-Final,Roscommon,3,10,19,Sligo,3,5,14,Roscommon,Dr. Hyde Park,,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-02,hurling,senior,joe_mcdonagh,round_robin_round_4,Meath,0,16,16,Kerry,0,18,18,Kerry,"Páirc Tailteann, Navan",,S Hynes (Galway),,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
 2018-06-02,hurling,senior,joe_mcdonagh,round_robin_round_4,Laois,2,15,21,Carlow,2,25,31,Carlow,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
@@ -8484,6 +8496,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Offaly,2,20,26,Antrim,1,15,18,Offaly,"O'Connor Park, Tullamore",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Limerick,3,7,16,Mayo,5,19,34,Mayo,"Gaelic Grounds, Limerick",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Westmeath,1,11,14,Armagh,3,16,25,Armagh,"TEG Cusack Park, Mullingar",,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-09,hurling,senior,christy_ring,Semi-Final,London,2,28,34,Wicklow,2,14,20,London,"Dr. Cullen Park, Carlow",,J O'Brien (Laois),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-06-09,football,under20,connacht,Semi-Final 1,Roscommon,1,11,14,Galway,0,11,11,Roscommon,"Tuam Stadium, Tuam",,Eamon O'Grady,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-09,football,under20,connacht,Semi-Final 2,Mayo,1,24,27,Leitrim,1,3,6,Mayo,McHale Park,,Martin Flaherty,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-09,hurling,senior,joe_mcdonagh,round_robin_round_5,Meath,0,14,14,Laois,3,23,32,Laois,"Páirc Tailteann, Navan",,P Burke (Kilkenny),,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
@@ -8492,6 +8505,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-09,hurling,senior,leinster,Round 5,Kilkenny,0,22,22,Wexford,1,18,21,Kilkenny,"Nowlan Park, Kilkenny",17516,James McGrath (Westmeath),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-06-09,hurling,senior,leinster,Round 5,Galway,0,26,26,Dublin,2,19,25,Galway,"Pearse Stadium, Salthill",9957,Diarmuid Kirwan (Cork),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-06-10,football,senior,all_ireland,Round 1 qualifier,London,1,19,22,Louth,2,26,32,Louth,"McGovern Park, Ruislip",,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-10,hurling,senior,christy_ring,Semi-Final,Kildare,3,18,27,Derry,2,13,19,Kildare,"Grattan Park, Inniskeen",,,,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-06-10,football,senior,leinster,Semi-final,Laois,0,12,12,Carlow,0,8,8,Laois,"Croke Park, Dublin",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-06-10,football,senior,leinster,Semi-final,Dublin,2,25,31,Longford,0,12,12,Dublin,"Croke Park, Dublin",39028,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-06-10,hurling,minor,munster,Round 4,Limerick,1,13,16,Waterford,2,17,23,Waterford,"Gaelic Grounds, Limerick",,S Stokes (Cork),,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Hurling_Championship
@@ -8532,6 +8546,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Sligo,1,13,16,Armagh,1,19,22,Armagh,"Markievicz Park, Sligo",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Leitrim,0,25,25,Louth,1,12,15,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Longford,1,13,16,Kildare,1,16,19,Kildare,"Pearse Park, Longford",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-23,hurling,senior,christy_ring,Final,London,1,11,14,Kildare,3,19,28,Kildare,"Croke Park, Dublin",,Patrick Murphy (Carlow),,https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-06-23,football,minor,connacht,Round 3,Leitrim,0,9,9,Roscommon,4,15,27,Roscommon,Páirc Seán Mac Diarmada,,Ronan Hynes (Sligo),,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Football_Championship
 2018-06-23,football,minor,connacht,Round 3,Mayo,2,18,24,Sligo,0,10,10,Mayo,MacHale Park,,Marty Parker (Roscommon),,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Football_Championship
 2018-06-23,football,under20,leinster,Quarter-Final,Offaly,1,17,20,Westmeath,1,10,13,Offaly,O'Connor Park,,Patrick Maguire (Longford),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
@@ -8550,6 +8565,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Armagh,2,16,22,Clare,1,15,18,Armagh,"Athletic Grounds, Armagh",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Cavan,1,12,15,Tyrone,0,18,18,Tyrone,"Brewster Park, Enniskillen",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Kildare,0,21,21,Mayo,0,19,19,Kildare,"St Conleth's Park, Newbridge",,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-30,hurling,senior,christy_ring,Promotion/Relegation Play-off,Antrim,3,23,32,Kildare,1,17,20,Antrim,"Athletic Grounds, Armagh",,,"promotion/relegation play-off (Joe McDonagh Cup vs Christy Ring); Antrim retain Joe McDonagh place, Kildare remain in Christy Ring",https://en.wikipedia.org/wiki/2018_Christy_Ring_Cup
 2018-06-30,hurling,senior,joe_mcdonagh,relegation_playoff,Antrim,3,23,32,Kildare,1,17,20,Antrim,"Athletic Grounds, Armagh",,D Hughes (Carlow),relegation play-off; Antrim retained Joe McDonagh Cup status for 2019,https://en.wikipedia.org/wiki/2018_Joe_McDonagh_Cup
 2018-06-30,football,under20,leinster,Semi-Final 2,Dublin,4,16,28,Meath,2,10,16,Dublin,Páirc Tailteann,,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-30,hurling,minor,leinster,Final,Dublin,6,19,37,Kilkenny,7,12,33,Dublin,"O'Moore Park, Portlaoise",,R Fitzsimons (Offaly),,https://en.wikipedia.org/wiki/2018_All-Ireland_Minor_Hurling_Championship
@@ -8849,6 +8865,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-05-05,football,senior,connacht,Quarter-final,London,1,9,12,Galway,0,16,16,Galway,"McGovern Park, Ruislip",,,,https://en.wikipedia.org/wiki/2019_Connacht_Senior_Football_Championship
 2019-05-07,football,minor,munster,Phase 2 Round 1,Kerry,3,19,28,Cork,1,9,12,Kerry,"Páirc Uí Rinn, Cork",,Alan Kissane (Waterford),,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
 2019-05-08,football,minor,munster,Phase 1 Final,Clare,3,12,21,Tipperary,0,6,6,Clare,"LIT Gaelic Grounds, Limerick",,Sean Joy (Kerry),,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
+2019-05-11,hurling,senior,christy_ring,group_1_round_1,Down,2,14,20,Derry,3,20,29,Derry,Portaferry,,Séan Stack,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-05-11,hurling,senior,joe_mcdonagh,round_robin,Antrim,3,19,28,Kerry,0,14,14,Antrim,"Pearse Park, Dunloy",,Liam Gordon (Galway),,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-05-11,hurling,senior,joe_mcdonagh,round_robin,Offaly,3,21,30,Laois,4,22,34,Laois,"Bord na Móna O'Connor Park, Tullamore",3163,Colum Cunning (Antrim),,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-05-11,football,senior,leinster,Preliminary round,Wicklow,1,10,13,Kildare,0,15,15,Kildare,"Netwatch Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Football_Championship
@@ -8860,6 +8877,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-05-11,hurling,senior,leinster,Round 1,Kilkenny,2,23,29,Dublin,1,21,24,Kilkenny,"Nowlan Park, Kilkenny",9495,C McAllister (Cork),,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Hurling_Championship
 2019-05-11,football,senior,munster,Quarter-final,Tipperary,1,10,13,Limerick,3,11,20,Limerick,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2019_Munster_Senior_Football_Championship
 2019-05-11,football,senior,munster,Quarter-final,Clare,0,9,9,Waterford,0,8,8,Clare,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/2019_Munster_Senior_Football_Championship
+2019-05-12,hurling,senior,christy_ring,group_1_round_1,Donegal,1,15,18,Wicklow,4,12,24,Wicklow,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-05-12,football,senior,connacht,Quarter-final,Leitrim,0,12,12,Roscommon,3,17,26,Roscommon,Dr Hyde Park,,,,https://en.wikipedia.org/wiki/2019_Connacht_Senior_Football_Championship
 2019-05-12,football,senior,leinster,Preliminary round,Louth,0,22,22,Wexford,1,14,17,Louth,Wexford Park,,,,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Football_Championship
 2019-05-12,football,senior,leinster,Preliminary round,Meath,1,13,16,Offaly,0,14,14,Meath,"Pairc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Football_Championship
@@ -8872,11 +8890,17 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-05-15,football,minor,munster,Phase 2 Round 2,Cork,3,9,18,Clare,0,14,14,Cork,"Cusack Park, Ennis",,Brendan Griffin (Kerry),,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
 2019-05-17,football,minor,connacht,Round 1,Leitrim,0,6,6,Mayo,1,20,23,Mayo,"Ballinamore, County Leitrim",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
 2019-05-17,football,minor,connacht,Round 1,Roscommon,1,17,20,Galway,1,15,18,Roscommon,"Dr Hyde Park, Roscommon",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
+2019-05-18,hurling,senior,christy_ring,group_1_round_2,Derry,0,20,20,Donegal,1,14,17,Derry,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-05-18,hurling,senior,christy_ring,group_1_round_2,Wicklow,2,19,25,Down,2,25,31,Down,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-05-18,hurling,senior,joe_mcdonagh,round_robin,Laois,2,24,30,Antrim,1,19,22,Laois,"O'Moore Park, Portlaoise",,Patrick Murphy (Carlow),,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-05-18,hurling,senior,joe_mcdonagh,round_robin,Westmeath,3,18,27,Offaly,0,14,14,Westmeath,"TEG Cusack Park, Mullingar",,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-05-18,hurling,minor,leinster,Round 1,Kildare,7,35,56,Down,0,5,5,Kildare,Abbotstown,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Hurling_Championship
 2019-05-18,hurling,minor,leinster,Round 1,Antrim,2,12,18,Meath,3,17,26,Meath,"Conneff Park, Clane",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Hurling_Championship
 2019-05-18,football,senior,ulster,Quarter-final,Cavan,1,13,16,Monaghan,0,12,12,Cavan,"Breffni Park, Cavan",13496,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2019_Ulster_Senior_Football_Championship
+2019-05-19,hurling,senior,christy_ring,group_2_round_1,Roscommon,0,20,20,Kildare,1,15,18,Roscommon,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-05-19,hurling,senior,christy_ring,group_2_round_1,Meath,2,23,29,London,0,13,13,Meath,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-05-19,hurling,senior,christy_ring,group_2_round_2,Kildare,1,13,16,Meath,2,27,33,Meath,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-05-19,hurling,senior,christy_ring,group_2_round_2,London,2,12,18,Roscommon,1,25,28,Roscommon,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-05-19,football,senior,connacht,Semi-final,Sligo,0,7,7,Galway,3,11,20,Galway,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2019_Connacht_Senior_Football_Championship
 2019-05-19,hurling,minor,leinster,Round 1,Carlow,0,18,18,Westmeath,2,13,19,Westmeath,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Hurling_Championship
 2019-05-19,hurling,senior,leinster,Round 2,Carlow,1,14,17,Kilkenny,3,22,31,Kilkenny,"Netwatch Cullen Park, Carlow",7050,A Kelly (Galway),,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Hurling_Championship
@@ -8904,6 +8928,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-05-27,hurling,under20,leinster,Play-off round 1,Westmeath,0,9,9,Offaly,1,23,26,Offaly,"Cusack Park, Mullingar",,S Stack (Dublin),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Hurling_Championship
 2019-05-31,football,minor,connacht,Round 3,Roscommon,5,15,30,Leitrim,0,8,8,Roscommon,"Dr Hyde Park, Roscommon",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
 2019-05-31,football,minor,connacht,Round 3,Sligo,0,16,16,Mayo,0,12,12,Sligo,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
+2019-06-01,hurling,senior,christy_ring,group_1_round_3,Donegal,2,15,21,Down,7,22,43,Down,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-06-01,hurling,senior,christy_ring,group_1_round_3,Derry,0,16,16,Wicklow,1,16,19,Wicklow,,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-06-01,hurling,senior,christy_ring,group_2_round_3,Roscommon,0,19,19,Meath,0,23,23,Meath,Athleague,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-06-01,hurling,senior,christy_ring,group_2_round_3,London,2,16,22,Kildare,2,19,25,Kildare,Ruislip,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-06-01,hurling,senior,joe_mcdonagh,round_robin,Offaly,4,18,30,Antrim,3,23,32,Antrim,"Bord na Móna O'Connor Park, Tullamore",,Liam Gordon (Galway),,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-06-01,football,minor,leinster,Quarter-Final,Wicklow,1,9,12,Dublin,0,20,20,Dublin,"Joule Park, Aughrim",,Seamus Mulhare (Laois),,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
 2019-06-01,football,minor,leinster,Quarter-Final,Westmeath,2,15,21,Meath,1,14,17,Westmeath,"Cusack Park, Mullingar",,David Fedigan (Louth),after extra time,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
@@ -8920,6 +8948,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-06-08,football,senior,all_ireland,Round 1 qualifier,Leitrim,0,15,15,Wicklow,0,13,13,Leitrim,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-08,football,senior,all_ireland,Round 1 qualifier,Wexford,0,10,10,Derry,4,16,28,Derry,Wexford Park,,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-08,football,senior,all_ireland,Round 1 qualifier,Louth,1,11,14,Antrim,2,16,22,Antrim,"Gaelic Grounds, Drogheda",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
+2019-06-08,hurling,senior,christy_ring,semi_final,Down,3,18,27,Roscommon,1,15,18,Down,Inniskeen,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-06-08,hurling,senior,christy_ring,semi_final,Meath,3,24,33,Derry,2,18,24,Meath,Athletic Grounds,,,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
+2019-06-08,hurling,senior,christy_ring,relegation_play-off,London,2,18,24,Donegal,1,14,17,London,Crossmaglen,,,relegation,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-06-08,hurling,senior,joe_mcdonagh,round_robin,Kerry,1,21,24,Laois,5,17,32,Laois,"Austin Stack Park, Tralee",,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-06-08,hurling,senior,joe_mcdonagh,round_robin,Antrim,0,21,21,Westmeath,0,29,29,Westmeath,"Pearse Park, Dunloy",,,,https://en.wikipedia.org/wiki/2019_Joe_McDonagh_Cup
 2019-06-08,hurling,minor,leinster,Quarter-Final,Laois,1,16,19,Wexford,4,17,29,Wexford,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Hurling_Championship
@@ -8964,6 +8995,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-06-22,football,senior,all_ireland,Round 2 qualifier,Leitrim,0,17,17,Clare,3,17,26,Clare,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",7563,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-22,football,senior,all_ireland,Round 2 qualifier,Down,1,11,14,Mayo,1,16,19,Mayo,"Pairc Esler, Newry",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-22,football,senior,all_ireland,Round 2 qualifier,Monaghan,1,12,15,Armagh,2,17,23,Armagh,"St Tiernach's Park, Clones",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
+2019-06-22,hurling,senior,christy_ring,final,Down,2,15,21,Meath,4,19,31,Meath,"Croke Park, Dublin",,Sean Stack,,https://en.wikipedia.org/wiki/2019_Christy_Ring_Cup
 2019-06-22,football,minor,leinster,Semi-Final,Westmeath,1,11,14,Dublin,0,18,18,Dublin,"Cusack Park, Mullingar",,David Hickey (Carlow),,https://en.wikipedia.org/wiki/2019_All-Ireland_Minor_Football_Championship
 2019-06-22,football,under20,leinster,First round,Carlow,2,4,10,Offaly,3,22,31,Offaly,Netwatch Cullen Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-06-22,football,under20,leinster,First round,Wexford,1,14,17,Wicklow,2,7,13,Wexford,Bellefield Complex,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
@@ -9294,6 +9326,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-10-21,hurling,under20,leinster,Round 1,Antrim,1,8,11,Dublin,2,22,28,Dublin,Louth Centre of Excellence,,,,https://en.wikipedia.org/wiki/2020_All-Ireland_Under-20_Hurling_Championship
 2020-10-21,hurling,under20,leinster,Round 1,Laois,1,15,18,Carlow,0,15,15,Laois,MW Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2020_All-Ireland_Under-20_Hurling_Championship
 2020-10-21,hurling,under20,leinster,Round 1,Offaly,2,22,28,Westmeath,3,9,18,Offaly,Faithful Fields,,,,https://en.wikipedia.org/wiki/2020_All-Ireland_Under-20_Hurling_Championship
+2020-10-24,hurling,senior,christy_ring,round_1,Kildare,,,,Offaly,,,,Kildare,O'Connor Park,,,walkover; Offaly conceded,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-10-24,football,senior,nfl_div1,Division 1 Round 7,Kerry,2,18,24,Donegal,0,10,10,Kerry,"Austin Stack Park, Tralee",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-24,football,senior,nfl_div2,Division 2 Round 7,Cavan,0,13,13,Roscommon,1,12,15,Roscommon,"Breffni Park, Cavan",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-24,football,senior,nfl_div2,Division 2 Round 7,Clare,1,13,16,Armagh,1,18,21,Armagh,"Cusack Park, Ennis",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
@@ -9302,6 +9335,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-10-24,football,senior,nfl_div4,Division 4 Round 7,Antrim,2,14,20,Waterford,0,13,13,Antrim,"McGeough Park, Haggardstown",,Niall McKenna (Monaghan),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-24,football,senior,nfl_div4,Division 4 Round 7,Wexford,0,10,10,Wicklow,0,13,13,Wicklow,Wexford Park,,,,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-24,football,senior,nfl_div4,Division 4 Round 7,Sligo,1,14,17,Limerick,1,16,19,Limerick,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+2020-10-25,hurling,senior,christy_ring,round_1,Roscommon,3,14,23,Wicklow,2,19,25,Wicklow,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
+2020-10-25,hurling,senior,christy_ring,round_1,Derry,,,,Sligo,,,,Derry,Celtic Park,,,walkover; Sligo conceded,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-10-25,hurling,senior,joe_mcdonagh,Round 1,Antrim,4,25,37,Westmeath,1,15,18,Antrim,Corrigan Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-10-25,hurling,senior,joe_mcdonagh,Round 1,Kerry,1,20,23,Meath,0,13,13,Kerry,Austin Stack Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-10-25,hurling,senior,munster,Quarter-final,Limerick,0,36,36,Clare,1,23,26,Limerick,"Semple Stadium, Thurles",,,behind closed doors,https://en.wikipedia.org/wiki/2020_Munster_Senior_Hurling_Championship
@@ -9312,11 +9347,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-10-25,football,senior,nfl_div3,Division 3 Round 7,Leitrim,0,15,15,Tipperary,2,11,17,Tipperary,"Páirc Seán MacDiarmada, Carrick-on-Shannon",,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-25,football,senior,nfl_div3,Division 3 Round 7,Offaly,1,10,13,Derry,1,12,15,Derry,"O'Connor Park, Tullamore",,John Ryan (Cork),,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 2020-10-25,hurling,senior,nhl_div1,Division 1 Final,Clare,1,23,26,Limerick,0,36,36,Limerick,"Semple Stadium, Thurles",0,Fergal Horgan (Tipperary),played behind closed doors due to COVID-19,https://en.wikipedia.org/wiki/2020_National_Hurling_League
+2020-10-31,hurling,senior,christy_ring,round_2a,Down,1,13,16,Derry,0,13,13,Down,McKenna Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-10-31,hurling,senior,joe_mcdonagh,Round 2,Westmeath,0,14,14,Kerry,2,19,25,Kerry,TEG Cusack Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-10-31,hurling,senior,joe_mcdonagh,Round 2,Carlow,2,25,31,Antrim,5,16,31,draw,Netwatch Cullen Park,,C McAllister (Cork),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-10-31,football,senior,munster,Provincial quarter-final,Waterford,0,9,9,Limerick,2,14,20,Limerick,"Fraher Field, Dungarvan",,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2020_Munster_Senior_Football_Championship
 2020-10-31,hurling,senior,munster,Provincial semi-final,Waterford,1,28,31,Cork,1,24,27,Waterford,"Semple Stadium, Thurles",,,behind closed doors,https://en.wikipedia.org/wiki/2020_Munster_Senior_Hurling_Championship
 2020-10-31,football,senior,ulster,Provincial preliminary round,Monaghan,1,17,20,Cavan,2,15,21,Cavan,"St Tiernach's Park, Clones",,Ciaran Branagan (Down),after extra time,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
+2020-11-01,hurling,senior,christy_ring,round_2a,Kildare,2,14,20,Wicklow,1,10,13,Kildare,St Conleth's Park,,,,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-11-01,football,senior,connacht,Provincial quarter-final,Galway,,,,New York,,,,Galway,"Gaelic Park, New York City",,,walkover,https://en.wikipedia.org/wiki/2020_Connacht_Senior_Football_Championship
 2020-11-01,football,senior,connacht,Provincial quarter-final,London,,,,Roscommon,,,,Roscommon,"McGovern Park, Ruislip",,,walkover,https://en.wikipedia.org/wiki/2020_Connacht_Senior_Football_Championship
 2020-11-01,football,senior,connacht,Provincial quarter-final,Leitrim,0,10,10,Mayo,2,15,21,Mayo,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2020_Connacht_Senior_Football_Championship
@@ -9327,17 +9364,21 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-11-01,hurling,senior,munster,Provincial semi-final,Limerick,3,23,32,Tipperary,2,17,23,Limerick,,,,behind closed doors,https://en.wikipedia.org/wiki/2020_Munster_Senior_Hurling_Championship
 2020-11-01,football,senior,ulster,Provincial quarter-final,Donegal,1,13,16,Tyrone,1,11,14,Donegal,"MacCumhaill Park, Ballybofey",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
 2020-11-01,football,senior,ulster,Provincial quarter-final,Derry,0,15,15,Armagh,0,17,17,Armagh,"Celtic Park, Derry",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
+2020-11-07,hurling,senior,christy_ring,round_2b,Derry,1,12,15,Offaly,0,32,32,Offaly,Páirc Esler,,,,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-11-07,football,senior,connacht,Provincial semi-final,Galway,,,,Sligo,,,,Galway,"Pearse Stadium, Galway",,,walkover,https://en.wikipedia.org/wiki/2020_Connacht_Senior_Football_Championship
 2020-11-07,hurling,senior,joe_mcdonagh,Round 3,Carlow,1,22,25,Meath,1,21,24,Carlow,Netwatch Cullen Park,,,,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-11-07,football,senior,leinster,Provincial quarter-final,Dublin,0,22,22,Westmeath,0,11,11,Dublin,"O'Moore Park, Portlaoise",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2020_Leinster_Senior_Football_Championship
 2020-11-07,football,senior,munster,Provincial semi-final,Limerick,2,11,17,Tipperary,1,15,18,Tipperary,"LIT Gaelic Grounds, Limerick",,Maurice Deegan (Laois),after extra time,https://en.wikipedia.org/wiki/2020_Munster_Senior_Football_Championship
 2020-11-07,football,senior,ulster,Provincial quarter-final,Antrim,0,9,9,Cavan,0,13,13,Cavan,"Kingspan Breffni Park, Cavan",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
+2020-11-08,hurling,senior,christy_ring,round_2b,Roscommon,0,20,20,Sligo,0,17,17,Roscommon,Waldron Park,,Richie Fitzsimons,,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-11-08,football,senior,connacht,Provincial semi-final,Roscommon,0,13,13,Mayo,1,16,19,Mayo,"Dr Hyde Park, Roscommon",,David Gough (Meath),,https://en.wikipedia.org/wiki/2020_Connacht_Senior_Football_Championship
 2020-11-08,football,senior,leinster,Provincial quarter-final,Meath,7,14,35,Wicklow,0,7,7,Meath,Aughrim County Ground,,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2020_Leinster_Senior_Football_Championship
 2020-11-08,football,senior,leinster,Provincial quarter-final,Longford,1,14,17,Laois,1,16,19,Laois,"Glennon Brothers Pearse Park, Longford",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2020_Leinster_Senior_Football_Championship
 2020-11-08,football,senior,leinster,Provincial quarter-final,Offaly,0,16,16,Kildare,0,20,20,Kildare,"O'Moore Park, Portlaoise",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2020_Leinster_Senior_Football_Championship
 2020-11-08,football,senior,munster,Provincial semi-final,Cork,1,12,15,Kerry,0,13,13,Cork,"Páirc Uí Chaoimh, Cork",,Derek O'Mahoney (Tipperary),after extra time,https://en.wikipedia.org/wiki/2020_Munster_Senior_Football_Championship
 2020-11-08,football,senior,ulster,Provincial quarter-final,Fermanagh,0,11,11,Down,1,15,18,Down,"Brewster Park, Enniskillen",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
+2020-11-14,hurling,senior,christy_ring,semi_final,Down,1,23,26,Offaly,2,20,26,Down,Páirc Esler,0,Sean Stack,after extra time; Down won 3-2 on penalties,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
+2020-11-14,hurling,senior,christy_ring,semi_final,Kildare,3,24,33,Roscommon,1,8,11,Kildare,St Conleth's Park,0,Thomas Gleeson (Dublin),,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-11-14,hurling,senior,joe_mcdonagh,Round 3,Antrim,3,18,27,Kerry,2,14,20,Antrim,Corrigan Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-11-14,hurling,senior,leinster,Provincial final,Kilkenny,2,20,26,Galway,0,24,24,Kilkenny,"Croke Park, Dublin",,F Horgan (Tipperary),behind closed doors,https://en.wikipedia.org/wiki/2020_Leinster_Senior_Hurling_Championship
 2020-11-14,football,senior,ulster,Provincial semi-final,Donegal,1,22,25,Armagh,0,13,13,Donegal,"Breffni Park, Cavan",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
@@ -9351,6 +9392,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2020-11-21,hurling,senior,joe_mcdonagh,Round 4,Kerry,2,22,28,Carlow,1,23,26,Kerry,Austin Stack Park,,C McAllister (Cork),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-11-21,hurling,senior,joe_mcdonagh,Round 4,Meath,1,19,22,Westmeath,2,20,26,Westmeath,Páirc Tailteann,,R McGann (Clare),,https://en.wikipedia.org/wiki/2020_Joe_McDonagh_Cup
 2020-11-21,football,senior,leinster,Provincial final,Meath,0,9,9,Dublin,3,21,30,Dublin,"Croke Park, Dublin",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2020_Leinster_Senior_Football_Championship
+2020-11-22,hurling,senior,christy_ring,final,Down,0,22,22,Kildare,3,16,25,Kildare,Croke Park,0,Chris Mooney (Dublin),,https://en.wikipedia.org/wiki/2020_Christy_Ring_Cup
 2020-11-22,football,senior,munster,Provincial final,Tipperary,0,17,17,Cork,0,14,14,Tipperary,"Páirc Uí Chaoimh, Cork",,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2020_Munster_Senior_Football_Championship
 2020-11-22,football,senior,ulster,Provincial final,Donegal,0,12,12,Cavan,1,13,16,Cavan,"Athletic Grounds, Armagh",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2020_Ulster_Senior_Football_Championship
 2020-11-28,hurling,senior,all_ireland,Semi-final,Waterford,2,27,33,Kilkenny,2,23,29,Waterford,"Croke Park, Dublin",,F Horgan (Tipperary),behind closed doors,https://en.wikipedia.org/wiki/2020_All-Ireland_Senior_Hurling_Championship
@@ -9529,6 +9571,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-06-19,hurling,senior,nhl_div3a,Division 3A Round 5,Armagh,1,25,28,Tyrone,2,19,25,Armagh,Athletic Grounds,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-06-19,hurling,senior,nhl_div3a,Division 3A Round 5,Monaghan,0,19,19,Sligo,0,21,21,Sligo,Inniskeen,,,,https://en.wikipedia.org/wiki/2021_National_Hurling_League
 2021-06-23,hurling,under20,leinster,Final,Dublin,1,20,23,Galway,1,18,21,Dublin,Bord na Móna O'Connor Park,,David Hughes (Kilkenny),delayed,https://en.wikipedia.org/wiki/2020_All-Ireland_Under-20_Hurling_Championship
+2021-06-26,hurling,senior,christy_ring,Group A round 1,Wicklow,2,18,24,Roscommon,1,11,14,Wicklow,Aughrim County Ground,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
 2021-06-26,football,senior,connacht,Provincial quarter-final,Mayo,3,23,32,Sligo,0,12,12,Mayo,"Markievicz Park, Sligo",200,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2021_Connacht_Senior_Football_Championship
 2021-06-26,hurling,senior,joe_mcdonagh,Group A Round 1,Kildare,3,16,25,Carlow,2,22,28,Carlow,St. Conleth's Park,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-06-26,hurling,senior,joe_mcdonagh,Group B Round 1,Kerry,2,24,30,Down,1,21,24,Kerry,Austin Stack Park,,C McAllister (Cork),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
@@ -9561,6 +9604,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-07-02,hurling,minor,all_ireland,Semi-Final,Galway,4,18,30,Limerick,0,15,15,Galway,Cusack Park,,T Walsh (Waterford),,https://en.wikipedia.org/wiki/2020_All-Ireland_Minor_Hurling_Championship
 2021-07-02,football,minor,ulster,Final,Derry,1,15,18,Monaghan,1,10,13,Derry,"Healy Park, Omagh",,James Lewis (Fermanagh),,https://en.wikipedia.org/wiki/2020_All-Ireland_Minor_Football_Championship
 2021-07-02,football,under20,ulster,Preliminary round,Donegal,1,17,20,Armagh,0,8,8,Donegal,MacCumhaill Park,,,,https://en.wikipedia.org/wiki/2021_All-Ireland_Under-20_Football_Championship
+2021-07-03,hurling,senior,christy_ring,Group A round 2,Roscommon,1,15,18,Derry,0,19,19,Derry,Dr. Hyde Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
+2021-07-03,hurling,senior,christy_ring,Group B round 1,Sligo,2,17,23,Offaly,2,39,45,Offaly,Markievicz Park,,A Kelly (Galway),,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
 2021-07-03,hurling,senior,joe_mcdonagh,Group A Round 2,Carlow,0,18,18,Westmeath,0,23,23,Westmeath,Netwatch Cullen Park,,R McGann (Antrim),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-07-03,hurling,senior,joe_mcdonagh,Group B Round 2,Down,1,27,30,Meath,2,16,22,Down,McKenna Park,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-07-03,hurling,minor,leinster,Final,Offaly,3,9,18,Kilkenny,2,21,27,Kilkenny,MW Hire O'Moore Park,,C Daly (Kildare),,https://en.wikipedia.org/wiki/2020_All-Ireland_Minor_Hurling_Championship
@@ -9593,6 +9638,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-07-10,hurling,minor,all_ireland,Final,Galway,1,17,20,Kilkenny,1,14,17,Galway,MW Hire O'Moore Park,,S Stack (Dublin),,https://en.wikipedia.org/wiki/2020_All-Ireland_Minor_Hurling_Championship
 2021-07-10,hurling,senior,all_ireland,Qualifier preliminary round,Laois,2,27,33,Antrim,2,21,27,Laois,"Parnell Park, Dublin",,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
 2021-07-10,hurling,under20,all_ireland,Final,Cork,2,19,25,Dublin,1,18,21,Cork,UPMC Nowlan Park,,J Keenan (Wicklow),delayed,https://en.wikipedia.org/wiki/2020_All-Ireland_Under-20_Hurling_Championship
+2021-07-10,hurling,senior,christy_ring,Group A round 3,Derry,2,23,29,Wicklow,0,18,18,Derry,Owenbeg,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
 2021-07-10,hurling,senior,joe_mcdonagh,Group A Round 3,Westmeath,2,19,25,Kildare,1,21,24,Westmeath,TEG Cusack Park,,C McAllister (Cork),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-07-10,hurling,senior,joe_mcdonagh,Group B Round 3,Meath,0,28,28,Kerry,1,21,24,Meath,Páirc Tailteann,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-07-10,football,minor,leinster,Quarter-final,Dublin,3,12,21,Offaly,0,6,6,Dublin,Bord na Móna O'Connor Park,,Keith O'Brien (Westmeath),,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
@@ -9622,6 +9668,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-07-16,football,under20,ulster,Provincial semi-final,Donegal,1,11,14,Monaghan,3,10,19,Monaghan,Brewster Park,,,,https://en.wikipedia.org/wiki/2021_All-Ireland_Under-20_Football_Championship
 2021-07-17,hurling,senior,all_ireland,Qualifier round 1,Clare,2,25,31,Wexford,2,22,28,Clare,"Semple Stadium, Thurles",,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
 2021-07-17,hurling,senior,all_ireland,Qualifier round 1,Waterford,3,23,32,Laois,2,21,27,Waterford,"Nowlan Park, Kilkenny",,L Gordon (Galway),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
+2021-07-17,hurling,senior,christy_ring,Quarter-final,Roscommon,1,20,23,Sligo,2,18,24,Sligo,Dr. Hyde Park,,,relegation: Roscommon relegated to 2022 Nicky Rackard Cup,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
 2021-07-17,hurling,senior,joe_mcdonagh,Final,Westmeath,2,28,34,Kerry,1,24,27,Westmeath,Croke Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-07-17,hurling,senior,joe_mcdonagh,Relegation play-off,Kildare,1,15,18,Meath,0,28,28,Meath,Parnell Park,,C Cunning (Antrim),relegation,https://en.wikipedia.org/wiki/2021_Joe_McDonagh_Cup
 2021-07-17,hurling,senior,leinster,Provincial final,Kilkenny,1,25,28,Dublin,0,19,19,Kilkenny,"Croke Park, Dublin",,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2021_Leinster_Senior_Hurling_Championship
@@ -9646,6 +9693,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-07-23,football,minor,connacht,Quarter-final,Roscommon,4,13,25,Mayo,2,12,18,Roscommon,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
 2021-07-24,hurling,senior,all_ireland,Qualifier round 2,Waterford,1,30,33,Galway,3,20,29,Waterford,"Semple Stadium, Thurles",,Sean Stack (Dublin),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
 2021-07-24,hurling,senior,all_ireland,Qualifier round 2,Cork,3,19,28,Clare,1,23,26,Cork,"Gaelic Grounds, Limerick",,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
+2021-07-24,hurling,senior,christy_ring,Semi-final,Derry,0,28,28,Sligo,2,17,23,Derry,Owenbeg,,,,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
+2021-07-24,hurling,senior,christy_ring,Semi-final,Offaly,6,30,48,Wicklow,0,10,10,Offaly,Bord na Móna O'Connor Park,,,,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
 2021-07-24,football,minor,leinster,Semi-final,Meath,1,15,18,Louth,1,11,14,Meath,Páirc Tailteann,,Marius Stones (Offaly),,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
 2021-07-24,football,minor,leinster,Semi-final,Dublin,0,13,13,Kildare,2,5,11,Dublin,Parnell Park,,Patrick Maguire (Longford),,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
 2021-07-24,hurling,senior,nhl_div1,Division 1 Relegation Play-off,Westmeath,0,27,27,Laois,1,27,30,Laois,O'Moore Park,,Patrick Murphy (Carlow),relegation play-off; Westmeath relegated,https://en.wikipedia.org/wiki/2021_National_Hurling_League
@@ -9669,6 +9718,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2021-07-31,hurling,senior,all_ireland,Quarter-final,Dublin,0,24,24,Cork,2,26,32,Cork,"Semple Stadium, Thurles",,J Owens (Wexford),,https://en.wikipedia.org/wiki/2021_All-Ireland_Senior_Hurling_Championship
 2021-07-31,football,minor,connacht,Semi-final,Galway,2,11,17,Roscommon,1,16,19,Roscommon,Tuam Stadium,,,,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
 2021-07-31,football,senior,ulster,Provincial final,Monaghan,0,15,15,Tyrone,0,16,16,Tyrone,"Croke Park, Dublin",18000,,,https://en.wikipedia.org/wiki/2021_Ulster_Senior_Football_Championship
+2021-08-01,hurling,senior,christy_ring,Final,Derry,2,14,20,Offaly,0,41,41,Offaly,Croke Park,,T Gleeson (Dublin),Offaly promoted to 2022 Joe McDonagh Cup,https://en.wikipedia.org/wiki/2021_Christy_Ring_Cup
 2021-08-01,football,senior,leinster,Provincial final,Dublin,0,20,20,Kildare,1,9,12,Dublin,"Croke Park, Dublin",18000,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2021_Leinster_Senior_Football_Championship
 2021-08-02,football,minor,leinster,Final,Dublin,1,3,6,Meath,3,8,17,Meath,Bord na Móna O'Connor Park,,Fintan Pierce (Offaly),,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
 2021-08-06,football,minor,connacht,Final,Sligo,0,19,19,Roscommon,1,11,14,Sligo,Dr. Hyde Park,,John Glavey (Mayo),,https://en.wikipedia.org/wiki/2021_All-Ireland_Minor_Football_Championship
@@ -9935,10 +9985,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-04-07,football,under20,leinster,First round,Wicklow,2,13,19,Westmeath,4,12,24,Westmeath,"Baltinglass GAA, Baltinglass",,Patrick Maguire,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
 2022-04-08,football,under20,ulster,Provincial semi-final,Cavan,0,11,11,Derry,0,9,9,Cavan,"Athletic Grounds, Armagh",,Darren O'Hare,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
 2022-04-08,football,under20,ulster,Provincial semi-final,Donegal,2,16,22,Tyrone,3,16,25,Tyrone,"Celtic Park, Derry",,Anthony Marron,after extra time,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
+2022-04-09,hurling,senior,christy_ring,round_robin_round_1,London,0,26,26,Sligo,0,21,21,London,"McGovern Park, Ruislip",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-04-09,hurling,minor,leinster,Tier 1 Group Round 2,Wexford,2,12,18,Kilkenny,2,17,23,Kilkenny,Chadwicks Wexford Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
 2022-04-09,hurling,minor,leinster,Tier 2 Group Round 2,Laois,4,23,35,Kildare,0,10,10,Laois,MW Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
 2022-04-09,hurling,under20,leinster,Round 2,Westmeath,0,13,13,Wexford,2,17,23,Wexford,TEG Cusack Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Hurling_Championship
 2022-04-09,hurling,under20,leinster,Round 2,Kildare,0,16,16,Laois,1,21,24,Laois,St Conleth's Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Hurling_Championship
+2022-04-10,hurling,senior,christy_ring,round_robin_round_1,Derry,1,21,24,Wicklow,1,9,12,Derry,"Celtic Park, Derry",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-04-10,hurling,senior,christy_ring,round_robin_round_1,Mayo,0,11,11,Kildare,5,26,41,Kildare,"James Stephens Park, Ballina",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-04-11,football,under20,munster,Quarter-final,Waterford,1,6,9,Limerick,2,9,15,Limerick,"Fraher Field, Dungarvan",,Cormac Dineen,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
 2022-04-11,football,under20,munster,Quarter-final,Clare,3,15,24,Tipperary,2,5,11,Clare,"Hennessy Memorial Park, Milltown Malbay",,Jonathan Hayes,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
 2022-04-12,hurling,minor,munster,Group 1 Round 2,Tipperary,2,13,19,Clare,0,13,13,Tipperary,FBD Semple Stadium,,N Barry (Waterford),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
@@ -9952,6 +10005,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-04-14,football,under20,leinster,Quarter-final,Dublin,1,15,18,Westmeath,1,10,13,Dublin,"Parnell Park, Dublin",,Seamus Mulhare,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
 2022-04-14,football,minor,munster,Phase 1 Round 1,Clare,4,18,30,Waterford,0,4,4,Clare,Wolfe Tone Park,,P O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-04-14,football,minor,munster,Phase 1 Round 1,Tipperary,1,15,18,Limerick,1,8,11,Tipperary,FBD Semple Stadium,,E Morrissey (Waterford),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
+2022-04-16,hurling,senior,christy_ring,round_robin_round_2,Wicklow,2,10,16,Mayo,0,26,26,Mayo,"Aughrim County Ground, Aughrim",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-04-16,hurling,senior,christy_ring,round_robin_round_2,Kildare,3,35,44,London,3,14,23,Kildare,"St Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-04-16,hurling,senior,joe_mcdonagh,round_robin,Antrim,3,22,31,Offaly,2,24,30,Antrim,Corrigan Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-04-16,hurling,senior,joe_mcdonagh,round_robin,Kerry,0,18,18,Down,1,19,22,Down,Austin Stack Park,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-04-16,hurling,senior,joe_mcdonagh,round_robin,Meath,0,17,17,Carlow,4,30,42,Carlow,Páirc Tailteann,,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
@@ -9963,6 +10018,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-04-16,hurling,senior,leinster,Round 1,Dublin,1,20,23,Laois,2,15,21,Dublin,Parnell Park,,L Gordon (Galway),,https://en.wikipedia.org/wiki/2022_Leinster_Senior_Hurling_Championship
 2022-04-16,football,minor,ulster,Preliminary round,Fermanagh,2,9,15,Down,1,9,12,Fermanagh,Brewster Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-04-16,football,senior,ulster,Preliminary round,Fermanagh,2,10,16,Tyrone,2,17,23,Tyrone,"Brewster Park, Enniskillen",7839,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2022_Ulster_Senior_Football_Championship
+2022-04-17,hurling,senior,christy_ring,round_robin_round_2,Sligo,0,11,11,Derry,2,20,26,Derry,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-04-17,football,senior,connacht,Quarter-final,New York,0,15,15,Sligo,1,16,19,Sligo,"Gaelic Park, New York City",4000,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2022_Connacht_Senior_Football_Championship
 2022-04-17,football,senior,connacht,Quarter-final,London,2,11,17,Leitrim,3,12,21,Leitrim,"McGovern Park, Ruislip",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2022_Connacht_Senior_Football_Championship
 2022-04-17,hurling,senior,munster,Round 1,Waterford,2,24,30,Tipperary,2,20,26,Waterford,Walsh Park,10982,J Murphy (Limerick),,https://en.wikipedia.org/wiki/2022_Munster_Senior_Hurling_Championship
@@ -9989,6 +10045,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-04-22,football,minor,connacht,Round 1,Galway,3,19,28,Roscommon,1,12,15,Galway,Tuam Stadium,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-04-22,football,minor,ulster,Round 1,Monaghan,0,11,11,Antrim,2,11,17,Antrim,Grattan Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-04-22,football,under20,ulster,Provincial final,Cavan,0,10,10,Tyrone,0,11,11,Tyrone,"Brewster Park, Enniskillen",,Enda McFeely,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
+2022-04-23,hurling,senior,christy_ring,round_robin_round_3,London,2,13,19,Mayo,1,22,25,Mayo,"McGovern Park, Ruislip",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-04-23,hurling,senior,christy_ring,round_robin_round_3,Kildare,1,24,27,Derry,0,12,12,Kildare,"St Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-04-23,hurling,senior,christy_ring,round_robin_round_3,Sligo,4,24,36,Wicklow,1,14,17,Sligo,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-04-23,hurling,senior,joe_mcdonagh,round_robin,Offaly,2,22,28,Meath,0,19,19,Offaly,Bord na Móna O'Connor Park,,M Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-04-23,hurling,senior,joe_mcdonagh,round_robin,Carlow,0,15,15,Kerry,3,21,30,Kerry,Netwatch Cullen Park,,S Hynes (Galway),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-04-23,hurling,minor,leinster,Preliminary Quarter-final,Westmeath,0,17,17,Laois,2,15,21,Laois,TEG Cusack Park,,O Beehan (Kilkenny),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
@@ -10050,6 +10109,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-05-06,football,minor,connacht,Round 3,Leitrim,1,13,16,Roscommon,1,13,16,draw,Avant Money Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-06,football,minor,connacht,Round 3,Mayo,2,21,27,Sligo,3,10,19,Mayo,James Stephens Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-07,football,under20,all_ireland,Semi-final,Sligo,0,7,7,Kildare,0,12,12,Kildare,"Breffni Park, Cavan",,Martin McNally,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
+2022-05-07,hurling,senior,christy_ring,round_robin_round_4,Wicklow,3,10,19,Kildare,5,25,40,Kildare,"Aughrim County Ground, Aughrim",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-05-07,hurling,senior,christy_ring,round_robin_round_4,Mayo,2,24,30,Sligo,1,20,23,Mayo,"James Stephens Park, Ballina",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-05-07,hurling,minor,leinster,Semi-final,Offaly,3,18,27,Dublin,1,15,18,Offaly,Bord na Móna O'Connor Park,,P Dunne (Laois),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
 2022-05-07,hurling,minor,leinster,Semi-final,Laois,1,15,18,Kilkenny,0,15,15,Laois,MW Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
 2022-05-07,football,senior,munster,Semi-final,Cork,0,11,11,Kerry,0,23,23,Kerry,"Pairc Ui Rinn, Cork",10743,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2022_Munster_Senior_Football_Championship
@@ -10058,6 +10119,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-05-07,football,minor,ulster,Qualifier Round 2,Fermanagh,3,6,15,Cavan,0,18,18,Cavan,Brewster Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-07,football,minor,ulster,Qualifier Round 2,Down,0,12,12,Monaghan,5,13,28,Monaghan,Páirc Esler,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-08,football,under20,all_ireland,Semi-final,Kerry,1,12,15,Tyrone,1,14,17,Tyrone,"O'Moore Park, Portlaoise",,Anthony Nolan,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
+2022-05-08,hurling,senior,christy_ring,round_robin_round_4,Derry,3,14,23,London,1,14,17,Derry,"Owenbeg, Dungiven",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-05-08,football,senior,connacht,Semi-final,Galway,4,20,32,Leitrim,0,9,9,Galway,"Pearse Stadium, Galway",4749,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2022_Connacht_Senior_Football_Championship
 2022-05-08,hurling,senior,munster,Round 3,Limerick,3,21,30,Tipperary,0,23,23,Limerick,TUS Gaelic Grounds,27111,L Gordon (Galway),,https://en.wikipedia.org/wiki/2022_Munster_Senior_Hurling_Championship
 2022-05-08,football,senior,ulster,Semi-final,Cavan,0,16,16,Donegal,2,16,22,Donegal,"St Tiernach's Park, Clones",15523,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2022_Ulster_Senior_Football_Championship
@@ -10069,6 +10131,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-05-13,football,minor,connacht,Round 4,Sligo,4,18,30,Leitrim,2,15,21,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-13,football,minor,connacht,Round 4,Galway,0,4,4,Mayo,1,15,18,Mayo,Tuam Stadium,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-14,football,under20,all_ireland,Final,Kildare,1,14,17,Tyrone,1,20,23,Tyrone,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Liam Devenney,,https://en.wikipedia.org/wiki/2022_All-Ireland_Under-20_Football_Championship
+2022-05-14,hurling,senior,christy_ring,round_robin_round_5,Kildare,2,23,29,Sligo,2,14,20,Kildare,"St Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-05-14,hurling,senior,christy_ring,round_robin_round_5,London,1,29,32,Wicklow,2,16,22,London,"McGovern Park, Ruislip",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
+2022-05-14,hurling,senior,christy_ring,round_robin_round_5,Mayo,2,23,29,Derry,2,18,24,Mayo,"MacHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-05-14,hurling,senior,joe_mcdonagh,round_robin,Kerry,2,28,34,Offaly,4,23,35,Offaly,Austin Stack Park,,R McGann (Clare),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-05-14,hurling,senior,joe_mcdonagh,round_robin,Carlow,2,25,31,Down,1,19,22,Carlow,Netwatch Cullen Park,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-05-14,hurling,senior,leinster,Round 4,Laois,0,21,21,Galway,2,37,43,Galway,MW Hire O'Moore Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2022_Leinster_Senior_Hurling_Championship
@@ -10089,6 +10154,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2022-05-20,football,minor,connacht,Round 5,Leitrim,3,8,17,Galway,0,12,12,Leitrim,Avant Money Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-20,football,minor,connacht,Round 5,Roscommon,0,15,15,Sligo,1,16,19,Sligo,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Football_Championship
 2022-05-21,hurling,minor,all_ireland,Quarter-final Group Round 1,Galway,0,25,25,Clare,0,9,9,Galway,St. Mary's GAA Grounds,,R Fitzsimons (Offaly),,https://en.wikipedia.org/wiki/2022_All-Ireland_Minor_Hurling_Championship
+2022-05-21,hurling,senior,christy_ring,final,Kildare,2,29,35,Mayo,0,19,19,Kildare,"Croke Park, Dublin",,Michael Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2022_Christy_Ring_Cup
 2022-05-21,hurling,senior,joe_mcdonagh,round_robin,Antrim,2,21,27,Kerry,0,29,29,Kerry,Corrigan Park,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-05-21,hurling,senior,joe_mcdonagh,round_robin,Down,2,28,34,Meath,2,19,25,Down,McKenna Park,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
 2022-05-21,hurling,senior,joe_mcdonagh,round_robin,Offaly,0,17,17,Carlow,0,22,22,Carlow,Bord na Móna O'Connor Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2022_Joe_McDonagh_Cup
@@ -10485,6 +10551,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-04-15,football,minor,ulster,Group B Round 1,Cavan,0,12,12,Tyrone,1,10,13,Tyrone,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-15,football,minor,ulster,Group B Round 1,Armagh,0,8,8,Antrim,0,8,8,draw,Box-It Athletic Grounds,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-15,football,senior,ulster,Quarter-final,Fermanagh,2,8,14,Derry,3,17,26,Derry,"Brewster Park, Enniskillen",6928,Joe McQuillan,,https://en.wikipedia.org/wiki/2023_Ulster_Senior_Football_Championship
+2023-04-16,hurling,senior,christy_ring,group,Sligo,2,20,26,London,1,20,23,Sligo,Markievicz Park,,J Connors (Donegal),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-04-16,hurling,senior,christy_ring,group,Tyrone,2,20,26,Derry,2,20,26,draw,O'Neill's Healy Park,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-04-16,hurling,senior,christy_ring,group,Meath,2,20,26,Mayo,0,24,24,Meath,Páirc Tailteann,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-04-16,hurling,senior,joe_mcdonagh,round_2,Laois,7,24,45,Down,0,14,14,Laois,Laois Hire O'Moore Park,,T Gleeson (Waterford),,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
 2023-04-16,hurling,senior,joe_mcdonagh,round_2,Kildare,3,11,20,Offaly,2,22,28,Offaly,"Manguard Plus Hawkfield COE, Kildare",,,,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
 2023-04-16,hurling,senior,joe_mcdonagh,round_2,Kerry,0,21,21,Carlow,0,21,21,draw,"Austin Stack Park, Tralee",,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
@@ -10508,6 +10577,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-04-21,hurling,under20,leinster,Preliminary Quarter-Final,Offaly,2,20,26,Kildare,1,10,13,Offaly,Glenisk O'Connor Park,,P Dunne (Laois),,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Hurling_Championship
 2023-04-21,hurling,under20,leinster,Preliminary Quarter-Final,Laois,1,19,22,Westmeath,0,22,22,Laois,Laois Hire O'Moore Park,,,Laois won on penalties 2-3 after the match finished level,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Hurling_Championship
 2023-04-21,hurling,under20,munster,Round 4,Tipperary,1,15,18,Limerick,0,16,16,Tipperary,FBD Semple Stadium,,N Barry (Waterford),,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Hurling_Championship
+2023-04-22,hurling,senior,christy_ring,group,Mayo,1,17,20,Tyrone,2,22,28,Tyrone,MacHale Park,,B Keon (Galway),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-04-22,football,senior,connacht,Semi-final,Sligo,2,16,22,New York,0,6,6,Sligo,"Markievicz Park, Sligo",5677,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2023_Connacht_Senior_Football_Championship
 2023-04-22,hurling,senior,joe_mcdonagh,round_3,Kildare,0,14,14,Kerry,1,17,20,Kerry,"Manguard Plus Hawkfield COE, Kildare",,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
 2023-04-22,hurling,senior,joe_mcdonagh,round_3,Carlow,1,22,25,Laois,1,22,25,draw,"Netwatch Cullen Park, Carlow",,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
@@ -10522,6 +10592,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-04-22,football,minor,ulster,Group B Round 2,Antrim,0,7,7,Cavan,3,20,29,Cavan,Antrim COE,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-22,football,minor,ulster,Group B Round 2,Tyrone,2,9,15,Armagh,1,4,7,Tyrone,O'Neills Healy Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-22,football,senior,ulster,Quarter-final,Cavan,0,12,12,Armagh,1,14,17,Armagh,"Breffni Park, Cavan",11527,Paul Faloon,,https://en.wikipedia.org/wiki/2023_Ulster_Senior_Football_Championship
+2023-04-23,hurling,senior,christy_ring,group,London,4,17,29,Meath,1,24,27,London,McGovern Park,,T Conway (Derry),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-04-23,hurling,senior,christy_ring,group,Derry,4,27,39,Sligo,2,13,19,Derry,Owenbeg COE,,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-04-23,football,senior,connacht,Semi-final,Roscommon,1,9,12,Galway,1,13,16,Galway,"Dr Hyde Park, Roscommon",16917,David Gough (Meath),,https://en.wikipedia.org/wiki/2023_Connacht_Senior_Football_Championship
 2023-04-23,football,senior,leinster,Quarter-final,Laois,2,9,15,Dublin,4,30,42,Dublin,"O'Moore Park, Portlaoise",,Barry Judge (Sligo),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Football_Championship
 2023-04-23,football,senior,leinster,Quarter-final,Offaly,1,11,14,Meath,0,10,10,Offaly,"Glenisk O'Connor Park, Tullamore",5041,S Mulhare (Laois),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Football_Championship
@@ -10549,6 +10621,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-04-28,football,minor,connacht,Round 3,Roscommon,5,9,24,Leitrim,0,12,12,Roscommon,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-28,hurling,under20,munster,Round 5,Limerick,0,21,21,Cork,1,19,22,Cork,TUS Gaelic Grounds,,N Malone (Clare),,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Hurling_Championship
 2023-04-28,hurling,under20,munster,Round 5,Tipperary,3,26,35,Waterford,3,13,22,Tipperary,FBD Semple Stadium,,C O'Regan (Cork),,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Hurling_Championship
+2023-04-29,hurling,senior,christy_ring,group,Derry,1,19,22,Meath,1,21,24,Meath,Owenbeg COE,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-04-29,hurling,senior,leinster,Round 2,Wexford,1,30,33,Antrim,1,26,29,Wexford,Chadwicks Wexford Park,4200,Michael Kennedy (Tipperary),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Hurling_Championship
 2023-04-29,hurling,senior,leinster,Round 2,Dublin,2,23,29,Westmeath,1,14,17,Dublin,Parnell Park,,Shane Hynes (Galway),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Hurling_Championship
 2023-04-29,hurling,under20,leinster,Quarter-Final,Offaly,3,20,29,Galway,2,17,23,Offaly,Glenisk O'Connor Park,,C Flynn (Westmeath),,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Hurling_Championship
@@ -10559,6 +10632,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-04-29,football,minor,ulster,Group B Round 3,Tyrone,8,17,41,Antrim,0,2,2,Tyrone,O'Neills Healy Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-29,football,minor,ulster,Group B Round 3,Armagh,1,7,10,Cavan,1,16,19,Cavan,Box-It Athletic Grounds,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-04-29,football,senior,ulster,Semi-final,Derry,1,21,24,Monaghan,2,10,16,Derry,"Healy Park, Omagh",13371,Sean Hurson,,https://en.wikipedia.org/wiki/2023_Ulster_Senior_Football_Championship
+2023-04-30,hurling,senior,christy_ring,group,Mayo,0,21,21,London,2,22,28,London,MacHale Park,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-04-30,hurling,senior,christy_ring,group,Tyrone,1,16,19,Sligo,0,20,20,Sligo,"Páirc Colmcille, Carrickmore",,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-04-30,football,senior,leinster,Semi-final,Kildare,0,12,12,Dublin,0,14,14,Dublin,"Croke Park, Dublin",30499,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Football_Championship
 2023-04-30,football,senior,leinster,Semi-final,Offaly,2,15,21,Louth,0,27,27,Louth,"Croke Park, Dublin",30499,Joe McQuillan (Cavan),After extra time,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Football_Championship
 2023-04-30,hurling,senior,leinster,Round 2,Kilkenny,0,28,28,Galway,1,25,28,draw,UPMC Nowlan Park,11550,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Hurling_Championship
@@ -10594,6 +10669,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-05-12,football,minor,connacht,Round 5,Mayo,1,11,14,Sligo,1,11,14,draw,Hastings MacHale Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-05-12,hurling,minor,leinster,Final,Galway,2,20,26,Kilkenny,0,14,14,Galway,O'Moore Park,,A Kinahan (Offaly),,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Hurling_Championship
 2023-05-13,football,under20,all_ireland,Final,Sligo,0,12,12,Kildare,1,17,20,Kildare,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Under-20_Football_Championship
+2023-05-13,hurling,senior,christy_ring,group,Sligo,2,26,32,Mayo,1,23,26,Sligo,Markievicz Park,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-05-13,hurling,senior,christy_ring,group,Meath,0,28,28,Tyrone,0,20,20,Meath,Páirc Tailteann,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-05-13,hurling,senior,joe_mcdonagh,round_5,Kildare,3,13,22,Down,1,27,30,Down,"Manguard Plus Hawkfield COE, Kildare",,K Jordan,,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
 2023-05-13,hurling,senior,joe_mcdonagh,round_5,Carlow,1,29,32,Offaly,0,14,14,Carlow,"Netwatch Cullen Park, Carlow",,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
 2023-05-13,hurling,senior,joe_mcdonagh,round_5,Kerry,0,21,21,Laois,4,23,35,Laois,"Austin Stack Park, Tralee",,L Gordon (Galway),,https://en.wikipedia.org/wiki/2023_Joe_McDonagh_Cup
@@ -10606,6 +10683,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-05-13,football,minor,ulster,Quarter-final,Derry,2,15,21,Antrim,0,1,1,Derry,Owenbeg COE,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-05-13,football,minor,ulster,Quarter-final,Cavan,2,7,13,Donegal,1,11,14,Donegal,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
 2023-05-13,football,minor,ulster,Quarter-final,Monaghan,2,16,22,Armagh,2,5,11,Monaghan,St. Mary's Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Football_Championship
+2023-05-14,hurling,senior,christy_ring,group,London,4,19,31,Derry,1,30,33,Derry,Ruislip,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-05-14,football,senior,leinster,Final,Louth,0,15,15,Dublin,5,21,36,Dublin,"Croke Park, Dublin",40115,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Football_Championship
 2023-05-14,football,senior,tailteann,Group 1 Round 1,Offaly,2,14,20,London,0,11,11,Offaly,Glenisk O'Connor Park,,David Murnane,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
 2023-05-14,football,senior,tailteann,Group 3 Round 1,Wicklow,1,13,16,Carlow,0,17,17,Carlow,Echelon Park,,Seamus Mulhare,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
@@ -10625,6 +10703,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-05-20,football,senior,all_ireland,Group 4 Round 1,Clare,0,9,9,Donegal,0,14,14,Donegal,"Cusack Park, Ennis",2296,James Molloy,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-05-20,hurling,minor,all_ireland,Semi-Final,Clare,0,23,23,Kilkenny,0,15,15,Clare,Semple Stadium,,K Jordan (Tipperary),,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Hurling_Championship
 2023-05-20,hurling,minor,all_ireland,Semi-Final,Galway,3,18,27,Cork,1,10,13,Galway,Semple Stadium,,T Gleeson (Dublin),,https://en.wikipedia.org/wiki/2023_All-Ireland_Minor_Hurling_Championship
+2023-05-20,hurling,senior,christy_ring,group,Tyrone,4,17,29,London,2,28,34,London,"Páirc Colmcille, Carrickmore",,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-05-20,hurling,senior,christy_ring,group,Derry,0,30,30,Mayo,1,11,14,Derry,Owenbeg,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
+2023-05-20,hurling,senior,christy_ring,group,Sligo,0,18,18,Meath,0,24,24,Meath,Markievicz Park,,,,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-05-20,hurling,senior,leinster,Round 4,Kilkenny,0,27,27,Dublin,0,21,21,Kilkenny,UPMC Nowlan Park,5308,Liam Gordon (Galway),,https://en.wikipedia.org/wiki/2023_Leinster_Senior_Hurling_Championship
 2023-05-20,football,senior,tailteann,Group 1 Round 2,London,2,6,12,Cavan,0,18,18,Cavan,McGovern Park,,John Gilmartin,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
 2023-05-20,football,senior,tailteann,Group 1 Round 2,Laois,1,11,14,Offaly,1,11,14,draw,Laois Hire O'Moore Park,,Liam Devenney,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
@@ -10662,6 +10743,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2023-06-03,football,senior,all_ireland,Group 2 Round 2,Tyrone,0,13,13,Armagh,0,11,11,Tyrone,"O'Neills Healy Park, Omagh",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-06-03,football,senior,all_ireland,Group 3 Round 2,Kildare,0,13,13,Dublin,0,22,22,Dublin,"UPMC Nowlan Park, Kilkenny",8216,Sean Hurson,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Football_Championship
 2023-06-03,hurling,senior,all_ireland,Preliminary quarter-final,Dublin,1,25,28,Carlow,0,22,22,Dublin,Croke Park,,,,https://en.wikipedia.org/wiki/2023_All-Ireland_Senior_Hurling_Championship
+2023-06-03,hurling,senior,christy_ring,final,Meath,1,23,26,Derry,1,21,24,Meath,"Croke Park, Dublin",,Kevin Jordan (Tipperary),,https://en.wikipedia.org/wiki/2023_Christy_Ring_Cup
 2023-06-03,football,senior,tailteann,Group 1 Round 3,Cavan,2,25,31,Offaly,2,9,15,Cavan,Glennon Brothers Pearse Park,,Jerome Henry,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
 2023-06-03,football,senior,tailteann,Group 1 Round 3,Laois,1,17,20,London,2,14,20,draw,Parnell Park,,Sean Lonergan,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
 2023-06-03,football,senior,tailteann,Group 2 Round 3,Meath,1,11,14,Down,1,9,12,Meath,Parnell Park,,Fergal Kelly,,https://en.wikipedia.org/wiki/2023_Tailteann_Cup
@@ -11035,6 +11117,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-04-12,hurling,under20,leinster,group_stage_tier2,Kildare,2,16,22,Carlow,2,10,16,Kildare,Hawkfield Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
 2024-04-12,hurling,under20,munster,group_stage,Cork,2,22,28,Clare,1,19,22,Cork,Páirc Uí Chaoimh,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
 2024-04-12,hurling,under20,munster,group_stage,Limerick,1,17,20,Tipperary,3,18,27,Tipperary,Mick Neville Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
+2024-04-13,hurling,senior,christy_ring,Group Stage Round 1,Sligo,2,8,14,Kildare,2,19,25,Kildare,Markievicz Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-04-13,football,minor,leinster,Group 1 Round 3,Dublin,2,15,21,Offaly,2,5,11,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-13,football,minor,leinster,Group 1 Round 3,Longford,1,6,9,Laois,0,15,15,Laois,Glennon Brothers Pearse Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-13,football,minor,leinster,Group 2 Round 3,Westmeath,1,7,10,Meath,2,11,17,Meath,TEG Cusack Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
@@ -11048,6 +11131,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-04-13,football,minor,ulster,Group A Round 2,Monaghan,4,10,22,Fermanagh,0,8,8,Monaghan,St Tiernach's Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-13,football,senior,ulster,Quarter-final,Down,0,13,13,Antrim,0,9,9,Down,"Páirc Esler, Newry",5429,,,https://en.wikipedia.org/wiki/2024_Ulster_Senior_Football_Championship
 2024-04-13,football,under20,ulster,Round-robin,Donegal,1,6,9,Armagh,0,7,7,Donegal,MacCumhaill Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Football_Championship
+2024-04-14,hurling,senior,christy_ring,Group Stage Round 1,Tyrone,2,12,18,London,2,23,29,London,Donaghmore Road Grounds,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-04-14,hurling,senior,christy_ring,Group Stage Round 1,Wicklow,0,12,12,Derry,0,17,17,Derry,Echelon Park Aughrim,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-04-14,football,senior,leinster,Quarter-final,Kildare,0,16,16,Wicklow,1,12,15,Kildare,O'Moore Park,,,,https://en.wikipedia.org/wiki/2024_Leinster_Senior_Football_Championship
 2024-04-14,football,senior,leinster,Quarter-final,Louth,4,10,22,Wexford,0,15,15,Louth,O'Moore Park,,,,https://en.wikipedia.org/wiki/2024_Leinster_Senior_Football_Championship
 2024-04-14,football,senior,leinster,Quarter-final,Dublin,3,19,28,Meath,0,12,12,Dublin,Croke Park,,,,https://en.wikipedia.org/wiki/2024_Leinster_Senior_Football_Championship
@@ -11067,6 +11152,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-04-19,football,minor,connacht,Round 2,Roscommon,1,10,13,Galway,1,7,10,Roscommon,Dr Hyde Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-19,hurling,under20,leinster,knockout_round1,Kildare,3,17,26,Meath,0,11,11,Kildare,Hawkfield Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
 2024-04-19,hurling,under20,munster,group_stage,Waterford,0,15,15,Tipperary,1,21,24,Tipperary,Fraher Field,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
+2024-04-20,hurling,senior,christy_ring,Group Stage Round 2,London,4,26,38,Sligo,0,12,12,London,McGovern Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-04-20,hurling,senior,christy_ring,Group Stage Round 2,Derry,2,26,32,Tyrone,0,13,13,Derry,Owenbeg Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-04-20,football,senior,connacht,Semi-final,Sligo,0,14,14,Galway,1,13,16,Galway,"Markievicz Park, Sligo",4597,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2024_Connacht_Senior_Football_Championship
 2024-04-20,hurling,senior,joe_mcdonagh,round_robin,Down,3,24,33,Meath,0,25,25,Down,"McKenna Park, Ballycran",,C McDonald (Antrim),,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
 2024-04-20,hurling,minor,leinster,Tier 1 Round 1,Dublin,0,18,18,Wexford,0,15,15,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Hurling_Championship
@@ -11081,6 +11168,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-04-20,football,minor,ulster,Group B Round 2,Cavan,1,9,12,Armagh,2,11,17,Armagh,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-20,football,minor,ulster,Group B Round 2,Antrim,1,2,5,Derry,2,24,30,Derry,Dunsilly Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-20,football,senior,ulster,Quarter-final,Derry,0,17,17,Donegal,4,11,23,Donegal,"Celtic Park, Derry",14714,,,https://en.wikipedia.org/wiki/2024_Ulster_Senior_Football_Championship
+2024-04-21,hurling,senior,christy_ring,Group Stage Round 2,Kildare,3,27,36,Wicklow,0,14,14,Kildare,Hawkfield Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-04-21,football,senior,connacht,Semi-final,Roscommon,0,13,13,Mayo,1,15,18,Mayo,"Dr Hyde Park, Roscommon",13967,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2024_Connacht_Senior_Football_Championship
 2024-04-21,hurling,senior,joe_mcdonagh,round_robin,Laois,2,21,27,Offaly,0,24,24,Laois,"O'Moore Park, Portlaoise",,C Cunning (Antrim),,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
 2024-04-21,hurling,senior,joe_mcdonagh,round_robin,Westmeath,1,14,17,Kerry,1,20,23,Kerry,"TEG Cusack Park, Mullingar",,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
@@ -11103,6 +11191,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-04-26,football,minor,connacht,Round 3,Galway,1,6,9,Mayo,2,13,19,Mayo,Tuam Stadium,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-26,football,minor,connacht,Round 3,Leitrim,1,9,12,Roscommon,2,15,21,Roscommon,Páirc Sheáin Uí Eislin,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-04-26,hurling,under20,munster,group_stage,Cork,1,25,28,Limerick,2,20,26,Cork,Páirc Uí Chaoimh,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
+2024-04-27,hurling,senior,christy_ring,Group Stage Round 3,Sligo,2,14,20,Tyrone,2,17,23,Tyrone,Markievicz Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-04-27,hurling,senior,christy_ring,Group Stage Round 3,London,2,20,26,Wicklow,0,14,14,London,McGovern Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-04-27,hurling,senior,christy_ring,Group Stage Round 3,Kildare,2,19,25,Derry,0,18,18,Kildare,Hawkfield Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-04-27,hurling,senior,joe_mcdonagh,round_robin,Meath,1,16,19,Laois,7,29,50,Laois,"Páirc Tailteann, Navan",,P Owens (Down),,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
 2024-04-27,hurling,senior,joe_mcdonagh,round_robin,Offaly,2,23,29,Westmeath,1,20,23,Offaly,"Glenisk O'Connor Park, Tullamore",,B Keon (Galway),,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
 2024-04-27,hurling,minor,leinster,Tier 1 Round 2,Wexford,2,20,26,Kilkenny,1,20,23,Wexford,Chadwicks Wexford Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Hurling_Championship
@@ -11170,11 +11261,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-05-10,hurling,under20,munster,group_stage,Tipperary,1,14,17,Clare,0,18,18,Clare,FBD Semple Stadium,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Hurling_Championship
 2024-05-11,football,under20,all_ireland,Semi-final,Kerry,0,12,12,Meath,0,11,11,Kerry,FBD Semple Stadium,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Football_Championship
 2024-05-11,football,under20,all_ireland,Semi-final,Tyrone,3,18,27,Roscommon,3,8,17,Tyrone,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Under-20_Football_Championship
+2024-05-11,hurling,senior,christy_ring,Group Stage Round 4,Tyrone,0,11,11,Kildare,2,31,37,Kildare,Donaghmore Road Grounds,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-05-11,hurling,senior,christy_ring,Group Stage Round 4,Derry,2,22,28,London,2,13,19,Derry,Owenbeg Centre of Excellence,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-05-11,hurling,minor,leinster,Quarter-Final,Offaly,0,14,14,Wexford,3,15,24,Wexford,Faithful Fields,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Hurling_Championship
 2024-05-11,hurling,senior,leinster,Round 3,Carlow,1,20,23,Kilkenny,1,20,23,draw,Dr Cullen Park,,C Mooney (Dublin),,https://en.wikipedia.org/wiki/2024_Leinster_Senior_Hurling_Championship
 2024-05-11,hurling,senior,munster,Round 3,Cork,3,28,37,Limerick,3,26,35,Cork,Páirc Uí Chaoimh,41670,S Stack (Dublin),,https://en.wikipedia.org/wiki/2024_Munster_Senior_Hurling_Championship
 2024-05-11,football,minor,ulster,Quarter-final,Tyrone,1,14,17,Cavan,0,15,15,Tyrone,O'Neills Healy Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
 2024-05-11,football,minor,ulster,Quarter-final,Armagh,1,13,16,Monaghan,0,6,6,Armagh,BOX-IT Athletic Grounds,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
+2024-05-12,hurling,senior,christy_ring,Group Stage Round 4,Wicklow,2,16,22,Sligo,1,17,20,Wicklow,Echelon Park Aughrim,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-05-12,football,senior,leinster,Final,Dublin,1,19,22,Louth,2,12,18,Dublin,Croke Park,23113,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2024_Leinster_Senior_Football_Championship
 2024-05-12,football,senior,ulster,Final,Armagh,0,20,20,Donegal,0,20,20,Donegal,"St Tiernach's Park, Clones",28896,Martin McNally (Monaghan),After extra time; Donegal won 6-5 on penalties,https://en.wikipedia.org/wiki/2024_Ulster_Senior_Football_Championship
 2024-05-13,football,minor,munster,Final,Cork,1,6,9,Kerry,2,18,24,Kerry,Páirc Uí Rinn,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
@@ -11186,6 +11280,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-05-18,football,senior,all_ireland,Group 2 Round 1,Mayo,0,20,20,Cavan,1,8,11,Mayo,"MacHale Park, Castlebar",9197,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2024_All-Ireland_Senior_Football_Championship
 2024-05-18,football,senior,all_ireland,Group 3 Round 1,Clare,1,11,14,Cork,1,13,16,Cork,"Cusack Park, Ennis",3262,Sean Lonergan (Tipperary),,https://en.wikipedia.org/wiki/2024_All-Ireland_Senior_Football_Championship
 2024-05-18,football,senior,all_ireland,Group 4 Round 1,Kerry,0,24,24,Monaghan,1,11,14,Kerry,"Fitzgerald Stadium, Killarney",8092,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2024_All-Ireland_Senior_Football_Championship
+2024-05-18,hurling,senior,christy_ring,Group Stage Round 5,Sligo,0,19,19,Derry,4,30,42,Derry,Markievicz Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-05-18,hurling,senior,christy_ring,Group Stage Round 5,London,3,14,23,Kildare,2,20,26,Kildare,McGovern Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
+2024-05-18,hurling,senior,christy_ring,Group Stage Round 5,Tyrone,1,25,28,Wicklow,2,16,22,Tyrone,Carrickmore Grounds,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-05-18,hurling,senior,joe_mcdonagh,round_robin,Westmeath,1,29,32,Meath,0,14,14,Westmeath,"TEG Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
 2024-05-18,hurling,senior,joe_mcdonagh,round_robin,Laois,4,31,43,Down,0,17,17,Laois,"Laois Hire O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2024_Joe_McDonagh_Cup
 2024-05-18,hurling,minor,leinster,Semi-Final,Dublin,1,17,20,Wexford,2,10,16,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Hurling_Championship
@@ -11229,6 +11326,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2024-06-02,football,senior,all_ireland,Group 3 Round 2,Tyrone,3,15,24,Clare,0,10,10,Tyrone,"Healy Park, Omagh",,Jerome Henry (Mayo),"Attendance approx 3,000",https://en.wikipedia.org/wiki/2024_All-Ireland_Senior_Football_Championship
 2024-06-02,football,senior,all_ireland,Group 4 Round 2,Monaghan,2,10,16,Louth,2,10,16,draw,"St Tiernach's Park, Clones",11329,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2024_All-Ireland_Senior_Football_Championship
 2024-06-02,football,senior,all_ireland,Group 4 Round 2,Meath,0,9,9,Kerry,2,18,24,Kerry,"Páirc Tailteann, Navan",8224,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2024_All-Ireland_Senior_Football_Championship
+2024-06-02,hurling,senior,christy_ring,Final,Kildare,4,21,33,Derry,1,22,25,Kildare,Croke Park,,,,https://en.wikipedia.org/wiki/2024_Christy_Ring_Cup
 2024-06-03,hurling,minor,all_ireland,Quarter-Final,Clare,2,16,22,Wexford,0,13,13,Clare,FBD Semple Stadium,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Hurling_Championship
 2024-06-03,hurling,minor,all_ireland,Quarter-Final,Dublin,2,18,24,Galway,3,18,27,Galway,FBD Semple Stadium,,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Hurling_Championship
 2024-06-08,football,minor,all_ireland,Quarter-final,Kerry,3,18,27,Roscommon,2,3,9,Kerry,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/2024_All-Ireland_Minor_Football_Championship
@@ -11585,6 +11683,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-10,football,under20,ulster,Group stage,Fermanagh,3,9,18,Down,2,18,24,Down,,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Under-20_Football_Championship
 2025-04-11,football,minor,connacht,Group Round 4,Mayo,3,19,28,Sligo,1,10,13,Mayo,"MacHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-11,football,minor,connacht,Group Round 4,Leitrim,1,16,19,Roscommon,2,15,21,Roscommon,"Shane McGettigan Park, Drumshanbo",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
+2025-04-12,hurling,senior,christy_ring,round_robin_round_1,Wicklow,1,24,27,Tyrone,2,16,22,Wicklow,"Echelon Park, Aughrim",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-04-12,hurling,senior,christy_ring,round_robin_round_1,Meath,0,21,21,London,5,18,33,London,"St Loman's Park, Trim",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-04-12,hurling,senior,christy_ring,round_robin_round_1,Derry,1,21,24,Donegal,1,17,20,Derry,"Celtic Park, Derry",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-04-12,football,senior,leinster,Quarter-final,Kildare,2,17,23,Westmeath,0,21,21,Kildare,"St Conleth's Park, Newbridge",,David Gough (Meath),,https://en.wikipedia.org/wiki/2025_Leinster_Senior_Football_Championship
 2025-04-12,hurling,minor,leinster,Tier 2 Group 1 Round 3,Antrim,2,25,31,Wicklow,1,8,11,Antrim,Páirc Naomh Bríd,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-04-12,hurling,minor,leinster,Tier 2 Group 1 Round 3,Westmeath,3,21,30,Meath,3,12,21,Westmeath,Killucan Grounds,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -11620,6 +11721,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-18,football,minor,connacht,Group Round 5,Sligo,2,12,18,Leitrim,4,11,23,Leitrim,Kilcoyne Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-18,football,minor,connacht,Group Round 5,Galway,3,14,23,Mayo,3,12,21,Galway,Tuam Stadium,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-18,hurling,minor,munster,Round 3,Tipperary,0,18,18,Limerick,2,13,19,Limerick,FBD Semple Stadium,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
+2025-04-19,hurling,senior,christy_ring,round_robin_round_2,Donegal,1,10,13,Wicklow,1,11,14,Wicklow,"O'Donnell Park, Letterkenny",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-04-19,hurling,senior,christy_ring,round_robin_round_2,Meath,2,29,35,Tyrone,2,15,21,Meath,"St Loman's Park, Trim",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-04-19,football,senior,connacht,Semi-final,Leitrim,0,13,13,Mayo,0,20,20,Mayo,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2025_Connacht_Senior_Football_Championship
 2025-04-19,hurling,senior,joe_mcdonagh,round_robin_1,Kildare,0,19,19,Kerry,1,17,20,Kerry,"St Conleth's Park, Newbridge",,Colum Cunning,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-04-19,hurling,senior,joe_mcdonagh,round_robin_1,Carlow,6,23,41,Down,0,20,20,Carlow,"Dr Cullen Park, Carlow",,Colm McDonald,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
@@ -11636,6 +11739,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-19,football,minor,ulster,Round 1,Armagh,2,9,15,Antrim,0,10,10,Armagh,Crossmaglen,,Mark Turley,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-19,football,minor,ulster,Round 1,Cavan,1,12,15,Derry,1,7,10,Cavan,"Kingspan Breffni Park, Cavan",,Shane Murphy,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-19,football,senior,ulster,Quarter-final,Fermanagh,0,23,23,Down,2,19,25,Down,"Brewster Park, Enniskillen",4157,J Henry (Mayo),,https://en.wikipedia.org/wiki/2025_Ulster_Senior_Football_Championship
+2025-04-20,hurling,senior,christy_ring,round_robin_round_2,London,1,18,21,Derry,2,19,25,Derry,"McGovern Park, Ruislip",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-04-20,football,senior,connacht,Semi-final,Galway,1,24,27,Roscommon,0,18,18,Galway,"Pearse Stadium, Salthill",,,,https://en.wikipedia.org/wiki/2025_Connacht_Senior_Football_Championship
 2025-04-20,hurling,minor,leinster,Tier 1 Round 1,Dublin,1,13,16,Galway,2,17,23,Galway,Parnell Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-04-20,hurling,minor,leinster,Tier 1 Round 1,Kilkenny,1,31,34,Wexford,0,12,12,Kilkenny,UPMC Nowlan Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -11655,6 +11759,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-04-24,football,minor,leinster,Preliminary Quarter-final,Westmeath,2,12,18,Carlow,2,9,15,Westmeath,Netwatch Cullen Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-04-25,hurling,minor,munster,Round 4,Limerick,0,18,18,Clare,2,20,26,Clare,TUS Gaelic Grounds,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-04-25,hurling,minor,munster,Round 4,Cork,1,21,24,Waterford,1,15,18,Cork,Páirc Uí Rinn,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
+2025-04-26,hurling,senior,christy_ring,round_robin_round_3,Wicklow,2,17,23,London,2,17,23,draw,"Echelon Park, Aughrim",,,,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-04-26,hurling,senior,christy_ring,round_robin_round_3,Derry,1,22,25,Meath,3,17,26,Meath,"Celtic Park, Derry",,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-04-26,hurling,senior,joe_mcdonagh,round_robin_2,Down,1,12,15,Laois,6,36,54,Laois,"McKenna Park, Ballycran",,,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-04-26,hurling,senior,joe_mcdonagh,round_robin_2,Kildare,3,24,33,Westmeath,2,21,27,Kildare,"St Conleth's Park, Newbridge",,T Gleeson,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-04-26,hurling,minor,leinster,Tier 1 Round 2,Wexford,2,15,21,Dublin,0,12,12,Wexford,Chadwicks Wexford Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -11706,6 +11812,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-05-07,football,minor,leinster,Semi-final,Dublin,1,8,11,Louth,2,17,23,Louth,"Naul, County Dublin",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
 2025-05-07,hurling,under20,munster,semi_final,Cork,0,20,20,Clare,2,15,21,Clare,SuperValu Páirc Uí Chaoimh,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Under-20_Hurling_Championship
 2025-05-09,football,minor,connacht,Final,Roscommon,2,14,20,Mayo,1,15,18,Roscommon,"MacHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
+2025-05-10,hurling,senior,christy_ring,round_robin_round_4,Donegal,1,15,18,London,2,19,25,London,"O'Donnell Park, Letterkenny",,Ciarán McCloskey (Antrim),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-05-10,hurling,senior,christy_ring,round_robin_round_4,Tyrone,0,11,11,Derry,1,30,33,Derry,"Donaghmore Road, Dungannon",,Peter Owens (Down),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-05-10,hurling,senior,christy_ring,round_robin_round_4,Wicklow,3,17,26,Meath,0,16,16,Wicklow,"Echelon Park, Aughrim",,Pádraig Dunne (Laois),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-05-10,hurling,senior,joe_mcdonagh,round_robin_3,Carlow,1,20,23,Kildare,2,23,29,Kildare,"Dr Cullen Park, Carlow",,Éamonn Furlong,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-05-10,hurling,senior,joe_mcdonagh,round_robin_3,Westmeath,2,24,30,Down,0,20,20,Westmeath,"TEG Cusack Park, Mullingar",,Colum Cunning,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-05-10,hurling,minor,leinster,Quarter-Final,Laois,1,15,18,Wexford,0,22,22,Wexford,Laois Hire O'Moore Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -11733,6 +11842,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-05-16,hurling,minor,munster,Final,Cork,1,20,23,Waterford,2,15,21,Cork,FBD Semple Stadium,,C O'Donovan (Tipperary),,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
 2025-05-17,football,senior,all_ireland,Group 2 Round 1,Kerry,3,18,27,Roscommon,0,17,17,Kerry,"Fitzgerald Stadium, Killarney",6814,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-05-17,football,senior,all_ireland,Group 4 Round 1,Galway,2,14,20,Dublin,1,18,21,Dublin,"Pearse Stadium, Salthill",,David Gough (Meath),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
+2025-05-17,hurling,senior,christy_ring,round_robin_round_5,Derry,2,30,36,Wicklow,1,13,16,Derry,"Celtic Park, Derry",,M Farrell (Roscommon),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-05-17,hurling,senior,christy_ring,round_robin_round_5,Meath,3,14,23,Donegal,0,28,28,Donegal,"St Loman's Park, Trim",,Conor Doyle (Tipperary),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
+2025-05-17,hurling,senior,christy_ring,round_robin_round_5,London,4,20,32,Tyrone,1,13,16,London,"McGovern Park, Ruislip",,Kevin Parke (Antrim),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-05-17,hurling,senior,joe_mcdonagh,round_robin_4,Down,2,26,32,Kerry,2,19,25,Down,"McKenna Park, Ballycran",,Chris Mooney,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-05-17,hurling,senior,joe_mcdonagh,round_robin_4,Westmeath,4,22,34,Carlow,7,23,44,Carlow,"TEG Cusack Park, Mullingar",,James Owens,,https://en.wikipedia.org/wiki/2025_Joe_McDonagh_Cup
 2025-05-17,hurling,minor,leinster,Semi-Final,Kilkenny,4,19,31,Dublin,3,10,19,Kilkenny,UPMC Nowlan Park,,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Hurling_Championship
@@ -11770,12 +11882,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2025-05-25,hurling,senior,munster,Round 5,Cork,2,25,31,Waterford,1,22,25,Cork,Páirc Uí Chaoimh,42181,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2025_Munster_Senior_Hurling_Championship
 2025-05-25,hurling,senior,munster,Round 5,Limerick,0,24,24,Clare,3,20,29,Clare,Gaelic Grounds,32133,Thomas Walsh (Waterford),,https://en.wikipedia.org/wiki/2025_Munster_Senior_Hurling_Championship
 2025-05-25,football,minor,ulster,Final,Cavan,1,8,11,Tyrone,2,11,17,Tyrone,"Brewster Park, Enniskillen",,Conall Roberts,,https://en.wikipedia.org/wiki/2025_All-Ireland_Minor_Football_Championship
+2025-05-26,hurling,senior,christy_ring,round_robin_round_3,Tyrone,0,10,10,Donegal,5,18,33,Donegal,"Páirc Colmcille, Carrickmore",,C O'Regan (Cork),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-05-28,football,under20,all_ireland,Final,Louth,0,17,17,Tyrone,5,16,31,Tyrone,BOX-IT Athletic Grounds,,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2025_All-Ireland_Under-20_Football_Championship
 2025-05-31,football,senior,all_ireland,Group 1 Round 2,Tyrone,1,13,16,Mayo,2,17,23,Mayo,"Healy Park, Omagh",6000,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-05-31,football,senior,all_ireland,Group 2 Round 2,Roscommon,2,15,21,Meath,0,21,21,draw,"Dr Hyde Park, Roscommon",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-05-31,football,senior,all_ireland,Group 2 Round 2,Cork,0,20,20,Kerry,1,28,31,Kerry,"Pairc Ui Chaoimh, Cork",13072,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-05-31,football,senior,all_ireland,Group 3 Round 2,Down,0,25,25,Louth,0,24,24,Down,"Pairc Esler, Newry",10240,,,https://en.wikipedia.org/wiki/2025_All-Ireland_Senior_Football_Championship
 2025-05-31,hurling,under20,all_ireland,final,Kilkenny,1,16,19,Tipperary,3,19,28,Tipperary,"UPMC Nowlan Park, Kilkenny",14455,S Hynes (Galway),,https://en.wikipedia.org/wiki/2025_All-Ireland_Under-20_Hurling_Championship
+2025-05-31,hurling,senior,christy_ring,final,Derry,1,24,27,London,1,27,30,London,"Croke Park, Dublin",,Padraig Dunne (Laois),,https://en.wikipedia.org/wiki/2025_Christy_Ring_Cup
 2025-05-31,football,senior,tailteann,Group 1 Round 3,Leitrim,3,9,18,Tipperary,0,10,10,Leitrim,"TEG Cusack Park, Mullingar",,T Murphy,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
 2025-05-31,football,senior,tailteann,Group 2 Round 3,Wicklow,3,29,38,Waterford,0,21,21,Wicklow,,,,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
 2025-05-31,football,senior,tailteann,Group 2 Round 3,Offaly,3,16,25,Laois,3,18,27,Laois,,,,,https://en.wikipedia.org/wiki/2025_Tailteann_Cup
