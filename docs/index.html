@@ -16,7 +16,7 @@
   <div class="hero-inner">
     <p class="eyebrow">All-Ireland Senior Football</p>
     <h1>An alternative points analysis</h1>
-    <p class="years-sub">from 1887 to present day</p>
+    <p class="years-sub">from 1887 through 2025</p>
     <p class="lede">I'm a Mayo fan. You learn to live around second place. The honours list says
        we've won nothing since 1951, which is true and tells you nothing about the dozen years we were
        a kick away. So instead of counting cups, this counts how far every county actually got, every
@@ -42,6 +42,19 @@
        on how far it got, every year, across 138 championships from 1887 on. Consistency stops being
        invisible.</p>
     <div class="cards" id="stats"></div>
+
+    <section class="model-card" id="scoring-model">
+      <div class="model-head">
+        <div>
+          <h2>Try a scoring model</h2>
+          <p class="sub">Change any point value and the standings, heatmap and race recalculate live.
+             The database stays fixed; only the scoring lens changes.</p>
+        </div>
+        <button type="button" class="reset-btn" id="reset-points">Reset defaults</button>
+      </div>
+      <div class="point-controls" id="point-controls"></div>
+      <div class="model-summary" id="model-summary"></div>
+    </section>
 
     <h2 style="margin-top:26px">All-time standings</h2>
     <p class="sub"><strong>Championship</strong> points are the headline: best finish each year, all

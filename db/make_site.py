@@ -38,6 +38,8 @@ def main():
     year_totals = {}
     era_years = defaultdict(list)
     era_order = []
+    placements = []
+    league_results = []
 
     # richer-data accumulators
     finals = []
@@ -75,6 +77,11 @@ def main():
         ytot = 0
         for county, r in scored.items():
             p = r["points"]
+            placements.append({
+                "year": yr, "format": era, "county": county,
+                "province": r["province"], "prov_finish": r["prov_finish"],
+                "ai_finish": r["ai_finish"],
+            })
             cumulative[county] += p
             by_era[era][county] += p
             by_year[county][yr] = p
@@ -121,7 +128,16 @@ def main():
     nl_titles = defaultdict(int); nl_runner_ups = defaultdict(int)
     for ys, rec in league.items():
         nl_titles[rec["winner"]] += 1
+        league_results.append({"year": int(ys), "county": rec["winner"], "finish": "champion"})
         if rec.get("runner_up"): nl_runner_ups[rec["runner_up"]] += 1
+        if rec.get("runner_up"):
+            league_results.append({"year": int(ys), "county": rec["runner_up"], "finish": "runner_up"})
+    for ys, teams in nl_data.get("division1_semifinalists", {}).items():
+        for c in teams:
+            league_results.append({"year": int(ys), "county": c, "finish": "semi_final"})
+    for ys, teams in nl_data.get("lower_division_champions", {}).items():
+        for c in teams:
+            league_results.append({"year": int(ys), "county": c, "finish": "lower_division"})
     nl = [{"county": c, "nfl_titles": nl_titles[c], "nfl_runner_ups": nl_runner_ups[c]}
           for c in sorted(set(nl_titles)|set(nl_runner_ups), key=lambda c:(-nl_titles[c], c))]
     doubles = [{"year": yr, "county": league[str(yr)]["winner"]}
@@ -153,6 +169,8 @@ def main():
         "eras": eras,
         "years": all_years,
         "year_totals": year_totals,
+        "placements": placements,
+        "league_results": league_results,
         "standings": standings,
         "league_points": params.get("league_points", {}),
         "finals": finals,
