@@ -5,7 +5,7 @@ recompute totals/winner, and emit a master CSV + coverage/quality summaries.
 
 Usage:  python compile_matches.py
 """
-import json, csv, os, glob
+import json, csv, os, glob, re
 from collections import defaultdict, Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -51,7 +51,9 @@ def main():
                     warnings.append(f"{rel}[{i}]: winner '{w}' != score-implied '{exp}' "
                                     f"({m.get('team1')} {t1}-{t2} {m.get('team2')})")
             m["_t1_total"], m["_t2_total"] = t1, t2
-            m["_year"] = os.path.splitext(os.path.basename(fp))[0]
+            base = os.path.splitext(os.path.basename(fp))[0]
+            ym = re.match(r"(\d{4})", base)        # season year from leading digits
+            m["_year"] = ym.group(1) if ym else base
             matches.append(m)
 
     # master CSV (chronological; undated sink to end)

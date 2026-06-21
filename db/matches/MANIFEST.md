@@ -33,9 +33,13 @@ Field completeness: venue 98%, date 95%, referee 57%, attendance 33% (early deca
 Compiler validator skips winner/score check for notes containing penalt / source-score-disputed /
 objection / awarded / era-scoring, and for null-winner rows (abandoned/void).
 
-Next: **wave 2 — football senior National Football League** (full match-by-match reliable ~2008+;
-finals/standings deeper). Then wave 3 (hurling senior championship), wave 4 (hurling NHL),
-wave 5+ (Tailteann, U20/U21, minor).
+| 2 | football | senior | National League (all divs) | 2020–2025 | 637 | ~116/season; COVID-shortened 2020-21; in `<year>_nfl.json` |
+
+Running total: **5433 matches** (championship 1887–2025 + NFL 2020–2025).
+Wave 2 in progress — NFL stored in `<year>_nfl.json` (compiler derives season year from leading
+digits). Next: NFL 2014–2019, then 2008–2013 (full match-by-match), then pre-2008
+(en-dash two-year page titles; finals/standings, fewer round-robin games).
+Then wave 3 (hurling senior championship), wave 4 (hurling NHL), wave 5+ (Tailteann, U20/U21, minor).
 Compiler skips the winner/score check for null-winner rows (abandoned/void) and for notes
 containing "objection"/"awarded"/"penalt"/"source-score-disputed".
 
