@@ -25,7 +25,11 @@ header.hero{position:relative;overflow:hidden;color:#fff;
 .hero h1{margin:0 0 14px;font-family:var(--font-display);font-weight:600;
   font-size:clamp(2rem,4.6vw,3.1rem);line-height:1.04;letter-spacing:-.01em}
 .hero h1 .years{font-weight:500;opacity:.78;font-variant-numeric:tabular-nums;white-space:nowrap}
+.years-sub{margin:0 0 16px;font-family:var(--font-display);font-style:italic;font-weight:500;
+  font-size:1.15rem;opacity:.82}
 .lede{margin:0;max-width:62ch;font-size:1.05rem;opacity:.94;line-height:1.6}
+.legend-head{margin:26px 0 0;font-size:.72rem;font-weight:700;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--gold-soft)}
 .lede strong{color:#fff}
 .hero a{color:#fff;text-decoration:underline;text-underline-offset:3px}
 .tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
@@ -33,8 +37,7 @@ header.hero{position:relative;overflow:hidden;color:#fff;
   padding:4px 12px;border-radius:999px;font-size:.78rem;font-weight:500}
 
 /* ---------- legend ---------- */
-.legend{display:flex;flex-wrap:wrap;gap:7px;margin-top:22px;padding-top:18px;
-  border-top:1px solid rgba(255,255,255,.16)}
+.legend{display:flex;flex-wrap:wrap;gap:7px;margin-top:9px}
 .legend .chip{display:flex;align-items:center;gap:7px;background:rgba(255,255,255,.1);
   border-radius:8px;padding:5px 10px;font-size:.8rem}
 .legend .dot{width:13px;height:13px;border-radius:3px;display:inline-block}
