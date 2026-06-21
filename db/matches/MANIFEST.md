@@ -88,9 +88,20 @@ dupes auto-removed). Compiler now de-duplicates (null-date finals collapse into 
 two dated records only collapse on identical date).
 
 ✅ Wave 7 done: lower grades now have finals-level deep history (minor back to 1928/29, U21 to 1964).
-Next: **league finals deep history** — NFL (football) & NHL (hurling) Division 1 finals pre-2008 via
-their finals-list pages (the only remaining readily-available gap). After that the archive is
-complete to the limit of Wikipedia coverage.
+
+| 8 | football/hurling | senior | NFL/NHL Division 1 FINALS (deep history) | 1925-26 → 2006-07 | ~140 | finals-only; winner-only for some early league-table seasons; dedup vs 2008+ |
+
+Running total: **12482 matches across 379 files**. Zero validation warnings.
+✅ Wave 8 done: both national leagues now have Division 1 finals back to 1925-26. **Primary
+competitions (championship + league, both codes, all grades) are now complete to the limit of
+Wikipedia coverage.**
+
+Next: **wave 9 — secondary hurling championships** (the tier 2/3/4 inter-county competitions for
+counties outside the senior championship): Joe McDonagh Cup (2018→), Christy Ring Cup (2005→),
+Nicky Rackard Cup (2005→), Lory Meagher Cup (2009→). Modern per-year, under `hurling/senior/`
+with competition tags `joe_mcdonagh` / `christy_ring` / `nicky_rackard` / `lory_meagher`.
+Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
+provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the

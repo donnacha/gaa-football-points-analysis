@@ -4954,6 +4954,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2007-04-07,football,under21,munster,final,Cork,3,19,28,Tipperary,3,12,21,Cork,"Gaelic Grounds, Limerick",,R Hickey (Clare),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
 2007-04-21,football,under21,all_ireland,semi_final,Laois,0,11,11,Mayo,0,6,6,Laois,"Dr. Hyde Park, Roscommon",,M Sludden (Tyrone),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
 2007-04-22,football,under21,all_ireland,semi_final,Cork,0,13,13,Armagh,0,12,12,Cork,"O'Moore Park, Portlaoise",,P McGovern (Galway),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-04-29,hurling,senior,nhl_div1,Division 1 Final,Waterford,0,20,20,Kilkenny,0,18,18,Waterford,Semple Stadium,22235,,2007 NHL,https://en.wikipedia.org/wiki/2007_National_Hurling_League
 2007-05-05,football,under21,all_ireland,final,Cork,2,10,16,Laois,0,15,15,Cork,"Semple Stadium, Thurles",5500,V Neary (Mayo),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
 2007-05-13,football,senior,connacht,Quarter-final,New York,1,3,6,Sligo,2,18,24,Sligo,"Gaelic Park, New York City",,,,https://en.wikipedia.org/wiki/2007_Connacht_Senior_Football_Championship
 2007-05-13,football,senior,leinster,Round 1,Longford,2,13,19,Westmeath,1,13,16,Longford,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
@@ -12294,6 +12295,82 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,hurling,senior,munster,Final,Tipperary,5,0,15,Cork,1,2,5,Tipperary,,,,,https://en.wikipedia.org/wiki/1916_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,Semi-final,Limerick,8,5,29,Kerry,2,2,8,Limerick,,,,,https://en.wikipedia.org/wiki/1922_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,semi-final,Limerick,5,9,24,Clare,4,0,12,Limerick,,,,,https://en.wikipedia.org/wiki/1924_All-Ireland_Senior_Hurling_Championship
+,football,senior,nfl_div1,Division 1 Final,Laois,2,1,7,Dublin,1,0,3,Laois,,,,1925-26 NFL (inaugural),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,2,4,10,Kildare,1,6,9,Kerry,,,,1927-28 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,1,7,10,Kildare,2,3,9,Kerry,,,,1928-29 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,1,3,6,Cavan,1,2,5,Kerry,,,,1930-31 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,5,2,17,Cork,3,3,12,Kerry,,,,1931-32 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,0,10,10,Cavan,1,6,9,Meath,,,,1932-33 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,2,4,10,Dublin,1,5,8,Mayo,,,,1933-34 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,5,8,23,Fermanagh,0,2,2,Mayo,,,,1934-35 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,,,,,,,,Mayo,,,,"1935-36 NFL; no final played, Mayo champions on league table (12 points from eight games)",https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,5,4,19,Meath,1,8,11,Mayo,,,,1936-37 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,3,9,18,Wexford,1,3,6,Mayo,,,,1937-38 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,5,9,24,Meath,0,6,6,Mayo,,,,1938-39 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Galway,2,5,11,Meath,1,5,8,Galway,,,,1939-40 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,3,7,16,Dublin,0,7,7,Mayo,,,,1940-41 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,2,2,8,Wexford,0,6,6,Meath,,,,1945-46 NFL (league resumed after 1941-45 suspension),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Derry,2,9,15,Clare,2,5,11,Derry,,,,1946-47 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Cavan,5,9,24,Cork,2,8,14,Cavan,,,,1947-48 NFL; score is from the replay (final went to a replay),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,1,8,11,Louth,1,6,9,Mayo,,,,1948-49 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,New York,2,8,14,Cavan,0,12,12,New York,,,,1949-50 NFL; New York beat home champions Cavan in the final. Home final: Cavan 2-8 Meath 1-6,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,0,6,6,Mayo,0,3,3,Meath,,,,1950-51 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Cork,1,12,15,New York,0,3,3,Cork,,,,1951-52 NFL; Cork beat New York in the final. Home final: Cork 2-3 Dublin 1-5,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,4,6,18,Cavan,0,9,9,Dublin,,,,1952-53 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,2,10,16,Carlow,0,3,3,Mayo,,,,1953-54 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,2,12,18,Meath,1,3,6,Dublin,,,,1954-55 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Cork,0,8,8,Meath,0,7,7,Cork,,,,1955-56 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Galway,1,8,11,Kerry,0,6,6,Galway,,,,1956-57 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,3,13,22,Kildare,3,8,17,Dublin,,,,1957-58 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,2,8,14,Derry,1,8,11,Kerry,,,,1958-59 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Down,0,12,12,Cavan,0,9,9,Down,,,,1959-60 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,4,16,28,Derry,1,5,8,Kerry,,,,1960-61 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Down,2,5,11,Dublin,1,7,10,Down,,,,1961-62 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,1,18,21,New York,1,10,13,Kerry,,,,1962-63 NFL; Kerry beat New York in the final. Home final: Kerry 0-9 Down 1-5,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,New York,2,12,18,Dublin,1,13,16,New York,,,,1963-64 NFL; New York beat Dublin in the final. Home final: Dublin 2-9 Down 0-7,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Galway,4,12,24,New York,0,17,17,Galway,,,,"1964-65 NFL; two-legged final aggregate, Galway beat New York. Home final: Galway 1-7 Kerry 0-8",https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Longford,1,18,21,New York,0,17,17,Longford,,,,"1965-66 NFL; two-legged final aggregate, Longford beat New York. Home final: Longford 0-9 Galway 0-8",https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,New York,7,8,29,Galway,1,16,19,New York,,,,"1966-67 NFL; two-legged final aggregate, New York beat Galway. Home final: Galway 0-12 Dublin 1-7",https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Down,2,14,20,Kildare,2,11,17,Down,,,,1967-68 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,2,33,39,New York,2,24,30,Kerry,,,,"1968-69 NFL; two-legged final aggregate, Kerry beat New York. Home final: Kerry 3-11 Offaly 0-8",https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,4,7,19,Down,0,10,10,Mayo,,,,1969-70 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,0,11,11,Mayo,0,8,8,Kerry,,,,1970-71 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,2,11,17,Mayo,1,9,12,Kerry,,,,1971-72 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,2,12,18,Offaly,0,14,14,Kerry,,,,1972-73 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,0,14,14,Roscommon,0,8,8,Kerry,,,,1973-74 NFL; score is from the replay (final went to a replay),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,0,16,16,Dublin,1,9,12,Meath,,,,1974-75 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,2,10,16,Derry,0,15,15,Dublin,,,,1975-76 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,1,8,11,Dublin,1,6,9,Kerry,,,,1976-77 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,2,18,24,Mayo,2,13,19,Dublin,,,,1977-78 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Roscommon,0,15,15,Cork,1,3,6,Roscommon,,,,1978-79 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Cork,0,11,11,Kerry,0,10,10,Cork,,,,1979-80 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Galway,1,11,14,Roscommon,1,3,6,Galway,,,,1980-81 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,1,9,12,Cork,0,5,5,Kerry,,,,1981-82 NFL; score is from the replay (final went to a replay),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Down,1,8,11,Armagh,0,8,8,Down,,,,1982-83 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,1,11,14,Galway,0,11,11,Kerry,,,,1983-84 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Monaghan,1,11,14,Armagh,0,9,9,Monaghan,,,,1984-85 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Laois,2,6,12,Monaghan,2,5,11,Laois,,,,1985-86 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,1,11,14,Kerry,0,11,11,Dublin,,,,1986-87 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,2,13,19,Dublin,0,11,11,Meath,,,,1987-88 NFL; score is from the replay (final went to a replay),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Cork,0,15,15,Dublin,0,12,12,Cork,,,,1988-89 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,2,7,13,Down,0,11,11,Meath,,,,1989-90 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,1,9,12,Kildare,0,10,10,Dublin,,,,1990-91 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Derry,1,10,13,Tyrone,1,8,11,Derry,,,,1991-92 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Dublin,0,10,10,Donegal,0,6,6,Dublin,,,,1992-93 NFL; score is from the replay (final went to a replay),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Meath,2,11,17,Armagh,0,8,8,Meath,,,,1993-94 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Derry,0,12,12,Donegal,0,8,8,Derry,,,,1994-95 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Derry,1,16,19,Donegal,1,9,12,Derry,,,,1995-96 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,3,7,16,Cork,1,8,11,Kerry,,,,1996-97 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Offaly,0,9,9,Derry,0,7,7,Offaly,,,,1997-98 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Cork,0,12,12,Dublin,1,7,10,Cork,,,,1998-99 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Derry,1,8,11,Meath,0,9,9,Derry,,,,1999-2000 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Mayo,0,13,13,Galway,0,12,12,Mayo,,,,2000-01 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Tyrone,0,15,15,Cavan,0,7,7,Tyrone,,,,2002 NFL (switch to calendar-year format),https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Tyrone,0,21,21,Laois,1,8,11,Tyrone,,,,2003 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,3,11,20,Galway,1,16,19,Kerry,,,,2004 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Armagh,1,21,24,Wexford,1,14,17,Armagh,,,,2005 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Kerry,2,11,17,Galway,0,11,11,Kerry,,,,2006 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
+,football,senior,nfl_div1,Division 1 Final,Donegal,0,13,13,Mayo,0,10,10,Donegal,,,,2007 NFL,https://en.wikipedia.org/wiki/List_of_National_Football_League_(Ireland)_finals
 ,football,senior,nfl_div3,Division 3 Round 7,Longford,,,,Cork,,,,Cork,,,,walkover; Longford scratched,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 ,football,senior,nfl_div3,Division 3 Round 6,Fermanagh,,,,Leitrim,,,,Fermanagh,,,,walkover,https://en.wikipedia.org/wiki/2025_National_Football_League_(Ireland)
 ,football,senior,nfl_div4,Division 4 Final,Offaly,1,16,19,Longford,1,13,16,Offaly,"Croke Park, Dublin",,M Deegan,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
@@ -12302,6 +12379,81 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,nfl_div4,Division 4 Round 6,Wicklow,,,,Limerick,,,,,"Joule Park, Aughrim",,,cancelled by CCCC,https://en.wikipedia.org/wiki/2018_National_Football_League_(Ireland)
 ,football,senior,nfl_div4,Division 4 Round 6,Waterford,,,,London,,,,Waterford,,,,walkover; London scratched,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
 ,football,senior,nfl_div4,Division 4 Round 7,London,,,,Carlow,,,,Carlow,,,,walkover; London scratched,https://en.wikipedia.org/wiki/2020_National_Football_League_(Ireland)
+,hurling,senior,nhl_div1,Division 1 Final,Cork,3,7,16,Dublin,1,5,8,Cork,,,,1925-26 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Dublin,7,4,25,Cork,5,5,20,Dublin,,,,1928-29 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,3,5,14,Dublin,3,0,9,Cork,,,,1929-30 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,4,5,17,Tipperary,4,4,16,Galway,,,,1930-31 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,3,8,17,Limerick,1,3,6,Kilkenny,Nowlan Park,,,1932-33 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,3,6,15,Dublin,3,3,12,Limerick,Gaelic Grounds,,,1933-34 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,5,2,17,Tipperary,1,1,4,Limerick,,,,1937-38 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Dublin,1,8,11,Waterford,1,4,7,Dublin,,,,1938-39 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,8,9,33,Tipperary,6,4,22,Cork,,,,1939-40 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,4,11,23,Dublin,2,7,13,Cork,,,,1940-41 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Clare,2,10,16,Dublin,2,5,11,Clare,,,,1945-46 NHL; after a replay,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,3,8,17,Kilkenny,1,7,10,Limerick,,,,1946-47 NHL; after a replay,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,3,3,12,Tipperary,1,2,5,Cork,,,,1947-48 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,5,14,Cork,3,3,12,Tipperary,,,,1948-49 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,8,17,Kilkenny,1,10,13,Tipperary,,,,1949-50 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,6,7,25,Wexford,3,4,13,Galway,,,,1950-51 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,4,7,19,Wexford,4,6,18,Tipperary,,,,1951-52 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,2,10,16,Tipperary,2,7,13,Cork,,,,1952-53 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,10,19,Kilkenny,1,4,7,Tipperary,,,,1953-54 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,5,14,Wexford,1,5,8,Tipperary,,,,1954-55 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Wexford,5,9,24,Tipperary,2,14,20,Wexford,,,,1955-56 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,11,20,Kilkenny,2,7,13,Tipperary,,,,1956-57 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Wexford,5,7,22,Limerick,4,8,20,Wexford,,,,1957-58 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,0,15,15,Waterford,0,7,7,Tipperary,,,,1958-59 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,2,15,21,Cork,3,8,17,Tipperary,,,,1959-60 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,6,6,24,Waterford,4,9,21,Tipperary,,,,1960-61 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,1,16,19,Cork,1,8,11,Kilkenny,,,,1961-62 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Waterford,3,10,19,New York,1,10,13,Waterford,Nowlan Park,,,1962-63 NHL; final v New York (replay). Home final: Waterford 2-15 beat Tipperary 4-7,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,5,12,27,Wexford,1,4,7,Tipperary,,,,1963-64 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,14,23,Kilkenny,2,8,14,Tipperary,,,,1964-65 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,10,15,45,New York,2,15,21,Kilkenny,,,,1965-66 NHL; final v New York. Home final: Kilkenny 0-9 beat Tipperary 0-7,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Wexford,3,10,19,Kilkenny,1,9,12,Wexford,,,,1966-67 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,6,27,45,New York,4,22,34,Tipperary,,,,1967-68 NHL; final v New York. Home final: Tipperary 3-9 beat Kilkenny 1-13,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,3,12,21,Wexford,1,14,17,Cork,,,,1968-69 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,5,21,36,New York,6,16,34,Cork,,,,1969-70 NHL; final v New York. Home final: Cork 2-17 beat Limerick 0-7,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,3,12,21,Tipperary,3,11,20,Limerick,,,,1970-71 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,3,14,23,Limerick,2,14,20,Cork,,,,1971-72 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Wexford,4,13,25,Limerick,3,7,16,Wexford,,,,1972-73 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,6,15,33,Limerick,1,12,15,Cork,,,,1973-74 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,4,9,21,Tipperary,4,6,18,Galway,,,,1974-75 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,0,16,16,Clare,2,10,16,draw,,,,"1975-76 NHL; drawn final (0-16 to 2-10), went to replay",https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final replay,Kilkenny,6,14,32,Clare,1,14,17,Kilkenny,Semple Stadium,,,1975-76 NHL; replay,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Clare,2,8,14,Kilkenny,0,9,9,Clare,,,,1976-77 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Clare,3,10,19,Kilkenny,1,10,13,Clare,,,,1977-78 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,15,24,Galway,0,8,8,Tipperary,,,,1978-79 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,2,10,16,Limerick,2,10,16,draw,,,,"1979-80 NHL; drawn final (2-10 each), went to replay",https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final replay,Cork,4,15,27,Limerick,4,6,18,Cork,Páirc Uí Chaoimh,,,1979-80 NHL; replay,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,3,11,20,Offaly,2,8,14,Cork,,,,1980-81 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,2,14,20,Wexford,1,11,14,Kilkenny,,,,1981-82 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,2,14,20,Limerick,2,12,18,Kilkenny,,,,1982-83 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,3,16,25,Wexford,1,9,12,Limerick,,,,1983-84 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,3,12,21,Clare,1,7,10,Limerick,,,,1984-85 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,2,10,16,Galway,2,6,12,Kilkenny,,,,1985-86 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,3,12,21,Clare,3,10,19,Galway,,,,1986-87 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,15,24,Offaly,2,9,15,Tipperary,,,,1987-88 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,2,16,22,Tipperary,4,8,20,Galway,,,,1988-89 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,0,19,19,New York,0,9,9,Kilkenny,,,,1989-90 NHL; final v New York. Home final: Kilkenny 3-12 beat Wexford 1-10,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Offaly,2,6,12,Wexford,0,10,10,Offaly,,,,1990-91 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,0,14,14,Tipperary,0,13,13,Limerick,,,,1991-92 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,2,11,17,Wexford,2,11,17,draw,,,,1992-93 NHL; drawn final (2-11 each),https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final replay,Cork,0,18,18,Wexford,3,9,18,draw,,,,1992-93 NHL; first replay drawn (0-18 to 3-9),https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final replay,Cork,3,11,20,Wexford,1,12,15,Cork,,,,1992-93 NHL; second replay; Cork won after two replays,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,2,14,20,Galway,0,12,12,Tipperary,,,,1993-94 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,2,12,18,Clare,0,9,9,Kilkenny,,,,1994-95 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,2,10,16,Tipperary,2,8,14,Galway,,,,1995-96 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Limerick,1,12,15,Galway,1,9,12,Limerick,,,,1997 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Cork,2,14,20,Waterford,0,13,13,Cork,,,,1998 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,1,14,17,Galway,1,10,13,Tipperary,,,,1999 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,2,18,24,Tipperary,2,13,19,Galway,,,,2000 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Tipperary,1,19,22,Clare,0,17,17,Tipperary,,,,2001 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,2,15,21,Cork,2,14,20,Kilkenny,,,,2002 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,5,14,29,Tipperary,5,13,28,Kilkenny,,,,2003 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Galway,2,15,21,Waterford,1,13,16,Galway,,,,2004 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,3,20,29,Clare,0,15,15,Kilkenny,,,,2005 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
+,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,3,11,20,Limerick,0,14,14,Kilkenny,,,,2006 NHL,https://en.wikipedia.org/wiki/National_Hurling_League
 ,hurling,senior,nhl_div3a,Division 3A Final,Meath,1,18,21,Kildare,2,18,24,Kildare,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2009_National_Hurling_League
 ,hurling,senior,nhl_div3b,Division 3B Final,London,2,19,25,Roscommon,2,13,19,London,Páirc Tailteann,,,,https://en.wikipedia.org/wiki/2009_National_Hurling_League
 ,hurling,senior,nhl_div4,Division 4 Final,Monaghan,2,8,14,Sligo,1,13,16,Sligo,Pearse Park,,,after extra time,https://en.wikipedia.org/wiki/2009_National_Hurling_League
