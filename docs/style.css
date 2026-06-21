@@ -19,6 +19,10 @@ header.hero{background:linear-gradient(135deg,var(--green),var(--green-dark));co
 .legend .chip{display:flex;align-items:center;gap:7px;background:rgba(255,255,255,.12);
   border-radius:8px;padding:5px 10px;font-size:.82rem}
 .legend .dot{width:14px;height:14px;border-radius:3px;display:inline-block}
+.legend .dot.gold{background:var(--gold)}
+.legend .chip.lg{background:rgba(242,193,78,.18)}
+.legend .chip.sep{background:transparent;padding:5px 2px 5px 8px;font-size:.7rem;opacity:.75;
+  text-transform:uppercase;letter-spacing:.06em}
 main{max-width:var(--maxw);margin:0 auto;padding:0 20px 60px}
 nav.tabs{position:sticky;top:0;z-index:5;background:var(--paper);display:flex;gap:4px;
   flex-wrap:wrap;padding:12px 0;border-bottom:1px solid var(--line);margin-bottom:22px}
@@ -61,6 +65,8 @@ td.total{font-weight:700;color:var(--green-dark)}
 .matrix td.county,.matrix th.county{text-align:left;position:sticky;left:0;background:var(--card);font-weight:600;z-index:1}
 .matrix thead th.county{background:var(--green);z-index:2}
 .cell{display:inline-block;width:100%;border-radius:3px;padding:3px 0}
+.matrix .cell{transition:background .3s ease,color .3s ease}
+.matrix tbody tr{will-change:transform}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:18px 0}
 .stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
 .stat .n{font-size:1.7rem;font-weight:800;color:var(--green-dark);line-height:1}

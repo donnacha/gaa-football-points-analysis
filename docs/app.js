@@ -8,8 +8,8 @@ fetch('data.json').then(r=>r.json()).then(d=>{DATA=d;init();})
   .catch(e=>{document.getElementById('standings-table').innerHTML='<p>Could not load data.json</p>';});
 
 function init(){
-  buildLegend(); buildStats(); buildStandings(); buildOverall(); buildEras(); buildMatrix(); buildChart();
-  buildHonour();
+  buildLegend(); buildStats(); buildStandings(); buildMatrix(); buildChart();
+  buildEras(); buildHonour();   // shelved from nav, still built for the data/CSVs
   document.getElementById('updated').textContent = DATA.meta.updated;
   document.querySelectorAll('nav.tabs button').forEach(b=>b.onclick=()=>{
     document.querySelectorAll('nav.tabs button').forEach(x=>x.classList.remove('active'));
@@ -25,6 +25,17 @@ function buildLegend(){
   [5,4,3,2,1].forEach(t=>{
     const c=document.createElement('span');c.className='chip';
     c.innerHTML=`<span class="dot" style="background:${TIER[t]}"></span><b>${t}</b>&nbsp;${TIER_LABEL[t]}`;
+    el.appendChild(c);
+  });
+  const lp=DATA.league_points||{};
+  const lg=[[lp.champion,'League title'],[lp.runner_up,'League final'],
+            [lp.semi_final,'League semi / lower div']];
+  const sep=document.createElement('span');sep.className='chip sep';sep.textContent='National League';
+  el.appendChild(sep);
+  lg.forEach(([v,lab])=>{
+    if(v==null)return;
+    const c=document.createElement('span');c.className='chip lg';
+    c.innerHTML=`<span class="dot gold"></span><b>${v}</b>&nbsp;${lab}`;
     el.appendChild(c);
   });
 }
@@ -43,10 +54,13 @@ function buildStats(){
 
 let sortKey='total', sortDir=-1;
 function buildStandings(){
+  const lp=DATA.league_points||{};
+  const set=(id,v)=>{const e=document.getElementById(id);if(e&&v!=null)e.textContent=v;};
+  set('lp-champ',lp.champion); set('lp-ru',lp.runner_up); set('lp-minor',lp.semi_final);
   const cols=[
-    ['rank','#','static'],['county','County','l'],['total','Points',''],
-    ['years_scoring','Yrs scoring',''],['avg_all','Avg / yr',''],
-    ['avg_scoring','Avg / scoring yr',''],['best','Best finish','']
+    ['rank','#','static'],['county','County','l'],['total','Championship',''],
+    ['league','League',''],['combined','Combined',''],
+    ['years_scoring','Yrs',''],['avg_scoring','Avg / scoring yr',''],['best','Best','']
   ];
   const wrap=document.getElementById('standings-table');
   const render=()=>{
@@ -60,9 +74,11 @@ function buildStandings(){
     });
     h+='</tr></thead><tbody>';
     rows.forEach((r,i)=>{
+      const hot=(k)=>k===sortKey?' style="font-weight:700;color:var(--green-dark)"':'';
       h+=`<tr><td class="rank">${i+1}</td><td class="l county">${r.county}</td>`+
-         `<td class="total">${r.total}</td><td>${r.years_scoring}</td>`+
-         `<td>${r.avg_all.toFixed(2)}</td><td>${r.avg_scoring.toFixed(2)}</td>`+
+         `<td${hot('total')}>${r.total}</td><td${hot('league')}>${fmtPts(r.league)}</td>`+
+         `<td class="total"${hot('combined')}>${fmtPts(r.combined)}</td>`+
+         `<td>${r.years_scoring}</td><td>${r.avg_scoring.toFixed(2)}</td>`+
          `<td><span class="cell" style="background:${TIER[r.best]};max-width:30px">${r.best}</span></td></tr>`;
     });
     h+='</tbody></table></div>';
@@ -73,44 +89,6 @@ function buildStandings(){
         if(k===sortKey)sortDir*=-1;else{sortKey=k;sortDir=(k==='county')?1:-1;}
         render();};
     });
-  };
-  render();
-}
-
-let overKey='combined', overDir=-1;
-function buildOverall(){
-  if(DATA.league_points){
-    const c=document.getElementById('lp-champ'), r=document.getElementById('lp-ru'),
-          m=document.getElementById('lp-minor');
-    if(c)c.textContent=DATA.league_points.champion;
-    if(r)r.textContent=DATA.league_points.runner_up;
-    if(m)m.textContent=DATA.league_points.semi_final;
-  }
-  const cols=[
-    ['county','County','l'],['championship','Championship',''],['league','League',''],
-    ['combined','Combined',''],['league_share','League %','']
-  ];
-  const wrap=document.getElementById('overall-table');
-  const render=()=>{
-    const rows=[...DATA.overall].sort((a,b)=>{
-      const v=(a[overKey]>b[overKey]?1:a[overKey]<b[overKey]?-1:0); return v*overDir;
-    });
-    let h='<div class="card"><table><thead><tr><th class="static">#</th>';
-    cols.forEach(([k,lab,cls])=>{
-      const arr=(k===overKey)?(overDir<0?'▼':'▲'):'';
-      h+=`<th class="${cls||''}" data-k="${k}">${lab} <span class="arr">${arr}</span></th>`;
-    });
-    h+='</tr></thead><tbody>';
-    rows.forEach((r,i)=>{
-      h+=`<tr><td class="rank">${i+1}</td><td class="l county">${r.county}</td>`+
-         `<td>${r.championship}</td><td>${r.league}</td>`+
-         `<td class="total">${r.combined}</td><td>${r.league_share}%</td></tr>`;
-    });
-    h+='</tbody></table></div>'; wrap.innerHTML=h;
-    wrap.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{
-      const k=th.dataset.k;
-      if(k===overKey)overDir*=-1;else{overKey=k;overDir=(k==='county')?1:-1;}
-      render();});
   };
   render();
 }
@@ -134,6 +112,28 @@ function buildEras(){
 
 const decadeOf=y=>Math.floor(y/10)*10;
 const fmtPts=v=>Number.isInteger(v)?v:Math.round(v*10)/10;
+
+// FLIP: animate row reordering across a re-render keyed by data-county.
+function flip(container, mutate){
+  const prefersReduce=window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const prev={};
+  if(!prefersReduce)
+    container.querySelectorAll('tr[data-county]').forEach(tr=>{prev[tr.dataset.county]=tr.getBoundingClientRect().top;});
+  mutate();
+  if(prefersReduce)return;
+  container.querySelectorAll('tr[data-county]').forEach(tr=>{
+    const old=prev[tr.dataset.county];
+    if(old==null)return;
+    const dy=old-tr.getBoundingClientRect().top;
+    if(!dy)return;
+    tr.style.transform=`translateY(${dy}px)`;
+    tr.style.transition='none';
+    requestAnimationFrame(()=>{
+      tr.style.transition='transform .45s cubic-bezier(.2,.7,.2,1)';
+      tr.style.transform='';
+    });
+  });
+}
 let mxDecades=new Set();   // empty = all years
 let mxLeague=false;
 function buildMatrix(){
@@ -162,14 +162,14 @@ function buildMatrix(){
     yrs.forEach(y=>h+=`<th>${single?y:String(y).slice(2)}</th>`);
     h+='</tr></thead><tbody>';
     rows.forEach(({r,t})=>{
-      h+=`<tr><td class="county l">${r.county}</td><td class="seltot">${fmtPts(t)}</td>`;
+      h+=`<tr data-county="${r.county}"><td class="county l">${r.county}</td><td class="seltot">${fmtPts(t)}</td>`;
       yrs.forEach(y=>{const v=cellVal(r,y);const tier=Math.min(5,Math.round(v));
         h+=`<td><span class="cell" style="background:${TIER[tier]};color:${tier>=3?'#fff':'#456'}">${v?fmtPts(v):''}</span></td>`;});
       h+='</tr>';
     });
     h+='</tbody></table></div>';
     if(!rows.length)h='<p class="sub">No counties scored in the selected years.</p>';
-    wrap.innerHTML=h;
+    flip(wrap, ()=>{wrap.innerHTML=h;});
   };
   ctl.innerHTML=toolbar();
   ctl.onclick=e=>{

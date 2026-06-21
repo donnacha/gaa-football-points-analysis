@@ -1,14 +1,14 @@
 rank,county,championship_points,league_points,combined_points
 1,Kerry,395,56.5,451.5
-2,Dublin,291,42,333
+2,Dublin,291,42.5,333.5
 3,Mayo,215,42,257
 4,Galway,219,18.5,237.5
 5,Cork,211,26,237
 6,Cavan,160,10.5,170.5
-7,Meath,118,23,141
+7,Meath,118,23.5,141.5
 8,Roscommon,108,11.5,119.5
 9,Kildare,91,9,100
-10,Tyrone,90,9.5,99.5
+10,Tyrone,90,10,100
 11,Armagh,84,9.5,93.5
 12,Down,68,13.5,81.5
 13,Monaghan,72,7,79
@@ -22,7 +22,7 @@ rank,county,championship_points,league_points,combined_points
 21,Antrim,42,2,44
 22,Clare,31,2,33
 23,London,32,0,32
-24,Sligo,25,4.5,29.5
+24,Sligo,25,5,30
 25,Limerick,26,2.5,28.5
 26,Leitrim,16,0.5,16.5
 27,Westmeath,12,4,16

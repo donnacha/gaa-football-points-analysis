@@ -92,8 +92,10 @@ def main():
     standings = []
     for rank, county in enumerate(sorted(cumulative, key=lambda c:(-cumulative[c], c)), 1):
         tot, ys = cumulative[county], years_played[county]
+        lg = league_total.get(county, 0)
         standings.append({
             "rank": rank, "county": county, "total": tot,
+            "league": round(lg, 2), "combined": round(tot + lg, 2),
             "years_scoring": ys,
             "avg_all": round(tot/n, 2),
             "avg_scoring": round(tot/ys, 2) if ys else 0,
@@ -126,18 +128,6 @@ def main():
                for yr in all_years
                if str(yr) in league and league[str(yr)]["winner"] == ai_champ_by_year.get(yr)]
 
-    # ---- overall annual performance (championship + National League, added) ----
-    combined = {c: cumulative[c] + league_total.get(c, 0)
-                for c in set(cumulative) | set(league_total) | set(COUNTY_PROVINCE)}
-    overall = []
-    for rank, c in enumerate(sorted(combined, key=lambda c:(-combined[c], c)), 1):
-        tot = combined[c]; lg = league_total.get(c, 0)
-        overall.append({
-            "rank": rank, "county": c, "championship": cumulative[c],
-            "league": round(lg, 2), "combined": round(tot, 2),
-            "league_share": round(100*lg/tot, 1) if tot else 0,
-        })
-
     # ---- record lists ----
     played = [f for f in finals if f["margin"] is not None]
     att = [f for f in finals if f["attendance"]]
@@ -164,7 +154,6 @@ def main():
         "years": all_years,
         "year_totals": year_totals,
         "standings": standings,
-        "overall": overall,
         "league_points": params.get("league_points", {}),
         "finals": finals,
         "roll_of_honour": roll,
