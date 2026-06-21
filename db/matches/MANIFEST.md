@@ -96,10 +96,12 @@ Running total: **12482 matches across 379 files**. Zero validation warnings.
 competitions (championship + league, both codes, all grades) are now complete to the limit of
 Wikipedia coverage.**
 
-Next: **wave 9 — secondary hurling championships** (the tier 2/3/4 inter-county competitions for
-counties outside the senior championship): Joe McDonagh Cup (2018→), Christy Ring Cup (2005→),
-Nicky Rackard Cup (2005→), Lory Meagher Cup (2009→). Modern per-year, under `hurling/senior/`
-with competition tags `joe_mcdonagh` / `christy_ring` / `nicky_rackard` / `lory_meagher`.
+| 9 | hurling | senior | Joe McDonagh Cup (tier 2) | 2018–2025 | 111 | round-robin + final (no semis); relegation play-offs included |
+
+Running total: **12593 matches across 387 files**. Zero validation warnings.
+Wave 9 continues — secondary hurling cups. Next: **Christy Ring Cup (tier 3)**, then Nicky Rackard
+(tier 4), then Lory Meagher (tier 5). Modern per-year, under `hurling/senior/`
+with competition tags `christy_ring` / `nicky_rackard` / `lory_meagher`.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 
