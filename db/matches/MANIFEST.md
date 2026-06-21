@@ -100,9 +100,16 @@ Wikipedia coverage.**
 
 | 9 | hurling | senior | Christy Ring Cup (tier 3) | 2018–2025 | 114 | group/RR + knockout + final; walkovers, penalties, play-offs handled |
 
-Running total: **12707 matches across 395 files**. Zero validation warnings.
-Wave 9 continues — secondary hurling cups. Next: **Nicky Rackard Cup (tier 4)**, then Lory Meagher
-(tier 5). Modern per-year, under `hurling/senior/` with tags `nicky_rackard` / `lory_meagher`.
+| 9 | hurling | senior | Nicky Rackard Cup (tier 4) | 2018–2025 | 111 | group/RR + knockout + final; draws/walkovers handled |
+| 9 | hurling | senior | Lory Meagher Cup (tier 5) | 2018–2025 | 91 | lowest tier; small fields; 2020 COVID-reduced (4 matches) |
+
+🏑 **Full modern hurling tier pyramid complete** (senior SHC + Joe McDonagh + Christy Ring + Nicky
+Rackard + Lory Meagher, 2018–2025): every county fielding a hurling team is now in the database.
+Running total: **12909 matches across 411 files**. Zero validation warnings.
+
+Next: **secondary-cup deep history** — Christy Ring & Nicky Rackard back to 2005, Lory Meagher back
+to 2009 (per-year, well covered on Wikipedia), plus the **Tommy Murphy Cup** (football tier-2,
+2004–2008, pre-Tailteann). Then the archive's modern competition coverage is essentially exhausted.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 
