@@ -5464,10 +5464,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-02-13,football,senior,nfl_div2,Division 2 Round 2,Armagh,2,19,25,Westmeath,0,8,8,Armagh,Crossmaglen,,M Higgins (Fermanagh),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-02-14,football,senior,nfl_div1,Division 1 Round 2,Tyrone,1,11,14,Mayo,1,12,15,Mayo,"Healy Park, Omagh",,J White (Donegal),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-02-14,football,senior,nfl_div1,Division 1 Round 2,Galway,1,20,23,Monaghan,1,14,17,Galway,"Pearse Stadium, Galway",,D Fahy (Longford),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
+2010-02-20,football,under21,leinster,round 1,Louth,4,16,28,Wexford,0,8,8,Louth,Dundalk,,D Brazil (Offaly),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-02-20,football,under21,leinster,round 1,Westmeath,1,6,9,Kildare,0,6,6,Westmeath,Mullingar,,P Finnegan (Louth),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-02-20,football,senior,nfl_div4,Division 4 Round 3,London,1,5,8,Wicklow,4,13,25,Wicklow,Ruislip,,S McNamee (Tyrone),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-02-20,football,senior,nfl_div4,Division 4 Round 3,Carlow,1,11,14,Waterford,1,11,14,draw,Dr Cullen Park,,B O'Shea (Dublin),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-02-20,football,senior,nfl_div4,Division 4 Round 3,Leitrim,4,18,30,Kilkenny,1,4,7,Leitrim,Páirc Seán Mac Diarmada,,G McCarron (Monaghan),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-02-20,football,senior,nfl_div4,Division 4 Round 3,Longford,0,9,9,Limerick,1,8,11,Limerick,Pearse Park,,S Carroll (Westmeath),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
+2010-02-21,football,under21,leinster,round 1,Wicklow,3,13,22,Longford,0,10,10,Wicklow,Aughrim,,Brendan Hickey (Kildare),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-02-21,hurling,senior,nhl_div1,Division 1 Round 2,Limerick,1,11,14,Galway,1,18,21,Galway,Kilmallock,,C. McAllister (Cork),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-02-21,hurling,senior,nhl_div1,Division 1 Round 2,Cork,1,22,25,Offaly,1,11,14,Cork,"Páirc Uí Chaoimh, Cork",,M. Wadding (Waterford),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-02-21,hurling,senior,nhl_div1,Division 1 Round 2,Waterford,4,13,25,Dublin,0,12,12,Waterford,"Walsh Park, Waterford",,D. Kirwan (Cork),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
@@ -5487,6 +5490,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-02-28,hurling,senior,nhl_div3a,Division 3A Round 2,London,0,8,8,Derry,5,16,31,Derry,"Cassiobury Park, Watford",,D Copps (Cork),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-02-28,hurling,senior,nhl_div3a,Division 3A Round 2,Mayo,2,14,20,Kerry,1,18,21,Kerry,"MacHale Park, Castlebar",,P Greene (Galway),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-02-28,hurling,senior,nhl_div3a,Division 3A Round 2,Meath,1,20,23,Armagh,2,17,23,draw,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-03-06,football,under21,leinster,round 1,Offaly,1,15,18,Carlow,2,14,20,Carlow,Tullamore,,P Kneel (Louth),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-06,football,under21,leinster,quarter-final,Louth,,,,Dublin,,,,,Dundalk,,F Kelly (Longford),aggregate score not given in source (listed as 0-00 - 0-00); Dublin advanced,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-06,football,under21,leinster,quarter-final,Westmeath,2,14,20,Meath,1,11,14,Westmeath,Mullingar,,B O'Shea (Dublin),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-06,football,under21,leinster,quarter-final,Wicklow,,,,Laois,,,,,Aughrim,,G McCormick (Dublin),aggregate score not given in source (listed as 0-00 - 0-00); Laois advanced,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-03-06,football,senior,nfl_div1,Division 1 Round 3,Cork,1,19,22,Galway,1,17,20,Cork,"Páirc Uí Rinn, Cork",,M Condon (Waterford),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-06,football,senior,nfl_div2,Division 2 Round 3,Laois,0,12,12,Armagh,0,13,13,Armagh,Portlaoise,,R Hickey (Clare),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-06,football,senior,nfl_div2,Division 2 Round 3,Down,0,14,14,Tipperary,1,11,14,draw,Páirc Esler,,J Curley (Meath),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
@@ -5506,6 +5513,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-03-07,hurling,senior,nhl_div1,Division 1 Round 3,Tipperary,1,14,17,Kilkenny,0,13,13,Tipperary,"Semple Stadium, Thurles",20254,B. Kelly (Westmeath),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-09,hurling,senior,nhl_div2,Division 2 Round 3,Laois,1,15,18,Kildare,0,8,8,Laois,"O'Moore Park, Portlaoise",,D O'Driscoll (Limerick),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-09,hurling,senior,nhl_div3a,Division 3A Round 3,Armagh,0,17,17,Mayo,0,19,19,Mayo,"St. Oliver Plunkett Park, Crossmaglen",,,,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-03-10,football,under21,connacht,quarter-final,Leitrim,0,9,9,Mayo,0,13,13,Mayo,Cloone,,,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-10,football,under21,leinster,quarter-final,Carlow,1,16,19,Kilkenny,0,3,3,Carlow,Dundalk,,,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-10,football,under21,munster,quarter-final,Limerick,1,10,13,Clare,0,10,10,Limerick,,,,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-10,football,under21,ulster,preliminary round,Tyrone,1,7,10,Derry,0,14,14,Derry,,,,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-03-13,football,senior,nfl_div1,Division 1 Round 4,Tyrone,3,9,18,Cork,0,16,16,Tyrone,Healy Park,,D Coldrick (Meath),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-13,football,senior,nfl_div1,Division 1 Round 4,Dublin,2,11,17,Monaghan,1,9,12,Dublin,Parnell Park,,M Deegan (Laois),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-13,football,senior,nfl_div1,Division 1 Round 4,Derry,1,12,15,Mayo,2,12,18,Mayo,Celtic Park,,C Reilly (Meath),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
@@ -5513,6 +5524,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-03-13,football,senior,nfl_div3,Division 3 Round 4,Cavan,0,17,17,Wexford,0,12,12,Cavan,Kingspan Breffni Park,,J McKee (Armagh),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-13,football,senior,nfl_div4,Division 4 Round 5,Limerick,1,11,14,Waterford,1,12,15,Waterford,Gaelic Grounds,,G Lynch (Kerry),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-13,hurling,senior,nhl_div2,Division 2 Round 4,Westmeath,0,11,11,Kildare,4,10,22,Kildare,"Cusack Park, Mullingar",,F Smyth (Meath),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-03-14,football,under21,munster,quarter-final,Kerry,0,19,19,Cork,1,8,11,Kerry,,,,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-03-14,football,senior,nfl_div1,Division 1 Round 4,Galway,1,9,12,Kerry,2,16,22,Kerry,"Pearse Stadium, Salthill",,M Duffy (Sligo),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-14,football,senior,nfl_div2,Division 2 Round 4,Armagh,0,12,12,Kildare,0,5,5,Armagh,Crossmaglen,,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-14,football,senior,nfl_div2,Division 2 Round 4,Tipperary,1,9,12,Meath,0,10,10,Tipperary,Thurles,,T Lynch (Kerry),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
@@ -5533,6 +5545,12 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-03-14,hurling,senior,nhl_div3a,Division 3A Round 4,Armagh,1,15,18,London,4,7,19,London,"St. Oliver Plunkett Park, Crossmaglen",,R Matthews (Antrim),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-14,hurling,senior,nhl_div3a,Division 3A Round 4,Kerry,3,30,39,Meath,3,10,19,Kerry,"Austin Stack Park, Tralee",,M O'Connor (Limerick),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-14,hurling,senior,nhl_div3a,Division 3A Round 4,Mayo,1,7,10,Derry,3,12,21,Derry,"MacHale Park, Castlebar",,P Greene (Galway),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-03-17,football,under21,connacht,semi-final,Galway,0,12,12,Sligo,0,13,13,Sligo,Tuam Stadium,,V Neary (Mayo),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-17,football,under21,connacht,semi-final,Roscommon,2,9,15,Mayo,1,11,14,Roscommon,Dr Hyde Park,,R McBrien (Leitrim),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-17,football,under21,leinster,semi-final,Dublin,0,14,14,Carlow,0,13,13,Dublin,Dr Cullen Park,,J Curley (Meath),after extra time,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-17,football,under21,leinster,semi-final,Westmeath,0,14,14,Laois,0,11,11,Westmeath,Mullingar,,F Kelly (Longford),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-18,football,under21,munster,semi-final,Tipperary,0,16,16,Limerick,2,5,11,Tipperary,Semple Stadium,,M Collins (Cork),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-20,football,under21,munster,semi-final,Kerry,1,18,21,Waterford,0,3,3,Kerry,Dungarvan,,Micheal Meade (Limerick),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-03-20,football,senior,nfl_div1,Division 1 Round 5,Cork,2,13,19,Dublin,2,6,12,Cork,Páirc Uí Rinn,,P McEnaney (Monaghan),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-20,football,senior,nfl_div2,Division 2 Round 5,Down,1,13,16,Armagh,1,6,9,Down,Páirc Esler,,M Sludden (Tyrone),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-20,hurling,senior,nhl_div1,Division 1 Round 5,Galway,1,22,25,Offaly,1,18,21,Galway,"Pearse Stadium, Galway",,J. McGrath (Westmeath),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
@@ -5560,6 +5578,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-03-21,hurling,senior,nhl_div3a,Division 3A Round 5,Derry,1,12,15,Armagh,3,11,20,Armagh,"Celtic Park, Derry",,D Magee (Down),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-21,hurling,senior,nhl_div3a,Division 3A Round 5,London,0,17,17,Kerry,2,19,25,Kerry,"Emerald GAA Grounds, Ruislip",,T Ryan (Tipperary),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-21,hurling,senior,nhl_div3a,Division 3A Round 5,Meath,2,18,24,Mayo,1,12,15,Meath,"Páirc Tailteann, Navan",,G Devlin (Armagh),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-03-24,football,under21,ulster,quarter-final,Derry,5,9,24,Fermanagh,2,12,18,Derry,,,S McNamee (Tyrone),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-24,football,under21,ulster,quarter-final,Antrim,2,6,12,Monaghan,2,12,18,Monaghan,Casement Park,,B Cassidy (Derry),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-24,football,under21,ulster,quarter-final,Cavan,3,14,23,Down,1,8,11,Cavan,Cavan,,F Cleary (Fermanagh),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-24,football,under21,ulster,quarter-final,Armagh,0,9,9,Donegal,1,9,12,Donegal,Brewster Park,,E McHugh (Tyrone),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-03-27,football,senior,nfl_div1,Division 1 Round 6,Dublin,0,14,14,Galway,1,14,17,Galway,Parnell Park,,C Reilly (Meath),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-27,football,senior,nfl_div1,Division 1 Round 6,Tyrone,1,11,14,Kerry,1,10,13,Tyrone,Healy Park,,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-03-27,football,senior,nfl_div1,Division 1 Round 6,Derry,0,14,14,Cork,2,9,15,Cork,"Celtic Park, Derry",1500,Marty Duffy (Sligo),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
@@ -5587,6 +5609,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-03-28,hurling,senior,nhl_div2,Division 2 Round 6,Westmeath,1,14,17,Antrim,1,13,16,Westmeath,"Cusack Park, Mullingar",,E Hassan (Derry),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-28,hurling,senior,nhl_div2,Division 2 Round 6,Carlow,0,11,11,Clare,1,9,12,Clare,"Dr. Cullen Park, Carlow",,S Whelan (Wexford),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-03-28,hurling,senior,nhl_div2,Division 2 Round 6,Down,1,11,14,Laois,0,20,20,Laois,"St. Patrick's Park, Portaferry",,T Carroll (Offaly),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-03-31,football,under21,munster,final,Tipperary,1,7,10,Kerry,1,6,9,Tipperary,Austin Stack Park,2650,C Lane (Cork),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-31,football,under21,ulster,semi-final,Monaghan,1,9,12,Cavan,1,10,13,Cavan,Enniskillen,,E McConnell,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-03-31,football,under21,ulster,semi-final,Donegal,1,11,14,Derry,0,10,10,Donegal,Brewster Park,,,,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-04-03,football,under21,connacht,final,Sligo,0,4,4,Roscommon,1,6,9,Roscommon,,,V Neary (Mayo),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-04-03,football,under21,leinster,final,Dublin,1,12,15,Westmeath,0,9,9,Dublin,Parnell Park,4000,Damien Brazil (Offaly),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-04-03,hurling,senior,nhl_div2,Division 2 Round 7,Clare,4,19,31,Westmeath,3,15,24,Clare,"Cusack Park, Ennis",,T Ryan (Tipperary),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-04,football,senior,nfl_div4,Division 4 Round 8,Carlow,0,12,12,London,0,9,9,Carlow,"Ruislip, London",,G Walsh (Antrim),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-04-04,football,senior,nfl_div4,Division 4 Round 8,Waterford,1,24,27,Kilkenny,1,2,5,Waterford,Freshford,,Joe Curley (Meath),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
@@ -5599,6 +5626,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-04-04,hurling,senior,nhl_div2,Division 2 Round 7,Antrim,2,16,22,Down,2,17,23,Down,"Casement Park, Belfast",,T Carroll (Offaly),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-04,hurling,senior,nhl_div2,Division 2 Round 7,Laois,1,14,17,Wexford,1,18,21,Wexford,"O'Moore Park, Portlaoise",,G Duffy (Antrim),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-04,hurling,senior,nhl_div2,Division 2 Round 7,Kildare,2,5,11,Carlow,3,14,23,Carlow,"St Conleth's Park, Newbridge",,O Elliot (Antrim),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
+2010-04-07,football,under21,ulster,final,Donegal,2,8,14,Cavan,0,7,7,Donegal,Brewster Park,,G Corrigan (Down),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-04-10,hurling,senior,nhl_div3a,Division 3A Final,Kerry,2,18,24,Derry,1,15,18,Kerry,"Woodmount, Ballinasloe",,A Kelly (Galway),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-10,hurling,senior,nhl_div4,Division 4 Final,Monaghan,1,18,21,Longford,1,10,13,Monaghan,"Kingspan Breffni Park, Cavan",,E. Hassan (Derry),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-11,football,senior,nfl_div1,Division 1 Round 7,Kerry,1,16,19,Monaghan,1,12,15,Kerry,Kerry,,M Condon (Waterford),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
@@ -5617,6 +5645,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-04-11,football,senior,nfl_div4,Division 4 Round 9,Waterford,0,20,20,Clare,2,5,11,Waterford,Fraher Field,,P Sheehy (Kerry),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-04-11,football,senior,nfl_div4,Division 4 Round 9,Wicklow,2,25,31,Kilkenny,0,7,7,Wicklow,Aughrim,,E O'Grady (Leitrim),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-04-11,football,senior,nfl_div4,Division 4 Round 9,Limerick,1,22,25,Leitrim,0,9,9,Limerick,"Gaelic Grounds, Limerick",,G McCormack (Dublin),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
+2010-04-17,football,under21,all_ireland,semi-final,Dublin,2,10,16,Roscommon,0,8,8,Dublin,Kingspan Breffni Park,,C Branagan (Down),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
+2010-04-17,football,under21,all_ireland,semi-final,Donegal,0,12,12,Tipperary,0,4,4,Donegal,Parnell Park,,D Brazil (Offaly),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-04-18,hurling,senior,nhl_div1,Division 1 Round 8,Kilkenny,1,20,23,Waterford,2,12,18,Kilkenny,"Nowlan Park, Kilkenny",6237,A. Stapleton (Laois),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-18,hurling,senior,nhl_div1,Division 1 Round 8,Galway,3,17,26,Cork,2,13,19,Galway,"Pearse Stadium, Galway",,D. Richardson (Limerick),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-04-18,hurling,senior,nhl_div1,Division 1 Round 8,Offaly,2,14,20,Tipperary,1,18,21,Tipperary,"O'Connor Park, Tullamore",,B. Kelly (Westmeath),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
@@ -5629,6 +5659,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2010-04-24,football,senior,nfl_div4,Division 4 Final,Waterford,1,14,17,Limerick,1,16,19,Limerick,"Croke Park, Dublin",,Robert O'Donnell (Donegal),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-04-25,football,senior,nfl_div1,Division 1 Final,Cork,1,17,20,Mayo,0,12,12,Cork,"Croke Park, Dublin",,Pádraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
 2010-04-25,football,senior,nfl_div2,Division 2 Final,Down,1,12,15,Armagh,0,17,17,Armagh,"Croke Park, Dublin",,Gearóid Ó Conamha (Galway),,https://en.wikipedia.org/wiki/2010_National_Football_League_(Ireland)
+2010-05-01,football,under21,all_ireland,final,Dublin,1,10,13,Donegal,1,8,11,Dublin,Breffni Park,,M Duffy (Sligo),,https://en.wikipedia.org/wiki/2010_All-Ireland_Under-21_Football_Championship
 2010-05-01,hurling,senior,nhl_div3b,Division 3B Final,Wicklow,3,18,27,Louth,2,9,15,Wicklow,"Parnell Park, Donnycarney",,D Magee (Down),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
 2010-05-02,football,senior,connacht,Quarter-final,New York,0,12,12,Galway,2,13,19,Galway,"Gaelic Park, New York",,M. Condon (Waterford),,https://en.wikipedia.org/wiki/2010_Connacht_Senior_Football_Championship
 2010-05-02,hurling,senior,nhl_div1,Division 1 Final,Galway,2,22,28,Cork,1,17,20,Galway,"Semple Stadium, Thurles",14200,J. Owens (Wexford),,https://en.wikipedia.org/wiki/2010_National_Hurling_League
@@ -5938,6 +5969,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2011-04-10,football,senior,nfl_div4,Division 4 Round 9,Fermanagh,0,14,14,London,0,8,8,Fermanagh,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2011_National_Football_League_(Ireland)
 2011-04-10,hurling,senior,nhl_div3b,Division 3B Round 7,Sligo,2,11,17,Donegal,2,12,18,Donegal,Markievicz Park,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
 2011-04-10,hurling,senior,nhl_div3b,Division 3B Round 7,Roscommon,2,24,30,Louth,0,15,15,Roscommon,,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
+2011-04-16,football,under21,all_ireland,Semi-final,Galway,1,11,14,Cork,0,12,12,Galway,"Cusack Park, Ennis",,Joe Curley,,https://en.wikipedia.org/wiki/2011_All-Ireland_Under-21_Football_Championship
+2011-04-16,football,under21,all_ireland,Semi-final,Cavan,1,10,13,Wexford,0,8,8,Cavan,"Parnell Park, Dublin",,Padraig O'Sullivan,,https://en.wikipedia.org/wiki/2011_All-Ireland_Under-21_Football_Championship
 2011-04-17,hurling,senior,nhl_div1,Division 1 Round 7,Tipperary,0,17,17,Wexford,1,14,17,draw,Semple Stadium,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
 2011-04-17,hurling,senior,nhl_div1,Division 1 Round 7,Waterford,1,17,20,Galway,1,16,19,Waterford,Walsh Park,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
 2011-04-17,hurling,senior,nhl_div1,Division 1 Round 7,Cork,1,14,17,Dublin,1,15,18,Dublin,Páirc Uí Chaoimh,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
@@ -5954,6 +5987,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2011-04-24,football,senior,nfl_div1,Division 1 Final,Dublin,2,14,20,Cork,0,21,21,Cork,"Croke Park, Dublin",36348,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2011_National_Football_League_(Ireland)
 2011-04-24,football,senior,nfl_div2,Division 2 Final,Donegal,2,11,17,Laois,0,16,16,Donegal,"Croke Park, Dublin",,Marty Duffy (Sligo),,https://en.wikipedia.org/wiki/2011_National_Football_League_(Ireland)
 2011-04-30,hurling,senior,nhl_div2,Division 2 Final,Clare,2,13,19,Limerick,4,12,24,Limerick,Cusack Park,,,,https://en.wikipedia.org/wiki/2011_National_Hurling_League
+2011-05-01,football,under21,all_ireland,Final,Galway,2,16,22,Cavan,1,9,12,Galway,"Croke Park, Dublin",,Eddie Kinsella,,https://en.wikipedia.org/wiki/2011_All-Ireland_Under-21_Football_Championship
 2011-05-01,football,senior,connacht,Quarter-final,New York,1,11,14,Roscommon,3,21,30,Roscommon,"Gaelic Park, New York",2500,P McEnaney (Monaghan),,https://en.wikipedia.org/wiki/2011_Connacht_Senior_Football_Championship
 2011-05-01,hurling,senior,nhl_div1,Division 1 Final,Dublin,0,22,22,Kilkenny,1,7,10,Dublin,Croke Park,42030,M Wadding (Waterford),,https://en.wikipedia.org/wiki/2011_National_Hurling_League
 2011-05-14,hurling,senior,leinster,Preliminary round,Laois,3,12,21,Antrim,1,21,24,Antrim,O'Moore Park,,A Kelly (Galway),,https://en.wikipedia.org/wiki/2011_All-Ireland_Senior_Hurling_Championship
@@ -6072,6 +6106,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-02-12,football,senior,nfl_div4,Division 4 Round 2,Fermanagh,0,11,11,Clare,0,8,8,Fermanagh,"Brewster Park, Enniskillen",,J Henry,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-02-12,football,senior,nfl_div4,Division 4 Round 2,Limerick,1,13,16,London,1,7,10,Limerick,"Gaelic Grounds, Limerick",,K O'Brien,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-02-19,football,senior,nfl_div4,Division 4 Round 1,London,0,9,9,Fermanagh,2,15,21,Fermanagh,"Emerald GAA Grounds, Ruislip",,,Round 1 refixture,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
+2012-02-22,football,under21,leinster,Round 1,Wicklow,1,6,9,Carlow,0,13,13,Carlow,Baltinglass,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-02-22,football,under21,leinster,Round 1,Kilkenny,0,2,2,Louth,6,35,53,Louth,Ballyraggett,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-02-22,football,under21,leinster,Round 1,Offaly,1,9,12,Meath,0,9,9,Offaly,Gracefield,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-02-25,hurling,senior,nhl_div1a,Division 1A Round 1,Cork,3,17,26,Waterford,0,18,18,Cork,"Páirc Uí Rinn, Cork",7356,B Kelly,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-02-25,hurling,senior,nhl_div1b,Division 1B Round 1,Limerick,1,13,16,Clare,2,24,30,Clare,"Gaelic Grounds, Limerick",5390,J Ryan,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-02-26,hurling,senior,nhl_div1a,Division 1A Round 1,Kilkenny,2,17,23,Tipperary,0,15,15,Kilkenny,"Nowlan Park, Kilkenny",10664,M Wadding,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
@@ -6087,6 +6124,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-02-26,hurling,senior,nhl_div3a,Division 3A Round 1,Tyrone,3,18,27,Sligo,2,9,15,Tyrone,"Healy Park, Omagh",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-02-26,hurling,senior,nhl_div3a,Division 3A Round 1,Monaghan,1,18,21,Donegal,1,11,14,Monaghan,Clones,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-02-26,hurling,senior,nhl_div3a,Division 3A Round 1,Louth,0,12,12,Fingal,1,13,16,Fingal,Dowdallshill,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
+2012-02-29,football,under21,leinster,Round 1,Wexford,1,9,12,Dublin,1,12,15,Dublin,"Belfield, Enniscorthy",,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-03-03,football,senior,nfl_div1,Division 1 Round 3,Armagh,0,11,11,Mayo,1,14,17,Mayo,"Athletic Grounds, Armagh",,M Deegan,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-03,football,senior,nfl_div1,Division 1 Round 3,Laois,1,9,12,Dublin,1,14,17,Dublin,"O'Moore Park, Portlaoise",,D Coldrick,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-03,football,senior,nfl_div2,Division 2 Round 3,Derry,0,14,14,Monaghan,0,8,8,Derry,"Celtic Park, Derry",,E Kinsella,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6103,6 +6141,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-03-04,football,senior,nfl_div4,Division 4 Round 3,Clare,0,10,10,Limerick,0,9,9,Clare,"Cusack Park, Ennis",,B Tyrell,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-04,football,senior,nfl_div4,Division 4 Round 3,Wicklow,1,12,15,Waterford,4,7,19,Waterford,"Aughrim County Ground, Aughrim",,D O'Mahoney,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-04,football,senior,nfl_div4,Division 4 Round 3,Kilkenny,0,4,4,Fermanagh,9,23,50,Fermanagh,"Nowlan Park, Kilkenny",,M Rock,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
+2012-03-07,football,under21,leinster,Quarter-final,Dublin,2,21,27,Laois,0,4,4,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-07,football,under21,leinster,Quarter-final,Carlow,0,3,3,Westmeath,0,11,11,Westmeath,Carlow I.T.,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-07,football,under21,leinster,Quarter-final,Louth,3,6,15,Longford,1,10,13,Louth,Haggardstown,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-07,football,under21,leinster,Quarter-final,Offaly,0,8,8,Kildare,0,7,7,Offaly,Gracefield,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-03-10,football,senior,nfl_div1,Division 1 Round 4,Cork,2,14,20,Laois,0,10,10,Cork,"Páirc Uí Rinn, Cork",,Cormac Reilly,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-10,football,senior,nfl_div2,Division 2 Round 4,Tyrone,2,11,17,Westmeath,0,8,8,Tyrone,"Healy Park, Omagh",,J Curley,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-10,football,senior,nfl_div4,Division 4 Round 4,Limerick,1,30,33,Kilkenny,0,1,1,Limerick,Newcastlewest,,E O'Grady,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6134,6 +6176,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-03-11,hurling,senior,nhl_div3a,Division 3A Round 2,Sligo,2,13,19,Louth,1,16,19,draw,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-03-11,hurling,senior,nhl_div3a,Division 3A Round 2,Fingal,0,11,11,Monaghan,0,16,16,Monaghan,Swords,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-03-11,hurling,senior,nhl_div3a,Division 3A Round 2,Donegal,1,10,13,Tyrone,0,24,24,Tyrone,Letterkenny,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
+2012-03-14,football,under21,connacht,Preliminary Round,Mayo,1,14,17,Galway,0,15,15,Mayo,,,M Duffy (Sligo),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-14,football,under21,munster,Quarter-final,Tipperary,0,5,5,Kerry,0,11,11,Kerry,Semple Stadium,,C Lane (Cork),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-14,football,under21,munster,Quarter-final,Limerick,0,10,10,Clare,2,7,13,Clare,Gaelic Grounds,,D O'Mahony (Tipperary),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-14,football,under21,ulster,Round 1,Fermanagh,1,3,6,Tyrone,1,14,17,Tyrone,Brewster Park,,G Corrigan,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-03-18,football,senior,nfl_div1,Division 1 Round 5,Cork,0,11,11,Kerry,0,13,13,Kerry,"Páirc Uí Chaoimh, Cork",,M Deegan,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-18,football,senior,nfl_div1,Division 1 Round 5,Down,0,15,15,Dublin,0,10,10,Down,"Páirc Esler, Newry",,C Reilly,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-18,football,senior,nfl_div1,Division 1 Round 5,Laois,1,15,18,Armagh,1,10,13,Laois,"O'Moore Park, Portlaoise",,M Duffy,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6167,6 +6213,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-03-18,hurling,senior,nhl_div3a,Division 3A Round 3,Donegal,1,16,19,Sligo,2,12,18,Donegal,Letterkenny,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-03-18,hurling,senior,nhl_div3b,Division 3B Round 1,Longford,1,8,11,Leitrim,2,21,27,Leitrim,"Michael Fay Park, Longford",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-03-18,hurling,senior,nhl_div3b,Division 3B Round 1,Fermanagh,0,14,14,Warwickshire,1,10,13,Fermanagh,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
+2012-03-21,football,under21,connacht,Semi-final,Roscommon,1,11,14,Mayo,0,10,10,Roscommon,,,R McBrien (Leitrim),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-21,football,under21,leinster,Semi-final,Dublin,4,15,27,Westmeath,1,9,12,Dublin,Portlaoise,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-21,football,under21,leinster,Semi-final,Louth,0,10,10,Offaly,0,8,8,Louth,Navan,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-21,football,under21,ulster,Quarter-final,Cavan,1,11,14,Armagh,1,5,8,Cavan,Kingspan Breffni Park,,F Cleary (Fermanagh),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-21,football,under21,ulster,Quarter-final,Derry,3,12,21,Monaghan,1,3,6,Derry,Celtic Park,,S McLaughlin (Donegal),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-21,football,under21,ulster,Quarter-final,Down,2,11,17,Antrim,1,9,12,Down,Páirc Esler,,C O'Hagan (Tyrone),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-21,football,under21,ulster,Quarter-final,Tyrone,0,12,12,Donegal,0,6,6,Tyrone,Omagh,,M McErlane (Derry),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-24,football,under21,connacht,Semi-final,Sligo,0,14,14,Leitrim,0,8,8,Sligo,Markievicz Park,,S O'Hehir (Galway),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-03-24,football,senior,nfl_div1,Division 1 Round 6,Dublin,2,16,22,Donegal,0,13,13,Dublin,"Croke Park, Dublin",,E Kinsella,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-24,football,senior,nfl_div1,Division 1 Round 6,Armagh,1,14,17,Down,0,16,16,Armagh,"Athletic Grounds, Armagh",,D Coldrick,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-24,football,senior,nfl_div2,Division 2 Round 6,Tyrone,1,12,15,Meath,0,5,5,Tyrone,"Healy Park, Omagh",,P Hughes,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6200,6 +6254,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-03-25,hurling,senior,nhl_div3a,Division 3A Round 4,Louth,4,24,36,Donegal,0,12,12,Louth,Dowdallshill,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-03-25,hurling,senior,nhl_div3b,Division 3B Round 2,Warwickshire,8,19,43,Longford,0,5,5,Warwickshire,"Páirc na hÉireann, Solihull",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-03-25,hurling,senior,nhl_div3b,Division 3B Round 2,Leitrim,2,6,12,Fermanagh,6,27,45,Fermanagh,"Seán O'Heslin Park, Ballinamore",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
+2012-03-28,football,under21,munster,Semi-final,Waterford,1,4,7,Kerry,4,26,38,Kerry,Tralee,,K O'Brien (Tipperary),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-03-28,football,under21,munster,Semi-final,Cork,3,15,24,Clare,1,6,9,Cork,Páirc Uí Rinn,,P O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-03-31,football,senior,nfl_div1,Division 1 Round 2,Mayo,0,20,20,Dublin,0,8,8,Mayo,"MacHale Park, Castlebar",10153,Michael Duffy,Round 2 refixture,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-03-31,football,senior,nfl_div4,Division 4 Round 7,Waterford,0,12,12,Carlow,1,15,18,Carlow,"Fraher Field, Dungarvan",,C Lane,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-01,football,senior,nfl_div4,Division 4 Round 7,Wicklow,2,13,19,Leitrim,1,10,13,Wicklow,"Aughrim County Ground, Aughrim",,F Barry,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6222,6 +6278,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-04-01,hurling,senior,nhl_div3a,Division 3A Round 5,Louth,4,18,30,Tyrone,2,9,15,Louth,Dowdallshill,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-01,hurling,senior,nhl_div3b,Division 3B Round 3,Leitrim,2,10,16,Warwickshire,2,20,26,Warwickshire,"Seán O'Heslin Park, Ballinamore",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-01,hurling,senior,nhl_div3b,Division 3B Round 3,Fermanagh,,,,Longford,,,,Fermanagh,Irvinestown,,,walkover; Longford scratched,https://en.wikipedia.org/wiki/2012_National_Hurling_League
+2012-04-04,football,under21,leinster,Final,Dublin,1,16,19,Louth,0,8,8,Dublin,"Páirc Tailteann, Navan",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-04-04,football,under21,ulster,Semi-final,Down,1,8,11,Tyrone,0,16,16,Tyrone,Casement Park,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-04-04,football,under21,ulster,Semi-final,Cavan,2,8,14,Derry,1,9,12,Cavan,Enniskillen,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-04-07,football,under21,connacht,Final,Roscommon,1,13,16,Sligo,0,8,8,Roscommon,Dr. Hyde Park,,R McBrien (Leitrim),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-04-07,hurling,senior,nhl_div1b,Division 1B Final,Clare,0,21,21,Limerick,1,16,19,Clare,"Gaelic Grounds, Limerick",9897,B Gavin,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-08,football,senior,nfl_div1,Division 1 Round 7,Laois,0,10,10,Down,2,11,17,Down,"O'Moore Park, Portlaoise",,S Doyle,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-08,football,senior,nfl_div1,Division 1 Round 7,Kerry,1,12,15,Mayo,1,12,15,draw,"Austin Stack Park, Tralee",,M Condon,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6239,6 +6299,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-04-08,football,senior,nfl_div4,Division 4 Round 8,London,0,12,12,Wicklow,1,16,19,Wicklow,"Emerald GAA Grounds, Ruislip",,E O'Grady,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-08,football,senior,nfl_div4,Division 4 Round 8,Leitrim,0,14,14,Waterford,1,8,11,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,S Carroll,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-08,football,senior,nfl_div4,Division 4 Round 8,Clare,2,29,35,Kilkenny,1,4,7,Clare,"Cusack Park, Ennis",,P Neilan,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
+2012-04-11,football,under21,munster,Final,Cork,2,12,18,Kerry,1,14,17,Cork,Tralee,,K O'Brien (Tipperary),after extra time,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-04-11,football,under21,ulster,Final,Cavan,1,10,13,Tyrone,0,10,10,Cavan,Brewster Park,,B Cassidy (Derry),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-04-14,hurling,senior,nhl_div3b,Division 3B Final,Warwickshire,2,5,11,Fermanagh,2,15,21,Fermanagh,"Parnell Park, Dublin",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-15,football,senior,nfl_div1,Division 1 Semi-final,Mayo,2,15,21,Kerry,1,17,20,Mayo,"Croke Park, Dublin",11342,E Kinsella,after extra time,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-15,football,senior,nfl_div1,Division 1 Semi-final,Cork,2,17,23,Down,1,12,15,Cork,"Croke Park, Dublin",11342,Michael Duffy,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
@@ -6252,6 +6314,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-04-15,hurling,senior,nhl_div2b,Division 2B Final,Kildare,3,13,22,Meath,1,12,15,Kildare,Parnell Park,,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-15,hurling,senior,nhl_div3a,Division 3A Relegation Play-off,Donegal,2,13,19,Sligo,0,16,16,Donegal,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-15,hurling,senior,nhl_div3a,Division 3A Final,Fingal,,,,Monaghan,,,,Fingal,"O'Connor Park, Tullamore",,,walkover; Monaghan gave walkover,https://en.wikipedia.org/wiki/2012_National_Hurling_League
+2012-04-21,football,under21,all_ireland,Semi-final,Roscommon,2,7,13,Cavan,2,2,8,Roscommon,Pearse Park,,C Reilly (Meath),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
+2012-04-21,football,under21,all_ireland,Semi-final,Dublin,3,11,20,Cork,0,14,14,Dublin,Portlaoise,,M Higgins (Fermanagh),,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-04-21,hurling,senior,nhl_div1a,Division 1A Relegation Play-off,Dublin,0,19,19,Galway,4,21,33,Galway,"O'Moore Park, Portlaoise",,J Sexton,replay,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-22,hurling,senior,nhl_div1,Division 1 Semi-final,Kilkenny,1,20,23,Clare,0,14,14,Kilkenny,"Semple Stadium, Thurles",15424,Alan Kelly,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-04-22,hurling,senior,nhl_div1,Division 1 Semi-final,Cork,1,25,28,Tipperary,2,15,21,Cork,"Semple Stadium, Thurles",15424,M Wadding,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
@@ -6260,6 +6324,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2012-04-28,football,senior,nfl_div4,Division 4 Final,Wicklow,2,16,22,Fermanagh,1,11,14,Wicklow,"Croke Park, Dublin",7514,F Kelly,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-29,football,senior,nfl_div1,Division 1 Final,Cork,2,10,16,Mayo,0,11,11,Cork,"Croke Park, Dublin",22827,M Deegan,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
 2012-04-29,football,senior,nfl_div2,Division 2 Final,Kildare,0,16,16,Tyrone,0,11,11,Kildare,"Croke Park, Dublin",22827,D Coldrick,,https://en.wikipedia.org/wiki/2012_National_Football_League_(Ireland)
+2012-05-06,football,under21,all_ireland,Final,Dublin,2,12,18,Roscommon,0,11,11,Dublin,Tullamore,,,,https://en.wikipedia.org/wiki/2012_All-Ireland_Under-21_Football_Championship
 2012-05-06,football,senior,connacht,Quarter-final,New York,0,6,6,Sligo,3,21,30,Sligo,"Gaelic Park, New York City",,E Kinsella (Laois),,https://en.wikipedia.org/wiki/2012_Connacht_Senior_Football_Championship
 2012-05-06,hurling,senior,nhl_div1,Division 1 Final,Kilkenny,3,21,30,Cork,0,16,16,Kilkenny,"Semple Stadium, Thurles",16117,J McGrath,,https://en.wikipedia.org/wiki/2012_National_Hurling_League
 2012-05-19,hurling,senior,leinster,Preliminary round,Westmeath,0,14,14,Antrim,0,12,12,Westmeath,"Cusack Park, Mullingar",,A Stapleton (Laois),,https://en.wikipedia.org/wiki/2012_All-Ireland_Senior_Hurling_Championship
@@ -6446,6 +6511,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-03-10,hurling,senior,nhl_div3a,Division 3A Round 2,Tyrone,0,9,9,Donegal,0,14,14,Donegal,"Healy Park, Omagh",,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-03-10,hurling,senior,nhl_div3a,Division 3A Round 2,Monaghan,1,9,12,Fingal,2,10,16,Fingal,Inniskeen,,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-03-10,hurling,senior,nhl_div3b,Division 3B Round 1,Leitrim,1,13,16,Longford,0,16,16,draw,Ballinamore,,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
+2013-03-13,football,under21,munster,quarter_final,Cork,0,14,14,Kerry,2,7,13,Cork,Páirc Uí Rinn,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
+2013-03-13,football,under21,munster,quarter_final,Tipperary,1,17,20,Waterford,0,9,9,Tipperary,Semple Stadium,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
 2013-03-16,football,senior,nfl_div1,Division 1 Round 5,Cork,0,12,12,Donegal,0,10,10,Cork,"Páirc Uí Rinn, Cork",,D Coldrick,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-03-16,football,senior,nfl_div1,Division 1 Round 5,Dublin,1,14,17,Tyrone,0,18,18,Tyrone,"Croke Park, Dublin",,M Duffy,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-03-16,football,senior,nfl_div1,Division 1 Round 5,Mayo,0,13,13,Kildare,1,11,14,Kildare,"MacHale Park, Castlebar",,M Higgins,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
@@ -6507,6 +6574,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-03-24,hurling,senior,nhl_div3a,Division 3A Round 4,Donegal,3,13,22,Louth,0,10,10,Donegal,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-03-24,hurling,senior,nhl_div3b,Division 3B Round 2,Longford,2,18,24,Warwickshire,1,15,18,Longford,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-03-24,hurling,senior,nhl_div3b,Division 3B Round 2,Sligo,1,15,18,Leitrim,1,6,9,Sligo,"Markievicz Park, Sligo",,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
+2013-03-27,football,under21,munster,semi_final,Limerick,0,11,11,Cork,2,14,20,Cork,Gaelic Grounds,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
+2013-03-27,football,under21,munster,semi_final,Tipperary,1,12,15,Clare,0,7,7,Tipperary,Semple Stadium,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
 2013-03-30,football,senior,nfl_div4,Division 4 Round 6,Clare,2,14,20,London,0,8,8,Clare,"Cusack Park, Ennis",,J Hickey,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-03-30,hurling,senior,nhl_div2b,Division 2B Round 5,London,2,18,24,Roscommon,2,10,16,London,"Emerald GAA Grounds, Ruislip",,L McAuley,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-03-30,hurling,senior,nhl_div2b,Division 2B Round 5,Meath,3,18,27,Armagh,1,10,13,Meath,"Páirc Tailteann, Navan",,G McGrath,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
@@ -6543,6 +6612,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-04-07,football,senior,nfl_div4,Division 4 Round 7,Carlow,0,10,10,Waterford,0,15,15,Waterford,"Dr. Cullen Park, Carlow",,N Ward,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-04-07,football,senior,nfl_div4,Division 4 Round 7,Offaly,2,10,16,Tipperary,1,8,11,Offaly,"O'Connor Park, Tullamore",,M McNally,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-04-07,football,senior,nfl_div4,Division 4 Round 7,Clare,0,10,10,Limerick,1,13,16,Limerick,"Cusack Park, Ennis",,J Henry,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
+2013-04-10,football,under21,munster,final,Tipperary,0,9,9,Cork,1,17,20,Cork,Semple Stadium,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
 2013-04-13,hurling,senior,nhl_div3a,Division 3A Relegation Play-off,Tyrone,1,16,19,Monaghan,2,15,21,Monaghan,Breffni Park,,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-04-13,hurling,senior,nhl_div3a,Division 3A Final,Fingal,1,9,12,Donegal,1,5,8,Fingal,Breffni Park,,G Chapman (Sligo),,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-04-14,football,senior,nfl_div1,Division 1 Semi-Final,Dublin,2,16,22,Mayo,0,16,16,Dublin,"Croke Park, Dublin",,J McQuillan,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
@@ -6553,12 +6623,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2013-04-14,hurling,senior,nhl_div2a,Division 2A Final,Laois,3,14,23,Westmeath,1,9,12,Laois,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-04-14,hurling,senior,nhl_div2b,Division 2B Final,Meath,1,14,17,London,1,16,19,London,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-04-14,hurling,senior,nhl_div3b,Division 3B Final,Longford,1,8,11,Sligo,0,9,9,Longford,,,,,https://en.wikipedia.org/wiki/2013_National_Hurling_League
+2013-04-20,football,under21,all_ireland,semi_final,Cork,0,15,15,Cavan,1,11,14,Cork,Bord Na Móna O'Connor Park,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
+2013-04-20,football,under21,all_ireland,semi_final,Galway,2,10,16,Kildare,2,5,11,Galway,Bord Na Móna O'Connor Park,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
 2013-04-21,hurling,senior,nhl_div1a,Division 1 Semi-Final,Tipperary,4,20,32,Dublin,0,17,17,Tipperary,"Semple Stadium, Thurles",,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-04-21,hurling,senior,nhl_div1a,Division 1 Semi-Final,Kilkenny,1,24,27,Galway,1,17,20,Kilkenny,"Semple Stadium, Thurles",,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2013_National_Hurling_League
 2013-04-28,football,senior,nfl_div1,Division 1 Final,Dublin,0,18,18,Tyrone,0,17,17,Dublin,"Croke Park, Dublin",,Marty Duffy,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-04-28,football,senior,nfl_div2,Division 2 Final,Derry,1,18,21,Westmeath,0,15,15,Derry,"Croke Park, Dublin",,C Lane,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-04-28,football,senior,nfl_div3,Division 3 Final,Monaghan,2,16,22,Meath,3,8,17,Monaghan,"Croke Park, Dublin",,P O'Sullivan,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
 2013-04-28,football,senior,nfl_div4,Division 4 Final,Limerick,0,16,16,Offaly,1,11,14,Limerick,"Croke Park, Dublin",,C Branagan,,https://en.wikipedia.org/wiki/2013_National_Football_League_(Ireland)
+2013-05-04,football,under21,all_ireland,final,Galway,1,14,17,Cork,1,11,14,Galway,Gaelic Grounds,,,,https://en.wikipedia.org/wiki/2013_All-Ireland_Under-21_Football_Championship
 2013-05-05,football,senior,connacht,Quarter-final,New York,0,7,7,Leitrim,4,19,31,Leitrim,"Gaelic Park, New York City",,Martin Higgins (Fermanagh),,https://en.wikipedia.org/wiki/2013_Connacht_Senior_Football_Championship
 2013-05-05,hurling,senior,leinster,Preliminary round,Westmeath,2,13,19,Antrim,3,18,27,Antrim,"Cusack Park, Mullingar",,J Owens (Wexford),,https://en.wikipedia.org/wiki/2013_All-Ireland_Senior_Hurling_Championship
 2013-05-05,hurling,senior,nhl_div1a,Division 1 Final,Kilkenny,2,17,23,Tipperary,0,20,20,Kilkenny,"Nowlan Park, Kilkenny",21447,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2013_National_Hurling_League
@@ -6858,12 +6931,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2014-04-13,football,senior,nfl_div1,Division 1 Semi-Final,Cork,2,13,19,Dublin,2,20,26,Dublin,"Croke Park, Dublin",,C Branagan,,https://en.wikipedia.org/wiki/2014_National_Football_League_(Ireland)
 2014-04-13,football,senior,nfl_div1,Division 1 Semi-Final,Derry,2,15,21,Mayo,1,16,19,Derry,"Croke Park, Dublin",,P Hughes,,https://en.wikipedia.org/wiki/2014_National_Football_League_(Ireland)
 2014-04-13,hurling,senior,nhl_div2b,Division 2B/3 promotion-relegation play-off,Fingal,0,8,8,Donegal,2,16,22,Donegal,Breffni Park,,,,https://en.wikipedia.org/wiki/2014_National_Hurling_League
+2014-04-19,football,under21,all_ireland,semi_final,Dublin,0,11,11,Cavan,0,10,10,Dublin,O'Moore Park,,Derek O'Mahoney (Tipperary),,https://www.rte.ie/sport/football/2014/0419/609860-cavan-dublin/
+2014-04-19,football,under21,all_ireland,semi_final,Roscommon,1,19,22,Cork,3,12,21,Roscommon,O'Moore Park,,,,https://munster.gaa.ie/event/cadburys-all-ireland-under-21-football-championship-semi-final-cork-v-roscommon/
 2014-04-20,hurling,senior,nhl_div1,Division 1 Semi-final,Kilkenny,1,16,19,Galway,0,15,15,Kilkenny,Gaelic Grounds,20452,James McGrath,,https://en.wikipedia.org/wiki/2014_National_Hurling_League
 2014-04-20,hurling,senior,nhl_div1,Division 1 Semi-final,Tipperary,2,24,30,Clare,2,17,23,Tipperary,Gaelic Grounds,20452,Colm Lyons,,https://en.wikipedia.org/wiki/2014_National_Hurling_League
 2014-04-26,football,senior,nfl_div3,Division 3 Final,Roscommon,1,17,20,Cavan,0,18,18,Roscommon,"Croke Park, Dublin",8654,S Hurson,,https://en.wikipedia.org/wiki/2014_National_Football_League_(Ireland)
 2014-04-26,football,senior,nfl_div4,Division 4 Final,Tipperary,1,16,19,Clare,1,15,18,Tipperary,"Croke Park, Dublin",,N Mooney,,https://en.wikipedia.org/wiki/2014_National_Football_League_(Ireland)
 2014-04-27,football,senior,nfl_div1,Division 1 Final,Dublin,3,19,28,Derry,1,10,13,Dublin,"Croke Park, Dublin",38841,C Reilly,,https://en.wikipedia.org/wiki/2014_National_Football_League_(Ireland)
 2014-04-27,football,senior,nfl_div2,Division 2 Final,Monaghan,1,16,19,Donegal,1,10,13,Monaghan,"Croke Park, Dublin",,D Gough,,https://en.wikipedia.org/wiki/2014_National_Football_League_(Ireland)
+2014-05-03,football,under21,all_ireland,final,Dublin,1,21,24,Roscommon,3,6,15,Dublin,"O'Connor Park, Tullamore",,Barry Cassidy (Derry),,https://www.the42.ie/dublin-roscommon-1355188-May2014/
 2014-05-04,football,senior,connacht,Quarter-final,Mayo,4,18,30,New York,0,8,8,Mayo,"Gaelic Park, New York",4000,Pauric O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2014_Connacht_Senior_Football_Championship
 2014-05-04,hurling,senior,nhl_div1,Division 1 Final,Tipperary,1,27,30,Kilkenny,2,25,31,Kilkenny,Semple Stadium,21601,James Owens,after extra time,https://en.wikipedia.org/wiki/2014_National_Hurling_League
 2014-05-17,football,senior,leinster,Preliminary round,Westmeath,1,9,12,Louth,1,14,17,Louth,"Cusack Park, Mullingar",4500,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2014_Leinster_Senior_Football_Championship
@@ -7016,6 +7092,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-02-22,hurling,senior,nhl_div3a,Division 3A Round 2,Tyrone,1,16,19,Fingal,1,15,18,Tyrone,Swords,,Gavin Quilty,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-02-22,hurling,senior,nhl_div3a,Division 3A Round 2,Louth,4,17,29,Fermanagh,3,7,16,Louth,Darver,,Kevin McGeeney,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-02-22,hurling,senior,nhl_div3a,Division 3A Round 2,Monaghan,0,17,17,Roscommon,1,10,13,Monaghan,Castleblayney,,James Clarke,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
+2015-02-25,football,under21,leinster,preliminary_round,Laois,4,12,24,Wexford,1,11,14,Laois,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-02-25,football,under21,leinster,preliminary_round,Louth,3,11,20,Carlow,2,10,16,Louth,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-02-25,football,under21,leinster,preliminary_round,Longford,4,13,25,Wicklow,1,5,8,Longford,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-02-28,football,senior,nfl_div1,Division 1 Round 3,Tyrone,0,11,11,Derry,1,8,11,draw,"Healy Park, Omagh",,D Coldrick,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-02-28,football,senior,nfl_div2,Division 2 Round 3,Cavan,0,8,8,Down,1,9,12,Down,"Breffni Park, Cavan",,P Hughes,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-01,football,senior,nfl_div1,Division 1 Round 3,Kerry,0,15,15,Dublin,1,10,13,Kerry,"Fitzgerald Stadium, Killarney",,E Kinsella,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
@@ -7031,6 +7110,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-03-01,football,senior,nfl_div4,Division 4 Round 3,Antrim,1,10,13,Wicklow,1,8,11,Antrim,"Páirc Naomh Pól, Belfast",,J McQuillan,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-01,football,senior,nfl_div4,Division 4 Round 3,Longford,2,15,21,London,0,9,9,Longford,"Pearse Park, Longford",,E Kinsella,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-01,hurling,senior,nhl_div2a,Division 2A Round 4,London,1,9,12,Derry,1,10,13,Derry,Greenford,,John O'Brien,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
+2015-03-04,football,under21,leinster,quarter_final,Meath,1,10,13,Westmeath,1,8,11,Meath,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-04,football,under21,leinster,quarter_final,Longford,1,17,20,Louth,1,4,7,Longford,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-04,football,under21,leinster,quarter_final,Dublin,2,21,27,Laois,2,10,16,Dublin,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-05,football,under21,leinster,quarter_final,Kildare,3,12,21,Offaly,0,9,9,Kildare,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-03-07,football,senior,nfl_div1,Division 1 Round 3,Dublin,1,9,12,Tyrone,0,12,12,draw,"Croke Park, Dublin",27469,D Gough,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-07,football,senior,nfl_div2,Division 2 Round 4,Meath,4,10,22,Westmeath,0,11,11,Meath,"Páirc Tailteann, Navan",,F Kelly,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-07,football,senior,nfl_div2,Division 2 Round 4,Cavan,0,14,14,Kildare,2,13,19,Kildare,"Breffni Park, Cavan",,C Reilly,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
@@ -7064,6 +7147,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-03-08,hurling,senior,nhl_div3a,Division 3A Round 3,Fingal,1,11,14,Roscommon,3,24,33,Roscommon,"St. Maurs, Rush",,Patrick Murphy,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-08,hurling,senior,nhl_div3a,Division 3A Round 3,Louth,2,13,19,Monaghan,2,18,24,Monaghan,"Dowdallshill, Dundalk",,Colum Cunning,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-08,hurling,senior,nhl_div3b,Division 3B Round 1,Longford,1,17,20,Leitrim,0,10,10,Longford,Páirc Seán Mac Diarmada,,Kevin McGeeney,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
+2015-03-11,football,under21,connacht,quarter_final,Mayo,4,7,19,Leitrim,0,8,8,Mayo,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-11,football,under21,munster,quarter_final,Cork,5,18,33,Limerick,2,12,18,Cork,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-11,football,under21,munster,quarter_final,Clare,2,11,17,Waterford,0,3,3,Clare,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-11,football,under21,ulster,preliminary_round,Derry,2,12,18,Down,1,11,14,Derry,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-03-14,football,senior,nfl_div1,Division 1 Round 4,Mayo,0,10,10,Dublin,2,18,24,Dublin,"MacHale Park, Castlebar",,P O'Sullivan,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-14,football,senior,nfl_div2,Division 2 Round 5,Meath,0,13,13,Laois,0,13,13,draw,"Páirc Tailteann, Navan",,M McNally,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-14,hurling,senior,nhl_div1a,Division 1A Round 4,Clare,2,22,28,Dublin,2,20,26,Clare,Cusack Park,,Cathal McAllister,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
@@ -7096,6 +7183,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-03-15,hurling,senior,nhl_div3a,Division 3A Round 4,Tyrone,1,20,23,Louth,2,7,13,Tyrone,"Healy Park, Omagh",,James Clarke,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-15,hurling,senior,nhl_div3a,Division 3A Round 4,Roscommon,0,16,16,Fermanagh,0,6,6,Roscommon,Athleague,,Gavin Quilty,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-15,hurling,senior,nhl_div3b,Division 3B Round 2,Leitrim,1,15,18,Sligo,2,10,16,Leitrim,"Markievicz Park, Sligo",,Kevin McGeeney,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
+2015-03-18,football,under21,connacht,semi_final,Roscommon,6,18,36,Sligo,0,12,12,Roscommon,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,leinster,semi_final,Dublin,2,15,21,Longford,3,7,16,Dublin,Pairc Tailteann,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,leinster,semi_final,Kildare,2,15,21,Meath,0,13,13,Kildare,O'Moore Park,,Fergal Smyth (Offaly),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,munster,semi_final,Cork,1,12,15,Kerry,1,9,12,Cork,Pairc Ui Rinn,,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,munster,semi_final,Tipperary,0,15,15,Clare,0,7,7,Tipperary,Semple Stadium,,James Bermingham (Cork),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,ulster,quarter_final,Tyrone,0,17,17,Fermanagh,0,7,7,Tyrone,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,ulster,quarter_final,Donegal,1,7,10,Cavan,0,9,9,Donegal,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-18,football,under21,ulster,quarter_final,Monaghan,0,15,15,Derry,1,8,11,Monaghan,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-03-21,football,under21,connacht,semi_final,Mayo,0,11,11,Galway,1,12,15,Galway,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-03-22,football,senior,nfl_div2,Division 2 Round 3,Roscommon,2,10,16,Meath,0,14,14,Roscommon,"Dr. Hyde Park, Roscommon",,A Nolan,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-22,football,senior,nfl_div2,Division 2 Round 3,Galway,0,10,10,Laois,2,10,16,Laois,"St Jarlath's Park, Tuam",,Marty Duffy,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-22,hurling,senior,nhl_div1a,Division 1A Round 5,Cork,4,21,33,Tipperary,2,28,34,Tipperary,Páirc Uí Rinn,7895,Barry Kelly,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
@@ -7114,6 +7210,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-03-22,hurling,senior,nhl_div3a,Division 3A Round 5,Fingal,2,17,23,Louth,3,14,23,draw,Swords,,,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-22,hurling,senior,nhl_div3a,Division 3A Round 5,Tyrone,1,14,17,Roscommon,1,13,16,Tyrone,"Healy Park, Omagh",,,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-22,hurling,senior,nhl_div3b,Division 3B Round 3,Warwickshire,3,18,27,Leitrim,4,14,26,Warwickshire,"Páirc na hÉireann, Birmingham",,K. Burke,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
+2015-03-22,football,under21,ulster,quarter_final,Armagh,2,13,19,Antrim,1,5,8,Armagh,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-03-28,football,senior,nfl_div1,Division 1 Round 6,Dublin,0,8,8,Derry,0,4,4,Dublin,"Croke Park, Dublin",,C Lane,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-28,football,senior,nfl_div2,Division 2 Round 6,Down,0,10,10,Meath,2,11,17,Meath,"Páirc Esler, Newry",,B Cassidy,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-03-28,football,senior,nfl_div2,Division 2 Round 6,Cavan,1,8,11,Westmeath,1,3,6,Cavan,"Breffni Park, Cavan",,J Henry,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
@@ -7138,6 +7235,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-03-29,hurling,senior,nhl_div1,Division 1 Quarter-final,Offaly,0,13,13,Tipperary,1,16,19,Tipperary,O'Connor Park,4234,,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-29,hurling,senior,nhl_div1,Division 1 Quarter-final,Waterford,0,20,20,Galway,0,12,12,Waterford,Walsh Park,,,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-03-29,hurling,senior,nhl_div1a,Division 1A Relegation play-off,Kilkenny,1,18,21,Clare,1,17,20,Kilkenny,Nowlan Park,,,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
+2015-04-01,football,under21,ulster,semi_final,Donegal,4,9,21,Monaghan,1,5,8,Donegal,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-04-01,football,under21,ulster,semi_final,Tyrone,2,12,18,Armagh,2,8,14,Tyrone,,,,,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-04-02,football,under21,leinster,final,Dublin,3,10,19,Kildare,1,12,15,Dublin,Pairc Tailteann,,Niall Ward (Westmeath),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-04-04,football,under21,connacht,final,Roscommon,3,14,23,Galway,3,11,20,Roscommon,"St Jarlath's Park, Tuam",4796,Jerome Henry (Mayo),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-04-04,hurling,senior,nhl_div2a,Division 2A Final,Kerry,5,17,32,Westmeath,3,17,26,Kerry,Gaelic Grounds,,Tony Carroll,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-04-04,hurling,senior,nhl_div2b,Division 2B Final,Kildare,0,22,22,Meath,0,17,17,Kildare,"Cusack Park, Mullingar",,Colum Cunning,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-04-04,hurling,senior,nhl_div3a,Division 3A Final,Tyrone,0,18,18,Monaghan,1,11,14,Tyrone,Keady,,Liam McAuley,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
@@ -7158,15 +7259,20 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2015-04-05,football,senior,nfl_div4,Division 4 Round 7,Antrim,1,14,17,Waterford,0,11,11,Antrim,"Páirc Naomh Pól, Belfast",,P Neilan,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-04-05,football,senior,nfl_div4,Division 4 Round 7,Longford,1,15,18,Leitrim,0,11,11,Longford,"Pearse Park, Longford",,M Duffy,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-04-05,football,senior,nfl_div4,Division 4 Round 7,Wicklow,0,12,12,London,1,9,12,draw,"Aughrim County Ground, Aughrim",,R Hickey,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
+2015-04-08,football,under21,ulster,final,Tyrone,1,11,14,Donegal,0,13,13,Tyrone,Celtic Park,3239,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-04-09,football,under21,munster,final,Tipperary,1,15,18,Cork,3,8,17,Tipperary,Semple Stadium,2137,Sean Joy (Kerry),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-04-11,hurling,senior,nhl_div2b,Division 2B/3A Promotion-relegation play-off,Donegal,4,13,25,Tyrone,4,13,25,draw,"Celtic Park, Owenbeg",,James Clarke,after extra time,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-04-12,football,senior,nfl_div1,Division 1 Semi-Final,Cork,4,11,23,Donegal,0,19,19,Cork,"Croke Park, Dublin",,Marty Duffy,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-04-12,football,senior,nfl_div1,Division 1 Semi-Final,Dublin,0,17,17,Monaghan,0,16,16,Dublin,"Croke Park, Dublin",,R Hickey,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
+2015-04-18,football,under21,all_ireland,semi_final,Dublin,0,12,12,Tipperary,0,14,14,Tipperary,"O'Connor Park, Tullamore",,Jerome Henry (Mayo),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
+2015-04-18,football,under21,all_ireland,semi_final,Roscommon,0,12,12,Tyrone,0,17,17,Tyrone,Markievicz Park,,Pat O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-04-18,hurling,senior,nhl_div2b,Division 2B/3A Promotion-relegation play-off,Donegal,2,16,22,Tyrone,2,12,18,Donegal,"Celtic Park, Owenbeg",,,replay,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-04-19,hurling,senior,nhl_div1,Division 1 Semi-final,Cork,1,27,30,Dublin,2,23,29,Cork,Nowlan Park,,James Owens,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-04-19,hurling,senior,nhl_div1,Division 1 Semi-final,Tipperary,2,15,21,Waterford,1,19,22,Waterford,Nowlan Park,16445,Barry Kelly,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-04-25,football,senior,nfl_div3,Division 3 Final,Armagh,0,16,16,Fermanagh,0,11,11,Armagh,"Croke Park, Dublin",,D O'Mahoney,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-04-26,football,senior,nfl_div1,Division 1 Final,Dublin,1,21,24,Cork,2,7,13,Dublin,"Croke Park, Dublin",,P Hughes,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
 2015-04-26,football,senior,nfl_div2,Division 2 Final,Roscommon,1,17,20,Down,0,15,15,Roscommon,"Croke Park, Dublin",,M Deegan,,https://en.wikipedia.org/wiki/2015_National_Football_League_(Ireland)
+2015-05-02,football,under21,all_ireland,final,Tipperary,0,13,13,Tyrone,1,11,14,Tyrone,Parnell Park,,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2015_All-Ireland_Under-21_Football_Championship
 2015-05-03,football,senior,connacht,Preliminary round,New York,0,8,8,Galway,2,18,24,Galway,"Gaelic Park, New York City",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2015_Connacht_Senior_Football_Championship
 2015-05-03,hurling,senior,nhl_div1,Division 1 Final,Waterford,1,24,27,Cork,0,17,17,Waterford,Semple Stadium,17559,Johnny Ryan,,https://en.wikipedia.org/wiki/2015_National_Hurling_League
 2015-05-16,football,senior,leinster,Preliminary round,Offaly,0,13,13,Longford,0,16,16,Longford,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/2015_Leinster_Senior_Football_Championship
@@ -7391,6 +7497,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-03-13,hurling,senior,nhl_div3a,Division 3A Round 4,Louth,2,19,25,Tyrone,2,16,22,Louth,Darver,,D Hughes (Carlow),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-03-13,hurling,senior,nhl_div3b,Division 3B Round 2,Fermanagh,3,17,26,Longford,3,13,22,Fermanagh,Brewster Park (Enniskillen),,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-03-13,hurling,senior,nhl_div3b,Division 3B Round 2,Leitrim,3,15,24,Sligo,2,13,19,Leitrim,Páirc Seán Mac Diarmada,,J Connors (Donegal),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
+2016-03-16,football,under21,leinster,Semi-final,Kildare,1,16,19,Westmeath,1,3,6,Kildare,O'Moore Park,,Stephen Murphy,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+2016-03-16,football,under21,munster,Semi-final,Cork,3,18,27,Waterford,0,2,2,Cork,Fraher Field,,Seamus Mulvihill,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+2016-03-19,football,under21,leinster,Semi-final,Dublin,2,17,23,Laois,2,5,11,Dublin,Parnell Park,,Fergal Smyth,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+2016-03-19,football,under21,munster,Semi-final,Kerry,1,14,17,Limerick,2,8,14,Kerry,Austin Stack Park,,Alan Kissane,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 2016-03-19,hurling,senior,nhl_div3a,Division 3A Round 5,Monaghan,2,13,19,Warwickshire,2,6,12,Monaghan,St. Tiernach's Park,,,,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-03-20,hurling,senior,nhl_div1a,Division 1A Round 5,Kilkenny,0,23,23,Dublin,1,14,17,Kilkenny,Nowlan Park,8871,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-03-20,hurling,senior,nhl_div1a,Division 1A Round 5,Waterford,0,24,24,Galway,1,21,24,draw,Walsh Park,5029,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
@@ -7428,6 +7538,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-03-27,football,senior,nfl_div4,Division 4 Round 6,Antrim,1,17,20,Louth,0,11,11,Antrim,"Corrigan Park, Belfast",,Maurice McNally,,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-03-27,football,senior,nfl_div4,Division 4 Round 6,Waterford,0,17,17,Wicklow,1,13,16,Waterford,"Fraher Field, Dungarvan",,Kevin Murphy,,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-03-27,football,senior,nfl_div4,Division 4 Round 6,Wexford,2,14,20,London,0,10,10,Wexford,"Wexford Park, Wexford",,Padraig Faloon,,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
+2016-04-02,football,under21,connacht,Final,Mayo,1,11,14,Roscommon,1,10,13,Mayo,Markievicz Park,,James Molloy,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+2016-04-02,football,under21,leinster,Final,Dublin,2,14,20,Kildare,0,17,17,Dublin,Páirc Tailteann,,John Hickey,after extra time,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 2016-04-02,hurling,senior,nhl_div1a,Division 1 Quarter-final,Dublin,1,19,22,Limerick,1,21,24,Limerick,Parnell Park,,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-02,hurling,senior,nhl_div1b,Division 1B play-off,Kerry,2,27,33,Laois,1,19,22,Kerry,Austin Stack Park,,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-02,hurling,senior,nhl_div2b,Division 2B play-off,Wicklow,2,19,25,Donegal,1,9,12,Wicklow,St. Colman's College,,J Clarke (Cavan),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
@@ -7451,17 +7563,22 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2016-04-03,hurling,senior,nhl_div1a,Division 1 Quarter-final,Kilkenny,6,20,38,Offaly,0,14,14,Kilkenny,Nowlan Park,5000,,,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-03,hurling,senior,nhl_div1a,Division 1 Quarter-final,Clare,2,13,19,Tipperary,0,18,18,Clare,Cusack Park (Ennis),9038,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-03,hurling,senior,nhl_div1a,Division 1A relegation play-off,Galway,0,25,25,Cork,2,22,28,Cork,Pearse Stadium,6110,,,https://en.wikipedia.org/wiki/2016_National_Hurling_League
+2016-04-06,football,under21,ulster,Final,Monaghan,0,13,13,Tyrone,0,11,11,Monaghan,Athletic Grounds,4332,Niall Cullen,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+2016-04-07,football,under21,munster,Final,Cork,3,9,18,Kerry,1,14,17,Cork,Austin Stack Park,,Sean Lonergan,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 2016-04-09,hurling,senior,nhl_div1b,Division 1B Relegation/Promotion play-off,Laois,0,23,23,Westmeath,0,16,16,Laois,O'Connor Park,,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-09,hurling,senior,nhl_div2b,Division 2B Relegation/Promotion play-off,Donegal,4,9,21,Roscommon,3,13,22,Roscommon,"James Stephens Park, Ballina",,J Keane (Galway),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-09,hurling,senior,nhl_div3a,Division 3A Relegation/Promotion play-off,Tyrone,1,24,27,Fermanagh,1,19,22,Tyrone,"Aodh Ruadh, Ballyshannon",,,after extra time,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-10,football,senior,nfl_div1,Division 1 Semi-final,Kerry,3,15,24,Roscommon,0,14,14,Kerry,"Croke Park, Dublin",,Padraig Hughes,,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-04-10,football,senior,nfl_div1,Division 1 Semi-final,Dublin,1,20,23,Donegal,0,13,13,Dublin,"Croke Park, Dublin",,Maurice Deegan,,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
+2016-04-15,football,under21,all_ireland,Semi-final,Mayo,1,15,18,Dublin,1,14,17,Mayo,O'Connor Park,,Niall Cullen,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+2016-04-15,football,under21,all_ireland,Semi-final,Cork,2,15,21,Monaghan,1,16,19,Cork,O'Connor Park,,John Hickey,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 2016-04-17,hurling,senior,nhl_div1a,Division 1 Semi-final,Limerick,1,18,21,Waterford,3,23,32,Waterford,Semple Stadium,20481,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-17,hurling,senior,nhl_div1a,Division 1 Semi-final,Clare,4,22,34,Kilkenny,2,19,25,Clare,Semple Stadium,20481,F Horgan (Tipperary),,https://en.wikipedia.org/wiki/2016_National_Hurling_League
 2016-04-23,football,senior,nfl_div3,Division 3 Final,Clare,2,17,23,Kildare,1,19,22,Clare,"Croke Park, Dublin",,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-04-24,football,senior,nfl_div1,Division 1 Final,Dublin,2,18,24,Kerry,0,13,13,Dublin,"Croke Park, Dublin",82300,Eddie Kinsella,,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-04-24,football,senior,nfl_div2,Division 2 Final,Tyrone,1,17,20,Cavan,0,15,15,Tyrone,"Croke Park, Dublin",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
 2016-04-24,football,senior,nfl_div4,Division 4 Final,Louth,1,16,19,Antrim,0,15,15,Louth,"Croke Park, Dublin",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2016_National_Football_League_(Ireland)
+2016-04-30,football,under21,all_ireland,Final,Mayo,5,7,22,Cork,1,14,17,Mayo,Cusack Park,7467,Padraig Hughes,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 2016-05-01,football,senior,connacht,Preliminary round,New York,0,17,17,Roscommon,1,15,18,Roscommon,"Gaelic Park, New York",2500,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2016_Connacht_Senior_Football_Championship
 2016-05-01,hurling,senior,leinster,Group stage Round 1,Kerry,2,19,25,Carlow,0,17,17,Kerry,"Austin Stack Park, Tralee",,C Lyons (Cork),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
 2016-05-01,hurling,senior,leinster,Group stage Round 1,Westmeath,2,22,28,Offaly,1,11,14,Westmeath,"Cusack Park, Mullingar",,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2016_All-Ireland_Senior_Hurling_Championship
@@ -7621,6 +7738,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-02-19,hurling,senior,nhl_div3a,Division 3A Round 2,Monaghan,1,21,24,Donegal,3,14,23,Monaghan,"St. Mary's Park, Castleblayney",,K McGeeney (Roscommon),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-02-19,hurling,senior,nhl_div3a,Division 3A Round 2,Louth,0,12,12,Tyrone,5,16,31,Tyrone,Darver,,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-02-19,hurling,senior,nhl_div3b,Division 3B Round 2,Leitrim,3,13,22,Longford,2,19,25,Longford,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,S Hynes (Galway),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-02-22,football,under21,leinster,preliminary round,Meath,0,12,12,Westmeath,2,8,14,Westmeath,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-02-22,football,under21,leinster,preliminary round,Carlow,0,8,8,Wexford,1,18,21,Wexford,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-02-25,football,senior,nfl_div1,Division 1 Round 3,Mayo,1,19,22,Roscommon,0,14,14,Mayo,"Elverys MacHale Park, Castlebar",11657,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-02-25,football,senior,nfl_div2,Division 2 Round 3,Down,1,13,16,Meath,0,14,14,Down,"Páirc Esler, Newry",,Padraig O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-02-25,football,senior,nfl_div3,Division 3 Round 3,Laois,1,10,13,Tipperary,1,16,19,Tipperary,O'Moore Park,,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
@@ -7637,6 +7756,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-02-26,football,senior,nfl_div4,Division 4 Round 3,Wexford,1,9,12,Waterford,0,10,10,Wexford,Wexford Park,,Fergal Smyth (Offaly),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-02-26,football,senior,nfl_div4,Division 4 Round 3,Westmeath,2,18,24,Leitrim,1,9,12,Westmeath,Mullingar,,John Gilmartin (Sligo),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-02-26,hurling,senior,nhl_div3a,Division 3A Round 3,Louth,1,8,11,Monaghan,1,10,13,Monaghan,Darver,,A Devine,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-03-01,football,under21,leinster,preliminary round,Wicklow,0,9,9,Louth,1,13,16,Louth,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-01,football,under21,leinster,quarter-final,Dublin,2,14,20,Westmeath,0,6,6,Dublin,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-01,football,under21,leinster,quarter-final,Kildare,0,10,10,Longford,2,6,12,Longford,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-01,football,under21,leinster,quarter-final,Wexford,0,6,6,Offaly,1,6,9,Offaly,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-03-04,football,senior,nfl_div1,Division 1 Round 4,Cavan,0,11,11,Donegal,1,16,19,Donegal,"Kingspan Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-04,football,senior,nfl_div1,Division 1 Round 4,Dublin,1,16,19,Mayo,0,7,7,Dublin,"Croke Park, Dublin",34578,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-04,football,senior,nfl_div1,Division 1 Round 4,Tyrone,0,14,14,Monaghan,0,10,10,Tyrone,"Healy Park, Omagh",,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
@@ -7668,6 +7791,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-03-05,hurling,senior,nhl_div3a,Division 3A Round 4,Donegal,2,14,20,Tyrone,0,15,15,Donegal,"O'Donnell Park, Letterkenny",,K McGeeney (Roscommon),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-05,hurling,senior,nhl_div3b,Division 3B Round 3,Warwickshire,0,18,18,Leitrim,2,10,16,Warwickshire,"Páirc na hÉireann, Solihull",,,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-05,hurling,senior,nhl_div3b,Division 3B Round 3,Fermanagh,2,15,21,Sligo,1,14,17,Fermanagh,"St. Molaise Park, Irvinestown",,J Larkin (Cork),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-03-08,football,under21,leinster,quarter-final,Laois,2,13,19,Louth,1,8,11,Laois,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-08,football,under21,munster,quarter-final,Kerry,1,17,20,Clare,2,8,14,Kerry,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-08,football,under21,munster,quarter-final,Limerick,0,16,16,Tipperary,0,14,14,Limerick,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-08,football,under21,ulster,preliminary round,Monaghan,2,16,22,Antrim,0,16,16,Monaghan,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-11,football,under21,connacht,quarter-final,Galway,4,10,22,Leitrim,2,12,18,Galway,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-03-11,football,senior,nfl_div3,Division 3 Round 4,Tipperary,3,17,26,Longford,0,18,18,Tipperary,Semple Stadium,,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-11,hurling,senior,nhl_div1a,Division 1A Round 4,Tipperary,2,17,23,Kilkenny,3,14,23,draw,"Semple Stadium, Thurles",14763,J Owens (Wexford),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-11,hurling,senior,nhl_div1b,Division 1B Round 4,Laois,1,19,22,Limerick,6,33,51,Limerick,"O'Moore Park, Portlaoise",,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
@@ -7686,6 +7814,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-03-12,hurling,senior,nhl_div3a,Division 3A Round 5,Donegal,1,21,24,Monaghan,2,13,19,Donegal,"O'Donnell Park, Letterkenny",,S Hynes (Galway),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-12,hurling,senior,nhl_div3a,Division 3A Round 5,Tyrone,1,23,26,Louth,2,10,16,Tyrone,"Páirc Naomh Colmcille, Carrickmore",,,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-12,hurling,senior,nhl_div3b,Division 3B Round 4,Leitrim,1,15,18,Sligo,3,16,25,Sligo,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-03-15,football,under21,leinster,semi-final,Offaly,2,9,15,Laois,2,8,14,Offaly,Dr. Cullen Park,,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-15,football,under21,munster,semi-final,Cork,2,10,16,Limerick,0,10,10,Cork,Páirc Uí Rinn,,Rory Hickey (Clare),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-15,football,under21,munster,semi-final,Kerry,1,18,21,Waterford,0,7,7,Kerry,"Fraher Field, Dungarvan",,Sean Lonergan (Tipperary),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-15,football,under21,ulster,quarter-final,Armagh,2,13,19,Down,0,12,12,Armagh,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-15,football,under21,ulster,quarter-final,Cavan,2,19,25,Fermanagh,0,4,4,Cavan,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-15,football,under21,ulster,quarter-final,Derry,3,10,19,Monaghan,1,11,14,Derry,,,,,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-15,football,under21,ulster,quarter-final,Tyrone,0,14,14,Donegal,0,14,14,draw,,,,after extra time,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-03-18,football,senior,nfl_div1,Division 1 Round 5,Kerry,0,13,13,Dublin,0,13,13,draw,"Austin Stack Park, Tralee",11858,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-18,football,senior,nfl_div1,Division 1 Round 5,Donegal,0,12,12,Tyrone,0,6,6,Donegal,"MacCumhaill Park, Ballybofey",,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-18,football,senior,nfl_div2,Division 2 Round 5,Down,0,10,10,Kildare,2,9,15,Kildare,"Páirc Esler, Newry",,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
@@ -7702,7 +7837,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-03-19,football,senior,nfl_div4,Division 4 Round 5,Wexford,0,15,15,London,0,9,9,Wexford,Wexford,,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-19,football,senior,nfl_div4,Division 4 Round 5,Limerick,2,11,17,Leitrim,0,15,15,Limerick,Newcastlewest,,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-19,football,senior,nfl_div4,Division 4 Round 5,Westmeath,0,19,19,Wicklow,0,14,14,Westmeath,"Cusack Park, Mullingar",,Sean Laverty (Antrim),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
+2017-03-22,football,under21,connacht,semi-final,Sligo,1,13,16,Roscommon,0,13,13,Sligo,Kiltoom,,Jerome Henry (Mayo),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-22,football,under21,leinster,semi-final,Dublin,2,10,16,Longford,0,9,9,Dublin,"Lakepoint Park, Mullingar",,Niall Ward (Westmeath),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-03-22,hurling,senior,nhl_div3a,Division 3A Round 3,Tyrone,1,12,15,Donegal,1,10,13,Tyrone,Garvaghey,,,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-03-22,football,under21,ulster,quarter-final replay,Donegal,0,18,18,Tyrone,1,9,12,Donegal,,,,replay,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-25,football,under21,connacht,semi-final,Galway,2,13,19,Mayo,1,10,13,Galway,Tuam,,John Gilmartin (Sligo),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-03-25,football,senior,nfl_div1,Division 1 Round 6,Dublin,2,29,35,Roscommon,0,14,14,Dublin,"Croke Park, Dublin",20500,Cormac Reilly (Meath),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-25,football,senior,nfl_div3,Division 3 Round 6,Armagh,1,12,15,Antrim,0,13,13,Armagh,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-03-25,football,senior,nfl_div3,Division 3 Round 6,Laois,1,13,16,Longford,0,13,13,Laois,O'Moore Park,,,,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
@@ -7735,6 +7874,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-03-26,hurling,senior,nhl_div3a,Division 3A Round 6,Monaghan,1,14,17,Tyrone,3,15,24,Tyrone,Cloghan,,A Ferguson,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-26,hurling,senior,nhl_div3b,Division 3B Round 5,Fermanagh,1,14,17,Leitrim,4,11,23,Leitrim,Lisbellaw,,K Brady (Louth),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-03-26,hurling,senior,nhl_div3b,Division 3B Round 5,Sligo,3,17,26,Longford,1,14,17,Sligo,"Markievicz Park, Sligo",,K McGeeney (Roscommon),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-03-29,football,under21,leinster,final,Dublin,2,14,20,Offaly,0,8,8,Dublin,O'Moore Park,2055,David Hickey (Carlow),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-03-29,football,under21,munster,final,Kerry,2,16,22,Cork,0,6,6,Kerry,Páirc Uí Rinn,3861,Alan Kissane (Waterford),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-04-01,football,under21,connacht,final,Galway,3,20,29,Sligo,2,14,20,Galway,Markievicz Park,,Paddy Neilan (Roscommon),after extra time,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-04-01,hurling,senior,nhl_div1b,Division 1B Relegation play-off,Kerry,4,20,32,Laois,1,30,33,Laois,"O'Moore Park, Portlaoise",,P Dwyer (Carlow),after extra time,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-04-01,hurling,senior,nhl_div2a,Division 2A Final,Carlow,0,15,15,Antrim,2,12,18,Antrim,"Páirc Esler, Newry",,M Murtagh (Westmeath),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-04-01,hurling,senior,nhl_div2b,Division 2B Final,Wicklow,2,15,21,Meath,4,24,36,Meath,"Parnell Park, Dublin",,M Murtagh,,https://en.wikipedia.org/wiki/2017_National_Hurling_League
@@ -7762,15 +7904,21 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2017-04-02,hurling,senior,nhl_div1a,Division 1 Quarter-final,Galway,2,22,28,Waterford,2,19,25,Galway,"Pearse Stadium, Salthill",12082,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-04-02,hurling,senior,nhl_div1a,Division 1 Quarter-final,Kilkenny,0,19,19,Wexford,2,18,24,Wexford,"Nowlan Park, Kilkenny",14568,A Kelly (Galway),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-04-02,hurling,senior,nhl_div3b,Division 3B Final,Longford,4,19,31,Warwickshire,3,20,29,Longford,"Páirc Naomh Colmcille, Carrickmore",,,after extra time,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-04-05,football,under21,ulster,semi-final,Donegal,3,17,26,Cavan,0,13,13,Donegal,Brewster Park,,S Laverty (Antrim),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-04-05,football,under21,ulster,semi-final,Derry,0,21,21,Armagh,1,15,18,Derry,Celtic Park,,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-04-08,football,senior,nfl_div3,Division 3 Final,Tipperary,3,19,28,Louth,0,19,19,Tipperary,"Croke Park, Dublin",,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-04-08,football,senior,nfl_div4,Division 4 Final,Westmeath,2,24,30,Wexford,2,11,17,Westmeath,"Croke Park, Dublin",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-04-09,football,senior,nfl_div1,Division 1 Final,Kerry,0,20,20,Dublin,1,16,19,Kerry,"Croke Park, Dublin",53840,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
 2017-04-09,football,senior,nfl_div2,Division 2 Final,Galway,0,18,18,Kildare,0,16,16,Galway,"Croke Park, Dublin",,Derek O'Mahony (Tipperary),,https://en.wikipedia.org/wiki/2017_National_Football_League_(Ireland)
+2017-04-10,football,under21,ulster,final,Donegal,3,17,26,Derry,0,13,13,Donegal,Athletic Grounds,3521,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-04-15,football,under21,all_ireland,semi-final,Dublin,1,13,16,Donegal,0,9,9,Dublin,"Breffni Park, Cavan",,James Bermingham (Cork),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
+2017-04-15,football,under21,all_ireland,semi-final,Galway,2,14,20,Kerry,2,10,16,Galway,"Cusack Park, Ennis",,Brendan Cawley (Sligo),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-04-16,hurling,senior,nhl_div1a,Division 1 Semi-final,Limerick,1,11,14,Galway,1,21,24,Galway,"Gaelic Grounds, Limerick",9563,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-04-16,hurling,senior,nhl_div1a,Division 1 Semi-final,Tipperary,5,18,33,Wexford,1,19,22,Tipperary,"Nowlan Park, Kilkenny",19095,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
 2017-04-23,hurling,senior,leinster,Group stage,Meath,3,20,29,Kerry,2,17,23,Meath,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-04-23,hurling,senior,leinster,Group stage,Laois,1,23,26,Westmeath,2,17,23,Laois,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-04-23,hurling,senior,nhl_div1a,Division 1 Final,Tipperary,0,14,14,Galway,3,21,30,Galway,"Gaelic Grounds, Limerick",16089,C Lyons (Cork),,https://en.wikipedia.org/wiki/2017_National_Hurling_League
+2017-04-29,football,under21,all_ireland,final,Dublin,2,13,19,Galway,2,7,13,Dublin,"O'Connor Park, Tullamore",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2017_All-Ireland_Under-21_Football_Championship
 2017-04-30,hurling,senior,leinster,Group stage,Kerry,0,20,20,Westmeath,2,12,18,Kerry,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-04-30,hurling,senior,leinster,Group stage,Laois,3,25,34,Meath,2,13,19,Laois,,,,,https://leinstergaa.ie/leinster-gaa/archive/leinster-gaa-results-2000-2017/results-2017/
 2017-05-07,football,senior,connacht,Preliminary round,New York,1,13,16,Sligo,1,21,24,Sligo,"Gaelic Park, New York",5000,David Gough (Meath),,https://en.wikipedia.org/wiki/2017_Connacht_Senior_Football_Championship
@@ -8089,11 +8237,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-05-20,hurling,senior,munster,Round 1,Limerick,1,23,26,Tipperary,2,14,20,Limerick,"Gaelic Grounds, Limerick",20403,James McGrath (Westmeath),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-05-20,hurling,senior,munster,Round 1,Cork,2,23,29,Clare,1,21,24,Cork,"Páirc Uí Chaoimh, Cork",24490,Sean Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-05-20,football,senior,ulster,Quarter-final,Tyrone,1,16,19,Monaghan,1,18,21,Monaghan,"Healy Park, Omagh",15029,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-05-25,football,under20,ulster,Quarter-Final A,Fermanagh,0,10,10,Armagh,2,14,20,Armagh,Brewster Park,,Enda McFeely (Donegal),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-05-25,football,under20,ulster,Quarter-Final B,Tyrone,0,17,17,Monaghan,2,8,14,Tyrone,Healy Park,,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-05-26,football,senior,connacht,Semi-final,Leitrim,0,10,10,Roscommon,0,24,24,Roscommon,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",8265,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2018_Connacht_Senior_Football_Championship
 2018-05-26,football,senior,leinster,Quarter-final,Westmeath,1,12,15,Laois,4,13,25,Laois,"O'Connor Park, Tullamore",6186,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-05-26,hurling,senior,leinster,Round 3,Offaly,2,9,15,Wexford,5,24,39,Wexford,"O'Connor Park, Tullamore",6186,James McGrath (Westmeath),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-05-26,football,senior,munster,Semi-final,Tipperary,0,9,9,Cork,1,17,20,Cork,"Semple Stadium, Thurles",3339,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Football_Championship
 2018-05-26,football,senior,ulster,Quarter-final,Down,1,18,21,Antrim,0,14,14,Down,"Páirc Esler, Newry",5589,Derek O'Mahony (Tipperary),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-05-26,football,under20,ulster,Quarter-Final C,Down,4,15,27,Antrim,3,13,22,Down,Páirc Esler,,Margaret Farrelly (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-05-27,football,senior,leinster,Quarter-final,Kildare,1,10,13,Carlow,2,14,20,Carlow,"O'Connor Park, Tullamore",5111,Cormac Reilly (Meath),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-05-27,football,senior,leinster,Quarter-final,Longford,0,16,16,Meath,0,14,14,Longford,"Pearse Park, Longford",5591,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-05-27,football,senior,leinster,Quarter-final,Dublin,4,25,37,Wicklow,1,11,14,Dublin,"O'Moore Park, Portlaoise",11786,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
@@ -8101,6 +8252,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-05-27,hurling,senior,munster,Round 2,Tipperary,2,20,26,Cork,1,23,26,draw,"Semple Stadium, Thurles",22456,James Keenan (Wicklow),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-05-27,hurling,senior,munster,Round 2,Clare,2,27,33,Waterford,2,18,24,Clare,"Cusack Park, Ennis",13736,Paud O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-05-27,football,senior,ulster,Quarter-final,Derry,0,16,16,Donegal,2,16,22,Donegal,"Celtic Park, Derry",9356,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-05-27,football,under20,ulster,Preliminary Round,Donegal,2,21,27,Cavan,0,10,10,Donegal,Celtic Park,,Paul McKeever (Antrim),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-05-28,football,under20,leinster,Group 1 Round 1,Westmeath,2,12,18,Wexford,1,12,15,Westmeath,"Cusack Park, Mullingar",,Patrick Maguire (Longford),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-05-28,football,under20,leinster,Group 1 Round 1,Dublin,2,21,27,Longford,0,11,11,Dublin,Pearse Park,,Niall Ward (Westmeath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-05-28,football,under20,leinster,Group 2 Round 1,Meath,6,16,34,Wicklow,1,9,12,Meath,Joule Park,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-05-28,football,under20,leinster,Group 2 Round 1,Kildare,1,17,20,Laois,4,6,18,Kildare,Newbridge,,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-05-28,football,under20,leinster,Group 3 Round 1,Offaly,2,19,25,Carlow,1,10,13,Offaly,Dr. Cullen Park,,Darragh Sheppard (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-02,football,under20,connacht,Quarter-Final,Roscommon,3,10,19,Sligo,3,5,14,Roscommon,Dr. Hyde Park,,Liam Devenney (Mayo),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-02,hurling,senior,leinster,Round 4,Wexford,0,17,17,Galway,1,23,26,Galway,"Wexford Park, Wexford",14500,Johnny Murphy (Limerick),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-06-02,hurling,senior,munster,Round 3,Cork,1,25,28,Limerick,0,28,28,draw,"Páirc Uí Chaoimh, Cork",34607,James Owens (Wexford),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-06-03,football,senior,connacht,Semi-final,Galway,4,24,36,Sligo,1,12,15,Galway,"Pearse Stadium, Salthill",8171,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2018_Connacht_Senior_Football_Championship
@@ -8108,6 +8266,13 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-03,football,senior,munster,Semi-final,Kerry,0,32,32,Clare,0,10,10,Kerry,"Fitzgerald Stadium, Killarney",16729,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Football_Championship
 2018-06-03,hurling,senior,munster,Round 3,Waterford,2,22,28,Tipperary,2,22,28,draw,"Gaelic Grounds, Limerick",10237,Alan Kelly (Galway),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-06-03,football,senior,ulster,Semi-final,Fermanagh,1,8,11,Monaghan,0,10,10,Fermanagh,"Healy Park, Omagh",10122,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-06-03,football,under20,ulster,Quarter-Final D,Derry,0,16,16,Donegal,2,9,15,Derry,Healy Park,,Anthony Marron (Monaghan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-04,football,under20,leinster,Group 1 Round 2,Dublin,2,16,22,Westmeath,1,13,16,Dublin,Parnell Park,,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-04,football,under20,leinster,Group 1 Round 2,Wexford,3,13,22,Longford,2,9,15,Wexford,Wexford Park,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-04,football,under20,leinster,Group 2 Round 2,Meath,2,11,17,Kildare,1,13,16,Meath,Páirc Tailteann,,Patrick Maguire (Longford),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-04,football,under20,leinster,Group 2 Round 2,Laois,1,14,17,Wicklow,1,13,16,Laois,"O'Moore Park, Portlaoise",,Darragh Sheppard (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-04,football,under20,leinster,Group 3 Round 2,Carlow,5,11,26,Louth,3,15,24,Carlow,Drogheda Park,,Barry Tiernan (Dublin),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-08,football,under20,ulster,Semi-Final 1,Armagh,2,22,28,Tyrone,0,24,24,Armagh,Athletic Grounds,,Niall McKenna (Monaghan),after extra time,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Wexford,1,18,21,Waterford,3,14,23,Waterford,Wexford Park,,Cormac Reilly (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Derry,2,14,20,Kildare,2,22,28,Kildare,"Owenbeg, Dungiven",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Meath,0,19,19,Tyrone,2,14,20,Tyrone,"Páirc Tailteann, Navan",,Paddy Neilan (Roscommon),After extra time,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
@@ -8115,6 +8280,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Offaly,2,20,26,Antrim,1,15,18,Offaly,"O'Connor Park, Tullamore",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Limerick,3,7,16,Mayo,5,19,34,Mayo,"Gaelic Grounds, Limerick",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-09,football,senior,all_ireland,Round 1 qualifier,Westmeath,1,11,14,Armagh,3,16,25,Armagh,"TEG Cusack Park, Mullingar",,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-09,football,under20,connacht,Semi-Final 1,Roscommon,1,11,14,Galway,0,11,11,Roscommon,"Tuam Stadium, Tuam",,Eamon O'Grady,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-09,football,under20,connacht,Semi-Final 2,Mayo,1,24,27,Leitrim,1,3,6,Mayo,McHale Park,,Martin Flaherty,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-09,hurling,senior,leinster,Round 5,Kilkenny,0,22,22,Wexford,1,18,21,Kilkenny,"Nowlan Park, Kilkenny",17516,James McGrath (Westmeath),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-06-09,hurling,senior,leinster,Round 5,Galway,0,26,26,Dublin,2,19,25,Galway,"Pearse Stadium, Salthill",9957,Diarmuid Kirwan (Cork),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-06-10,football,senior,all_ireland,Round 1 qualifier,London,1,19,22,Louth,2,26,32,Louth,"McGovern Park, Ruislip",,Padraig Hughes (Armagh),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
@@ -8123,9 +8290,20 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-10,hurling,senior,munster,Round 4,Limerick,2,26,32,Waterford,1,16,19,Limerick,"Gaelic Grounds, Limerick",23194,Seán Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-06-10,hurling,senior,munster,Round 4,Tipperary,1,21,24,Clare,1,23,26,Clare,"Semple Stadium, Thurles",20782,Paud O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-06-10,football,senior,ulster,Semi-final,Down,1,12,15,Donegal,2,22,28,Donegal,"St Tiernach's Park, Clones",12051,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-06-10,football,under20,ulster,Semi-Final 2,Down,2,15,21,Derry,2,17,23,Derry,St Tiernach's Park,,Conor Dourneen (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-15,football,under20,munster,Quarter-Final,Kerry,1,30,33,Limerick,0,5,5,Kerry,Newcastle West,,James Bermingham (Cork),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-16,football,under20,leinster,Group 1 Round 3,Dublin,1,15,18,Wexford,0,11,11,Dublin,Wexford Park,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-16,football,under20,leinster,Group 1 Round 3,Westmeath,1,16,19,Longford,1,10,13,Westmeath,Pearse Park,,Patrick Coyle (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-16,football,under20,leinster,Group 2 Round 3,Kildare,3,17,26,Wicklow,0,4,4,Kildare,Newbridge,,Chris Dwyer (Offaly),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-16,football,under20,leinster,Group 2 Round 3,Meath,2,13,19,Laois,0,13,13,Meath,Páirc Tailteann,,Fergal Smyth (Offaly),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-16,football,under20,munster,Quarter-Final,Cork,1,20,23,Tipperary,0,8,8,Cork,Páirc Uí Rinn,1161,Padraig O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-17,football,senior,connacht,Final,Roscommon,2,6,12,Galway,0,16,16,Galway,"Dr Hyde Park, Roscommon",18864,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2018_Connacht_Senior_Football_Championship
+2018-06-17,football,under20,connacht,Final,Roscommon,1,6,9,Mayo,3,16,25,Mayo,Dr. Hyde Park,,,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-17,hurling,senior,munster,Round 5,Clare,0,26,26,Limerick,0,15,15,Clare,"Cusack Park, Ennis",18803,James Owens (Wexford),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
 2018-06-17,hurling,senior,munster,Round 5,Waterford,1,20,23,Cork,1,23,26,Cork,"Semple Stadium, Thurles",14737,John Keenan (Wicklow),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
+2018-06-22,football,under20,leinster,Quarter-Final,Kildare,4,19,31,Carlow,0,8,8,Kildare,Dr. Cullen Park,,Niall Ward (Westmeath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-22,football,under20,munster,Semi-Final 1,Clare,0,15,15,Cork,1,16,19,Cork,,,,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-22,football,under20,munster,Semi-Final 2,Waterford,0,1,1,Kerry,3,22,31,Kerry,,,,,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Waterford,0,9,9,Monaghan,5,21,36,Monaghan,"Fraher Field, Dungarvan",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Carlow,1,10,13,Tyrone,3,14,23,Tyrone,"Dr Cullen Park, Carlow",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Cavan,1,14,17,Down,0,15,15,Cavan,"Brewster Park, Enniskillen",,Cormac Reilly (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
@@ -8133,16 +8311,22 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Sligo,1,13,16,Armagh,1,19,22,Armagh,"Markievicz Park, Sligo",,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Leitrim,0,25,25,Louth,1,12,15,Leitrim,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-23,football,senior,all_ireland,Round 2 qualifier,Longford,1,13,16,Kildare,1,16,19,Kildare,"Pearse Park, Longford",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-23,football,under20,leinster,Quarter-Final,Offaly,1,17,20,Westmeath,1,10,13,Offaly,O'Connor Park,,Patrick Maguire (Longford),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-23,football,senior,munster,Final,Cork,2,4,10,Kerry,3,18,27,Kerry,"Páirc Uí Chaoimh, Cork",27764,Ciarán Branagan (Down),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Football_Championship
 2018-06-24,football,senior,all_ireland,Round 2 qualifier,Offaly,2,14,20,Clare,1,19,22,Clare,"O'Connor Park, Tullamore",,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-24,football,senior,leinster,Final,Dublin,1,25,28,Laois,0,10,10,Dublin,"Croke Park, Dublin",41728,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Football_Championship
 2018-06-24,football,senior,ulster,Final,Fermanagh,0,12,12,Donegal,2,18,24,Donegal,"St Tiernach's Park, Clones",28150,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_Ulster_Senior_Football_Championship
+2018-06-24,football,under20,ulster,Final,Derry,2,15,21,Armagh,0,14,14,Derry,"St. Tiernach's Park, Clones",,Sean Laverty (Antrim),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-29,football,under20,leinster,Semi-Final 1,Kildare,3,14,23,Offaly,2,5,11,Kildare,O'Connor Park,,John Hickey (Carlow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-06-29,football,under20,munster,Final,Cork,0,14,14,Kerry,3,11,20,Kerry,"Austin Stack Park, Tralee",,Sean Lonergan (Tipperary),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Leitrim,0,9,9,Monaghan,1,19,22,Monaghan,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Armagh,2,16,22,Clare,1,15,18,Armagh,"Athletic Grounds, Armagh",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Cavan,1,12,15,Tyrone,0,18,18,Tyrone,"Brewster Park, Enniskillen",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-06-30,football,senior,all_ireland,Round 3 qualifier,Kildare,0,21,21,Mayo,0,19,19,Kildare,"St Conleth's Park, Newbridge",,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-06-30,football,under20,leinster,Semi-Final 2,Dublin,4,16,28,Meath,2,10,16,Dublin,Páirc Tailteann,,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-07-01,hurling,senior,leinster,Provincial final,Galway,0,18,18,Kilkenny,0,18,18,draw,"Croke Park, Dublin",40703,Fergal Horgan (Tipperary),drawn final,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
 2018-07-01,hurling,senior,munster,Provincial final,Cork,2,24,30,Clare,3,19,28,Cork,"Semple Stadium, Thurles",45364,James McGrath (Westmeath),,https://en.wikipedia.org/wiki/2018_Munster_Senior_Hurling_Championship
+2018-07-06,football,under20,leinster,Final,Kildare,1,15,18,Dublin,0,10,10,Kildare,"O'Connor Park, Tullamore",,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-07-07,football,senior,all_ireland,Round 4 qualifier,Roscommon,2,22,28,Armagh,1,19,22,Roscommon,"O'Moore Park, Portlaoise",,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-07-07,football,senior,all_ireland,Round 4 qualifier,Cork,0,13,13,Tyrone,3,20,29,Tyrone,"O'Moore Park, Portlaoise",,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-07-07,football,senior,all_ireland,Round 4 qualifier,Fermanagh,0,18,18,Kildare,3,20,29,Kildare,"Páirc Tailteann, Navan",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
@@ -8150,6 +8334,8 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-07-07,hurling,senior,all_ireland,Preliminary quarter-final,Westmeath,0,16,16,Wexford,2,21,27,Wexford,"Cusack Park, Mullingar",,Diarmuid Kirwan (Cork),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Hurling_Championship
 2018-07-08,football,senior,all_ireland,Round 4 qualifier,Laois,1,11,14,Monaghan,0,19,19,Monaghan,"Páirc Tailteann, Navan",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-07-08,hurling,senior,leinster,Provincial final replay,Galway,1,28,31,Kilkenny,3,15,24,Galway,"Semple Stadium, Thurles",25102,James Owens (Wexford),replay,https://en.wikipedia.org/wiki/2018_Leinster_Senior_Hurling_Championship
+2018-07-14,football,under20,all_ireland,Semi-Final 1,Derry,2,11,17,Mayo,2,14,20,Mayo,"Páirc Seán Mac Diarmada, Carrick-on-Shannon",,Paul Faloon (Down),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
+2018-07-14,football,under20,all_ireland,Semi-Final 2,Kildare,1,14,17,Kerry,1,13,16,Kildare,"Gaelic Grounds, Limerick",,James Molloy (Galway),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-07-14,hurling,senior,all_ireland,Quarter-final,Clare,0,27,27,Wexford,1,17,20,Clare,"Páirc Uí Chaoimh, Cork",10255,Fergal Horgan (Tipperary),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Hurling_Championship
 2018-07-15,football,senior,all_ireland,Super 8s Group 1 Round 1,Kildare,1,10,13,Monaghan,0,15,15,Monaghan,"Croke Park, Dublin",30740,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-07-15,football,senior,all_ireland,Super 8s Group 1 Round 1,Kerry,1,10,13,Galway,1,13,16,Galway,"Croke Park, Dublin",30740,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
@@ -8166,6 +8352,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2018-08-04,football,senior,all_ireland,Super 8s Group 1 Round 3,Galway,0,8,8,Monaghan,0,16,16,Monaghan,"Pearse Stadium, Salthill",15156,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-08-04,football,senior,all_ireland,Super 8s Group 2 Round 3,Dublin,1,27,30,Tyrone,0,19,19,Dublin,"Croke Park, Dublin",31282,David Gough (Meath),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-08-05,football,senior,all_ireland,Super 8s Group 2 Round 3,Donegal,0,12,12,Roscommon,0,11,11,Donegal,"MacCumhaill Park, Ballybofey",8200,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
+2018-08-05,football,under20,all_ireland,Final,Kildare,1,18,21,Mayo,1,16,19,Kildare,"Croke Park, Dublin",,Niall Cullen (Fermanagh),,https://en.wikipedia.org/wiki/2018_All-Ireland_Under-20_Football_Championship
 2018-08-05,hurling,senior,all_ireland,Semi-final replay,Clare,2,13,19,Galway,1,17,20,Galway,"Semple Stadium, Thurles",44246,Fergal Horgan (Tipperary),replay,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Hurling_Championship
 2018-08-11,football,senior,all_ireland,Semi-final,Dublin,1,24,27,Galway,2,12,18,Dublin,"Croke Park, Dublin",54716,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
 2018-08-12,football,senior,all_ireland,Semi-final,Tyrone,1,13,16,Monaghan,0,15,15,Tyrone,"Croke Park, Dublin",49696,Anthony Nolan (Wicklow),,https://en.wikipedia.org/wiki/2018_All-Ireland_Senior_Football_Championship
@@ -8450,36 +8637,66 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2019-06-22,football,senior,all_ireland,Round 2 qualifier,Leitrim,0,17,17,Clare,3,17,26,Clare,"Pairc Sean Mac Diarmada, Carrick-on-Shannon",7563,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-22,football,senior,all_ireland,Round 2 qualifier,Down,1,11,14,Mayo,1,16,19,Mayo,"Pairc Esler, Newry",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-22,football,senior,all_ireland,Round 2 qualifier,Monaghan,1,12,15,Armagh,2,17,23,Armagh,"St Tiernach's Park, Clones",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
+2019-06-22,football,under20,leinster,First round,Carlow,2,4,10,Offaly,3,22,31,Offaly,Netwatch Cullen Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-06-22,football,under20,leinster,First round,Wexford,1,14,17,Wicklow,2,7,13,Wexford,Bellefield Complex,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-06-22,football,senior,munster,Final,Cork,3,10,19,Kerry,1,19,22,Kerry,"Pairc Ui Chaoimh, Cork",,,,https://en.wikipedia.org/wiki/2019_Munster_Senior_Football_Championship
 2019-06-23,football,senior,all_ireland,Round 2 qualifier,Offaly,3,17,26,Sligo,0,15,15,Offaly,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-23,football,senior,leinster,Final,Dublin,1,17,20,Meath,0,4,4,Dublin,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Football_Championship
 2019-06-23,football,senior,ulster,Final,Cavan,2,16,22,Donegal,1,24,27,Donegal,"St Tiernach's Park, Clones",28780,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2019_Ulster_Senior_Football_Championship
+2019-06-23,football,under20,ulster,Preliminary round,Down,1,16,19,Antrim,0,11,11,Down,St. Tiernach's Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-06-25,football,under20,leinster,First round,Kildare,1,11,14,Laois,0,17,17,Laois,St. Conleth's Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-06-26,football,under20,connacht,Quarter-final,Leitrim,4,13,25,Roscommon,3,17,26,Roscommon,Páirc Seán Mac Diarmada,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-06-28,football,under20,ulster,Quarter-final,Derry,5,12,27,Armagh,2,13,19,Derry,Owenbeg Complex,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-06-28,football,under20,ulster,Quarter-final,Fermanagh,0,14,14,Donegal,0,12,12,Fermanagh,Brewster Park (Enniskillen),,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-06-29,football,senior,all_ireland,Round 3 qualifier,Kildare,1,15,18,Tyrone,2,22,28,Tyrone,"St Conleth's Park, Newbridge",,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-29,football,senior,all_ireland,Round 3 qualifier,Westmeath,0,15,15,Clare,1,13,16,Clare,"TEG Cusack Park, Mullingar",,Martin McNally (Monaghan),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-29,football,senior,all_ireland,Round 3 qualifier,Mayo,2,13,19,Armagh,1,15,18,Mayo,"MacHale Park, Castlebar",18711,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-29,football,senior,all_ireland,Round 3 qualifier,Laois,0,20,20,Offaly,0,15,15,Laois,"O'Moore Park, Portlaoise",6735,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-06-30,hurling,senior,leinster,Provincial final,Wexford,1,23,26,Kilkenny,0,23,23,Wexford,"Croke Park, Dublin",51482,J Keenan (Wicklow),,https://en.wikipedia.org/wiki/2019_Leinster_Senior_Hurling_Championship
 2019-06-30,hurling,senior,munster,Provincial final,Limerick,2,26,32,Tipperary,2,14,20,Limerick,"LIT Gaelic Grounds, Limerick",44052,P O'Dwyer (Carlow),,https://en.wikipedia.org/wiki/2019_Munster_Senior_Hurling_Championship
+2019-06-30,football,under20,ulster,Quarter-final,Tyrone,2,11,17,Down,1,12,15,Tyrone,Healy Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-06-30,football,under20,ulster,Quarter-final,Cavan,1,13,16,Monaghan,2,4,10,Cavan,Kingspan Breffni Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-02,football,under20,leinster,Quarter-final,Westmeath,0,20,20,Laois,2,20,26,Laois,Cusack Park (Mullingar),,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-02,football,under20,leinster,Quarter-final,Meath,1,12,15,Offaly,0,12,12,Meath,Páirc Tailteann,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-02,football,under20,leinster,Quarter-final,Louth,0,16,16,Wexford,3,10,19,Wexford,Gaelic Grounds (Drogheda),,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-02,football,under20,leinster,Quarter-final,Longford,0,7,7,Dublin,4,21,33,Dublin,Pearse Park (Longford),,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-02,football,under20,munster,Quarter-final,Waterford,1,10,13,Clare,1,9,12,Waterford,Fraher Field,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-02,football,under20,munster,Quarter-final,Tipperary,1,12,15,Limerick,1,13,16,Limerick,Semple Stadium,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-03,football,under20,connacht,Semi-final,Mayo,1,25,28,Sligo,1,6,9,Mayo,MacHale Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-03,football,under20,connacht,Semi-final,Roscommon,1,7,10,Galway,0,17,17,Galway,Páirc Naomh Bríd,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-05,football,under20,ulster,Semi-final,Derry,1,14,17,Fermanagh,1,11,14,Derry,Healy Park,,N McKenna (Monaghan),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-07-06,football,senior,all_ireland,Round 4 qualifier,Cavan,0,7,7,Tyrone,1,20,23,Tyrone,"St Tiernach's Park, Clones",11258,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-06,football,senior,all_ireland,Round 4 qualifier,Cork,4,20,32,Laois,1,15,18,Cork,"Semple Stadium, Thurles",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-06,football,senior,all_ireland,Round 4 qualifier,Galway,1,13,16,Mayo,2,13,19,Mayo,"Gaelic Grounds, Limerick",19183,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
+2019-07-06,football,under20,ulster,Semi-final,Cavan,0,9,9,Tyrone,0,13,13,Tyrone,St. Tiernach's Park,,S Laverty (Antrim),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-07-07,football,senior,all_ireland,Round 4 qualifier,Meath,2,16,22,Clare,1,18,21,Meath,"O'Moore Park, Portlaoise",,Derek O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-07,hurling,senior,all_ireland,Preliminary quarter-final,Westmeath,0,20,20,Cork,1,40,43,Cork,"TEG Cusack Park, Mullingar",,P Murphy (Carlow),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Hurling_Championship
 2019-07-07,hurling,senior,all_ireland,Preliminary quarter-final,Laois,1,22,25,Dublin,0,23,23,Laois,"O'Moore Park, Portlaoise",,A Kelly (Galway),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Hurling_Championship
+2019-07-09,football,under20,leinster,Semi-final,Dublin,1,17,20,Wexford,0,6,6,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-09,football,under20,leinster,Semi-final,Laois,1,13,16,Meath,0,7,7,Laois,O'Moore Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-10,football,under20,connacht,Final,Galway,0,16,16,Mayo,0,10,10,Galway,Tuam Stadium,,P Neilan (Roscommon),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-11,football,under20,munster,Semi-final,Kerry,0,18,18,Limerick,1,3,6,Kerry,Austin Stack Park,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-12,football,under20,munster,Semi-final,Cork,5,23,38,Waterford,0,7,7,Cork,Ahamilla Complex,,,,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-07-13,football,senior,all_ireland,Super 8s Group 2 Phase 1,Roscommon,0,13,13,Tyrone,0,17,17,Tyrone,"Dr Hyde Park, Roscommon",,David Coldrick (Meath),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-13,football,senior,all_ireland,Super 8s Group 2 Phase 1,Dublin,5,18,33,Cork,1,17,20,Dublin,"Croke Park, Dublin",30214,David Gough (Meath),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-14,football,senior,all_ireland,Super 8s Group 1 Phase 1,Donegal,2,19,25,Meath,1,13,16,Donegal,"MacCumhaill Park, Ballybofey",,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-14,football,senior,all_ireland,Super 8s Group 1 Phase 1,Kerry,1,22,25,Mayo,0,15,15,Kerry,"Fitzgerald Stadium, Killarney",31312,Sean Hurson (Tyrone),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-14,hurling,senior,all_ireland,Quarter-final,Kilkenny,2,27,33,Cork,3,18,27,Kilkenny,"Croke Park, Dublin",44135,J Owens (Wexford),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Hurling_Championship
 2019-07-14,hurling,senior,all_ireland,Quarter-final,Tipperary,2,25,31,Laois,1,18,21,Tipperary,"Croke Park, Dublin",44135,C Lyons (Cork),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Hurling_Championship
+2019-07-14,football,under20,ulster,Final,Tyrone,4,13,25,Derry,1,10,13,Tyrone,Athletic Grounds (Armagh),,P Faloon (Down),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-18,football,under20,munster,Final,Cork,3,16,25,Kerry,0,12,12,Cork,Páirc Uí Rinn,,A Kissane (Waterford),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
+2019-07-19,football,under20,leinster,Final,Dublin,4,18,30,Laois,0,17,17,Dublin,O'Connor Park,,Brendan Cawley (Kildare),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-07-20,football,senior,all_ireland,Super 8s Group 2 Phase 2,Cork,2,12,18,Tyrone,2,15,21,Tyrone,"Croke Park, Dublin",,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-20,football,senior,all_ireland,Super 8s Group 2 Phase 2,Dublin,2,26,32,Roscommon,0,14,14,Dublin,"Croke Park, Dublin",,Barry Cassidy (Derry),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-21,football,senior,all_ireland,Super 8s Group 1 Phase 2,Mayo,2,17,23,Meath,0,14,14,Mayo,"Croke Park, Dublin",,Ciaran Branagan (Down),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-07-21,football,senior,all_ireland,Super 8s Group 1 Phase 2,Kerry,1,20,23,Donegal,1,20,23,draw,"Croke Park, Dublin",,Paddy Neilan (Roscommon),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
+2019-07-27,football,under20,all_ireland,Semi-final,Dublin,2,14,20,Galway,1,10,13,Dublin,Pearse Park (Longford),,P Hughes (Armagh),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-07-27,hurling,senior,all_ireland,Semi-final,Limerick,2,17,23,Kilkenny,1,21,24,Kilkenny,"Croke Park, Dublin",55001,A Kelly (Galway),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Hurling_Championship
+2019-07-28,football,under20,all_ireland,Semi-final,Cork,2,17,23,Tyrone,1,18,21,Cork,O'Connor Park,,S Laverty (Antrim),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-07-28,hurling,senior,all_ireland,Semi-final,Wexford,3,20,29,Tipperary,1,28,31,Tipperary,"Croke Park, Dublin",61852,S Cleere (Kilkenny),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Hurling_Championship
 2019-08-03,football,senior,all_ireland,Super 8s Group 1 Phase 3,Mayo,1,14,17,Donegal,1,10,13,Mayo,"MacHale Park, Castlebar",27369,David Gough (Meath),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-08-03,football,senior,all_ireland,Super 8s Group 1 Phase 3,Meath,1,13,16,Kerry,2,18,24,Kerry,"Pairc Tailteann, Navan",,Fergal Kelly (Longford),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
+2019-08-03,football,under20,all_ireland,Final,Cork,3,16,25,Dublin,1,14,17,Cork,O'Moore Park,,D O'Mahoney (Tipperary),,https://en.wikipedia.org/wiki/2019_All-Ireland_Under-20_Football_Championship
 2019-08-04,football,senior,all_ireland,Super 8s Group 2 Phase 3,Cork,3,9,18,Roscommon,4,9,21,Roscommon,"Pairc Ui Rinn, Cork",2356,Noel Mooney (Cavan),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-08-04,football,senior,all_ireland,Super 8s Group 2 Phase 3,Tyrone,0,13,13,Dublin,1,16,19,Dublin,"Healy Park, Omagh",15315,Joe McQuillan (Cavan),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
 2019-08-10,football,senior,all_ireland,Semi-final,Mayo,1,10,13,Dublin,3,14,23,Dublin,"Croke Park, Dublin",82300,Conor Lane (Cork),,https://en.wikipedia.org/wiki/2019_All-Ireland_Senior_Football_Championship
@@ -10495,6 +10712,10 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,connacht,Championship,Galway,,,,,,,,Galway,,,,"bye; Galway only entrants, received a bye to the Home semi-final",https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,semi-final,Galway,,,,Roscommon,,,,Galway,,,,"result only; Galway advanced, no score given on source",https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,Semi-Final,Roscommon,,,,Galway,,,,Roscommon,,,,"walkover; shown as W-L, Roscommon awarded",https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
+,football,under21,connacht,final,Roscommon,0,19,19,Leitrim,1,3,6,Roscommon,,,,,https://en.wikipedia.org/wiki/Connacht_Under-21_Football_Championship
+,football,under21,connacht,Quarter-final,Roscommon,1,16,19,Galway,2,10,16,Roscommon,Kiltoom,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,connacht,Semi-final,Roscommon,1,18,21,Sligo,0,8,8,Roscommon,Markievicz Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,connacht,Semi-final,Mayo,4,12,24,Leitrim,0,15,15,Mayo,Carrick-on-Shannon,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 ,football,senior,leinster,Quarter-Final,Dublin,6,11,29,Westmeath,0,2,2,Dublin,Clonturk,,,,https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Football_Championship
 ,football,senior,leinster,Quarter-Final,Wexford,0,2,2,Kilkenny,0,2,2,draw,Waterford,,,draw,https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Football_Championship
 ,football,senior,leinster,Quarter-Final Replay,Wexford,0,0,0,Kildare,0,0,0,draw,Clonturk,,,replay; draw; source inconsistency - QF was Wexford v Kilkenny but the replay is listed against Kildare,https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Football_Championship
@@ -10650,6 +10871,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,leinster,Provincial preliminary round,Dublin,3,6,15,Meath,0,4,4,Dublin,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/1932_All-Ireland_Senior_Football_Championship
 ,football,senior,leinster,Provincial quarter-final,Louth,0,6,6,Dublin,0,3,3,Louth,Navan,,,,https://en.wikipedia.org/wiki/1935_All-Ireland_Senior_Football_Championship
 ,football,senior,leinster,Provincial quarter-final,Carlow,0,10,10,Wexford,0,7,7,Carlow,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+,football,under21,leinster,final,Dublin,0,15,15,Meath,0,10,10,Dublin,,,,,https://en.wikipedia.org/wiki/Leinster_Under-20_Football_Championship
+,football,under21,leinster,Preliminary Round,Wicklow,5,12,27,Carlow,3,13,22,Wicklow,IT Carlow,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,leinster,Preliminary Round,Laois,3,15,24,Louth,1,14,17,Laois,Haggardstown,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,leinster,Preliminary Round,Wexford,0,14,14,Longford,2,5,11,Wexford,Enniscorthy,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,leinster,Quarter-final,Dublin,1,12,15,Meath,0,9,9,Dublin,Parnell Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,leinster,Quarter-final,Kildare,2,14,20,Offaly,1,6,9,Kildare,Hawkfield,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,leinster,Quarter-final,Wexford,0,7,7,Westmeath,1,5,8,Westmeath,Enniscorthy,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,leinster,Quarter-final,Laois,0,20,20,Wicklow,3,9,18,Laois,O'Moore Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 ,hurling,senior,leinster,Leinster Final,Kilkenny,,,,Dublin,,,,Kilkenny,,,,walkover - Dublin scratched (w/o - scr.),https://en.wikipedia.org/wiki/1893_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,leinster,semi-final,Dublin,,,,Offaly,,,,Dublin,,,,walkover; Offaly scratched,https://en.wikipedia.org/wiki/1896_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,leinster,Quarter-final,Offaly,2,3,9,Laois,1,4,7,Offaly,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1897_All-Ireland_Senior_Hurling_Championship
@@ -10699,6 +10928,9 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,munster,semi_final,Limerick,,,,Kerry,,,,Limerick,,,,"walkover; Kerry scratched, Limerick awarded the tie; source gives year (1923) only, no exact date",https://en.wikipedia.org/wiki/1922_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Provincial semi-final,Clare,0,6,6,Limerick,0,0,0,Clare,Kilkee,,,,https://en.wikipedia.org/wiki/1924_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Provincial quarter-final,Waterford,,,,Limerick,,,,Waterford,"Gaelic Grounds, Limerick",,,"walkover; Waterford w/o, Limerick scratched - match not played due to dispute over player eligibility",https://en.wikipedia.org/wiki/1955_All-Ireland_Senior_Football_Championship
+,football,under21,munster,final,Cork,1,18,21,Tipperary,3,8,17,Cork,,,,,https://en.wikipedia.org/wiki/Munster_Under-20_Football_Championship
+,football,under21,munster,Quarter-final,Cork,0,23,23,Clare,0,8,8,Cork,Cooraclare,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,munster,Quarter-final,Kerry,0,11,11,Tipperary,1,7,10,Kerry,Austin Stack Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
 ,hurling,senior,munster,Munster Semi-final,Clare,,,,Limerick,,,,Clare,,,,walkover - Limerick scratched (w/o - scr.),https://en.wikipedia.org/wiki/1888_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,quarter-final,Tipperary,,,,Waterford,,,,Tipperary,,,,walkover; Waterford scratched,https://en.wikipedia.org/wiki/1889_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,Munster Quarter-final,Clare,,,,Tipperary,,,,Clare,,,,walkover - Tipperary scratched (w/o - scr.),https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Hurling_Championship
@@ -10760,3 +10992,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,ulster,Final,Antrim,2,8,14,Cavan,0,4,4,Antrim,,,,,https://en.wikipedia.org/wiki/1911_All-Ireland_Senior_Football_Championship
 ,football,senior,ulster,Quarter-Final,Armagh,,,,Down,,,,Armagh,,,,walkover; Down scratched,https://en.wikipedia.org/wiki/1912_All-Ireland_Senior_Football_Championship
 ,football,senior,ulster,Provincial preliminary round,Tyrone,3,5,14,Fermanagh,2,6,12,Tyrone,"Fr. Peter Campbell Park, Coalisland",,,replay,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+,football,under21,ulster,final,Cavan,2,6,12,Donegal,0,8,8,Cavan,,,,,https://en.wikipedia.org/wiki/Ulster_Under-20_Football_Championship
+,football,under21,ulster,Preliminary Round,Derry,0,16,16,Antrim,0,11,11,Derry,Celtic Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,ulster,Quarter-final,Monaghan,1,15,18,Fermanagh,0,3,3,Monaghan,Iniskeen,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,ulster,Quarter-final,Down,0,9,9,Armagh,5,16,31,Armagh,Páirc Esler,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,ulster,Quarter-final,Cavan,0,10,10,Tyrone,2,10,16,Tyrone,Breffni Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,ulster,Quarter-final,Donegal,0,14,14,Derry,2,7,13,Donegal,Ballybofey,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,ulster,Semi-final,Monaghan,2,16,22,Armagh,0,9,9,Monaghan,Páirc Esler,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship
+,football,under21,ulster,Semi-final,Tyrone,1,15,18,Donegal,2,8,14,Tyrone,Celtic Park,,,,https://en.wikipedia.org/wiki/2016_All-Ireland_Under-21_Football_Championship

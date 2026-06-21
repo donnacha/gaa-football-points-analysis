@@ -58,12 +58,12 @@ hurling SHC 1887–2025 + NHL 2008–2025). Zero validation warnings.
 
 ✅ Wave 5 complete (Tailteann Cup 2022–2025).
 
-| 6 | football | under20 | championship (AI+prov) | 2020–2025 | 268 | U20 football began 2018; full provincial+AI; in `football/under20/<year>.json` |
+| 6 | football | under20 | championship (AI+prov) | 2018–2025 | 337 | U20 football began 2018; full provincial+AI |
+| 6 | football | under21 | championship (AI+prov) | 2010–2017 | 171 | U21 predecessor; provincial coverage patchy on Wikipedia some years |
 
-Running total: **10761 matches across 324 files**. Zero validation warnings.
-Wave 6 in progress — U20/U21. Next: U20 football 2018–2019, then U21 football (1964–2017, the
-predecessor grade) under `football/under21/`. Then U20/U21 hurling, then minor football, then minor
-hurling. Deferred (optional): pre-2008 NFL/NHL finals-only.
+Running total: **11001 matches across 334 files**. Zero validation warnings.
+Wave 6 in progress. Next: U21 football 2000–2009, then 1964–1999 (back to U21's start). Then U20/U21
+hurling, then minor football, then minor hurling. Deferred (optional): pre-2008 NFL/NHL finals-only.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the
