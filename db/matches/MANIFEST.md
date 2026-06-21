@@ -33,12 +33,15 @@ Field completeness: venue 98%, date 95%, referee 57%, attendance 33% (early deca
 Compiler validator skips winner/score check for notes containing penalt / source-score-disputed /
 objection / awarded / era-scoring, and for null-winner rows (abandoned/void).
 
-| 2 | football | senior | National League (all divs) | 2014–2025 | 1339 | ~116-118/season; COVID-shortened 2020-21; in `<year>_nfl.json` |
+| 2 | football | senior | National League (all divs) | 2008–2025 | 1964 | full match-by-match; 2008 partial (page lists only Div1 RR + 4 finals) |
 
-Running total: **6135 matches** (championship 1887–2025 + NFL 2014–2025).
-Wave 2 in progress — NFL stored in `<year>_nfl.json`. Next: NFL 2008–2013 (full match-by-match),
-then pre-2008 (en-dash two-year page titles; finals/standings, fewer round-robin games).
-Then wave 3 (hurling senior championship), wave 4 (hurling NHL), wave 5+ (Tailteann, U20/U21, minor).
+Running total: **6760 matches** (football championship 1887–2025 + NFL 2008–2025).
+✅ Wave 2 essentially complete to the limit of reliable match-level data (2008–2025). **Pre-2008
+NFL** (two-year en-dash seasons) is finals/standings-only on Wikipedia — DEFERRED as an optional
+later finals-only sub-wave (db/matches… `<year>_nfl.json`), not worth full waves now.
+Next: **wave 3 — hurling senior championship** (All-Ireland + Leinster/Munster + others), full
+Wikipedia coverage; modern first, working back like football. Then wave 4 (hurling NHL),
+wave 5+ (Tailteann Cup, U20/U21, minor football & hurling).
 Compiler skips the winner/score check for null-winner rows (abandoned/void) and for notes
 containing "objection"/"awarded"/"penalt"/"source-score-disputed".
 
