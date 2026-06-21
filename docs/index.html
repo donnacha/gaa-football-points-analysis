@@ -23,17 +23,28 @@
        season. Being there or thereabouts turns out to be its own kind of history.</p>
     <p class="legend-head">Points by finishing position</p>
     <div class="legend" id="legend"></div>
-    <div class="hero-model" id="hero-model">
-      <div class="hero-model-head">
-        <div>
-          <p class="legend-head">Adjust points</p>
-          <p class="hero-model-copy">Change a value and the tables recalculate live.</p>
+    <details class="hero-model" id="hero-model">
+      <summary class="hero-model-summary">
+        <div class="hero-model-head">
+          <div>
+            <p class="legend-head">Adjust points</p>
+            <p class="hero-model-copy">Every scoring tier — championship, provincial route and the
+               National League. Change any value and the tables recalculate live.</p>
+          </div>
+          <span class="hero-model-toggle" aria-hidden="true">
+            <span class="when-closed">Adjust</span><span class="when-open">Done</span>
+            <span class="chevron"></span>
+          </span>
         </div>
-        <button type="button" class="reset-btn hero-reset" id="reset-points">Reset defaults</button>
+      </summary>
+      <div class="hero-model-body">
+        <div class="point-controls" id="point-controls"></div>
+        <div class="hero-model-foot">
+          <div class="model-summary" id="model-summary"></div>
+          <button type="button" class="reset-btn hero-reset" id="reset-points">Reset defaults</button>
+        </div>
       </div>
-      <div class="quick-controls" id="quick-point-controls"></div>
-      <div class="model-summary" id="model-summary"></div>
-    </div>
+    </details>
   </div>
 </header>
 
@@ -53,18 +64,6 @@
        on how far it got, every year, across 138 championships from 1887 on. Consistency stops being
        invisible.</p>
     <div class="cards" id="stats"></div>
-
-    <section class="model-card" id="scoring-model">
-      <div class="model-head">
-        <div>
-          <h2>Fine-tune the model</h2>
-          <p class="sub">The header controls cover the main championship ladder. These extra controls
-             let you tune provincial credit and the National League too.</p>
-        </div>
-        <button type="button" class="reset-btn" id="reset-points-secondary">Reset defaults</button>
-      </div>
-      <div class="point-controls" id="point-controls"></div>
-    </section>
 
     <h2 style="margin-top:26px">All-time standings</h2>
     <p class="sub"><strong>Championship</strong> points are the headline: best finish each year, all
