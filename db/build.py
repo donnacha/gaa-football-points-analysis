@@ -80,11 +80,22 @@ def score_year(yobj, params):
     pf = yobj["provincial_finals"]
     ai = yobj["all_ireland"]
 
+    # Provincial-bracket credit: in the pure-knockout eras the provincial rounds
+    # are the lower All-Ireland rounds, so beaten provincial finalists / semi-
+    # finalists can be scored at All-Ireland QF / prelim tiers (best-finish).
+    pbc = params.get("provincial_bracket_credit", {})
+    pbc_on = pbc.get("enabled") and fmt in pbc.get("eras", [])
+    final_as_qf = pbc_on and pbc.get("count_provincial_final_as_qf")
+    semi_as_prelim = pbc_on and pbc.get("count_provincial_semifinal_as_prelim")
+    final_tier_pts = ai_pts.get(pbc.get("final_loser_tier"), 0) if final_as_qf else 0
+    semi_tier_pts = ai_pts.get(pbc.get("semifinal_loser_tier"), 0) if semi_as_prelim else 0
+
     rows = {}
     def ensure(c):
         if c not in rows:
             rows[c] = {"province":province_of(c, pf), "format":fmt,
-                       "prov_finish":"", "ai_finish":"", "points":0}
+                       "prov_finish":"", "ai_finish":"", "points":0,
+                       "bracket_pts":0}
         return rows[c]
 
     # provincial results
@@ -92,7 +103,15 @@ def score_year(yobj, params):
         if fin.get("winner"):
             ensure(fin["winner"])["prov_finish"] = "champion"
         if fin.get("loser"):
-            ensure(fin["loser"])["prov_finish"] = "runner_up"
+            r = ensure(fin["loser"])
+            r["prov_finish"] = "runner_up"
+            r["bracket_pts"] = max(r["bracket_pts"], final_tier_pts)
+        if semi_as_prelim:
+            for c in fin.get("semi_final_losers", []):
+                r = ensure(c)
+                if not r["prov_finish"]:
+                    r["prov_finish"] = "semi_final"
+                r["bracket_pts"] = max(r["bracket_pts"], semi_tier_pts)
 
     # all-ireland-series results
     if ai.get("champion"):
@@ -107,7 +126,7 @@ def score_year(yobj, params):
     for c, r in rows.items():
         p_prov = prov_pts.get(r["prov_finish"], 0) if r["prov_finish"] else 0
         p_ai = ai_pts.get(r["ai_finish"], 0) if r["ai_finish"] else 0
-        r["points"] = max(p_prov, p_ai)
+        r["points"] = max(p_prov, p_ai, r["bracket_pts"])
     return rows
 
 def score_total(s):
