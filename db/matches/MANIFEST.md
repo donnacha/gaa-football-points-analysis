@@ -121,12 +121,19 @@ Running total: **13466 matches across 451 files**. Zero validation warnings.
 
 Running total: **13469 matches across 453 files**. Zero validation warnings.
 
-**Wave 10 finding:** the inter-county Intermediate Hurling Championship is small (1997–2018, often
-just a final between two nominated counties; no per-year pages 2019+ — abolished). Per-year hits 404
-for most years → use the main article's finals list for 1997–2016 deep history.
-Next: intermediate hurling 1997–2016 finals; then **All-Ireland Junior Hurling** (longer history, incl.
-London/NY/overseas) and **Intermediate & Junior Football** — the last readily-available inter-county
-categories. Then the readily-available Wikipedia extraction is genuinely exhausted.
+| 10 | hurling | intermediate | All-Ireland finals | 1997–2016 | 22 | finals; → int hurling total 25 (1997–2018) |
+| 10 | hurling | junior | All-Ireland finals | 1912–2004 | 89 | finals-only; incl. London/Warwickshire/Lancashire/Britain; discontinued 2004 |
+| 10 | football | junior | All-Ireland finals | 1912–2025 | 95 | finals-only; incl. London/NY/overseas; still active |
+
+Running total: **13675 matches across 456 files**. Zero validation warnings.
+Note: an inter-county **All-Ireland Intermediate FOOTBALL** championship does not exist on Wikipedia
+(only club/ladies variants) — category confirmed absent.
+
+✅ **Wave 10 complete.** All readily-available inter-county competition categories are now archived.
+Next: modern **Junior Football per-year match detail** (2022–2025, the active competition has full
+match pages) as a final polish; then the readily-available Wikipedia extraction is genuinely exhausted
+(remaining gaps — pre-1920 provincial early rounds, league match-by-match pre-2008, junior provincial
+brackets — need newspaper archives).
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 
