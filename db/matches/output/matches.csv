@@ -4749,8 +4749,11 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2004-08-22,football,senior,all_ireland,Semi-final,Mayo,0,9,9,Fermanagh,0,9,9,draw,"Croke Park, Dublin",,M. Collins (Cork),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-28,football,senior,all_ireland,Semi-final,Mayo,0,13,13,Fermanagh,1,8,11,Mayo,"Croke Park, Dublin",,J. Bannon (Longford),Replay,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
 2004-08-29,football,senior,all_ireland,Semi-final,Derry,1,11,14,Kerry,1,17,20,Kerry,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
+2004-09-05,football,under21,all_ireland,Semi-final,Mayo,1,13,16,Kildare,1,7,10,Mayo,"Pearse Stadium, Galway",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Under-21_Football_Championship
+2004-09-05,football,under21,all_ireland,Semi-final,Armagh,1,19,22,Cork,2,10,16,Armagh,"Pearse Stadium, Galway",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Under-21_Football_Championship
 2004-09-12,hurling,senior,all_ireland,Final,Cork,0,17,17,Kilkenny,0,9,9,Cork,"Croke Park, Dublin",78212,A. Mac Suibhne (Dublin),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Hurling_Championship
 2004-09-26,football,senior,all_ireland,Final,Kerry,1,20,23,Mayo,2,9,15,Kerry,"Croke Park, Dublin",79749,P. McEnaney (Monaghan),,https://en.wikipedia.org/wiki/2004_All-Ireland_Senior_Football_Championship
+2004-10-02,football,under21,all_ireland,Final,Armagh,2,8,14,Mayo,1,9,12,Armagh,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2004_All-Ireland_Under-21_Football_Championship
 2005-05-07,football,senior,leinster,Round 1,Offaly,1,15,18,Louth,1,6,9,Offaly,"Páirc Tailteann, Navan",6500,Michael Hughes,,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-05-15,football,senior,connacht,Quarter-final,Galway,3,14,23,New York,0,6,6,Galway,"Gaelic Park, New York",,,,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
 2005-05-15,football,senior,leinster,Round 1,Kildare,1,17,20,Wicklow,2,12,18,Kildare,"Croke Park, Dublin",,F. Flynn (Leitrim),,https://en.wikipedia.org/wiki/2005_All-Ireland_Senior_Football_Championship
@@ -4941,6 +4944,14 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2006-08-27,football,senior,all_ireland,Semi-final,Mayo,1,16,19,Dublin,2,12,18,Mayo,"Croke Park, Dublin",82148,,,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
 2006-09-03,hurling,senior,all_ireland,Final,Kilkenny,1,16,19,Cork,1,13,16,Kilkenny,Croke Park,82275,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Hurling_Championship
 2006-09-17,football,senior,all_ireland,Final,Kerry,4,15,27,Mayo,3,5,14,Kerry,"Croke Park, Dublin",82289,B. Crowe (Cavan),,https://en.wikipedia.org/wiki/2006_All-Ireland_Senior_Football_Championship
+2007-03-08,football,under21,munster,quarter_final,Cork,0,17,17,Limerick,0,9,9,Cork,"Páirc Uí Rinn, Cork",,P O'Sullivan (Kerry),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-03-10,football,under21,munster,quarter_final,Clare,1,6,9,Kerry,0,6,6,Clare,Kilmihil,,M Corridan (Waterford),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-03-17,football,under21,munster,semi_final,Waterford,0,1,1,Cork,2,17,23,Cork,"Fraher Field, Dungarvan",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-03-24,football,under21,munster,semi_final,Tipperary,5,8,23,Clare,0,7,7,Tipperary,"FitzGerald Park, Kilmallock",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-04-07,football,under21,munster,final,Cork,3,19,28,Tipperary,3,12,21,Cork,"Gaelic Grounds, Limerick",,R Hickey (Clare),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-04-21,football,under21,all_ireland,semi_final,Laois,0,11,11,Mayo,0,6,6,Laois,"Dr. Hyde Park, Roscommon",,M Sludden (Tyrone),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-04-22,football,under21,all_ireland,semi_final,Cork,0,13,13,Armagh,0,12,12,Cork,"O'Moore Park, Portlaoise",,P McGovern (Galway),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
+2007-05-05,football,under21,all_ireland,final,Cork,2,10,16,Laois,0,15,15,Cork,"Semple Stadium, Thurles",5500,V Neary (Mayo),,https://en.wikipedia.org/wiki/2007_All-Ireland_Under-21_Football_Championship
 2007-05-13,football,senior,connacht,Quarter-final,New York,1,3,6,Sligo,2,18,24,Sligo,"Gaelic Park, New York City",,,,https://en.wikipedia.org/wiki/2007_Connacht_Senior_Football_Championship
 2007-05-13,football,senior,leinster,Round 1,Longford,2,13,19,Westmeath,1,13,16,Longford,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
 2007-05-13,football,senior,ulster,Preliminary round,Cavan,2,11,17,Down,3,8,17,draw,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/2007_All-Ireland_Senior_Football_Championship
@@ -5083,12 +5094,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2008-04-13,hurling,senior,nhl_div2,Division 2 Semi-Final,Westmeath,2,24,30,Down,2,15,21,Westmeath,,,,,https://en.wikipedia.org/wiki/2008_National_Hurling_League
 2008-04-13,hurling,senior,nhl_div3,Division 3 Final,Louth,1,16,19,Donegal,0,11,11,Louth,Roosky,,,,https://en.wikipedia.org/wiki/2008_National_Hurling_League
 2008-04-13,hurling,senior,nhl_div4,Division 4 Final,South Down,5,14,29,Monaghan,1,27,30,Monaghan,"Breffni Park, Cavan",,John Devlin (Tyrone),,https://en.wikipedia.org/wiki/2008_National_Hurling_League
+2008-04-19,football,under21,all_ireland,Semi-final,Kildare,1,10,13,Down,0,10,10,Kildare,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Under-21_Football_Championship
+2008-04-19,football,under21,all_ireland,Semi-final,Kerry,1,9,12,Mayo,1,7,10,Kerry,"MacDonagh Park, Nenagh",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Under-21_Football_Championship
 2008-04-20,hurling,senior,nhl_div1,Division 1 Final,Tipperary,3,18,27,Galway,3,16,25,Tipperary,Gaelic Grounds,16315,B Kelly (Westmeath),,https://en.wikipedia.org/wiki/2008_National_Hurling_League
 2008-04-20,hurling,senior,nhl_div2,Division 2 Final,Westmeath,2,12,18,Carlow,0,12,12,Westmeath,Gaelic Grounds,16364,D Kirwan (Cork),,https://en.wikipedia.org/wiki/2008_National_Hurling_League
 2008-04-27,football,senior,nfl_div1,Division 1 Final,Derry,2,13,19,Kerry,2,9,15,Derry,"Parnell Park, Donnycarney",,Maurice Deegan (Laois),,https://en.wikipedia.org/wiki/2008_National_Football_League_(Ireland)
 2008-04-27,football,senior,nfl_div2,Division 2 Final,Westmeath,0,15,15,Dublin,0,10,10,Westmeath,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/2008_National_Football_League_(Ireland)
 2008-04-27,football,senior,nfl_div3,Division 3 Final,Wexford,3,15,24,Fermanagh,0,20,20,Wexford,"Parnell Park, Donnycarney",,,,https://en.wikipedia.org/wiki/2008_National_Football_League_(Ireland)
 2008-04-27,football,senior,nfl_div4,Division 4 Final,Offaly,2,13,19,Tipperary,0,12,12,Offaly,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2008_National_Football_League_(Ireland)
+2008-05-03,football,under21,all_ireland,Final,Kerry,2,12,18,Kildare,0,11,11,Kerry,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Under-21_Football_Championship
 2008-05-11,football,senior,connacht,Quarter-final,New York,0,6,6,Leitrim,0,17,17,Leitrim,"Gaelic Park, New York",,,,https://en.wikipedia.org/wiki/2008_Connacht_Senior_Football_Championship
 2008-05-11,football,senior,leinster,Preliminary round,Longford,1,10,13,Westmeath,2,10,16,Westmeath,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/2008_All-Ireland_Senior_Football_Championship
 2008-05-18,football,senior,connacht,Quarter-final,Galway,2,16,22,Roscommon,0,6,6,Galway,"Pearse Stadium, Galway",,,,https://en.wikipedia.org/wiki/2008_Connacht_Senior_Football_Championship
@@ -5330,10 +5344,12 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2009-04-12,football,senior,nfl_div4,Division 4 Round 8,Carlow,2,15,21,Wicklow,3,7,16,Carlow,"Dr Cullen Park, Carlow",,J Bannon,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
 2009-04-12,football,senior,nfl_div4,Division 4 Round 8,London,2,12,18,Kilkenny,0,7,7,London,"Emerald GAA Grounds, Ruislip",,G Walsh,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
 2009-04-12,football,senior,nfl_div4,Division 4 Round 8,Sligo,0,16,16,Waterford,1,11,14,Sligo,"Markievicz Park, Sligo",,A McAlynn,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
+2009-04-18,football,under21,all_ireland,semi-final,Down,1,15,18,Mayo,2,9,15,Down,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Under-21_Football_Championship
 2009-04-18,football,senior,nfl_div4,Division 4 Round 8,Clare,3,21,30,London,1,7,10,Clare,"Cusack Park, Ennis",,R Moloney,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
 2009-04-18,football,senior,nfl_div4,Division 4 Round 8,Waterford,0,8,8,Antrim,0,13,13,Antrim,"Fraher Field, Dungarvan",,R Hickey,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
 2009-04-18,football,senior,nfl_div4,Division 4 Round 8,Kilkenny,1,9,12,Carlow,2,22,28,Carlow,"Nowlan Park, Kilkenny",,B Tyrrell,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
 2009-04-18,football,senior,nfl_div4,Division 4 Round 8,Wicklow,0,10,10,Sligo,0,11,11,Sligo,"Aughrim County Ground, Aughrim",,M Deegan,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
+2009-04-19,football,under21,all_ireland,semi-final,Cork,1,10,13,Dublin,1,9,12,Cork,"Semple Stadium, Thurles",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Under-21_Football_Championship
 2009-04-19,hurling,senior,nhl_div1,Division 1 Round 7,Tipperary,1,17,20,Limerick,1,11,14,Tipperary,Semple Stadium,,D Murphy (Wexford),,https://en.wikipedia.org/wiki/2009_National_Hurling_League
 2009-04-19,hurling,senior,nhl_div1,Division 1 Round 7,Kilkenny,1,23,26,Dublin,3,15,24,Kilkenny,Nowlan Park,,B Gavin (Offaly),,https://en.wikipedia.org/wiki/2009_National_Hurling_League
 2009-04-19,hurling,senior,nhl_div1,Division 1 Round 7,Clare,0,19,19,Galway,4,16,28,Galway,Cusack Park (Ennis),,J Sexton (Cork),,https://en.wikipedia.org/wiki/2009_National_Hurling_League
@@ -5348,6 +5364,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 2009-04-26,football,senior,nfl_div2,Division 2 Final,Cork,1,14,17,Monaghan,0,12,12,Cork,"Croke Park, Dublin",,Syl Doyle,,https://en.wikipedia.org/wiki/2009_National_Football_League_(Ireland)
 2009-05-03,hurling,senior,nhl_div1,Division 1 Final,Tipperary,4,17,29,Kilkenny,2,26,32,Kilkenny,"Semple Stadium, Thurles",17087,J Sexton (Cork),after extra time,https://en.wikipedia.org/wiki/2009_National_Hurling_League
 2009-05-03,hurling,senior,nhl_div2,Division 2 Final,Offaly,1,13,16,Wexford,0,13,13,Offaly,"Semple Stadium, Thurles",,G Hoey (Clare),,https://en.wikipedia.org/wiki/2009_National_Hurling_League
+2009-05-04,football,under21,all_ireland,final,Cork,1,13,16,Down,2,9,15,Cork,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Under-21_Football_Championship
 2009-05-10,football,senior,connacht,Provincial quarter-final,New York,1,7,10,Mayo,1,18,21,Mayo,"Gaelic Park, New York City",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-05-17,football,senior,leinster,Provincial first round,Carlow,1,11,14,Louth,1,13,16,Louth,"Parnell Park, Dublin",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
 2009-05-17,football,senior,ulster,Provincial first round,Fermanagh,0,13,13,Down,0,10,10,Fermanagh,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/2009_All-Ireland_Senior_Football_Championship
@@ -10704,6 +10721,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,all_ireland,Semi-Final,Wexford,,,,Galway,,,,Wexford,,,,"walkover - Wexford won by walkover (w/o), Galway scratched (scr.)",https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Football_Championship
 ,football,senior,all_ireland,Home Semi-Final,Galway,,,,Antrim,,,,Galway,,,,walkover; Galway awarded the game (Antrim scratched),https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 ,football,senior,all_ireland,Substitute (Central Council) tournament semi-final,Cavan,,,,Kerry,,,,Cavan,,,,"walkover; Kerry withdrew (scratched) in protest, Cavan awarded a walkover; substitute Central Council competition, no bearing on All-Ireland champion status",https://en.wikipedia.org/wiki/1925_All-Ireland_Senior_Football_Championship
+,football,under21,all_ireland,Final,Galway,0,15,15,Dublin,0,7,7,Galway,,,,,https://en.wikipedia.org/wiki/All-Ireland_Under-20_Football_Championship
 ,hurling,senior,all_ireland,All-Ireland Final,Cork,,,,Kilkenny,,,,,,,,not played - championship abandoned/not-completed; no All-Ireland champion awarded due to the American Invasion athletics tour,https://en.wikipedia.org/wiki/1888_All-Ireland_Senior_Hurling_Championship
 ,football,senior,connacht,Final,Sligo,,,,Mayo,,,,draw,,,,"draw; Sligo and Mayo drew the Connacht final, no score given and no record of a replay, so no Connacht champion was decided",https://en.wikipedia.org/wiki/1888_All-Ireland_Senior_Football_Championship
 ,football,senior,connacht,Final,Galway,,,,,,,,Galway,,,,"bye - Galway only entrant, received a bye to the All-Ireland semi-final",https://en.wikipedia.org/wiki/1890_All-Ireland_Senior_Football_Championship

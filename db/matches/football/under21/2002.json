@@ -1,0 +1,21 @@
+[
+  {
+    "sport": "football",
+    "grade": "under21",
+    "competition": "all_ireland",
+    "stage": "Final",
+    "date": null,
+    "team1": "Galway",
+    "team2": "Dublin",
+    "t1_g": 0,
+    "t1_p": 15,
+    "t2_g": 0,
+    "t2_p": 7,
+    "winner": "Galway",
+    "venue": null,
+    "attendance": null,
+    "referee": null,
+    "notes": "",
+    "source_url": "https://en.wikipedia.org/wiki/All-Ireland_Under-20_Football_Championship"
+  }
+]

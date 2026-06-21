@@ -61,9 +61,19 @@ hurling SHC 1887–2025 + NHL 2008–2025). Zero validation warnings.
 | 6 | football | under20 | championship (AI+prov) | 2018–2025 | 337 | U20 football began 2018; full provincial+AI |
 | 6 | football | under21 | championship (AI+prov) | 2010–2017 | 171 | U21 predecessor; provincial coverage patchy on Wikipedia some years |
 
-Running total: **11001 matches across 334 files**. Zero validation warnings.
-Wave 6 in progress. Next: U21 football 2000–2009, then 1964–1999 (back to U21's start). Then U20/U21
-hurling, then minor football, then minor hurling. Deferred (optional): pre-2008 NFL/NHL finals-only.
+| 6 | football | under21 | championship (AI+prov) | 2002–2017 (partial) | 189 | pre-2010 sparse: many years AI-series-only or no Wikipedia page |
+
+Running total: **11019 matches across 339 files**. Zero validation warnings.
+
+**Coverage finding (lower grades):** U21 football per-year Wikipedia pages don't exist for several
+pre-2010 years (2000-01, 2003, 2005-06 = 404) and most others carry only the All-Ireland series.
+Per-year extraction hits diminishing returns pre-~2008 for lower grades. **Strategy for deep history:
+use the "List of All-Ireland <grade> <sport> Championship finals" pages** (one fetch = every final)
+rather than ~60 near-empty per-year fetches. Modern years (2008/2018+) still extracted per-year (rich).
+
+Wave 6 continues. Next: U20 hurling 2018–2025 + U21 hurling modern; then minor football & hurling
+modern; then a finals-list sweep for all lower-grade deep history (U21 football 1964–1999, U20/U21
+hurling, minor 1929–). Deferred (optional): pre-2008 NFL/NHL finals-only.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the
