@@ -109,9 +109,11 @@ Running total: **12909 matches across 411 files**. Zero validation warnings.
 
 | 9 | hurling | senior | Christy Ring Cup deep history | 2005–2017 | ~227 | back to 2005 inception; full group stages early years; → Christy Ring total 341 (2005–2025) |
 
-🎯 **Archive past 13,000 matches.** Running total: **13136 matches across 424 files**. Zero warnings.
-Next: **Nicky Rackard back to 2005, Lory Meagher back to 2009**, plus the **Tommy Murphy Cup**
-(football tier-2, 2004–2008, pre-Tailteann). Then modern competition coverage is essentially exhausted.
+| 9 | hurling | senior | Nicky Rackard Cup deep history | 2005–2017 | ~192 | back to 2005 inception; → Nicky Rackard total 303 (2005–2025) |
+
+🎯 **Archive past 13,000 matches.** Running total: **13328 matches across 437 files**. Zero warnings.
+Next: **Lory Meagher back to 2009**, plus the **Tommy Murphy Cup** (football tier-2, 2004–2008,
+pre-Tailteann). Then modern competition coverage is essentially exhausted.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 
