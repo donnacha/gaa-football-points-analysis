@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GAA Football Championship — Alternative Points Analysis (1990–2025)</title>
-<meta name="description" content="An alternative ranking of the GAA Men's Senior Football Championship, scoring counties by finishing position every year from 1990 to 2025.">
+<title>GAA Football Championship — Alternative Points Analysis (1887–2025)</title>
+<meta name="description" content="An alternative ranking of the GAA Men's Senior Football Championship, scoring counties by finishing position every year from 1887 to 2025, with finals, roll of honour and National League records.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,9 +12,9 @@
   <div class="hero-inner">
     <h1>GAA Football Championship — Alternative Points Analysis</h1>
     <p>Ranking every county by <strong>finishing position</strong> in the Men's Senior Football
-       All-Ireland Championship, each year from 1990 to 2025 — rewarding sustained contention,
-       not just titles.</p>
-    <span class="tag">36 championships · 1990–2025 · parameter-driven</span>
+       All-Ireland Championship, every year from 1887 to 2025 — rewarding sustained contention,
+       not just titles — plus the full finals record, roll of honour and National League history.</p>
+    <span class="tag">138 championships · 1887–2025 · parameter-driven</span>
     <div class="legend" id="legend"></div>
   </div>
 </header>
@@ -26,6 +26,10 @@
     <button data-t="eras">By era</button>
     <button data-t="matrix">Year-by-year</button>
     <button data-t="chart">Points race</button>
+    <button data-t="honour">Roll of honour</button>
+    <button data-t="finals">Finals</button>
+    <button data-t="league">League &amp; doubles</button>
+    <button data-t="records">Records</button>
     <button data-t="method">Method</button>
   </nav>
 
@@ -33,12 +37,14 @@
     <h2>The idea</h2>
     <p class="sub">A single All-Ireland is worth a lot — but it tells you little about the counties
        who were perennially close. This system scores every county on how far it got each year,
-       so consistency over 36 seasons becomes visible.</p>
+       so consistency across 138 championships (1887–2025) becomes visible.</p>
     <div class="cards" id="stats"></div>
     <div class="note">
-      <strong>Why averages matter.</strong> The championship changed shape five times since 1990
+      <strong>Why averages matter.</strong> The championship changed shape repeatedly over 138 years
       (see <em>By era</em>), so raw totals reward longevity. The <em>Avg / scoring year</em> column
       in the standings is the era-fair view: how deep a county runs <em>when</em> it shows up.
+      The new <em>Roll of honour</em>, <em>Finals</em>, <em>League &amp; doubles</em> and
+      <em>Records</em> tabs query the same database from other angles.
     </div>
   </section>
 
@@ -68,6 +74,39 @@
     <div class="chart-wrap" style="height:460px"><canvas id="raceChart"></canvas></div>
   </section>
 
+  <section class="panel" id="honour">
+    <h2>All-time roll of honour</h2>
+    <p class="sub">All-Ireland titles, runner-up finishes and beaten semi-finals, plus provincial
+       championships — across all 138 championships (1887–2025). Click any column to sort.</p>
+    <div id="honour-table"></div>
+  </section>
+
+  <section class="panel" id="finals">
+    <h2>Every All-Ireland final</h2>
+    <p class="sub">Score, winning margin, venue, attendance, captain and (from 1981) manager for
+       each final. Type a county or year to filter.</p>
+    <input id="finals-filter" class="filter" placeholder="Filter by county, year or venue…">
+    <div id="finals-table"></div>
+  </section>
+
+  <section class="panel" id="league">
+    <h2>National League &amp; the double</h2>
+    <p class="sub">The other national competition. Counties that won the top-division National League
+       and the All-Ireland in the <em>same</em> year — the "double" — are the rarest achievement.</p>
+    <div class="cards" id="league-stats"></div>
+    <h3>League + Championship doubles</h3>
+    <div id="doubles-table"></div>
+    <h3>National League (Division 1) roll of honour</h3>
+    <div id="league-table"></div>
+  </section>
+
+  <section class="panel" id="records">
+    <h2>Records &amp; extremes</h2>
+    <p class="sub">The biggest, tightest, highest-scoring finals and the largest crowds in the
+       championship's history.</p>
+    <div id="records-wrap"></div>
+  </section>
+
   <section class="panel" id="method">
     <div class="prose">
       <h2>Methodology</h2>
@@ -82,9 +121,16 @@
         <tr><td>1</td><td>Provincial finalist (winner or runner-up), or All-Ireland group-stage / preliminary-QF exit (2023–25)</td></tr>
       </table>
 
-      <h3>Handling five different formats</h3>
-      <p>The structure changed repeatedly, so the tiers map differently by era:</p>
+      <h3>Handling the changing formats</h3>
+      <p>The structure changed repeatedly across 138 years, so the tiers map differently by era:</p>
       <ul>
+        <li><strong>1887–1927 — foundation era.</strong> An irregular early knockout: provincial
+            champions (with London, later New York, sometimes contesting the final) met in
+            semi-finals and a final. Beaten semi-finalists score 3; the rare extra early rounds map to
+            the 2-point tier.</li>
+        <li><strong>1928–1989 — Sam Maguire knockout.</strong> The settled four-province knockout —
+            four provincial champions into two semi-finals and a final. No quarter-final, so the two
+            beaten semi-finalists take the 3-point tier and there are no 2s.</li>
         <li><strong>1990–2000 — pre-qualifier.</strong> Four provincial champions went straight to the
             semi-finals; there was no quarter-final, so nobody scores 2.</li>
         <li><strong>2001–2017 &amp; 2022 — qualifier / back-door.</strong> An 8-team knockout
@@ -107,8 +153,20 @@
         <a href="https://github.com/donnacha/gaa-football-points-analysis" id="repo-link">repository</a>.
       </div>
 
-      <p class="sub">Sources: per-year All-Ireland Senior Football Championship and provincial
-         championship records (Wikipedia), cross-checked round by round.</p>
+      <div class="note">
+        <strong>On the historical record.</strong> For the settled era (1928–1989) the two beaten
+        semi-finalists are <em>derived</em> as the provincial champions who didn't reach the final and
+        cross-checked automatically; the irregular foundation era (1887–1927) was researched
+        year-by-year. Champion, runner-up and provincial-title counts reconcile exactly with the
+        canonical totals (Kerry 39, Dublin 31, Galway 9…). A handful of beaten-finalist names in the
+        sparsest early years carry mild uncertainty and are flagged in the source files; they are a
+        tiny share of points and don't affect the modern standings.
+      </div>
+
+      <p class="sub">Sources: per-year All-Ireland and provincial championship records, the lists of
+         All-Ireland finals, winning captains and managers, and National League finals (Wikipedia),
+         cross-checked round by round. Final scores, venues, attendances, captains and managers are
+         stored alongside the results in the database.</p>
     </div>
   </section>
 </main>

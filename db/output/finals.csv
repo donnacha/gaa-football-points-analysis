@@ -1,0 +1,139 @@
+year,era,champion,champion_score,runner_up,runner_up_score,margin,venue,attendance,replay,captain,manager
+1887,foundation,Limerick,1-04,Louth,0-03,4,Donnybrook,7000,,Denis Corbett,
+1889,foundation,Tipperary,3-06,Laois,0-00,15,Inchicore,1500,,Gil Cavanagh,
+1890,foundation,Cork,2-04,Wexford,0-01,9,Clonturk,1000,,Jim Power,
+1891,foundation,Dublin,2-01,Cork,1-01,3,,2000,,John Kennedy,
+1892,foundation,Dublin,1-04,Kerry,0-03,4,,5000,,John Kennedy,
+1893,foundation,Wexford,1-01,Cork,0-01,3,Phoenix Park,1000,,Tom Hayes,
+1894,foundation,Dublin,0-05,Cork,1-02,0,Thurles,10000,yes,John Kennedy,
+1895,foundation,Tipperary,0-04,Meath,0-03,1,Jones' Road,8000,,Paddy Finn,
+1896,foundation,Limerick,1-05,Dublin,0-07,1,,3500,,Con Fitzgerald,
+1897,foundation,Dublin,2-06,Cork,0-02,10,,4000,,P. J. Walsh,
+1898,foundation,Dublin,2-08,Waterford,0-04,10,Tipperary,1000,,Matt Rea,
+1899,foundation,Dublin,1-10,Cork,0-06,7,Jones' Road,2000,,Matt Rea,
+1900,foundation,Tipperary,3-07,London,0-02,14,,2000,,Jack Tobin,
+1901,foundation,Dublin,0-14,London,0-02,12,,2000,,Jack Darcy,
+1902,foundation,Dublin,2-08,London,0-04,10,Cork,10000,,Jack Dempsey,
+1903,foundation,Kerry,0-11,London,0-03,8,Jones' Road,10000,,Thady Gorman,
+1904,foundation,Kerry,0-05,Dublin,0-02,3,Cork,10000,,Austin Stack,
+1905,foundation,Kildare,1-07,Kerry,0-05,5,Thurles,15000,,Jack Murray,
+1906,foundation,Dublin,0-05,Cork,0-04,1,Athy,8000,,Jack Grace,
+1907,foundation,Dublin,0-06,Cork,0-02,4,Tipperary,5000,,Jack Grace,
+1908,foundation,Dublin,1-10,London,0-04,9,Jones' Road,10000,,Dave Kelleher,
+1909,foundation,Kerry,1-09,Louth,0-06,6,,16000,,Tom Costelloe,
+1910,foundation,Louth,,Kerry,,,Jones' Road,,,Larry McCormack,
+1911,foundation,Cork,6-06,Antrim,1-02,19,Jones' Road,11000,,Mick Mehigan,
+1912,foundation,Louth,1-07,Antrim,1-02,5,,13000,,Jim Smith,
+1913,foundation,Kerry,2-02,Wexford,0-03,5,Croke Park,17000,,Dick Fitzgerald,
+1914,foundation,Kerry,2-03,Wexford,0-06,3,Croke Park,20000,,Dick Fitzgerald,
+1915,foundation,Wexford,2-04,Kerry,2-01,3,Croke Park,27000,,Sean O'Kennedy,
+1916,foundation,Wexford,3-04,Mayo,1-02,8,,3000,,Sean O'Kennedy,
+1917,foundation,Wexford,0-09,Clare,0-05,4,,6500,,Sean O'Kennedy,
+1918,foundation,Wexford,0-05,Tipperary,0-04,1,,12000,,Tom McGrath,
+1919,foundation,Kildare,2-05,Galway,0-01,10,,32000,,Larry Stanley,
+1920,foundation,Tipperary,1-06,Dublin,1-02,4,,17000,,Jerry Shelly,
+1921,foundation,Dublin,1-09,Mayo,0-02,10,,16000,,Eddie Carroll,
+1922,foundation,Dublin,0-06,Galway,0-04,2,,11792,,Paddy Carey,
+1923,foundation,Dublin,1-05,Kerry,1-03,2,,18500,,Paddy McDonnell,
+1924,foundation,Kerry,0-04,Dublin,0-03,1,,28844,,Phil O'Sullivan,
+1925,foundation,Galway,3-02,Cavan,1-02,6,,,,Michael Walsh,
+1926,foundation,Kerry,1-04,Kildare,0-04,3,Croke Park,35500,yes,John Joe Sheehy,
+1927,foundation,Kildare,0-05,Kerry,0-03,2,Croke Park,36529,,Mick Buckley,
+1928,sam_maguire,Kildare,2-06,Cavan,2-05,1,,24700,,Bill Gannon,
+1929,sam_maguire,Kerry,1-08,Kildare,1-05,3,,43839,,Joe Barrett,
+1930,sam_maguire,Kerry,3-11,Monaghan,0-02,18,,33280,,John Joe Sheehy,
+1931,sam_maguire,Kerry,1-11,Kildare,0-08,6,,42350,,Con Brosnan,
+1932,sam_maguire,Kerry,2-07,Mayo,2-04,3,,25816,,Joe Barrett,
+1933,sam_maguire,Cavan,2-05,Galway,1-04,4,,45188,,Jim Smith,
+1934,sam_maguire,Galway,3-05,Dublin,1-09,2,,36143,,Michael Higgins,
+1935,sam_maguire,Cavan,3-06,Kildare,2-05,4,,50380,,Hughie O'Reilly,
+1936,sam_maguire,Mayo,4-11,Laois,0-05,18,,50168,,Seamus O'Malley,
+1937,sam_maguire,Kerry,4-04,Cavan,1-07,6,Croke Park,51234,yes,Miko Doyle,
+1938,sam_maguire,Galway,2-04,Kerry,0-07,3,,47851,yes,John Dunne,
+1939,sam_maguire,Kerry,2-05,Meath,2-03,2,Croke Park,46828,,Tom O'Connor,
+1940,sam_maguire,Kerry,0-07,Galway,1-03,1,,60821,,Dan Spring,
+1941,sam_maguire,Kerry,1-08,Galway,0-07,4,,45512,,Bill Dillon,
+1942,sam_maguire,Dublin,1-10,Galway,1-08,2,,37105,,Joe Fitzgerald,
+1943,sam_maguire,Roscommon,2-07,Cavan,2-02,5,Croke Park,47193,yes,Jimmy Murray,
+1944,sam_maguire,Roscommon,1-09,Kerry,2-04,2,Croke Park,79245,,Jimmy Murray,
+1945,sam_maguire,Cork,2-05,Cavan,0-07,4,,67329,,Tadhg Crowley,
+1946,sam_maguire,Kerry,2-08,Roscommon,0-10,4,Croke Park,65661,yes,Paddy Kennedy,
+1947,sam_maguire,Cavan,2-11,Kerry,2-07,4,"Polo Grounds, New York",34491,,John Joe O'Reilly,
+1948,sam_maguire,Cavan,4-05,Mayo,4-04,1,Croke Park,74645,,John Joe O'Reilly,
+1949,sam_maguire,Meath,1-10,Cavan,1-06,4,,79460,,Brian Smyth,
+1950,sam_maguire,Mayo,2-05,Louth,1-06,2,,76174,,Sean Flanagan,
+1951,sam_maguire,Mayo,2-08,Meath,0-09,5,,78201,,Sean Flanagan,
+1952,sam_maguire,Cavan,0-09,Meath,0-05,4,Croke Park,62515,yes,Mick Higgins,
+1953,sam_maguire,Kerry,0-13,Armagh,1-06,4,Croke Park,86155,,Jas Murphy,
+1954,sam_maguire,Meath,1-13,Kerry,1-07,6,,75276,,Peter McDermott,
+1955,sam_maguire,Kerry,0-12,Dublin,1-06,3,,87102,,John Dowling,
+1956,sam_maguire,Galway,2-13,Cork,3-07,3,,70772,,Jack Mangan,
+1957,sam_maguire,Louth,1-09,Cork,1-07,2,,72732,,Dermot O'Brien,
+1958,sam_maguire,Dublin,2-12,Derry,1-09,6,,73371,,Kevin Heffernan,
+1959,sam_maguire,Kerry,3-07,Galway,1-04,9,,85897,,Mick O'Connell,
+1960,sam_maguire,Down,2-10,Kerry,0-08,8,,87768,,Kevin Mussen,
+1961,sam_maguire,Down,3-06,Offaly,2-08,1,Croke Park,90556,,Paddy Doherty,
+1962,sam_maguire,Kerry,1-12,Roscommon,1-06,6,Croke Park,75771,,Sean Og Sheehy,
+1963,sam_maguire,Dublin,1-09,Galway,0-10,2,Croke Park,87106,,Des Foley,
+1964,sam_maguire,Galway,0-15,Kerry,0-10,5,Croke Park,76498,,John Donnellan,
+1965,sam_maguire,Galway,0-12,Kerry,0-09,3,Croke Park,77735,,Enda Colleran,
+1966,sam_maguire,Galway,1-10,Meath,0-07,6,Croke Park,71569,,Enda Colleran,
+1967,sam_maguire,Meath,1-09,Cork,0-09,3,Croke Park,70343,,Peter Darby,
+1968,sam_maguire,Down,2-12,Kerry,1-13,2,Croke Park,71294,,Joe Lennon,
+1969,sam_maguire,Kerry,0-10,Offaly,0-07,3,Croke Park,67828,,Johnny Culloty,
+1970,sam_maguire,Kerry,2-19,Meath,0-18,7,Croke Park,71775,,Donie O'Sullivan,
+1971,sam_maguire,Offaly,1-14,Galway,2-08,3,Croke Park,70789,,Willie Bryan,
+1972,sam_maguire,Offaly,1-19,Kerry,0-13,9,Croke Park,66136,yes,Tony McTague,
+1973,sam_maguire,Cork,3-17,Galway,2-13,7,Croke Park,73308,,Billy Morgan,
+1974,sam_maguire,Dublin,0-14,Galway,1-06,5,Croke Park,71898,,Sean Doherty,
+1975,sam_maguire,Kerry,2-12,Dublin,0-11,7,Croke Park,66346,,Mickey O'Sullivan,
+1976,sam_maguire,Dublin,3-08,Kerry,0-10,7,Croke Park,73588,,Tony Hanahoe,
+1977,sam_maguire,Dublin,5-12,Armagh,3-06,12,Croke Park,66542,,Tony Hanahoe,
+1978,sam_maguire,Kerry,5-11,Dublin,0-09,17,Croke Park,71503,,Denis Moran,
+1979,sam_maguire,Kerry,3-13,Dublin,1-08,11,Croke Park,72185,,Tim Kennelly,
+1980,sam_maguire,Kerry,1-09,Roscommon,1-06,3,Croke Park,63854,,Ger Power,
+1981,sam_maguire,Kerry,1-12,Offaly,0-08,7,Croke Park,61489,,Jimmy Deenihan,Mick O'Dwyer
+1982,sam_maguire,Offaly,1-15,Kerry,0-17,1,Croke Park,62309,,Richie Connor,Eugene McGee
+1983,sam_maguire,Dublin,1-10,Galway,1-08,2,Croke Park,71988,,Tommy Drumm,Kevin Heffernan
+1984,sam_maguire,Kerry,0-14,Dublin,1-06,5,Croke Park,68365,,Ambrose O'Donovan,Mick O'Dwyer
+1985,sam_maguire,Kerry,2-12,Dublin,2-08,4,Croke Park,69389,,Paidi O Se,Mick O'Dwyer
+1986,sam_maguire,Kerry,2-15,Tyrone,1-10,8,Croke Park,68628,,Tommy Doyle,Mick O'Dwyer
+1987,sam_maguire,Meath,1-14,Cork,0-11,6,Croke Park,68431,,Mick Lyons,Sean Boylan
+1988,sam_maguire,Meath,0-13,Cork,0-12,1,Croke Park,64069,yes,Joe Cassells,Sean Boylan
+1989,sam_maguire,Cork,0-17,Mayo,1-11,3,Croke Park,65519,,Dinny Allen,Billy Morgan
+1990,pre_qualifier,Cork,0-11,Meath,0-09,2,Croke Park,65723,,Larry Tompkins,Billy Morgan
+1991,pre_qualifier,Down,1-16,Meath,1-14,2,Croke Park,64500,,Paddy O'Rourke,Pete McGrath
+1992,pre_qualifier,Donegal,0-18,Dublin,0-14,4,Croke Park,64547,,Anthony Molloy,Brian McEniff
+1993,pre_qualifier,Derry,1-14,Cork,2-08,3,Croke Park,64500,,Henry Downey,Eamonn Coleman
+1994,pre_qualifier,Down,1-12,Dublin,0-13,2,Croke Park,58684,,D. J. Kane,Pete McGrath
+1995,pre_qualifier,Dublin,1-10,Tyrone,0-12,1,Croke Park,65000,,John O'Leary,Pat O'Neill
+1996,pre_qualifier,Meath,2-09,Mayo,1-11,1,Croke Park,65802,yes,Tommy Dowd,Sean Boylan
+1997,pre_qualifier,Kerry,0-13,Mayo,1-07,3,Croke Park,65601,,Liam Hassett,Paidi O Se
+1998,pre_qualifier,Galway,1-14,Kildare,1-10,4,Croke Park,65886,,Ray Silke,John O'Mahony
+1999,pre_qualifier,Meath,1-11,Cork,1-08,3,Croke Park,63276,,Graham Geraghty,Sean Boylan
+2000,pre_qualifier,Kerry,0-17,Galway,1-10,4,Croke Park,64094,yes,Seamus Moynihan,Paidi O Se
+2001,qualifier,Galway,0-17,Meath,0-08,9,Croke Park,70842,,Gary Fahey,John O'Mahony
+2002,qualifier,Armagh,1-12,Kerry,0-14,1,Croke Park,79500,,Kieran McGeeney,Joe Kernan
+2003,qualifier,Tyrone,0-12,Armagh,0-09,3,Croke Park,79394,,Peter Canavan,Mickey Harte
+2004,qualifier,Kerry,1-20,Mayo,2-09,8,Croke Park,79749,,Dara O Cinneide,Jack O'Connor
+2005,qualifier,Tyrone,1-16,Kerry,2-10,3,Croke Park,82112,,Brian Dooher,Mickey Harte
+2006,qualifier,Kerry,4-15,Mayo,3-05,13,Croke Park,82289,,Declan O'Sullivan,Jack O'Connor
+2007,qualifier,Kerry,3-13,Cork,1-09,10,Croke Park,82126,,Declan O'Sullivan,Pat O'Shea
+2008,qualifier,Tyrone,1-15,Kerry,0-14,4,Croke Park,82204,,Brian Dooher,Mickey Harte
+2009,qualifier,Kerry,0-16,Cork,1-09,4,Croke Park,82246,,Darran O'Sullivan,Jack O'Connor
+2010,qualifier,Cork,0-16,Down,0-15,1,Croke Park,81604,,Graham Canty,Conor Counihan
+2011,qualifier,Dublin,1-12,Kerry,1-11,1,Croke Park,82300,,Bryan Cullen,Pat Gilroy
+2012,qualifier,Donegal,2-11,Mayo,0-13,4,Croke Park,82269,,Michael Murphy,Jim McGuinness
+2013,qualifier,Dublin,2-12,Mayo,1-14,1,Croke Park,82274,,Stephen Cluxton,Jim Gavin
+2014,qualifier,Kerry,2-09,Donegal,0-12,3,Croke Park,82184,,Fionn Fitzgerald,Eamonn Fitzmaurice
+2015,qualifier,Dublin,0-12,Kerry,0-09,3,Croke Park,82243,,Stephen Cluxton,Jim Gavin
+2016,qualifier,Dublin,1-15,Mayo,1-14,1,Croke Park,82249,yes,Stephen Cluxton,Jim Gavin
+2017,qualifier,Dublin,1-17,Mayo,1-16,1,Croke Park,82243,,Stephen Cluxton,Jim Gavin
+2018,super8,Dublin,2-17,Tyrone,1-14,6,Croke Park,82300,,Stephen Cluxton,Jim Gavin
+2019,super8,Dublin,1-18,Kerry,0-15,6,Croke Park,82300,yes,Stephen Cluxton,Jim Gavin
+2020,knockout_covid,Dublin,2-14,Mayo,0-15,5,Croke Park,0,,Stephen Cluxton,Dessie Farrell
+2021,knockout_covid,Tyrone,2-14,Mayo,0-15,5,Croke Park,41150,,Padraig Hampsey,Feargal Logan & Brian Dooher
+2022,qualifier,Kerry,0-20,Galway,0-16,4,Croke Park,82300,,Joe O'Connor,Jack O'Connor
+2023,round_robin,Dublin,1-15,Kerry,1-13,2,Croke Park,82300,,James McCarthy,Dessie Farrell
+2024,round_robin,Armagh,1-11,Galway,0-13,1,Croke Park,82164,,Aidan Forker,Kieran McGeeney
+2025,round_robin,Kerry,1-26,Donegal,0-19,10,Croke Park,82109,,Gavin White,Jack O'Connor

@@ -57,5 +57,13 @@ td.total{font-weight:700;color:var(--green-dark)}
 .prose table{font-size:.88rem;margin:10px 0}
 .prose td,.prose th{border:1px solid var(--line);text-align:left}
 .note{background:#fff8e6;border:1px solid var(--gold);border-radius:10px;padding:12px 14px;font-size:.9rem;margin:14px 0}
+.filter{width:100%;max-width:360px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;
+  font-size:.9rem;margin-bottom:12px;background:var(--card);color:var(--ink)}
+.rep{display:inline-block;background:var(--gold);color:#5a4500;font-size:.62rem;font-weight:800;
+  border-radius:3px;padding:0 4px;margin-left:3px;vertical-align:middle}
+td.num{font-variant-numeric:tabular-nums;font-weight:700;color:var(--green-dark)}
+.rec-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:14px}
+.rec h3{margin:6px 8px 8px;font-size:1rem;color:var(--green-dark)}
+#league h3{margin:22px 0 8px;font-size:1.05rem}
 footer{border-top:1px solid var(--line);padding:22px 20px;color:var(--muted);font-size:.84rem;text-align:center}
 @media(max-width:560px){.hero h1{font-size:1.5rem}th,td{padding:6px 7px}}
