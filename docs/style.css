@@ -25,6 +25,13 @@ nav.tabs{position:sticky;top:0;z-index:5;background:var(--paper);display:flex;ga
 nav.tabs button{border:1px solid var(--line);background:var(--card);color:var(--ink);
   padding:8px 14px;border-radius:8px;cursor:pointer;font-size:.9rem;font-weight:600}
 nav.tabs button.active{background:var(--green);color:#fff;border-color:var(--green)}
+nav.tabs .tab-link{margin-left:auto;align-self:center;color:var(--green);font-weight:600;
+  font-size:.9rem;text-decoration:none;padding:8px 6px;white-space:nowrap}
+nav.tabs .tab-link:hover{text-decoration:underline}
+.decades{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.decades button.dec{border:1px solid var(--line);background:var(--card);color:var(--ink);
+  padding:5px 11px;border-radius:7px;cursor:pointer;font-size:.82rem;font-weight:600}
+.decades button.dec.active{background:var(--green);color:#fff;border-color:var(--green)}
 section.panel{display:none;animation:fade .25s ease}
 section.panel.active{display:block}
 @keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}

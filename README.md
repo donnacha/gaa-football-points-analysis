@@ -43,7 +43,8 @@ db/
   params.json               the editable scoring table — change values and re-run
   build.py                  applies the best-finish rule, emits CSV tables + checksums
   make_site.py              emits docs/data.json for the website
-docs/                       the GitHub Pages site (index.html, style.css, app.js, data.json)
+docs/                       the GitHub Pages site (index.html + app.js = the points analysis;
+                            reference.html + reference.js = finals/records/league; style.css, data.json)
 ```
 
 The historical record lives in the small, auditable `db/sources/` files. `assemble.py` merges them
@@ -74,6 +75,18 @@ last two. Every table on the site updates from `data.json`.
 - `roll_of_honour.csv` — titles, runner-ups, beaten semi-finals and provincial titles per county
 - `national_league.csv` — National League Division 1 titles & runner-ups per county
 - `doubles.csv` — counties that won the National League and the All-Ireland in the same year
+- `overall_performance.csv` — championship + National League points **added** per season (see below)
+
+### Overall annual performance (championship + league)
+
+The championship and the National League are separate competitions run in different parts of the
+year, so the *overall* view **adds** their points within a season (rather than taking the best of the
+two). Within each competition best-finish still applies. The league is scored below the championship,
+tuned in `params.json` under `league_points` (default: Division 1 champion `2`, runner-up `1` — a
+league title equals a championship quarter-final and sits below an All-Ireland semi-final). The league
+dates from 1926, so earlier seasons are championship-only. This view rewards league-strong counties:
+Mayo rise to 3rd overall on the second-richest league record, and New York register on their league
+titles alone.
 
 ## Deployment (GitHub Pages)
 

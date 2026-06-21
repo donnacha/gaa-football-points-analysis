@@ -8,8 +8,8 @@ fetch('data.json').then(r=>r.json()).then(d=>{DATA=d;init();})
   .catch(e=>{document.getElementById('standings-table').innerHTML='<p>Could not load data.json</p>';});
 
 function init(){
-  buildLegend(); buildStats(); buildStandings(); buildEras(); buildMatrix(); buildChart();
-  buildHonour(); buildFinals(); buildLeague(); buildRecords();
+  buildLegend(); buildStats(); buildStandings(); buildOverall(); buildEras(); buildMatrix(); buildChart();
+  buildHonour();
   document.getElementById('updated').textContent = DATA.meta.updated;
   document.querySelectorAll('nav.tabs button').forEach(b=>b.onclick=()=>{
     document.querySelectorAll('nav.tabs button').forEach(x=>x.classList.remove('active'));
@@ -77,6 +77,42 @@ function buildStandings(){
   render();
 }
 
+let overKey='combined', overDir=-1;
+function buildOverall(){
+  if(DATA.league_points){
+    const c=document.getElementById('lp-champ'), r=document.getElementById('lp-ru');
+    if(c)c.textContent=DATA.league_points.champion;
+    if(r)r.textContent=DATA.league_points.runner_up;
+  }
+  const cols=[
+    ['county','County','l'],['championship','Championship',''],['league','League',''],
+    ['combined','Combined',''],['league_share','League %','']
+  ];
+  const wrap=document.getElementById('overall-table');
+  const render=()=>{
+    const rows=[...DATA.overall].sort((a,b)=>{
+      const v=(a[overKey]>b[overKey]?1:a[overKey]<b[overKey]?-1:0); return v*overDir;
+    });
+    let h='<div class="card"><table><thead><tr><th class="static">#</th>';
+    cols.forEach(([k,lab,cls])=>{
+      const arr=(k===overKey)?(overDir<0?'▼':'▲'):'';
+      h+=`<th class="${cls||''}" data-k="${k}">${lab} <span class="arr">${arr}</span></th>`;
+    });
+    h+='</tr></thead><tbody>';
+    rows.forEach((r,i)=>{
+      h+=`<tr><td class="rank">${i+1}</td><td class="l county">${r.county}</td>`+
+         `<td>${r.championship}</td><td>${r.league}</td>`+
+         `<td class="total">${r.combined}</td><td>${r.league_share}%</td></tr>`;
+    });
+    h+='</tbody></table></div>'; wrap.innerHTML=h;
+    wrap.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{
+      const k=th.dataset.k;
+      if(k===overKey)overDir*=-1;else{overKey=k;overDir=(k==='county')?1:-1;}
+      render();});
+  };
+  render();
+}
+
 function buildEras(){
   const eras=DATA.eras;
   let h='<div class="card"><table><thead><tr><th class="l static">County</th>';
@@ -94,19 +130,42 @@ function buildEras(){
   document.getElementById('eras-table').innerHTML=h;
 }
 
+let matrixDecade='all';
 function buildMatrix(){
-  const yrs=DATA.years;
-  let h='<div class="card"><table class="matrix"><thead><tr><th class="county l">County</th>';
-  yrs.forEach(y=>h+=`<th>${String(y).slice(2)}</th>`);
-  h+='</tr></thead><tbody>';
-  DATA.standings.forEach(r=>{
-    h+=`<tr><td class="county l">${r.county}</td>`;
-    yrs.forEach(y=>{const v=r.by_year[y]||0;
-      h+=`<td><span class="cell" style="background:${TIER[v]};color:${v>=3?'#fff':'#456'}">${v||''}</span></td>`;});
-    h+='</tr>';
+  const allYrs=DATA.years;
+  const decades=[...new Set(allYrs.map(y=>Math.floor(y/10)*10))].sort((a,b)=>a-b);
+  const wrap=document.getElementById('matrix-table');
+  const filterEl=document.getElementById('matrix-decades');
+
+  const decadeBtns=()=>{
+    let h=`<button class="dec${matrixDecade==='all'?' active':''}" data-d="all">All years</button>`;
+    decades.forEach(d=>{h+=`<button class="dec${matrixDecade==d?' active':''}" data-d="${d}">${d}s</button>`;});
+    return h;
+  };
+  const render=()=>{
+    const yrs = matrixDecade==='all' ? allYrs
+              : allYrs.filter(y=>Math.floor(y/10)*10==matrixDecade);
+    // only show counties that scored in the visible range, to keep it readable
+    const rows=DATA.standings.filter(r=>matrixDecade==='all'||yrs.some(y=>r.by_year[y]>0));
+    let h='<div class="card"><table class="matrix"><thead><tr><th class="county l">County</th>';
+    yrs.forEach(y=>h+=`<th>${matrixDecade==='all'?String(y).slice(2):y}</th>`);
+    h+='</tr></thead><tbody>';
+    rows.forEach(r=>{
+      h+=`<tr><td class="county l">${r.county}</td>`;
+      yrs.forEach(y=>{const v=r.by_year[y]||0;
+        h+=`<td><span class="cell" style="background:${TIER[v]};color:${v>=3?'#fff':'#456'}">${v||''}</span></td>`;});
+      h+='</tr>';
+    });
+    h+='</tbody></table></div>';
+    wrap.innerHTML=h;
+  };
+  filterEl.innerHTML=decadeBtns();
+  filterEl.querySelectorAll('button.dec').forEach(b=>b.onclick=()=>{
+    matrixDecade=b.dataset.d==='all'?'all':+b.dataset.d;
+    filterEl.querySelectorAll('button.dec').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active'); render();
   });
-  h+='</tbody></table></div>';
-  document.getElementById('matrix-table').innerHTML=h;
+  render();
 }
 
 let honourKey='ai_titles', honourDir=-1;
@@ -139,80 +198,6 @@ function buildHonour(){
       render();});
   };
   render();
-}
-
-function buildFinals(){
-  const wrap=document.getElementById('finals-table');
-  const inp=document.getElementById('finals-filter');
-  const rows=[...DATA.finals].sort((a,b)=>b.year-a.year);
-  const render=(q='')=>{
-    q=q.trim().toLowerCase();
-    const f=rows.filter(r=>!q||[r.year,r.champion,r.runner_up,r.venue,r.captain,r.manager]
-      .some(v=>v&&String(v).toLowerCase().includes(q)));
-    let h='<div class="card"><table><thead><tr><th>Year</th><th class="l">Champion</th>'+
-      '<th>Score</th><th class="l">Runner-up</th><th>Score</th><th>Margin</th>'+
-      '<th class="l">Venue</th><th>Attend.</th><th class="l">Captain</th><th class="l">Manager</th>'+
-      '</tr></thead><tbody>';
-    f.forEach(r=>{
-      const rep=r.replay?' <span class="rep" title="after a replay">R</span>':'';
-      h+=`<tr><td class="total">${r.year}</td><td class="l county">${r.champion}</td>`+
-         `<td>${r.champion_score||'—'}</td><td class="l">${r.runner_up||'—'}</td>`+
-         `<td>${r.runner_up_score||'—'}</td><td>${r.margin==null?'—':r.margin}${rep}</td>`+
-         `<td class="l">${r.venue||'—'}</td>`+
-         `<td>${r.attendance?r.attendance.toLocaleString():'—'}</td>`+
-         `<td class="l">${r.captain||'—'}</td><td class="l">${r.manager||'—'}</td></tr>`;
-    });
-    h+='</tbody></table></div>';
-    if(!f.length)h='<p class="sub">No finals match that filter.</p>';
-    wrap.innerHTML=h;
-  };
-  inp.oninput=()=>render(inp.value); render();
-}
-
-function buildLeague(){
-  document.getElementById('league-stats').innerHTML=[
-    [DATA.national_league.length,'counties with a Division 1 title or final'],
-    [DATA.doubles.length,'league + championship doubles'],
-  ].map(([n,k])=>`<div class="stat"><div class="n">${n}</div><div class="k">${k}</div></div>`).join('');
-
-  let d='<div class="card"><table><thead><tr><th>Year</th><th class="l">County</th>'+
-    '<th class="l">Achievement</th></tr></thead><tbody>';
-  [...DATA.doubles].sort((a,b)=>b.year-a.year).forEach(r=>{
-    d+=`<tr><td class="total">${r.year}</td><td class="l county">${r.county}</td>`+
-       `<td class="l">National League + All-Ireland</td></tr>`;
-  });
-  d+='</tbody></table></div>';
-  document.getElementById('doubles-table').innerHTML=d;
-
-  let h='<div class="card"><table><thead><tr><th class="l">County</th>'+
-    '<th>Div 1 titles</th><th>Div 1 runner-up</th></tr></thead><tbody>';
-  DATA.national_league.forEach(r=>{
-    h+=`<tr><td class="l county">${r.county}</td><td class="total">${r.nfl_titles}</td>`+
-       `<td>${r.nfl_runner_ups}</td></tr>`;
-  });
-  h+='</tbody></table></div>';
-  document.getElementById('league-table').innerHTML=h;
-}
-
-function buildRecords(){
-  const R=DATA.records;
-  const mk=(title,list,val,unit)=>{
-    let h=`<div class="card rec"><h3>${title}</h3><table><tbody>`;
-    list.forEach(f=>{
-      const v=val(f);
-      h+=`<tr><td class="total">${f.year}</td>`+
-         `<td class="l">${f.champion} ${f.champion_score||''} v ${f.runner_up||'—'} ${f.runner_up_score||''}</td>`+
-         `<td class="num">${v}${unit?' '+unit:''}</td></tr>`;
-    });
-    h+='</tbody></table></div>'; return h;
-  };
-  document.getElementById('records-wrap').innerHTML=
-    '<div class="rec-grid">'+
-    mk('Biggest winning margins', R.biggest_margins, f=>f.margin, 'pts')+
-    mk('Tightest finals', R.tightest_finals, f=>f.margin, 'pt'+'s')+
-    mk('Highest-scoring finals', R.highest_scoring, f=>f.combined, 'pts')+
-    mk('Biggest attendances', R.biggest_crowds, f=>f.attendance.toLocaleString())+
-    '</div>';
 }
 
 function buildChart(){

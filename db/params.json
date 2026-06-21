@@ -14,5 +14,11 @@
   "provincial_points": {
     "champion": 1,
     "runner_up": 1
+  },
+
+  "_LEAGUE_README": "Points for the National Football League (Division 1), used ONLY in the 'overall annual performance' view that ADDS league points to championship points for the same year. The league is a separate competition from the championship, so within a year the two are added (not best-of); within each competition best-finish still applies. The league is deliberately scored below the championship: a Division 1 title (2) equals a championship quarter-final and is worth less than an All-Ireland semi-final (3).",
+  "league_points": {
+    "champion": 2,
+    "runner_up": 1
   }
 }

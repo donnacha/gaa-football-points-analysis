@@ -24,6 +24,11 @@
   "provincial_points": {
    "champion": 1,
    "runner_up": 1
+  },
+  "_LEAGUE_README": "Points for the National Football League (Division 1), used ONLY in the 'overall annual performance' view that ADDS league points to championship points for the same year. The league is a separate competition from the championship, so within a year the two are added (not best-of); within each competition best-finish still applies. The league is deliberately scored below the championship: a Division 1 title (2) equals a championship quarter-final and is worth less than an All-Ireland semi-final (3).",
+  "league_points": {
+   "champion": 2,
+   "runner_up": 1
   }
  },
  "eras": [
@@ -5869,6 +5874,284 @@
    "best": 0
   }
  ],
+ "overall": [
+  {
+   "rank": 1,
+   "county": "Kerry",
+   "championship": 395,
+   "league": 50,
+   "combined": 445,
+   "league_share": 11.2
+  },
+  {
+   "rank": 2,
+   "county": "Dublin",
+   "championship": 291,
+   "league": 39,
+   "combined": 330,
+   "league_share": 11.8
+  },
+  {
+   "rank": 3,
+   "county": "Mayo",
+   "championship": 215,
+   "league": 35,
+   "combined": 250,
+   "league_share": 14.0
+  },
+  {
+   "rank": 4,
+   "county": "Galway",
+   "championship": 219,
+   "league": 15,
+   "combined": 234,
+   "league_share": 6.4
+  },
+  {
+   "rank": 5,
+   "county": "Cork",
+   "championship": 211,
+   "league": 22,
+   "combined": 233,
+   "league_share": 9.4
+  },
+  {
+   "rank": 6,
+   "county": "Cavan",
+   "championship": 160,
+   "league": 8,
+   "combined": 168,
+   "league_share": 4.8
+  },
+  {
+   "rank": 7,
+   "county": "Meath",
+   "championship": 118,
+   "league": 20,
+   "combined": 138,
+   "league_share": 14.5
+  },
+  {
+   "rank": 8,
+   "county": "Roscommon",
+   "championship": 108,
+   "league": 4,
+   "combined": 112,
+   "league_share": 3.6
+  },
+  {
+   "rank": 9,
+   "county": "Kildare",
+   "championship": 91,
+   "league": 5,
+   "combined": 96,
+   "league_share": 5.2
+  },
+  {
+   "rank": 10,
+   "county": "Tyrone",
+   "championship": 90,
+   "league": 6,
+   "combined": 96,
+   "league_share": 6.2
+  },
+  {
+   "rank": 11,
+   "county": "Armagh",
+   "championship": 84,
+   "league": 5,
+   "combined": 89,
+   "league_share": 5.6
+  },
+  {
+   "rank": 12,
+   "county": "Down",
+   "championship": 68,
+   "league": 10,
+   "combined": 78,
+   "league_share": 12.8
+  },
+  {
+   "rank": 13,
+   "county": "Monaghan",
+   "championship": 72,
+   "league": 3,
+   "combined": 75,
+   "league_share": 4.0
+  },
+  {
+   "rank": 14,
+   "county": "Derry",
+   "championship": 51,
+   "league": 20,
+   "combined": 71,
+   "league_share": 28.2
+  },
+  {
+   "rank": 15,
+   "county": "Donegal",
+   "championship": 66,
+   "league": 5,
+   "combined": 71,
+   "league_share": 7.0
+  },
+  {
+   "rank": 16,
+   "county": "Wexford",
+   "championship": 61,
+   "league": 3,
+   "combined": 64,
+   "league_share": 4.7
+  },
+  {
+   "rank": 17,
+   "county": "Tipperary",
+   "championship": 62,
+   "league": 0,
+   "combined": 62,
+   "league_share": 0.0
+  },
+  {
+   "rank": 18,
+   "county": "Louth",
+   "championship": 54,
+   "league": 1,
+   "combined": 55,
+   "league_share": 1.8
+  },
+  {
+   "rank": 19,
+   "county": "Offaly",
+   "championship": 48,
+   "league": 3,
+   "combined": 51,
+   "league_share": 5.9
+  },
+  {
+   "rank": 20,
+   "county": "Laois",
+   "championship": 39,
+   "league": 5,
+   "combined": 44,
+   "league_share": 11.4
+  },
+  {
+   "rank": 21,
+   "county": "Antrim",
+   "championship": 42,
+   "league": 0,
+   "combined": 42,
+   "league_share": 0.0
+  },
+  {
+   "rank": 22,
+   "county": "Clare",
+   "championship": 31,
+   "league": 1,
+   "combined": 32,
+   "league_share": 3.1
+  },
+  {
+   "rank": 23,
+   "county": "London",
+   "championship": 32,
+   "league": 0,
+   "combined": 32,
+   "league_share": 0.0
+  },
+  {
+   "rank": 24,
+   "county": "Limerick",
+   "championship": 26,
+   "league": 0,
+   "combined": 26,
+   "league_share": 0.0
+  },
+  {
+   "rank": 25,
+   "county": "Sligo",
+   "championship": 25,
+   "league": 0,
+   "combined": 25,
+   "league_share": 0.0
+  },
+  {
+   "rank": 26,
+   "county": "Leitrim",
+   "championship": 16,
+   "league": 0,
+   "combined": 16,
+   "league_share": 0.0
+  },
+  {
+   "rank": 27,
+   "county": "Fermanagh",
+   "championship": 13,
+   "league": 1,
+   "combined": 14,
+   "league_share": 7.1
+  },
+  {
+   "rank": 28,
+   "county": "Kilkenny",
+   "championship": 13,
+   "league": 0,
+   "combined": 13,
+   "league_share": 0.0
+  },
+  {
+   "rank": 29,
+   "county": "Waterford",
+   "championship": 13,
+   "league": 0,
+   "combined": 13,
+   "league_share": 0.0
+  },
+  {
+   "rank": 30,
+   "county": "Westmeath",
+   "championship": 12,
+   "league": 0,
+   "combined": 12,
+   "league_share": 0.0
+  },
+  {
+   "rank": 31,
+   "county": "New York",
+   "championship": 0,
+   "league": 11,
+   "combined": 11,
+   "league_share": 100.0
+  },
+  {
+   "rank": 32,
+   "county": "Carlow",
+   "championship": 5,
+   "league": 1,
+   "combined": 6,
+   "league_share": 16.7
+  },
+  {
+   "rank": 33,
+   "county": "Longford",
+   "championship": 4,
+   "league": 2,
+   "combined": 6,
+   "league_share": 33.3
+  },
+  {
+   "rank": 34,
+   "county": "Wicklow",
+   "championship": 1,
+   "league": 0,
+   "combined": 1,
+   "league_share": 0.0
+  }
+ ],
+ "league_points": {
+  "champion": 2,
+  "runner_up": 1
+ },
  "finals": [
   {
    "year": 1887,
