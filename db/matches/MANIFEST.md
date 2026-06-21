@@ -26,11 +26,12 @@ second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
 
 | Wave | Sport | Grade | Competition | Years done | Matches | Notes |
 |------|-------|-------|-------------|-----------|---------|-------|
-| 1 | football | senior | championship (AI+prov) | 1930–2024 | 3730 | full field set, validated (0 warnings) |
+| 1 | football | senior | championship (AI+prov) | 1920–2024 | 4016 | full field set, validated (0 warnings) |
 
-Running total: **3730 matches** (football senior championship, 1930–2024).
-Next: continue wave 1 backwards (1920s → 1887, via /loop). The 1920s are genuinely messy
-(finals played years late, incomplete provinces, objections) — verify heavily.
+Running total: **4016 matches** (football senior championship, 1920–2024). 1925 captured with its
+disqualifications/awarded title; Civil War-era finals recorded with their actual (delayed) dates.
+Next: continue wave 1 backwards (1910s, 1900s, 1887–1899 via /loop) to complete the football senior
+championship. Then wave 2 (National League), wave 3+ (hurling, lower grades).
 Compiler skips the winner/score check for null-winner rows (abandoned/void) and for notes
 containing "objection"/"awarded"/"penalt"/"source-score-disputed".
 
