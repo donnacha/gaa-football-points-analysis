@@ -26,9 +26,18 @@ second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
 
 | Wave | Sport | Grade | Competition | Years done | Matches | Notes |
 |------|-------|-------|-------------|-----------|---------|-------|
-| 1 | football | senior | championship (AI+prov) | 2024 | 63 | pilot — full field set, validated |
+| 1 | football | senior | championship (AI+prov) | 2018–2024 | 373 | full field set, validated (0 warnings) |
+
+Running total: **373 matches** (football senior championship, 2018–2024).
+Next: continue wave 1 backwards (2010–2017, then 2001–2009 qualifier era, then 1990–2000, then
+pre-1990 → 1887). Then wave 2 (senior football National League).
 
 _Update this table after each extraction wave (run `compile_matches.py` for counts)._
+
+### Spot-check / verify later
+- 2021 Ulster SF Armagh 2-21 v Monaghan 4-17: recorded as regular time per Wikipedia, but widely
+  remembered as a.e.t./penalties — confirm against a second source.
+- 2020.json wrote 32 valid matches (agent summary said 33 — its miscount; file is correct).
 
 ## Known data-quality notes
 - Attendances frequently null on Wikipedia, esp. league/qualifier rounds and pre-1990; approximate-
