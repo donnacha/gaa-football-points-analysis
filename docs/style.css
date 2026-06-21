@@ -45,21 +45,41 @@ header.hero{position:relative;overflow:hidden;color:#fff;
 .legend .chip.lg{background:rgba(231,177,61,.16)}
 .legend .chip.sep{background:transparent;padding:5px 2px 5px 6px;font-size:.68rem;opacity:.72;
   text-transform:uppercase;letter-spacing:.08em;font-weight:600}
-.hero-model{margin-top:18px;max-width:880px;border-top:1px solid rgba(255,255,255,.18);
-  padding-top:14px}
+/* ---------- hero adjust-points (expanding) ---------- */
+.hero-model{margin-top:18px;max-width:920px;border:1px solid rgba(255,255,255,.18);
+  border-radius:12px;background:rgba(255,255,255,.06)}
+.hero-model-summary{list-style:none;cursor:pointer;padding:14px 16px;border-radius:12px;
+  transition:background .15s ease}
+.hero-model-summary::-webkit-details-marker{display:none}
+.hero-model-summary:hover{background:rgba(255,255,255,.05)}
+.hero-model[open] .hero-model-summary{border-bottom:1px solid rgba(255,255,255,.16);
+  border-radius:12px 12px 0 0}
 .hero-model-head{display:flex;justify-content:space-between;gap:14px;align-items:flex-start}
 .hero-model .legend-head{margin:0;color:var(--gold-soft)}
-.hero-model-copy{margin:4px 0 0;color:rgba(255,255,255,.78);font-size:.86rem}
-.quick-controls{display:grid;grid-template-columns:repeat(auto-fit,minmax(126px,1fr));gap:8px;margin-top:11px}
-.quick-field{display:grid;grid-template-columns:minmax(0,1fr) 54px;gap:7px;align-items:center;
-  background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:8px;
-  padding:7px 8px}
-.quick-field label{font-size:.78rem;font-weight:700;color:#fff;line-height:1.15}
-.quick-field input{width:54px;border:1px solid rgba(255,255,255,.32);border-radius:6px;
-  padding:5px 6px;text-align:right;font:inherit;font-size:.86rem;font-weight:700;color:#fff;
-  background:rgba(4,35,25,.36);font-variant-numeric:tabular-nums}
-.quick-field input:focus{outline:none;border-color:var(--gold-soft);
+.hero-model-copy{margin:4px 0 0;max-width:60ch;color:rgba(255,255,255,.78);font-size:.86rem}
+.hero-model-toggle{display:inline-flex;align-items:center;gap:8px;flex:none;
+  border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.12);color:#fff;
+  border-radius:999px;padding:6px 13px;font-size:.82rem;font-weight:700;letter-spacing:.01em}
+.hero-model-toggle .when-open{display:none}
+.hero-model[open] .hero-model-toggle .when-open{display:inline}
+.hero-model[open] .hero-model-toggle .when-closed{display:none}
+.hero-model-toggle .chevron{width:8px;height:8px;border-right:2px solid currentColor;
+  border-bottom:2px solid currentColor;transform:rotate(45deg);margin-top:-3px;
+  transition:transform .2s ease}
+.hero-model[open] .hero-model-toggle .chevron{transform:rotate(-135deg);margin-top:2px}
+.hero-model-body{padding:16px}
+.hero-model-foot{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;
+  gap:12px;margin-top:14px}
+.hero-model-foot .model-summary{margin-top:0}
+/* point-controls re-skinned for the dark hero */
+.hero-model .control-group{border-color:rgba(255,255,255,.18);background:rgba(255,255,255,.07)}
+.hero-model .control-group h3{color:var(--gold-soft)}
+.hero-model .score-field label,.hero-model .toggle-field{color:rgba(255,255,255,.92)}
+.hero-model .score-field input[type=number]{color:#fff;background:rgba(4,35,25,.36);
+  border-color:rgba(255,255,255,.3)}
+.hero-model .score-field input[type=number]:focus{border-color:var(--gold-soft);
   box-shadow:0 0 0 3px rgba(242,193,78,.18)}
+.hero-model .toggle-field input{accent-color:var(--gold-soft)}
 
 main{max-width:var(--maxw);margin:0 auto;padding:0 20px 72px}
 
