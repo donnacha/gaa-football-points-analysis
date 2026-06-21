@@ -39,11 +39,12 @@ Running total: **6760 matches** (football championship 1887–2025 + NFL 2008–
 ✅ Wave 2 essentially complete to the limit of reliable match-level data (2008–2025). **Pre-2008
 NFL** (two-year en-dash seasons) is finals/standings-only on Wikipedia — DEFERRED as an optional
 later finals-only sub-wave (db/matches… `<year>_nfl.json`), not worth full waves now.
-| 3 | hurling | senior | championship (AI+Lein+Mun) | 1910–2025 | 1855 | knockout; sparse early era; Glasgow/London/Lancashire AI rounds; Ulster excluded |
+| 3 | hurling | senior | championship (AI+Lein+Mun) | 1900–2025 | 1937 | knockout; sparse early era; home finals, walkovers, London/Britain entrants; Ulster excluded |
 
-Running total: **8615 matches** (football 1887–2025 champ + NFL 2008–2025; hurling SHC 1910–2025).
-Wave 3 in progress — hurling SHC (Liam MacCarthy). Next: hurling SHC 1900–1909, then 1887–1899
-to COMPLETE the hurling championship. Then wave 4 (hurling NHL), wave 5+ (Tailteann, U20/U21, minor).
+Running total: **8697 matches** (football 1887–2025 champ + NFL 2008–2025; hurling SHC 1900–2025).
+Wave 3 in progress — hurling SHC (Liam MacCarthy). Next: hurling SHC 1887–1899 (founding years,
+open-draw/representative format) to COMPLETE the hurling championship. Then wave 4 (hurling NHL),
+wave 5+ (Tailteann, U20/U21, minor).
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the

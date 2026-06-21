@@ -117,68 +117,108 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1901-02-10,football,senior,all_ireland,Final,Dublin,1,10,13,Cork,0,6,6,Dublin,"Jones's Road, Dublin",2000,L Stanley (Louth),delayed-final,https://en.wikipedia.org/wiki/1899_All-Ireland_Senior_Football_Championship
 1901-07-28,football,senior,leinster,Quarter-Final,Kildare,1,2,5,Laois,2,5,11,Laois,"Portarlington, County Laois",,,delayed-final,https://en.wikipedia.org/wiki/1899_All-Ireland_Senior_Football_Championship
 1901-08-18,football,senior,leinster,Quarter-Final,Offaly,0,1,1,Louth,6,14,32,Louth,Donnycarney,,,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1901-08-25,hurling,senior,leinster,Final,Kilkenny,4,11,23,Dublin,4,10,22,Kilkenny,Wexford Sportsfield,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1901-10-19,football,senior,leinster,Quarter-Final,Laois,5,14,29,Kildare,1,1,4,Laois,Jones Road,,,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 1901-10-19,football,senior,leinster,Quarter-Final,Kildare,1,7,10,Louth,3,9,18,Louth,Jones Road,,,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 1901-10-20,football,senior,munster,Quarter-Final,Limerick,,,,Clare,,,,Limerick,Markets Field,,,walkover; Limerick awarded the game (Clare w/o),https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1901-10-20,hurling,senior,munster,Quarter-final,Limerick,1,7,10,Clare,3,7,16,Clare,Markets Field,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1901-11-03,football,senior,leinster,Final,Kilkenny,0,12,12,Louth,0,0,0,Kilkenny,Wexford Park,,W.H. Redmond (Dublin),delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
 1901-11-03,football,senior,munster,Quarter-Final,Tipperary,0,3,3,Cork,0,1,1,Tipperary,Dungarvan,,P. Hayes,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1901-11-03,hurling,senior,munster,Quarter-final,Tipperary,0,12,12,Cork,0,9,9,Tipperary,Fraher Field,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1901-11-10,football,senior,munster,Semi-Final,Kerry,1,3,6,Waterford,0,5,5,Kerry,Turner's Cross,,,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1901-11-10,hurling,senior,munster,Semi-final,Kerry,,,,Waterford,,,,Kerry,Turner's Cross,,,walkover,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1901-11-17,football,senior,munster,Final 2nd Replay,Cork,3,11,20,Tipperary,0,1,1,Cork,Limerick,,J. Wall (W),replay; delayed-final,https://en.wikipedia.org/wiki/1899_All-Ireland_Senior_Football_Championship
 1902,football,senior,leinster,semi-final,Meath,0,4,4,Wexford,0,8,8,Wexford,Jones' Road,,,date given only as 1902,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1902,football,senior,leinster,semi-final,Dublin,1,5,8,Louth,0,3,3,Dublin,Drogheda,,,objection made; replay ordered; date given only as 1902,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1902,football,senior,leinster,semi-final replay,Dublin,1,5,8,Louth,0,3,3,Dublin,Jones' Road,,,replay; date given only as 1902,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1902-03-09,hurling,senior,leinster,Semi-final,Offaly,1,5,8,Kilkenny,3,3,12,Kilkenny,Abbeyleix Sportsfield,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1902-03-16,football,senior,munster,Semi-Final,Tipperary,2,4,10,Limerick,2,1,7,Tipperary,Tipperary,,T. Dooley,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1902-03-23,hurling,senior,munster,Semi-final,Tipperary,6,11,29,Clare,1,6,9,Tipperary,Markets Field,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1902-05-11,football,senior,munster,Final,Tipperary,1,13,16,Kerry,1,2,5,Tipperary,Markets Field,,J. Fitzgerald,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1902-05-11,hurling,senior,munster,Final,Tipperary,6,11,29,Kerry,2,1,7,Tipperary,Markets Field,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1902-06-29,football,senior,all_ireland,Home Semi-Final,Tipperary,0,7,7,Kilkenny,1,6,9,Tipperary,Carrick-on-Suir,,T. Redmond,objection; awarded; Kilkenny led on the field 1-6 (9) to Tipperary 0-7 (7) but Tipperary's objection was upheld and they were awarded the game,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1902-06-29,hurling,senior,all_ireland,Semi-final,Tipperary,1,11,14,Kilkenny,1,8,11,Tipperary,Carrick-on-Suir,,,delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
+1902-07-20,hurling,senior,all_ireland,Semi-final,Galway,,,,Antrim,0,1,1,Galway,Terenure,,,"delayed; exact score not recorded by reporters, Galway about 3-44, 3-17 to 0-1 at half-time and Antrim did not score in the second half",https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
+1902-07-27,hurling,senior,munster,Quarter-final,Cork,2,12,18,Limerick,1,5,8,Cork,Turner's Cross,,,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1902-08-31,football,senior,munster,quarter-final,Cork,0,8,8,Kerry,0,1,1,,"Market's Field, Limerick",,,abandoned due to referee illness; replayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1902-08-31,hurling,senior,munster,Quarter-final,Kerry,1,4,7,Cork,3,12,21,Cork,Markets Field,,J Cummins,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1902-09-21,football,senior,all_ireland,Home Final,Tipperary,2,17,23,Galway,0,1,1,Tipperary,Terenure,,,home-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1902-09-21,hurling,senior,all_ireland,Home Final,Tipperary,6,13,31,Galway,1,5,8,Tipperary,Terenure,,,home-final; delayed,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
+1902-09-28,hurling,senior,munster,Semi-final,Limerick,6,9,27,Clare,3,13,22,Limerick,Markets Field,,,"delayed; result disputed, semi-final refixed",https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1902-10-05,football,senior,munster,quarter-final replay,Cork,0,8,8,Kerry,0,6,6,Cork,Millstreet,,,replay,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1902-10-12,football,senior,connacht,semi-final,Galway,0,5,5,Roscommon,0,3,3,Galway,Ballaghaderreen,,,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1902-10-19,football,senior,leinster,preliminary round 2,Louth,2,14,20,Offaly,0,0,0,Louth,Jones' Road,,JW Kenny,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1902-10-19,football,senior,munster,quarter-final,Tipperary,0,5,5,Waterford,0,4,4,Tipperary,"Turners Cross, Cork",,J. Fitzgerald,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1902-10-19,hurling,senior,munster,Quarter-final,Tipperary,7,12,33,Waterford,0,0,0,Tipperary,Cork Athletic Grounds,,,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1902-10-26,football,senior,all_ireland,Final,Tipperary,3,7,16,London,0,2,2,Tipperary,"Jones's Road, Dublin",2000,T. Redmond,delayed-final,https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Football_Championship
+1902-10-26,hurling,senior,all_ireland,Final,Tipperary,2,5,11,London,0,6,6,Tipperary,Jones's Road,8000,J McCarthy (Kilkenny),"delayed; London received a bye to the final; attendance c. 8,000",https://en.wikipedia.org/wiki/1900_All-Ireland_Senior_Hurling_Championship
 1902-11-09,football,senior,connacht,final,Mayo,2,4,10,Galway,0,3,3,Mayo,Claremorris,,,Mayo received a bye to the final,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1902-12-07,hurling,senior,munster,Semi-final refixture,Limerick,0,1,1,Clare,2,10,16,Clare,Markets Field,,T Dooley,replay; delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1903-03-15,football,senior,munster,quarter-final replay,Tipperary,0,9,9,Waterford,0,2,2,Tipperary,Carrick-on-Suir,,J. Fitzgerald,replay,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1903-03-22,football,senior,leinster,final,Dublin,1,9,12,Wexford,0,1,1,Dublin,Kilkenny,,John McCarthy (Kilkenny),,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1903-03-22,football,senior,ulster,final,Antrim,3,5,14,Armagh,2,5,11,Antrim,,,,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1903-03-29,football,senior,munster,semi-final,Cork,2,3,9,Tipperary,0,6,6,Cork,"Market's Field, Limerick",,J. Fitzgerald,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1903-03-29,hurling,senior,munster,Semi-final,Cork,,,,Tipperary,,,,Cork,,,,walkover; Tipperary scratched; delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1903-04-12,football,senior,all_ireland,home semi-final,Dublin,2,12,18,Antrim,0,2,2,Dublin,"Jones' Road, Dublin",,,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1903-04-12,hurling,senior,all_ireland,Semi-final,Wexford,7,12,33,Antrim,1,3,6,Wexford,Jones's Road,,,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1903-04-19,football,senior,munster,final,Cork,1,9,12,Limerick,1,6,9,Cork,Tipperary,,,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1903-04-26,hurling,senior,leinster,Final,Wexford,7,6,27,Offaly,1,3,6,Wexford,Kilkenny,,,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
+1903-04-26,hurling,senior,munster,Final,Cork,3,10,19,Clare,2,6,12,Cork,Markets Field,,,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1903-05-10,football,senior,munster,Quarter-Final,Kerry,0,4,4,Waterford,0,3,3,Kerry,Cork,,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1903-05-10,hurling,senior,munster,First Round,Kerry,5,5,20,Waterford,0,3,3,Kerry,"Turners Cross, Cork",,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1903-05-17,football,senior,all_ireland,home semi-final,Cork,4,16,28,Mayo,0,1,1,Cork,Limerick,,,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1903-05-17,hurling,senior,all_ireland,Semi-final,Cork,7,12,33,Galway,1,3,6,Cork,Markets Field,,,delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
+1903-06-07,hurling,senior,munster,Semi-final,Limerick,,,,Tipperary,,,,Limerick,,,,walkover; Tipperary scratched,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
+1903-06-14,hurling,senior,all_ireland,Home Final,Cork,2,8,14,Wexford,0,6,6,Cork,Carrick-on-Suir,,,home-final; delayed,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1903-06-28,football,senior,munster,Quarter-Final,Cork,0,7,7,Clare,1,2,5,Cork,Tipperary,,,Cork 0-7 (7) beat Clare 1-2 (5),https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1903-06-28,hurling,senior,munster,First Round,Cork,6,7,25,Clare,3,3,12,Cork,Tipperary,,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1903-07-05,football,senior,all_ireland,home final,Dublin,1,2,5,Cork,0,4,4,Dublin,Tipperary,,,,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
 1903-08-02,football,senior,all_ireland,final,Dublin,0,14,14,London,0,2,2,Dublin,"Jones' Road, Dublin",2000,John McCarthy (Kilkenny),delayed final (played 1903),https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Football_Championship
+1903-08-02,hurling,senior,all_ireland,Final,London,1,5,8,Cork,0,4,4,London,Jones's Road,,J McCarthy,delayed; London (Brian Borus) first All-Ireland title,https://en.wikipedia.org/wiki/1901_All-Ireland_Senior_Hurling_Championship
 1903-08-09,football,senior,munster,Semi-Final,Kerry,2,7,13,Cork,0,3,3,Kerry,Millstreet,,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1903-08-09,hurling,senior,munster,Semi-final,Cork,2,11,17,Kerry,0,3,3,Cork,Millstreet,,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1903-10-04,football,senior,munster,Final,Tipperary,1,4,7,Kerry,1,4,7,draw,Turner's Cross,,J. Fitzgerald,draw,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1903-10-18,hurling,senior,munster,Final,Cork,2,9,15,Limerick,1,5,8,Cork,Tipperary,,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1903-11-01,football,senior,leinster,Preliminary round,Kilkenny,0,0,0,Carlow,0,0,0,draw,Kilkenny,,,draw; date shown as November 1903 (day not given),https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1903-11-01,football,senior,leinster,Preliminary round,Louth,0,0,0,Meath,0,0,0,draw,Dundalk,,,draw; date shown as November 1903 (day not given),https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1903-11-01,football,senior,leinster,Preliminary round replay,Louth,0,7,7,Meath,0,4,4,Louth,Dundalk,,,replay; date shown as November 1903 (day not given),https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1903-11-01,football,senior,leinster,Preliminary round,Longford,0,2,2,Wexford,2,12,18,Wexford,"Jones's Road, Dublin",,,date shown as November 1903 (day not given),https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
+1903-11-01,hurling,senior,leinster,First Round,Offaly,,,,Carlow,,,,Offaly,,,,walkover; Carlow scratched,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1903-11-01,football,senior,munster,Final Replay,Tipperary,1,6,9,Kerry,1,5,8,Tipperary,Turner's Cross,,J. Fitzgerald,replay,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1903-11-15,football,senior,leinster,Quarter-Final,Kilkenny,0,7,7,Kildare,0,3,3,Kilkenny,Carlow,,,delayed-final; match dated 1903 on the 1902 championship page,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-01-03,football,senior,ulster,Semi-Final,Armagh,0,3,3,Tyrone,0,2,2,,"Abbey Park, Armagh",,,abandoned; Armagh led 0-3 to 0-2; replayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-01-24,football,senior,leinster,Quarter-Final,Offaly,0,3,3,Wexford,0,3,3,draw,"Jones' Road, Dublin",,D O Callaghan,draw; unfinished,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1904-01-24,hurling,senior,leinster,First Round Replay,Laois,1,8,11,Meath,1,1,4,Laois,"Jones' Road, Dublin",,,replay; delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
+1904-01-24,hurling,senior,leinster,Second Round,Offaly,0,7,7,Wexford,0,3,3,Offaly,"Jones' Road, Dublin",,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
+1904-01-31,hurling,senior,leinster,Second Round,Kilkenny,2,10,16,Laois,0,1,1,Kilkenny,"Gaelic Park, Kilkenny",,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1904-01-31,football,senior,ulster,Semi-Final Replay,Armagh,1,6,9,Tyrone,0,3,3,Armagh,"Emmett Park, Dungannon",,,replay,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-02-07,football,senior,leinster,Quarter-Final Replay,Wexford,0,10,10,Offaly,0,5,5,Wexford,"Jones' Road, Dublin",,J Kenny,replay; unfinished,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-02-07,football,senior,ulster,Semi-Final,Antrim,1,3,6,Cavan,0,1,1,Antrim,"Seaghan an Diomáis Park, Belfast",,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-03-06,football,senior,leinster,Quarter-Final Replay No.2,Wexford,3,6,15,Offaly,0,1,1,Wexford,"Jones' Road, Dublin",,D O Callaghan,replay; second replay following an earlier unfinished replay,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1904-03-06,hurling,senior,leinster,Semi-final,Kilkenny,5,8,23,Offaly,1,4,7,Kilkenny,,,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
+1904-03-20,hurling,senior,all_ireland,Semi-final,Cork,10,13,43,Galway,0,0,0,Cork,Tipperary,,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
+1904-03-27,hurling,senior,leinster,Final,Dublin,0,8,8,Kilkenny,1,4,7,Dublin,"Jones' Road, Dublin",,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1904-04-03,football,senior,ulster,Final,Armagh,2,2,8,Antrim,1,4,7,Armagh,"Seaghan an Diomáis Park, Belfast",,,Armagh 2-2 (8) beat Antrim 1-4 (7),https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-04-24,football,senior,all_ireland,Home Semi-Final,Tipperary,2,5,11,Galway,0,4,4,Tipperary,Athenry,,Mr O'Sullivan,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-05-01,football,senior,leinster,Final,Dublin,2,4,10,Wexford,0,2,2,,Carlow,,,abandoned; recorded as drew (unfinished) on the page and replayed; Dublin led 2-4 to 0-2 when abandoned,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-06-05,football,senior,all_ireland,Home Semi-Final,Dublin,4,16,28,Armagh,1,6,9,Dublin,Drogheda,,,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1904-06-05,hurling,senior,all_ireland,Semi-final,Dublin,6,19,37,Derry,0,6,6,Dublin,Drogheda,,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1904-06-12,football,senior,leinster,Final Replay,Dublin,1,5,8,Wexford,0,5,5,Dublin,Kilkenny,,,replay,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-06-13,football,senior,munster,Quarter-final,Kerry,4,8,20,Waterford,0,3,3,Kerry,Turners Cross,,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1904-06-19,football,senior,munster,Semi-final,Cork,1,5,8,Tipperary,0,4,4,Cork,Kilmallock,,L. O'Toole (Dublin),,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
+1904-07-03,hurling,senior,all_ireland,Home Final,Cork,1,7,10,Dublin,1,7,10,draw,Tipperary,,,home-final; draw; delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
+1904-07-17,hurling,senior,all_ireland,Home Final Replay,Cork,2,6,12,Dublin,0,1,1,Cork,Tipperary,,,home-final; replay; delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1904-07-24,football,senior,all_ireland,Home Final,Dublin,0,6,6,Tipperary,0,5,5,Dublin,Kilkenny,,J. McCarthy,,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
 1904-08-07,football,senior,munster,Semi-final,Kerry,2,7,13,Clare,2,0,6,Kerry,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1904-08-21,football,senior,leinster,Quarter-final,Offaly,0,2,2,Laois,1,5,8,Laois,Maryborough,,J McCarthy,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1904-09-11,football,senior,all_ireland,Final,Dublin,2,8,14,London,0,4,4,Dublin,Cork,10000,"Thomas F O'Sullivan, Kerry",delayed-final; 1902 final played 11 September 1904,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Football_Championship
+1904-09-11,hurling,senior,all_ireland,Final,Cork,3,13,22,London,0,0,0,Cork,"Cork Athletic Grounds, Cork",,,delayed,https://en.wikipedia.org/wiki/1902_All-Ireland_Senior_Hurling_Championship
 1904-09-18,football,senior,leinster,Quarter-final,Kildare,3,11,20,Dublin,0,3,3,Kildare,Geashill,,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1904-10-23,football,senior,leinster,Semi-final,Kildare,4,5,17,Laois,1,1,4,Kildare,Maryborough,,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1904-10-30,football,senior,munster,Final,Kerry,1,7,10,Cork,0,4,4,Kerry,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1904-12-11,football,senior,leinster,Final,Kildare,1,2,5,Kilkenny,0,5,5,draw,Wexford,,,draw; replay ordered due to a disputed disallowed Kilkenny point,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-01-06,football,senior,ulster,Quarter-final,Monaghan,0,11,11,Fermanagh,0,3,3,Monaghan,Enniskillen,,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
+1905-02-12,hurling,senior,leinster,Final,Kilkenny,1,5,8,Dublin,1,5,8,Kilkenny,Kilkenny,,,objection; Kilkenny objected against the Dublin goal and were awarded the title without a replay; scores level 1-05 to 1-05,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Hurling_Championship
 1905-02-26,football,senior,leinster,Final replay,Kildare,1,6,9,Kilkenny,1,5,8,Kildare,Wexford,,,replay,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-03-12,football,senior,ulster,Semi-final,Cavan,0,11,11,Monaghan,0,3,3,Cavan,Newbliss,,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-03-26,football,senior,connacht,semi-final,Mayo,0,7,7,Galway,0,4,4,Mayo,Claremorris,,,date as shown on source (1905),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
@@ -186,35 +226,51 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1905-04-23,football,senior,connacht,final,Mayo,3,6,15,Roscommon,0,1,1,Mayo,Claremorris,,,date as shown on source (1905),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1905-04-23,football,senior,ulster,Final,Cavan,0,5,5,Armagh,0,5,5,draw,"Abbey Park, Armagh",,,draw,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-05-07,football,senior,all_ireland,Semi-final,Kerry,2,7,13,Mayo,0,4,4,Kerry,Limerick,,,home semi-final,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
+1905-05-07,hurling,senior,all_ireland,Semi-final,Cork,4,21,33,Galway,1,3,6,Cork,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Hurling_Championship
 1905-05-28,football,senior,ulster,Final replay,Cavan,0,5,5,Armagh,0,5,5,draw,Cavan,,,replay; draw after extra time (A.E.T.),https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-06-04,football,senior,leinster,Final second replay,Kildare,0,9,9,Kilkenny,0,1,1,Kildare,"Jones's Road, Dublin",,M. F. Crowe (Dublin),second replay,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-06-11,football,senior,munster,quarter-final,Waterford,1,11,14,Tipperary,0,6,6,Waterford,Carrick-on-Suir,,,date as shown on source (1905),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1905-06-11,football,senior,ulster,Final second replay,Cavan,0,8,8,Armagh,0,4,4,Cavan,Newbliss,,,second replay,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-06-18,football,senior,all_ireland,Semi-final,Kildare,0,8,8,Cavan,0,0,0,Kildare,"Jones's Road, Dublin",,,home semi-final,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
+1905-06-18,hurling,senior,all_ireland,Semi-final,Kilkenny,6,29,47,Antrim,3,2,11,Kilkenny,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Hurling_Championship
+1905-07-16,hurling,senior,all_ireland,Home Final,Cork,8,9,33,Kilkenny,0,8,8,Cork,"Fraher Field, Dungarvan",,,home-final,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Hurling_Championship
 1905-07-23,football,senior,all_ireland,Final,Kerry,1,4,7,Kildare,1,3,6,,Tipperary,,,"home final (Kerry-Kildare saga, game 1); abandoned - unfinished game, replay ordered; winner null as match not completed",https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-08-27,football,senior,all_ireland,Final replay,Kerry,0,7,7,Kildare,1,4,7,draw,Cork,,,"home final (Kerry-Kildare saga, game 2); replay; level on aggregate score 0-7 (7) v 1-4 (7), drawn - a further replay was required",https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-08-27,football,senior,munster,Quarter-Final,Kerry,5,8,23,Tipperary,1,4,7,Kerry,Cork Athletic Grounds,,W. Curtin (Cork),,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1905-10-15,football,senior,all_ireland,Final second replay,Kerry,0,8,8,Kildare,0,2,2,Kerry,Cork,,,"home final (Kerry-Kildare saga, game 3); second replay; Kerry won the home final",https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
 1905-10-29,football,senior,munster,semi-final,Kerry,1,4,7,Cork,0,0,0,Kerry,"Market's Field, Limerick",,,date as shown on source (1905),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1905-11-12,football,senior,all_ireland,Final,Kerry,0,11,11,London,0,3,3,Kerry,"Jones's Road, Dublin",10000,John McCarthy (Kilkenny),"All-Ireland final proper (home champions Kerry v London); page labels Kerry-Kildare games as the Home Final, this as the Final",https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Football_Championship
+1905-11-12,hurling,senior,all_ireland,Final,Cork,3,16,25,London,1,1,4,Cork,"Jones's Road, Dublin",,,delayed; 1903 championship played in 1905,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Hurling_Championship
 1905-12-10,football,senior,munster,final,Kerry,0,3,3,Waterford,0,3,3,draw,Cork Athletic Grounds,,,draw; replay ordered; date as shown on source (1905),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
+1905-12-17,hurling,senior,munster,Final,Tipperary,3,4,13,Cork,3,10,19,Cork,Fraher Field,,,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
 1906-01-07,football,senior,munster,final replay,Kerry,2,3,9,Waterford,0,2,2,Kerry,Dungarvan,,,replay; date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1906-01-21,football,senior,leinster,quarter-final,Offaly,2,1,7,Louth,1,5,8,Louth,"Jones' Road, Dublin",,,date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1906-03-18,football,senior,leinster,quarter-final,Dublin,0,9,9,Kildare,0,5,5,Dublin,"Jones' Road, Dublin",,,date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1906-04-08,football,senior,connacht,Semi-Final,Roscommon,0,8,8,Galway,0,3,3,Roscommon,Claremorris,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1906-04-15,hurling,senior,leinster,Semi-final,Kilkenny,3,11,20,Offaly,1,4,7,Kilkenny,Portlaoise,,,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
 1906-04-29,football,senior,connacht,Semi-Final,Mayo,1,7,10,Sligo,0,2,2,Mayo,Claremorris,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1906-05-06,football,senior,all_ireland,semi-final,Kerry,4,10,22,Cavan,0,1,1,Kerry,"Jones' Road, Dublin",,,date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
+1906-05-06,hurling,senior,all_ireland,Semi-final,Cork,8,11,35,Antrim,2,3,9,Cork,Jones's Road,,,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
+1906-05-06,hurling,senior,leinster,Semi-final,Wexford,1,6,9,Dublin,4,8,20,Dublin,Enniscorthy,,J Tynan,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
 1906-05-13,football,senior,all_ireland,semi-final,Dublin,0,8,8,Mayo,1,4,7,Dublin,Athlone,,,date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
+1906-05-13,hurling,senior,all_ireland,Semi-final,Kilkenny,2,8,14,Galway,1,7,10,Kilkenny,Athlone,,,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
 1906-05-13,football,senior,munster,Quarter-Final,Cork,3,8,17,Waterford,0,5,5,Cork,Dungarvan,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1906-05-27,football,senior,connacht,Final,Roscommon,0,7,7,Mayo,0,5,5,Roscommon,Tuam,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1906-06-10,hurling,senior,leinster,Final,Kilkenny,2,8,14,Dublin,2,6,12,Kilkenny,Enniscorthy,,J Lacey,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
 1906-06-17,football,senior,leinster,final,Dublin,0,5,5,Kilkenny,0,1,1,Dublin,Wexford,5000,Jack Fitzgerald (Kildare),date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
+1906-06-24,hurling,senior,all_ireland,Final,Kilkenny,1,9,12,Cork,1,8,11,Kilkenny,Carrick-on-Suir,4000,,,https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Hurling_Championship
 1906-07-01,football,senior,all_ireland,final,Kerry,0,5,5,Dublin,0,2,2,Kerry,Cork,10000,John Fitzgerald (Cork),delayed-final; date as shown on source (1906),https://en.wikipedia.org/wiki/1904_All-Ireland_Senior_Football_Championship
 1906-08-05,football,senior,all_ireland,Quarter-Final,Dublin,1,9,12,London,1,4,7,Dublin,"Jones' Road, Dublin",,,Leinster was unfinished so Dublin was nominated to face London; when Kildare won Leinster they were deemed to have defeated London,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1906-08-05,hurling,senior,all_ireland,Quarter-final,Kilkenny,2,21,27,Lancashire,0,5,5,Kilkenny,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
+1906-08-05,hurling,senior,all_ireland,Quarter-final,Antrim,3,13,22,Glasgow,3,11,20,Antrim,Belfast,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
 1906-08-19,football,senior,leinster,Quarter-Final,Dublin,0,2,2,Kildare,0,6,6,Kildare,Athy,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1906-09-02,football,senior,all_ireland,Semi-Final,Kerry,2,10,16,Roscommon,1,3,6,Kerry,Limerick,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1906-09-02,hurling,senior,all_ireland,Semi-final,Cork,5,13,28,Galway,0,4,4,Cork,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
 1906-09-02,football,senior,leinster,Quarter-Final,Offaly,0,8,8,Meath,0,1,1,Offaly,"Jones' Road, Dublin",,Joe Kenny,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1906-09-30,football,senior,all_ireland,Semi-Final,Kildare,4,15,27,Cavan,1,6,9,Kildare,"Jones' Road, Dublin",,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1906-09-30,hurling,senior,all_ireland,Semi-final,Dublin,5,8,23,Antrim,1,9,12,Dublin,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
 1906-10-14,football,senior,leinster,Semi-Final,Kildare,1,6,9,Offaly,0,6,6,Kildare,Geashill,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1906-10-21,hurling,senior,leinster,Final,Kilkenny,2,8,14,Dublin,2,2,8,Kilkenny,Wexford,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
 1907-01-06,football,senior,leinster,Final,Kildare,0,12,12,Louth,1,7,10,Kildare,"Jones' Road, Dublin",,M.F. Crowe (Dublin),,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1907-01-20,football,senior,munster,Semi-Final,Kerry,1,7,10,Cork,0,5,5,Kerry,Cork Athletic Grounds,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1907-02-03,football,senior,connacht,quarter-final,Roscommon,5,6,21,Leitrim,0,3,3,Roscommon,Longford,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
@@ -222,6 +278,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1907-03-31,football,senior,leinster,quarter-final,Offaly,0,6,6,Wexford,1,6,9,Wexford,"Jones' Road, Dublin",,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-04-07,football,senior,connacht,final,Mayo,2,16,22,Galway,0,1,1,Mayo,Claremorris,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-04-07,football,senior,munster,Final,Kerry,2,10,16,Limerick,1,6,9,Kerry,Tralee,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
+1907-04-14,hurling,senior,all_ireland,Final,Cork,5,10,25,Kilkenny,3,13,22,Cork,"Tipperary Park, Tipperary",,,Cork won on the field (25-22) but the result did not stand; the final went to a replay won by Kilkenny,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
 1907-04-21,football,senior,connacht,quarter-final,Roscommon,3,6,15,Sligo,1,3,6,Roscommon,Ballaghadereen,,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1907-04-28,football,senior,leinster,semi-final,Kildare,0,13,13,Wexford,0,1,1,Kildare,Athy,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-04-28,football,senior,ulster,quarter-final,Monaghan,2,4,10,Cavan,0,5,5,Monaghan,Cootehill,7000,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
@@ -229,21 +286,27 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1907-05-06,football,senior,ulster,preliminary round,Down,1,6,9,Armagh,0,4,4,Down,Newry,5000,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-05-12,football,senior,munster,quarter-final,Kerry,2,8,14,Clare,0,1,1,Kerry,Market's Field,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-05-19,football,senior,all_ireland,quarter-final,Kildare,2,1,7,Monaghan,1,3,6,Kildare,"Shauns Park, Belfast",,,Kildare nominated to represent Leinster as the provincial final had not concluded,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
+1907-05-19,hurling,senior,all_ireland,Quarter-final,Kilkenny,7,21,42,Donegal,1,3,6,Kilkenny,Belfast,,,delayed,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Hurling_Championship
 1907-05-19,football,senior,munster,semi-final,Cork,2,7,13,Waterford,1,2,5,Cork,Dungarvan,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-06-14,football,senior,ulster,quarter-final,Antrim,1,8,11,Down,0,9,9,Antrim,Newry,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
+1907-06-15,hurling,senior,all_ireland,Final Replay,Kilkenny,7,7,28,Cork,2,9,15,Kilkenny,"Fraher Field, Dungarvan",,,replay; Kilkenny won the All-Ireland title,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
 1907-06-16,football,senior,all_ireland,Final,Kildare,1,7,10,Kerry,0,5,5,Kildare,Thurles,15000,M.F. Crowe (Dublin),delayed-final,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Football_Championship
 1907-06-21,football,senior,ulster,quarter-final,Derry,0,18,18,Donegal,0,2,2,Derry,,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-06-23,football,senior,munster,quarter-final,Tipperary,0,6,6,Limerick,0,6,6,draw,Cork,,D. Roughan (Clare),draw,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-07-07,football,senior,leinster,final,Dublin,1,9,12,Kildare,0,8,8,Dublin,Kilkenny,5000,John Kennedy (Wexford),,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-07-07,football,senior,munster,quarter-final replay,Tipperary,1,9,12,Limerick,0,2,2,Tipperary,Fermoy,,W. Curtin (Cork),replay,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-07-07,football,senior,ulster,semi-final,Monaghan,0,10,10,Fermanagh,1,4,7,Monaghan,Newbliss,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
+1907-07-14,hurling,senior,leinster,Final,Dublin,1,14,17,Kilkenny,0,5,5,Dublin,Wexford,,,delayed,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Hurling_Championship
 1907-07-21,football,senior,munster,semi-final,Kerry,0,7,7,Tipperary,0,3,3,Kerry,Market's Field,,W. Curtin (Cork),,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-08-04,football,senior,all_ireland,semi-final,Dublin,2,7,13,London,0,3,3,Dublin,Wexford,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
+1907-08-04,hurling,senior,all_ireland,Semi-final,Dublin,4,10,22,London,2,2,8,Dublin,"Wexford Park, Wexford",,,delayed,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Hurling_Championship
 1907-08-18,football,senior,munster,final,Cork,1,10,13,Kerry,0,3,3,Cork,Tipperary,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-08-18,football,senior,ulster,semi-final,Antrim,1,14,17,Derry,0,4,4,Antrim,Belfast,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-09-08,football,senior,all_ireland,semi-final,Cork,0,10,10,Mayo,0,6,6,Cork,Limerick,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
+1907-09-08,hurling,senior,all_ireland,Semi-final,Tipperary,7,14,35,Galway,0,2,2,Tipperary,"Markets Field, Limerick",,,delayed,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Hurling_Championship
 1907-09-13,football,senior,ulster,final,Monaghan,2,10,16,Antrim,1,2,5,Monaghan,"Clones, County Monaghan",,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
 1907-10-20,football,senior,all_ireland,final,Dublin,0,5,5,Cork,0,4,4,Dublin,"Geraldine Park, Athy",8000,John Fitzgerald (Kildare),delayed-final,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Football_Championship
+1907-10-27,hurling,senior,all_ireland,Final,Tipperary,3,16,25,Dublin,3,8,17,Tipperary,Kilkenny,,,delayed,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Hurling_Championship
 1907-12-08,football,senior,leinster,quarter-final,Offaly,1,17,20,Wexford,0,2,2,Offaly,"Jones Road, Dublin",,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1907-12-08,football,senior,leinster,quarter-final,Dublin,0,11,11,Kildare,0,7,7,Dublin,"Jones Road, Dublin",,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1907-12-08,football,senior,munster,quarter-final,Cork,2,5,11,Limerick,0,2,2,Cork,Limerick,,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
@@ -252,6 +315,7 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1908-02-02,football,senior,ulster,quarter-final replay,Antrim,0,9,9,Down,0,5,5,Antrim,Newry,,,replay,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-02-16,football,senior,ulster,quarter-final,Cavan,,,,Tyrone,,,,Cavan,Newbliss,,,walkover; Cavan awarded the game,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-03-15,football,senior,all_ireland,semi-final,Dublin,1,5,8,Monaghan,0,2,2,Dublin,"Jones Road, Dublin",,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
+1908-03-15,hurling,senior,all_ireland,Semi-final,Dublin,5,10,25,Antrim,2,5,11,Dublin,Dundalk,,,played before the Leinster championship had been decided; Kilkenny later beat Dublin and took Dublin's place in the All-Ireland final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Hurling_Championship
 1908-03-15,football,senior,munster,quarter-final,Kerry,4,6,18,Clare,0,2,2,Kerry,"Market's Field, Limerick",,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-03-29,football,senior,munster,semi-final,Cork,1,9,12,Kerry,0,6,6,Cork,"Market's Field, Limerick",,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-03-29,football,senior,munster,semi-final,Tipperary,1,14,17,Waterford,0,3,3,Tipperary,Carrick-on-Suir,,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
@@ -260,9 +324,12 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1908-04-26,football,senior,munster,final,Cork,1,7,10,Tipperary,1,1,4,Cork,Dungarvan,,P. Naughton,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-05-03,football,senior,connacht,Quarter-Final,Leitrim,0,1,1,Sligo,0,5,5,Sligo,Mohill,,,,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
 1908-05-10,football,senior,all_ireland,quarter-final,Cork,2,10,16,Mayo,,,,Cork,Limerick,,,"abandoned; match unfinished, Cork awarded the game",https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
+1908-05-10,hurling,senior,all_ireland,Semi-final,Cork,2,8,14,Galway,1,7,10,Cork,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Hurling_Championship
+1908-05-24,hurling,senior,leinster,Final,Kilkenny,4,14,26,Dublin,1,9,12,Kilkenny,Athy,,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Hurling_Championship
 1908-05-26,football,senior,connacht,final,Mayo,2,13,19,Roscommon,0,5,5,Mayo,Tuam,,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-06-06,football,senior,ulster,semi-final,Antrim,0,12,12,Armagh,0,6,6,Antrim,Armagh,,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-06-07,football,senior,all_ireland,semi-final,Cork,1,14,17,London,1,5,8,Cork,Cork,,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
+1908-06-21,hurling,senior,all_ireland,Final,Kilkenny,3,12,21,Cork,4,8,20,Kilkenny,"Fraher Field, Dungarvan",15000,M.F. Crowe (Limerick),,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Hurling_Championship
 1908-06-21,football,senior,ulster,semi-final,Cavan,0,7,7,Fermanagh,0,2,2,Cavan,Enniskillen,,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-07-05,football,senior,all_ireland,final,Dublin,0,6,6,Cork,0,2,2,Dublin,Tipperary,5000,John Fitzgerald (Kildare),delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
 1908-07-12,football,senior,connacht,semi-final,Mayo,3,6,15,Galway,0,1,1,Mayo,Tuam,,,delayed-final,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Football_Championship
@@ -282,10 +349,15 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1908-12-13,football,senior,ulster,Final Replay,Cavan,2,4,10,Antrim,0,4,4,Cavan,Castleblayney,,,replay,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
 1909-01-31,football,senior,connacht,Final,Mayo,2,5,11,Roscommon,0,4,4,Mayo,Tuam,,,delayed-final,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
 1909-02-14,football,senior,all_ireland,Home Semi-Final,Kerry,2,4,10,Mayo,0,1,1,Kerry,Limerick,,,"abandoned; shown as unfinished, Kerry advanced",https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
+1909-02-14,hurling,senior,all_ireland,semi-final,Tipperary,5,15,30,Galway,1,0,3,Tipperary,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Hurling_Championship
 1909-02-21,football,senior,all_ireland,Home Semi-Final,Dublin,1,8,11,Antrim,0,2,2,Dublin,Jones' Road,,,,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
+1909-02-21,hurling,senior,all_ireland,semi-final,Dublin,4,12,24,Cavan,0,3,3,Dublin,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Hurling_Championship
+1909-03-07,hurling,senior,leinster,final,Dublin,,,,Kilkenny,,,,Dublin,"Jones' Road, Dublin",,,walkover; Kilkenny refused to play due to a dispute over the Railway Shield,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Hurling_Championship
 1909-03-28,football,senior,ulster,quarter-final,Monaghan,,,,Armagh,,,,,Castleblayney,,,abandoned; replayed on 1909-08-01,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
+1909-04-25,hurling,senior,all_ireland,final,Tipperary,2,5,11,Dublin,1,8,11,draw,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Hurling_Championship
 1909-05-09,football,senior,all_ireland,Home Final,Dublin,0,10,10,Kerry,0,3,3,Dublin,Thurles,,,delayed-final,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
 1909-05-16,football,senior,leinster,quarter-final,Offaly,1,9,12,Kildare,1,4,7,Offaly,Maryboro,1500,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
+1909-06-27,hurling,senior,all_ireland,final,Tipperary,3,15,24,Dublin,1,5,8,Tipperary,Athy,,,replay,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Hurling_Championship
 1909-07-04,football,senior,munster,quarter-final,Kerry,2,10,16,Tipperary,0,5,5,Kerry,Fermoy,,J. Fgan (Cork),,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-07-11,football,senior,leinster,quarter-final,Dublin,0,18,18,Wexford,0,6,6,Dublin,,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-07-11,football,senior,leinster,quarter-final,Louth,0,7,7,Meath,0,5,5,Louth,Navan,2000,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
@@ -296,13 +368,17 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1909-09-12,football,senior,ulster,semi-final,Antrim,0,10,10,Monaghan,0,6,6,Antrim,Clones,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-09-19,football,senior,munster,final,Kerry,2,8,14,Cork,1,7,10,Kerry,"Market's Field, Limerick",,,"source inconsistency: page lists a 'Final Replay' on 1909-11-07 implying this match was drawn, but the recorded score Kerry 2-8 (14) v Cork 1-7 (10) is not a draw and gives Kerry a 4-point win; scores recorded as shown",https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-10-03,football,senior,all_ireland,Final,Dublin,1,10,13,London,0,4,4,Dublin,Jones' Road,10000,M Conroy,delayed-final,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Football_Championship
+1909-10-03,hurling,senior,leinster,final,Kilkenny,5,16,31,Laois,2,7,13,Kilkenny,Kilkenny,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Hurling_Championship
 1909-10-10,football,senior,all_ireland,semi-final,Louth,2,13,19,Antrim,0,15,15,Louth,"Shauns Park, Belfast",,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
+1909-10-17,hurling,senior,all_ireland,semi-final,Tipperary,6,7,25,Mayo,5,7,22,Tipperary,"Markets Field, Limerick",,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Hurling_Championship
 1909-10-17,football,senior,ulster,semi-final,Cavan,0,6,6,Fermanagh,0,1,1,Cavan,Belturbet,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-10-24,football,senior,leinster,final,Louth,2,9,15,Kilkenny,0,4,4,Louth,"Jones' Road, Dublin",6000,M.F. Crowe (Dublin),,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-11-07,football,senior,munster,final replay,Kerry,1,6,9,Cork,0,6,6,Kerry,Cork Athletic Grounds,,,replay; page labels first final (1909-09-19) as drawn but that recorded score is not a draw,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
+1909-11-14,hurling,senior,all_ireland,semi-final,Kilkenny,3,17,26,Antrim,0,3,3,Kilkenny,"Jones's Road, Dublin",,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Hurling_Championship
 1909-11-21,football,senior,all_ireland,semi-final,Kerry,2,12,18,Mayo,0,6,6,Kerry,Ennis,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-11-28,football,senior,ulster,final,Antrim,1,9,12,Cavan,0,5,5,Antrim,Clones,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1909-12-05,football,senior,all_ireland,final,Kerry,1,9,12,Louth,0,6,6,Kerry,"Jones' Road, Dublin",16000,M. F. Crowe (Dublin),,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
+1909-12-12,hurling,senior,all_ireland,final,Kilkenny,4,6,18,Tipperary,0,12,12,Kilkenny,"Cork Athletic Grounds, Cork",,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Hurling_Championship
 1910-01-02,football,senior,connacht,quarter-final,Sligo,1,3,6,Leitrim,0,3,3,Sligo,Carrick-on-Shannon,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Football_Championship
 1910-05-01,football,senior,ulster,quarter-final,Monaghan,0,10,10,Armagh,1,7,10,draw,Castleblayney,,,draw (both 10); replayed,https://en.wikipedia.org/wiki/1910_All-Ireland_Senior_Football_Championship
 1910-05-01,football,senior,ulster,quarter-final,Antrim,,,,Down,,,,Antrim,Belfast,,,walkover; Down scratched,https://en.wikipedia.org/wiki/1910_All-Ireland_Senior_Football_Championship
@@ -8586,6 +8662,12 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 ,football,senior,munster,semi_final,Limerick,,,,Kerry,,,,Limerick,,,,"walkover; Kerry scratched, Limerick awarded the tie; source gives year (1923) only, no exact date",https://en.wikipedia.org/wiki/1922_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Provincial semi-final,Clare,0,6,6,Limerick,0,0,0,Clare,Kilkee,,,,https://en.wikipedia.org/wiki/1924_All-Ireland_Senior_Football_Championship
 ,football,senior,munster,Provincial quarter-final,Waterford,,,,Limerick,,,,Waterford,"Gaelic Grounds, Limerick",,,"walkover; Waterford w/o, Limerick scratched - match not played due to dispute over player eligibility",https://en.wikipedia.org/wiki/1955_All-Ireland_Senior_Football_Championship
+,hurling,senior,munster,Final,Cork,5,16,31,Waterford,1,1,4,Cork,,,,,https://en.wikipedia.org/wiki/1903_All-Ireland_Senior_Hurling_Championship
+,hurling,senior,munster,Final,Cork,7,12,33,Limerick,1,4,7,Cork,,,,,https://en.wikipedia.org/wiki/1905_All-Ireland_Senior_Hurling_Championship
+,hurling,senior,munster,Final,Tipperary,3,4,13,Cork,0,9,9,Tipperary,,,,,https://en.wikipedia.org/wiki/1906_All-Ireland_Senior_Hurling_Championship
+,hurling,senior,munster,Final,Cork,1,6,9,Tipperary,1,4,7,Cork,,,,,https://en.wikipedia.org/wiki/1907_All-Ireland_Senior_Hurling_Championship
+,hurling,senior,munster,final,Tipperary,,,,Kerry,,,,Tipperary,,,,walkover,https://en.wikipedia.org/wiki/1908_All-Ireland_Senior_Hurling_Championship
+,hurling,senior,munster,final,Tipperary,2,10,16,Cork,2,6,12,Tipperary,,,,,https://en.wikipedia.org/wiki/1909_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,final,Limerick,5,3,18,Tipperary,4,3,15,Limerick,,,,,https://en.wikipedia.org/wiki/1911_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,Final,Tipperary,5,0,15,Cork,1,2,5,Tipperary,,,,,https://en.wikipedia.org/wiki/1916_All-Ireland_Senior_Hurling_Championship
 ,hurling,senior,munster,Semi-final,Limerick,8,5,29,Kerry,2,2,8,Limerick,,,,,https://en.wikipedia.org/wiki/1922_All-Ireland_Senior_Hurling_Championship
