@@ -25,10 +25,12 @@
    "champion": 1,
    "runner_up": 1
   },
-  "_LEAGUE_README": "Points for the National Football League (Division 1), used ONLY in the 'overall annual performance' view that ADDS league points to championship points for the same year. The league is a separate competition from the championship, so within a year the two are added (not best-of); within each competition best-finish still applies. The league is deliberately scored below the championship: a Division 1 title (2) equals a championship quarter-final and is worth less than an All-Ireland semi-final (3).",
+  "_LEAGUE_README": "Points for the National Football League, used ONLY in the 'overall annual performance' view that ADDS league points to championship points for the same year. The league is a separate competition, so within a year the two are added (not best-of); within the league best-finish applies (a county scores the MAX tier it reached). The league is scored below the championship: a Division 1 title (2) equals a championship quarter-final, below an All-Ireland semi-final (3). The third tier (0.5) covers reaching a Division 1 semi-final OR winning any division below the top flight; semi_final and lower_division are separate keys so they can be tuned independently. Set a tier to 0 to disable it.",
   "league_points": {
    "champion": 2,
-   "runner_up": 1
+   "runner_up": 1,
+   "semi_final": 0.5,
+   "lower_division": 0.5
   }
  },
  "eras": [
@@ -657,6 +659,49 @@
     "2024": 3,
     "2025": 5
    },
+   "lg_by_year": {
+    "1928": 2,
+    "1929": 2,
+    "1931": 2,
+    "1932": 2,
+    "1941": 0.5,
+    "1948": 0.5,
+    "1950": 0.5,
+    "1953": 0.5,
+    "1957": 1,
+    "1959": 2,
+    "1960": 0.5,
+    "1961": 2,
+    "1963": 2,
+    "1964": 0.5,
+    "1969": 2,
+    "1971": 2,
+    "1972": 2,
+    "1973": 2,
+    "1974": 2,
+    "1977": 2,
+    "1980": 1,
+    "1981": 0.5,
+    "1982": 2,
+    "1984": 2,
+    "1987": 1,
+    "1989": 0.5,
+    "1993": 0.5,
+    "1997": 2,
+    "1999": 0.5,
+    "2000": 0.5,
+    "2002": 0.5,
+    "2004": 2,
+    "2006": 2,
+    "2008": 1,
+    "2009": 2,
+    "2012": 0.5,
+    "2016": 1,
+    "2017": 2,
+    "2019": 1,
+    "2022": 2,
+    "2025": 2
+   },
    "best": 5
   },
   {
@@ -814,6 +859,40 @@
     "2023": 5,
     "2024": 2,
     "2025": 2
+   },
+   "lg_by_year": {
+    "1926": 1,
+    "1934": 1,
+    "1941": 1,
+    "1946": 0.5,
+    "1953": 2,
+    "1954": 0.5,
+    "1955": 2,
+    "1958": 2,
+    "1960": 0.5,
+    "1962": 1,
+    "1964": 1,
+    "1971": 0.5,
+    "1975": 1,
+    "1976": 2,
+    "1977": 1,
+    "1978": 2,
+    "1986": 0.5,
+    "1987": 2,
+    "1988": 1,
+    "1989": 1,
+    "1991": 2,
+    "1993": 2,
+    "1999": 1,
+    "2011": 1,
+    "2013": 2,
+    "2014": 2,
+    "2015": 2,
+    "2016": 2,
+    "2017": 1,
+    "2018": 2,
+    "2023": 0.5,
+    "2024": 1
    },
    "best": 5
   },
@@ -973,6 +1052,26 @@
     "2024": 4,
     "2025": 2
    },
+   "lg_by_year": {
+    "1931": 0.5,
+    "1940": 2,
+    "1957": 2,
+    "1965": 2,
+    "1967": 1,
+    "1968": 0.5,
+    "1976": 0.5,
+    "1980": 0.5,
+    "1981": 2,
+    "1984": 1,
+    "1987": 0.5,
+    "2001": 1,
+    "2004": 1,
+    "2006": 1,
+    "2007": 0.5,
+    "2017": 0.5,
+    "2018": 1,
+    "2023": 1
+   },
    "best": 5
   },
   {
@@ -1129,6 +1228,44 @@
     "2022": 2,
     "2023": 2,
     "2024": 1,
+    "2025": 1
+   },
+   "lg_by_year": {
+    "1932": 0.5,
+    "1933": 0.5,
+    "1934": 2,
+    "1935": 2,
+    "1936": 2,
+    "1937": 2,
+    "1938": 2,
+    "1939": 2,
+    "1941": 2,
+    "1949": 2,
+    "1951": 1,
+    "1954": 2,
+    "1961": 0.5,
+    "1970": 2,
+    "1971": 1,
+    "1972": 1,
+    "1975": 0.5,
+    "1977": 0.5,
+    "1978": 1,
+    "1981": 0.5,
+    "1986": 0.5,
+    "1996": 0.5,
+    "2001": 2,
+    "2002": 0.5,
+    "2005": 0.5,
+    "2006": 0.5,
+    "2007": 1,
+    "2010": 1,
+    "2012": 1,
+    "2013": 0.5,
+    "2014": 0.5,
+    "2019": 2,
+    "2021": 0.5,
+    "2022": 1,
+    "2023": 2,
     "2025": 1
    },
    "best": 5
@@ -1289,6 +1426,30 @@
     "2024": 1,
     "2025": 1
    },
+   "lg_by_year": {
+    "1932": 1,
+    "1948": 1,
+    "1951": 0.5,
+    "1952": 2,
+    "1955": 0.5,
+    "1956": 2,
+    "1976": 0.5,
+    "1979": 1,
+    "1980": 2,
+    "1982": 1,
+    "1989": 2,
+    "1990": 0.5,
+    "1996": 0.5,
+    "1997": 1,
+    "1999": 2,
+    "2009": 0.5,
+    "2010": 2,
+    "2011": 2,
+    "2012": 2,
+    "2014": 0.5,
+    "2015": 1,
+    "2020": 0.5
+   },
    "best": 5
   },
   {
@@ -1446,6 +1607,20 @@
     "2023": 0,
     "2024": 1,
     "2025": 1
+   },
+   "lg_by_year": {
+    "1931": 1,
+    "1933": 1,
+    "1948": 2,
+    "1950": 1,
+    "1951": 0.5,
+    "1953": 1,
+    "1960": 1,
+    "1964": 0.5,
+    "1989": 0.5,
+    "2002": 1,
+    "2022": 0.5,
+    "2023": 0.5
    },
    "best": 5
   },
@@ -1605,6 +1780,27 @@
     "2024": 1,
     "2025": 3
    },
+   "lg_by_year": {
+    "1932": 0.5,
+    "1933": 2,
+    "1937": 1,
+    "1939": 1,
+    "1940": 1,
+    "1946": 2,
+    "1951": 2,
+    "1955": 1,
+    "1956": 1,
+    "1965": 0.5,
+    "1975": 2,
+    "1983": 0.5,
+    "1984": 0.5,
+    "1988": 2,
+    "1990": 2,
+    "1994": 2,
+    "1999": 0.5,
+    "2000": 1,
+    "2007": 0.5
+   },
    "best": 5
   },
   {
@@ -1762,6 +1958,26 @@
     "2023": 1,
     "2024": 2,
     "2025": 1
+   },
+   "lg_by_year": {
+    "1939": 0.5,
+    "1940": 0.5,
+    "1961": 0.5,
+    "1974": 1,
+    "1977": 0.5,
+    "1979": 2,
+    "1981": 1,
+    "1990": 0.5,
+    "1991": 0.5,
+    "2000": 0.5,
+    "2001": 0.5,
+    "2002": 0.5,
+    "2014": 0.5,
+    "2015": 0.5,
+    "2016": 0.5,
+    "2018": 0.5,
+    "2020": 0.5,
+    "2022": 0.5
    },
    "best": 5
   },
@@ -1921,6 +2137,21 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1928": 1,
+    "1929": 1,
+    "1958": 1,
+    "1966": 0.5,
+    "1968": 1,
+    "1970": 0.5,
+    "1979": 0.5,
+    "1983": 0.5,
+    "1991": 1,
+    "1997": 0.5,
+    "2007": 0.5,
+    "2013": 0.5,
+    "2021": 0.5
+   },
    "best": 5
   },
   {
@@ -2078,6 +2309,19 @@
     "2023": 2,
     "2024": 1,
     "2025": 3
+   },
+   "lg_by_year": {
+    "1974": 0.5,
+    "1975": 0.5,
+    "1985": 0.5,
+    "1992": 1,
+    "1995": 0.5,
+    "2002": 2,
+    "2003": 2,
+    "2004": 0.5,
+    "2013": 1,
+    "2016": 0.5,
+    "2021": 0.5
    },
    "best": 5
   },
@@ -2237,6 +2481,21 @@
     "2024": 5,
     "2025": 2
    },
+   "lg_by_year": {
+    "1954": 0.5,
+    "1955": 0.5,
+    "1980": 0.5,
+    "1982": 0.5,
+    "1983": 1,
+    "1985": 1,
+    "1994": 1,
+    "1999": 0.5,
+    "2003": 0.5,
+    "2005": 2,
+    "2010": 0.5,
+    "2015": 0.5,
+    "2018": 0.5
+   },
    "best": 5
   },
   {
@@ -2394,6 +2653,18 @@
     "2023": 3,
     "2024": 1,
     "2025": 2
+   },
+   "lg_by_year": {
+    "1929": 0.5,
+    "1985": 2,
+    "1986": 1,
+    "1987": 0.5,
+    "1988": 0.5,
+    "1998": 0.5,
+    "2005": 0.5,
+    "2013": 0.5,
+    "2014": 0.5,
+    "2015": 0.5
    },
    "best": 4
   },
@@ -2553,6 +2824,21 @@
     "2024": 0,
     "2025": 1
    },
+   "lg_by_year": {
+    "1941": 0.5,
+    "1949": 0.5,
+    "1960": 2,
+    "1962": 2,
+    "1968": 2,
+    "1970": 1,
+    "1978": 0.5,
+    "1983": 2,
+    "1984": 0.5,
+    "1985": 0.5,
+    "1988": 0.5,
+    "1990": 1,
+    "2012": 0.5
+   },
    "best": 5
   },
   {
@@ -2710,6 +2996,22 @@
     "2023": 1,
     "2024": 3,
     "2025": 4
+   },
+   "lg_by_year": {
+    "1965": 0.5,
+    "1966": 0.5,
+    "1969": 0.5,
+    "1991": 0.5,
+    "1993": 1,
+    "1995": 1,
+    "1996": 1,
+    "1998": 0.5,
+    "2007": 2,
+    "2015": 0.5,
+    "2016": 0.5,
+    "2019": 0.5,
+    "2021": 0.5,
+    "2024": 0.5
    },
    "best": 5
   },
@@ -2869,6 +3171,12 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1935": 0.5,
+    "2009": 0.5,
+    "2014": 0.5,
+    "2017": 0.5
+   },
    "best": 5
   },
   {
@@ -3026,6 +3334,16 @@
     "2023": 0,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1938": 1,
+    "1939": 0.5,
+    "1940": 0.5,
+    "1946": 1,
+    "1949": 0.5,
+    "1950": 0.5,
+    "2005": 1,
+    "2008": 0.5
    },
    "best": 5
   },
@@ -3185,6 +3503,15 @@
     "2024": 2,
     "2025": 1
    },
+   "lg_by_year": {
+    "1949": 1,
+    "2000": 0.5,
+    "2006": 0.5,
+    "2011": 0.5,
+    "2016": 0.5,
+    "2021": 0.5,
+    "2022": 0.5
+   },
    "best": 5
   },
   {
@@ -3342,6 +3669,28 @@
     "2023": 3,
     "2024": 2,
     "2025": 1
+   },
+   "lg_by_year": {
+    "1947": 2,
+    "1959": 1,
+    "1961": 1,
+    "1970": 0.5,
+    "1971": 0.5,
+    "1972": 0.5,
+    "1973": 0.5,
+    "1976": 1,
+    "1992": 2,
+    "1995": 2,
+    "1996": 2,
+    "1998": 1,
+    "2000": 2,
+    "2008": 2,
+    "2009": 1,
+    "2013": 0.5,
+    "2014": 1,
+    "2019": 0.5,
+    "2021": 0.5,
+    "2024": 2
    },
    "best": 5
   },
@@ -3501,6 +3850,18 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1959": 0.5,
+    "1972": 0.5,
+    "1973": 1,
+    "1979": 0.5,
+    "1982": 0.5,
+    "1998": 2,
+    "2004": 0.5,
+    "2008": 0.5,
+    "2015": 0.5,
+    "2025": 0.5
+   },
    "best": 5
   },
   {
@@ -3658,6 +4019,12 @@
     "2023": 0,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1926": 0.5,
+    "1946": 0.5,
+    "1948": 0.5,
+    "2021": 0.5
    },
    "best": 4
   },
@@ -3817,6 +4184,18 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1926": 2,
+    "1978": 0.5,
+    "1986": 2,
+    "1994": 0.5,
+    "1995": 0.5,
+    "1997": 0.5,
+    "2003": 1,
+    "2006": 0.5,
+    "2018": 0.5,
+    "2024": 0.5
+   },
    "best": 4
   },
   {
@@ -3975,6 +4354,7 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {},
    "best": 4
   },
   {
@@ -4132,6 +4512,11 @@
     "2023": 1,
     "2024": 1,
     "2025": 1
+   },
+   "lg_by_year": {
+    "1947": 1,
+    "1993": 0.5,
+    "2016": 0.5
    },
    "best": 4
   },
@@ -4291,6 +4676,13 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "2004": 0.5,
+    "2010": 0.5,
+    "2013": 0.5,
+    "2020": 0.5,
+    "2025": 0.5
+   },
    "best": 5
   },
   {
@@ -4448,6 +4840,17 @@
     "2023": 1,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1926": 0.5,
+    "1929": 0.5,
+    "1968": 0.5,
+    "1973": 0.5,
+    "1974": 0.5,
+    "1999": 0.5,
+    "2009": 0.5,
+    "2010": 0.5,
+    "2023": 0.5
    },
    "best": 3
   },
@@ -4607,6 +5010,9 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1959": 0.5
+   },
    "best": 3
   },
   {
@@ -4764,6 +5170,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1935": 1,
+    "2003": 0.5
    },
    "best": 3
   },
@@ -4923,6 +5333,7 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {},
    "best": 3
   },
   {
@@ -5080,6 +5491,9 @@
     "2023": 0,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1931": 0.5
    },
    "best": 4
   },
@@ -5239,6 +5653,16 @@
     "2024": 1,
     "2025": 0
    },
+   "lg_by_year": {
+    "1969": 0.5,
+    "1994": 0.5,
+    "2001": 0.5,
+    "2003": 0.5,
+    "2008": 0.5,
+    "2017": 0.5,
+    "2019": 0.5,
+    "2024": 0.5
+   },
    "best": 2
   },
   {
@@ -5396,6 +5820,9 @@
     "2023": 0,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1954": 1
    },
    "best": 3
   },
@@ -5555,6 +5982,12 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1947": 0.5,
+    "1966": 2,
+    "2011": 0.5,
+    "2012": 0.5
+   },
    "best": 3
   },
   {
@@ -5712,6 +6145,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 0
+   },
+   "lg_by_year": {
+    "1947": 0.5,
+    "2012": 0.5
    },
    "best": 1
   },
@@ -5871,6 +6308,16 @@
     "2024": 0,
     "2025": 0
    },
+   "lg_by_year": {
+    "1950": 2,
+    "1952": 1,
+    "1963": 1,
+    "1964": 2,
+    "1965": 1,
+    "1966": 1,
+    "1967": 2,
+    "1969": 1
+   },
    "best": 0
   }
  ],
@@ -5879,177 +6326,177 @@
    "rank": 1,
    "county": "Kerry",
    "championship": 395,
-   "league": 50,
-   "combined": 445,
-   "league_share": 11.2
+   "league": 56.5,
+   "combined": 451.5,
+   "league_share": 12.5
   },
   {
    "rank": 2,
    "county": "Dublin",
    "championship": 291,
-   "league": 39,
-   "combined": 330,
-   "league_share": 11.8
+   "league": 42.0,
+   "combined": 333.0,
+   "league_share": 12.6
   },
   {
    "rank": 3,
    "county": "Mayo",
    "championship": 215,
-   "league": 35,
-   "combined": 250,
-   "league_share": 14.0
+   "league": 42.0,
+   "combined": 257.0,
+   "league_share": 16.3
   },
   {
    "rank": 4,
    "county": "Galway",
    "championship": 219,
-   "league": 15,
-   "combined": 234,
-   "league_share": 6.4
+   "league": 18.5,
+   "combined": 237.5,
+   "league_share": 7.8
   },
   {
    "rank": 5,
    "county": "Cork",
    "championship": 211,
-   "league": 22,
-   "combined": 233,
-   "league_share": 9.4
+   "league": 26.0,
+   "combined": 237.0,
+   "league_share": 11.0
   },
   {
    "rank": 6,
    "county": "Cavan",
    "championship": 160,
-   "league": 8,
-   "combined": 168,
-   "league_share": 4.8
+   "league": 10.5,
+   "combined": 170.5,
+   "league_share": 6.2
   },
   {
    "rank": 7,
    "county": "Meath",
    "championship": 118,
-   "league": 20,
-   "combined": 138,
-   "league_share": 14.5
+   "league": 23.0,
+   "combined": 141.0,
+   "league_share": 16.3
   },
   {
    "rank": 8,
    "county": "Roscommon",
    "championship": 108,
-   "league": 4,
-   "combined": 112,
-   "league_share": 3.6
+   "league": 11.5,
+   "combined": 119.5,
+   "league_share": 9.6
   },
   {
    "rank": 9,
    "county": "Kildare",
    "championship": 91,
-   "league": 5,
-   "combined": 96,
-   "league_share": 5.2
+   "league": 9.0,
+   "combined": 100.0,
+   "league_share": 9.0
   },
   {
    "rank": 10,
    "county": "Tyrone",
    "championship": 90,
-   "league": 6,
-   "combined": 96,
-   "league_share": 6.2
+   "league": 9.5,
+   "combined": 99.5,
+   "league_share": 9.5
   },
   {
    "rank": 11,
    "county": "Armagh",
    "championship": 84,
-   "league": 5,
-   "combined": 89,
-   "league_share": 5.6
+   "league": 9.5,
+   "combined": 93.5,
+   "league_share": 10.2
   },
   {
    "rank": 12,
    "county": "Down",
    "championship": 68,
-   "league": 10,
-   "combined": 78,
-   "league_share": 12.8
+   "league": 13.5,
+   "combined": 81.5,
+   "league_share": 16.6
   },
   {
    "rank": 13,
    "county": "Monaghan",
    "championship": 72,
-   "league": 3,
-   "combined": 75,
-   "league_share": 4.0
+   "league": 7.0,
+   "combined": 79.0,
+   "league_share": 8.9
   },
   {
    "rank": 14,
-   "county": "Derry",
-   "championship": 51,
-   "league": 20,
-   "combined": 71,
-   "league_share": 28.2
+   "county": "Donegal",
+   "championship": 66,
+   "league": 10.0,
+   "combined": 76.0,
+   "league_share": 13.2
   },
   {
    "rank": 15,
-   "county": "Donegal",
-   "championship": 66,
-   "league": 5,
-   "combined": 71,
-   "league_share": 7.0
+   "county": "Derry",
+   "championship": 51,
+   "league": 23.5,
+   "combined": 74.5,
+   "league_share": 31.5
   },
   {
    "rank": 16,
    "county": "Wexford",
    "championship": 61,
-   "league": 3,
-   "combined": 64,
-   "league_share": 4.7
+   "league": 5.5,
+   "combined": 66.5,
+   "league_share": 8.3
   },
   {
    "rank": 17,
    "county": "Tipperary",
    "championship": 62,
-   "league": 0,
-   "combined": 62,
-   "league_share": 0.0
+   "league": 2.0,
+   "combined": 64.0,
+   "league_share": 3.1
   },
   {
    "rank": 18,
    "county": "Louth",
    "championship": 54,
-   "league": 1,
-   "combined": 55,
-   "league_share": 1.8
+   "league": 4.0,
+   "combined": 58.0,
+   "league_share": 6.9
   },
   {
    "rank": 19,
    "county": "Offaly",
    "championship": 48,
-   "league": 3,
-   "combined": 51,
-   "league_share": 5.9
+   "league": 7.0,
+   "combined": 55.0,
+   "league_share": 12.7
   },
   {
    "rank": 20,
    "county": "Laois",
    "championship": 39,
-   "league": 5,
-   "combined": 44,
-   "league_share": 11.4
+   "league": 8.5,
+   "combined": 47.5,
+   "league_share": 17.9
   },
   {
    "rank": 21,
    "county": "Antrim",
    "championship": 42,
-   "league": 0,
-   "combined": 42,
-   "league_share": 0.0
+   "league": 2.0,
+   "combined": 44.0,
+   "league_share": 4.5
   },
   {
    "rank": 22,
    "county": "Clare",
    "championship": 31,
-   "league": 1,
-   "combined": 32,
-   "league_share": 3.1
+   "league": 2.0,
+   "combined": 33.0,
+   "league_share": 6.1
   },
   {
    "rank": 23,
@@ -6061,58 +6508,58 @@
   },
   {
    "rank": 24,
-   "county": "Limerick",
-   "championship": 26,
-   "league": 0,
-   "combined": 26,
-   "league_share": 0.0
+   "county": "Sligo",
+   "championship": 25,
+   "league": 4.5,
+   "combined": 29.5,
+   "league_share": 15.3
   },
   {
    "rank": 25,
-   "county": "Sligo",
-   "championship": 25,
-   "league": 0,
-   "combined": 25,
-   "league_share": 0.0
+   "county": "Limerick",
+   "championship": 26,
+   "league": 2.5,
+   "combined": 28.5,
+   "league_share": 8.8
   },
   {
    "rank": 26,
    "county": "Leitrim",
    "championship": 16,
-   "league": 0,
-   "combined": 16,
-   "league_share": 0.0
+   "league": 0.5,
+   "combined": 16.5,
+   "league_share": 3.0
   },
   {
    "rank": 27,
-   "county": "Fermanagh",
-   "championship": 13,
-   "league": 1,
-   "combined": 14,
-   "league_share": 7.1
+   "county": "Westmeath",
+   "championship": 12,
+   "league": 4.0,
+   "combined": 16.0,
+   "league_share": 25.0
   },
   {
    "rank": 28,
-   "county": "Kilkenny",
+   "county": "Fermanagh",
    "championship": 13,
-   "league": 0,
-   "combined": 13,
-   "league_share": 0.0
+   "league": 1.5,
+   "combined": 14.5,
+   "league_share": 10.3
   },
   {
    "rank": 29,
    "county": "Waterford",
    "championship": 13,
-   "league": 0,
-   "combined": 13,
-   "league_share": 0.0
+   "league": 0.5,
+   "combined": 13.5,
+   "league_share": 3.7
   },
   {
    "rank": 30,
-   "county": "Westmeath",
-   "championship": 12,
+   "county": "Kilkenny",
+   "championship": 13,
    "league": 0,
-   "combined": 12,
+   "combined": 13,
    "league_share": 0.0
   },
   {
@@ -6125,6 +6572,14 @@
   },
   {
    "rank": 32,
+   "county": "Longford",
+   "championship": 4,
+   "league": 3.5,
+   "combined": 7.5,
+   "league_share": 46.7
+  },
+  {
+   "rank": 33,
    "county": "Carlow",
    "championship": 5,
    "league": 1,
@@ -6132,25 +6587,19 @@
    "league_share": 16.7
   },
   {
-   "rank": 33,
-   "county": "Longford",
-   "championship": 4,
-   "league": 2,
-   "combined": 6,
-   "league_share": 33.3
-  },
-  {
    "rank": 34,
    "county": "Wicklow",
    "championship": 1,
-   "league": 0,
-   "combined": 1,
-   "league_share": 0.0
+   "league": 1.0,
+   "combined": 2.0,
+   "league_share": 50.0
   }
  ],
  "league_points": {
   "champion": 2,
-  "runner_up": 1
+  "runner_up": 1,
+  "semi_final": 0.5,
+  "lower_division": 0.5
  },
  "finals": [
   {

@@ -12,7 +12,7 @@ Usage:  python make_site.py
 """
 import json, os
 from collections import defaultdict
-from build import load, score_year, score_total, ERA_LABELS, COUNTY_PROVINCE
+from build import load, score_year, score_total, league_scores, ERA_LABELS, COUNTY_PROVINCE
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.normpath(os.path.join(HERE, "..", "docs"))
@@ -23,9 +23,13 @@ UPDATED = "2026-06-21"
 def main():
     data = load("championship.json")
     params = load("params.json")
-    league = load("national_league.json")["league_finals"]
+    nl_data = load("national_league.json")
+    league = nl_data["league_finals"]
     years = data["years"]
     all_years = [y["year"] for y in years]
+
+    lp = params.get("league_points", {})
+    league_total, league_by_year = league_scores(nl_data, lp)
 
     cumulative = defaultdict(int)
     by_era = defaultdict(lambda: defaultdict(int))
@@ -95,6 +99,8 @@ def main():
             "avg_scoring": round(tot/ys, 2) if ys else 0,
             "by_era": {e: by_era[e].get(county, 0) for e in era_order},
             "by_year": {yr: by_year[county].get(yr, 0) for yr in all_years},
+            "lg_by_year": {yr: league_by_year.get(county, {}).get(yr, 0)
+                           for yr in all_years if league_by_year.get(county, {}).get(yr, 0)},
             "best": max((p for p in by_year[county].values()), default=0),
         })
 
@@ -121,22 +127,15 @@ def main():
                if str(yr) in league and league[str(yr)]["winner"] == ai_champ_by_year.get(yr)]
 
     # ---- overall annual performance (championship + National League, added) ----
-    lp = params.get("league_points", {"champion": 0, "runner_up": 0})
-    league_total = defaultdict(int)
-    for ys, rec in league.items():
-        league_total[rec["winner"]] += lp.get("champion", 0)
-        if rec.get("runner_up"):
-            league_total[rec["runner_up"]] += lp.get("runner_up", 0)
-    for c in COUNTY_PROVINCE:
-        league_total[c] += 0
-    combined = {c: cumulative[c] + league_total[c] for c in set(cumulative) | set(league_total)}
+    combined = {c: cumulative[c] + league_total.get(c, 0)
+                for c in set(cumulative) | set(league_total) | set(COUNTY_PROVINCE)}
     overall = []
     for rank, c in enumerate(sorted(combined, key=lambda c:(-combined[c], c)), 1):
-        tot = combined[c]
+        tot = combined[c]; lg = league_total.get(c, 0)
         overall.append({
             "rank": rank, "county": c, "championship": cumulative[c],
-            "league": league_total[c], "combined": tot,
-            "league_share": round(100*league_total[c]/tot, 1) if tot else 0,
+            "league": round(lg, 2), "combined": round(tot, 2),
+            "league_share": round(100*lg/tot, 1) if tot else 0,
         })
 
     # ---- record lists ----

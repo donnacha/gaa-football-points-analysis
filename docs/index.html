@@ -59,8 +59,9 @@
     <p class="sub">The championship and the National League are separate competitions in different
        parts of the year, so here their points are <strong>added</strong> per season. A Division 1
        league title is worth <strong id="lp-champ">2</strong>, a league final
-       <strong id="lp-ru">1</strong> — kept below an All-Ireland semi-final (3) so the league adds
-       texture without outranking a real championship challenge. Click any column to sort.</p>
+       <strong id="lp-ru">1</strong>, and a Division 1 semi-final or any lower-division title
+       <strong id="lp-minor">0.5</strong> — all kept below an All-Ireland semi-final (3) so the league
+       adds texture without outranking a real championship challenge. Click any column to sort.</p>
     <div id="overall-table"></div>
     <div class="note">
       <strong>What the league adds.</strong> Counties with strong league pedigrees but lighter
@@ -79,8 +80,9 @@
 
   <section class="panel" id="matrix">
     <h2>Year-by-year heatmap</h2>
-    <p class="sub">Every county's points each season. Darker = deeper run. Pick a decade, or show all
-       138 years and scroll horizontally.</p>
+    <p class="sub">Every county's points each season. Darker = deeper run. Pick one or more decades
+       (or all 138 years), optionally add National League points, and the <em>Pts</em> column totals
+       the selection — rows re-sort by it.</p>
     <div class="decades" id="matrix-decades"></div>
     <div id="matrix-table"></div>
   </section>
@@ -142,9 +144,10 @@
          year, their points are <strong>added</strong> within a season rather than taking the best of
          the two (a county can genuinely win the league and reach the All-Ireland final in the same
          year). The league sits below the championship — a Division 1 title scores 2 (a championship
-         quarter-final), a league final 1 — set under <code>league_points</code> in
-         <code>params.json</code>. The league dates from 1926, so earlier seasons are
-         championship-only.</p>
+         quarter-final), a league final 1, and a Division 1 semi-final or any lower-division title 0.5
+         — set under <code>league_points</code> in <code>params.json</code>. The league dates from
+         1926, so earlier seasons are championship-only. The <em>Year-by-year</em> tab can fold these
+         league points into the heatmap with the <em>Add league points</em> toggle.</p>
 
       <div class="note">
         <strong>Reproducible.</strong> The site is generated from a small open database: raw results
