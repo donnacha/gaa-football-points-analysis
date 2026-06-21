@@ -1,0 +1,21 @@
+[
+  {
+    "sport": "hurling",
+    "grade": "intermediate",
+    "competition": "all_ireland",
+    "stage": "Final",
+    "date": "2018-07-28",
+    "team1": "Kilkenny",
+    "team2": "Cork",
+    "t1_g": 0,
+    "t1_p": 18,
+    "t2_g": 2,
+    "t2_p": 19,
+    "winner": "Cork",
+    "venue": "Nowlan Park, Kilkenny",
+    "attendance": null,
+    "referee": "J Keane (Galway)",
+    "notes": "Both the Leinster and Munster provincial championships were suspended, resulting in Kilkenny and Cork being nominated to represent the respective provinces in the All-Ireland final. This was the only match of the championship.",
+    "source_url": "https://en.wikipedia.org/wiki/2018_All-Ireland_Intermediate_Hurling_Championship"
+  }
+]

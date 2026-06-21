@@ -117,10 +117,16 @@ Running total: **12909 matches across 411 files**. Zero validation warnings.
 Running total: **13466 matches across 451 files**. Zero validation warnings.
 ✅ Wave 9 complete: all four secondary hurling cups back to inception + Tommy Murphy Cup.
 
-Next: **wave 10 — Intermediate & Junior championships** (the original plan's wave 8). All-Ireland
-Intermediate Hurling (2004→) & Football, and All-Ireland Junior Hurling & Football (modern, incl.
-the London/New York/overseas teams), under `<sport>/intermediate/` & `<sport>/junior/`. This is the
-last readily-available inter-county category on Wikipedia.
+| 10 | hurling | intermediate | All-Ireland (inter-county) | 2017–2018 | 3 | **tiny** competition; ran 1997–2018 only (abolished 2019); usually nominees → final only |
+
+Running total: **13469 matches across 453 files**. Zero validation warnings.
+
+**Wave 10 finding:** the inter-county Intermediate Hurling Championship is small (1997–2018, often
+just a final between two nominated counties; no per-year pages 2019+ — abolished). Per-year hits 404
+for most years → use the main article's finals list for 1997–2016 deep history.
+Next: intermediate hurling 1997–2016 finals; then **All-Ireland Junior Hurling** (longer history, incl.
+London/NY/overseas) and **Intermediate & Junior Football** — the last readily-available inter-county
+categories. Then the readily-available Wikipedia extraction is genuinely exhausted.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 

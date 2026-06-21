@@ -1,0 +1,40 @@
+[
+  {
+    "sport": "hurling",
+    "grade": "intermediate",
+    "competition": "all_ireland",
+    "stage": "Leinster Final",
+    "date": "2017-07-12",
+    "team1": "Kilkenny",
+    "team2": "Wexford",
+    "t1_g": 1,
+    "t1_p": 26,
+    "t2_g": 1,
+    "t2_p": 8,
+    "winner": "Kilkenny",
+    "venue": "Nowlan Park, Kilkenny",
+    "attendance": null,
+    "referee": "J O'Brien (Laois)",
+    "notes": "Leinster Intermediate Hurling Championship Final; throw-in 19:30",
+    "source_url": "https://en.wikipedia.org/wiki/2017_All-Ireland_Intermediate_Hurling_Championship"
+  },
+  {
+    "sport": "hurling",
+    "grade": "intermediate",
+    "competition": "all_ireland",
+    "stage": "Final",
+    "date": "2017-07-23",
+    "team1": "Cork",
+    "team2": "Kilkenny",
+    "t1_g": 2,
+    "t1_p": 18,
+    "t2_g": 2,
+    "t2_p": 23,
+    "winner": "Kilkenny",
+    "venue": "Páirc Uí Chaoimh, Cork",
+    "attendance": null,
+    "referee": "C Cunning (Antrim)",
+    "notes": "All-Ireland Intermediate Hurling Championship Final; throw-in 14:00; Kilkenny retained the title (second consecutive, fifth overall)",
+    "source_url": "https://en.wikipedia.org/wiki/2017_All-Ireland_Intermediate_Hurling_Championship"
+  }
+]
