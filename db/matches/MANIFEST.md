@@ -107,9 +107,11 @@ Wikipedia coverage.**
 Rackard + Lory Meagher, 2018–2025): every county fielding a hurling team is now in the database.
 Running total: **12909 matches across 411 files**. Zero validation warnings.
 
-Next: **secondary-cup deep history** — Christy Ring & Nicky Rackard back to 2005, Lory Meagher back
-to 2009 (per-year, well covered on Wikipedia), plus the **Tommy Murphy Cup** (football tier-2,
-2004–2008, pre-Tailteann). Then the archive's modern competition coverage is essentially exhausted.
+| 9 | hurling | senior | Christy Ring Cup deep history | 2005–2017 | ~227 | back to 2005 inception; full group stages early years; → Christy Ring total 341 (2005–2025) |
+
+🎯 **Archive past 13,000 matches.** Running total: **13136 matches across 424 files**. Zero warnings.
+Next: **Nicky Rackard back to 2005, Lory Meagher back to 2009**, plus the **Tommy Murphy Cup**
+(football tier-2, 2004–2008, pre-Tailteann). Then modern competition coverage is essentially exhausted.
 Deferred (needs newspaper archives, not on Wikipedia): pre-1920 provincial early rounds; full
 provincial brackets for lower grades pre-modern; league match-by-match pre-2008.
 
