@@ -46,12 +46,12 @@ later finals-only sub-wave (db/matches… `<year>_nfl.json`), not worth full wav
 
 Running total: **8789 matches across 296 files** (football champ 1887–2025; football NFL 2008–2025;
 hurling SHC 1887–2025). Zero validation warnings.
-| 4 | hurling | senior | National League (all divs) | 2020–2025 | 544 | Div 1A/1B/2A/2B/3A/3B; COVID-shortened 2020-21; in `hurling/senior/<year>_nhl.json` |
+| 4 | hurling | senior | National League (all divs) | 2014–2025 | 1131 | Div 1A/1B/2A/2B/3A/3B; cross-division Div1 knockout; COVID 2020-21 |
 
-Running total: **9333 matches across 302 files** (football champ 1887–2025 + NFL 2008–2025;
-hurling SHC 1887–2025 + NHL 2020–2025). Zero validation warnings.
-Wave 4 in progress — hurling NHL. Next: hurling NHL 2014–2019, then 2008–2013 (full match-by-match
-limit). Then wave 5 (Tailteann Cup football 2022+), wave 6+ (U20/U21, minor football & hurling).
+Running total: **9920 matches across 308 files** (football champ 1887–2025 + NFL 2008–2025;
+hurling SHC 1887–2025 + NHL 2014–2025). Zero validation warnings.
+Wave 4 in progress — hurling NHL. Next: hurling NHL 2008–2013 (full match-by-match limit).
+Then wave 5 (Tailteann Cup football 2022+), wave 6+ (U20/U21, minor football & hurling).
 Also still open: football pre-2008 NFL (finals-only, deferred).
 
 ### Spot-check / verify later (added)
