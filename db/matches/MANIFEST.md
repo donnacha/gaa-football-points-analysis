@@ -54,8 +54,13 @@ data floor: football senior 6760, hurling senior 3648.
 
 Running total: **10408 matches across 314 files** (football champ 1887–2025 + NFL 2008–2025;
 hurling SHC 1887–2025 + NHL 2008–2025). Zero validation warnings.
-Next: **wave 5 — Tailteann Cup** (football tier-2, 2022–2025). Then wave 6+ (U20/U21 & minor
-football and hurling championships). Deferred (optional): pre-2008 NFL/NHL finals-only.
+| 5 | football | senior | Tailteann Cup (tier 2) | 2022–2025 | 85 | inaugural 2022 knockout; 2024 group stage not on Wikipedia (knockout only) |
+
+Running total: **10493 matches across 318 files**. Zero validation warnings.
+✅ Wave 5 complete (Tailteann Cup 2022–2025).
+Next: **wave 6 — U20/U21 football championship** (All-Ireland + provincial), modern first. Then U20/U21
+hurling, then minor football, then minor hurling. Deferred (optional): pre-2008 NFL/NHL finals-only.
+Note: U20/U21 & minor stored under `db/matches/<sport>/under20/<year>.json` and `.../minor/<year>.json`.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the
