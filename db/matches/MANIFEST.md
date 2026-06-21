@@ -74,10 +74,12 @@ rather than ~60 near-empty per-year fetches. Modern years (2008/2018+) still ext
 | 6 | hurling | under20 | championship (AI+Lein+Mun) | 2019–2025 | 170 | U20 hurling began 2019 (2018 was still U21); often AI final only (no AI semis) |
 | 6 | hurling | under21 | championship (AI+Lein+Mun) | 2008–2018 | 144 | Ulster U21 hurling excluded (out of scope) |
 
-Running total: **11333 matches across 357 files**. Zero validation warnings.
-Wave 6 continues. Next: **minor football** (U17 since 2018; All-Ireland + provincial), modern first
-2018–2025, under `football/minor/`. Then minor hurling. Then finals-list sweep for lower-grade deep
-history. Deferred (optional): pre-2008 NFL/NHL finals-only.
+| 6 | football | minor | championship (AI+prov) | 2018–2025 | ~424 | U17; rich provincial+AI; some 2018-19 Leinster boxes blank on Wikipedia |
+
+Running total: **11757 matches across 365 files**. Zero validation warnings.
+Wave 6 continues. Next: **minor hurling 2018–2025** (under `hurling/minor/`), then a finals-list
+sweep for the lower-grade deep history (U21 football/hurling pre-2008, minor football & hurling
+pre-2018, back to each grade's start). Deferred (optional): pre-2008 NFL/NHL finals-only.
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the
