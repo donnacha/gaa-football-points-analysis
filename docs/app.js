@@ -9,6 +9,7 @@ fetch('data.json').then(r=>r.json()).then(d=>{DATA=d;init();})
 
 function init(){
   buildLegend(); buildStats(); buildStandings(); buildEras(); buildMatrix(); buildChart();
+  buildHonour(); buildFinals(); buildLeague(); buildRecords();
   document.getElementById('updated').textContent = DATA.meta.updated;
   document.querySelectorAll('nav.tabs button').forEach(b=>b.onclick=()=>{
     document.querySelectorAll('nav.tabs button').forEach(x=>x.classList.remove('active'));
@@ -29,12 +30,12 @@ function buildLegend(){
 }
 
 function buildStats(){
-  const s=DATA.standings, top=s[0];
+  const s=DATA.standings, top=s[0], mt=DATA.meta.most_titles;
   const cards=[
-    [DATA.meta.n_years,'championships (1990–2025)'],
-    [s.length,'counties on the board'],
-    [`${top.county} ${top.total}`,'all-time leader'],
-    [DATA.meta.grand_total,'total points distributed'],
+    [DATA.meta.n_years,`championships (${DATA.meta.span})`],
+    [`${top.county} ${top.total}`,'all-time points leader'],
+    [`${mt.county} ${mt.n}`,'most All-Ireland titles'],
+    [DATA.meta.n_doubles,'league + championship doubles'],
   ];
   document.getElementById('stats').innerHTML=cards.map(([n,k])=>
     `<div class="stat"><div class="n">${n}</div><div class="k">${k}</div></div>`).join('');
@@ -106,6 +107,112 @@ function buildMatrix(){
   });
   h+='</tbody></table></div>';
   document.getElementById('matrix-table').innerHTML=h;
+}
+
+let honourKey='ai_titles', honourDir=-1;
+function buildHonour(){
+  const cols=[
+    ['county','County','l'],['ai_titles','Titles',''],['ai_runner_ups','Runners-up',''],
+    ['ai_semi_finals','Semi-finals',''],['provincial_titles','Prov. titles',''],
+    ['provincial_runner_ups','Prov. finals lost','']
+  ];
+  const wrap=document.getElementById('honour-table');
+  const render=()=>{
+    const rows=[...DATA.roll_of_honour].sort((a,b)=>{
+      const v=(a[honourKey]>b[honourKey]?1:a[honourKey]<b[honourKey]?-1:0); return v*honourDir;
+    });
+    let h='<div class="card"><table><thead><tr>';
+    cols.forEach(([k,lab,cls])=>{
+      const arr=(k===honourKey)?(honourDir<0?'▼':'▲'):'';
+      h+=`<th class="${cls||''}" data-k="${k}">${lab} <span class="arr">${arr}</span></th>`;
+    });
+    h+='</tr></thead><tbody>';
+    rows.forEach(r=>{
+      h+=`<tr><td class="l county">${r.county}</td><td class="total">${r.ai_titles}</td>`+
+         `<td>${r.ai_runner_ups}</td><td>${r.ai_semi_finals}</td>`+
+         `<td>${r.provincial_titles}</td><td>${r.provincial_runner_ups}</td></tr>`;
+    });
+    h+='</tbody></table></div>'; wrap.innerHTML=h;
+    wrap.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{
+      const k=th.dataset.k;
+      if(k===honourKey)honourDir*=-1;else{honourKey=k;honourDir=(k==='county')?1:-1;}
+      render();});
+  };
+  render();
+}
+
+function buildFinals(){
+  const wrap=document.getElementById('finals-table');
+  const inp=document.getElementById('finals-filter');
+  const rows=[...DATA.finals].sort((a,b)=>b.year-a.year);
+  const render=(q='')=>{
+    q=q.trim().toLowerCase();
+    const f=rows.filter(r=>!q||[r.year,r.champion,r.runner_up,r.venue,r.captain,r.manager]
+      .some(v=>v&&String(v).toLowerCase().includes(q)));
+    let h='<div class="card"><table><thead><tr><th>Year</th><th class="l">Champion</th>'+
+      '<th>Score</th><th class="l">Runner-up</th><th>Score</th><th>Margin</th>'+
+      '<th class="l">Venue</th><th>Attend.</th><th class="l">Captain</th><th class="l">Manager</th>'+
+      '</tr></thead><tbody>';
+    f.forEach(r=>{
+      const rep=r.replay?' <span class="rep" title="after a replay">R</span>':'';
+      h+=`<tr><td class="total">${r.year}</td><td class="l county">${r.champion}</td>`+
+         `<td>${r.champion_score||'—'}</td><td class="l">${r.runner_up||'—'}</td>`+
+         `<td>${r.runner_up_score||'—'}</td><td>${r.margin==null?'—':r.margin}${rep}</td>`+
+         `<td class="l">${r.venue||'—'}</td>`+
+         `<td>${r.attendance?r.attendance.toLocaleString():'—'}</td>`+
+         `<td class="l">${r.captain||'—'}</td><td class="l">${r.manager||'—'}</td></tr>`;
+    });
+    h+='</tbody></table></div>';
+    if(!f.length)h='<p class="sub">No finals match that filter.</p>';
+    wrap.innerHTML=h;
+  };
+  inp.oninput=()=>render(inp.value); render();
+}
+
+function buildLeague(){
+  document.getElementById('league-stats').innerHTML=[
+    [DATA.national_league.length,'counties with a Division 1 title or final'],
+    [DATA.doubles.length,'league + championship doubles'],
+  ].map(([n,k])=>`<div class="stat"><div class="n">${n}</div><div class="k">${k}</div></div>`).join('');
+
+  let d='<div class="card"><table><thead><tr><th>Year</th><th class="l">County</th>'+
+    '<th class="l">Achievement</th></tr></thead><tbody>';
+  [...DATA.doubles].sort((a,b)=>b.year-a.year).forEach(r=>{
+    d+=`<tr><td class="total">${r.year}</td><td class="l county">${r.county}</td>`+
+       `<td class="l">National League + All-Ireland</td></tr>`;
+  });
+  d+='</tbody></table></div>';
+  document.getElementById('doubles-table').innerHTML=d;
+
+  let h='<div class="card"><table><thead><tr><th class="l">County</th>'+
+    '<th>Div 1 titles</th><th>Div 1 runner-up</th></tr></thead><tbody>';
+  DATA.national_league.forEach(r=>{
+    h+=`<tr><td class="l county">${r.county}</td><td class="total">${r.nfl_titles}</td>`+
+       `<td>${r.nfl_runner_ups}</td></tr>`;
+  });
+  h+='</tbody></table></div>';
+  document.getElementById('league-table').innerHTML=h;
+}
+
+function buildRecords(){
+  const R=DATA.records;
+  const mk=(title,list,val,unit)=>{
+    let h=`<div class="card rec"><h3>${title}</h3><table><tbody>`;
+    list.forEach(f=>{
+      const v=val(f);
+      h+=`<tr><td class="total">${f.year}</td>`+
+         `<td class="l">${f.champion} ${f.champion_score||''} v ${f.runner_up||'—'} ${f.runner_up_score||''}</td>`+
+         `<td class="num">${v}${unit?' '+unit:''}</td></tr>`;
+    });
+    h+='</tbody></table></div>'; return h;
+  };
+  document.getElementById('records-wrap').innerHTML=
+    '<div class="rec-grid">'+
+    mk('Biggest winning margins', R.biggest_margins, f=>f.margin, 'pts')+
+    mk('Tightest finals', R.tightest_finals, f=>f.margin, 'pt'+'s')+
+    mk('Highest-scoring finals', R.highest_scoring, f=>f.combined, 'pts')+
+    mk('Biggest attendances', R.biggest_crowds, f=>f.attendance.toLocaleString())+
+    '</div>';
 }
 
 function buildChart(){

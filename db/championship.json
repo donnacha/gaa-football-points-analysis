@@ -1,46 +1,6107 @@
 {
-  "_README": "Raw placement FACTS for the GAA All-Ireland Senior Football Championship. This file contains NO points — points are derived by build.py using params.json. Each year lists the four provincial finals (winner/loser) and the All-Ireland series finishing stages. 'best finish only' is applied at scoring time, so a county may legitimately appear as both a provincial finalist and an All-Ireland deep-run team; the higher value wins. Stage lists: semi_final_losers, quarter_final_losers, prelim_qf_losers (2023+ preliminary QF), super8_group_exits (2018-19 Super 8s teams eliminated at the group stage), group_exits (2023+ round-robin teams eliminated at the group stage before the QF/prelim-QF).",
-  "years": [
-    {"year":1990,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Roscommon","loser":"Galway"},"Leinster":{"winner":"Meath","loser":"Dublin"},"Munster":{"winner":"Cork","loser":"Kerry"},"Ulster":{"winner":"Donegal","loser":"Armagh"}},"all_ireland":{"champion":"Cork","runner_up":"Meath","semi_final_losers":["Roscommon","Donegal"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1991,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Roscommon","loser":"Mayo"},"Leinster":{"winner":"Meath","loser":"Laois"},"Munster":{"winner":"Kerry","loser":"Limerick"},"Ulster":{"winner":"Down","loser":"Donegal"}},"all_ireland":{"champion":"Down","runner_up":"Meath","semi_final_losers":["Roscommon","Kerry"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1992,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Roscommon"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Clare","loser":"Kerry"},"Ulster":{"winner":"Donegal","loser":"Derry"}},"all_ireland":{"champion":"Donegal","runner_up":"Dublin","semi_final_losers":["Mayo","Clare"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1993,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Roscommon"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Cork","loser":"Tipperary"},"Ulster":{"winner":"Derry","loser":"Donegal"}},"all_ireland":{"champion":"Derry","runner_up":"Cork","semi_final_losers":["Mayo","Dublin"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1994,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Leitrim","loser":"Mayo"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Cork","loser":"Tipperary"},"Ulster":{"winner":"Down","loser":"Tyrone"}},"all_ireland":{"champion":"Down","runner_up":"Dublin","semi_final_losers":["Leitrim","Cork"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1995,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Mayo"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Cork","loser":"Kerry"},"Ulster":{"winner":"Tyrone","loser":"Cavan"}},"all_ireland":{"champion":"Dublin","runner_up":"Tyrone","semi_final_losers":["Galway","Cork"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1996,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Meath","loser":"Dublin"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Tyrone","loser":"Down"}},"all_ireland":{"champion":"Meath","runner_up":"Mayo","semi_final_losers":["Kerry","Tyrone"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1997,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Sligo"},"Leinster":{"winner":"Offaly","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Clare"},"Ulster":{"winner":"Cavan","loser":"Derry"}},"all_ireland":{"champion":"Kerry","runner_up":"Mayo","semi_final_losers":["Offaly","Cavan"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1998,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Roscommon"},"Leinster":{"winner":"Kildare","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Tipperary"},"Ulster":{"winner":"Derry","loser":"Donegal"}},"all_ireland":{"champion":"Galway","runner_up":"Kildare","semi_final_losers":["Kerry","Derry"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":1999,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Meath","loser":"Dublin"},"Munster":{"winner":"Cork","loser":"Kerry"},"Ulster":{"winner":"Armagh","loser":"Down"}},"all_ireland":{"champion":"Meath","runner_up":"Cork","semi_final_losers":["Mayo","Armagh"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2000,"format":"pre_qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Leitrim"},"Leinster":{"winner":"Kildare","loser":"Dublin"},"Munster":{"winner":"Kerry","loser":"Clare"},"Ulster":{"winner":"Armagh","loser":"Derry"}},"all_ireland":{"champion":"Kerry","runner_up":"Galway","semi_final_losers":["Kildare","Armagh"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-
-    {"year":2001,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Roscommon","loser":"Mayo"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Tyrone","loser":"Cavan"}},"all_ireland":{"champion":"Galway","runner_up":"Meath","semi_final_losers":["Derry","Kerry"],"quarter_final_losers":["Roscommon","Dublin","Tyrone","Westmeath"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2002,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Sligo"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Cork","loser":"Tipperary"},"Ulster":{"winner":"Armagh","loser":"Donegal"}},"all_ireland":{"champion":"Armagh","runner_up":"Kerry","semi_final_losers":["Cork","Dublin"],"quarter_final_losers":["Galway","Sligo","Mayo","Donegal"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2003,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Mayo"},"Leinster":{"winner":"Laois","loser":"Kildare"},"Munster":{"winner":"Kerry","loser":"Limerick"},"Ulster":{"winner":"Tyrone","loser":"Down"}},"all_ireland":{"champion":"Tyrone","runner_up":"Armagh","semi_final_losers":["Kerry","Donegal"],"quarter_final_losers":["Fermanagh","Laois","Galway","Roscommon"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2004,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Roscommon"},"Leinster":{"winner":"Westmeath","loser":"Laois"},"Munster":{"winner":"Kerry","loser":"Limerick"},"Ulster":{"winner":"Armagh","loser":"Donegal"}},"all_ireland":{"champion":"Kerry","runner_up":"Mayo","semi_final_losers":["Fermanagh","Derry"],"quarter_final_losers":["Armagh","Tyrone","Westmeath","Dublin"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2005,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Mayo"},"Leinster":{"winner":"Dublin","loser":"Laois"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Armagh","loser":"Tyrone"}},"all_ireland":{"champion":"Tyrone","runner_up":"Kerry","semi_final_losers":["Cork","Armagh"],"quarter_final_losers":["Mayo","Galway","Dublin","Laois"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2006,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Offaly"},"Munster":{"winner":"Cork","loser":"Kerry"},"Ulster":{"winner":"Armagh","loser":"Donegal"}},"all_ireland":{"champion":"Kerry","runner_up":"Mayo","semi_final_losers":["Cork","Dublin"],"quarter_final_losers":["Armagh","Donegal","Westmeath","Laois"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2007,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Sligo","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Laois"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Tyrone","loser":"Monaghan"}},"all_ireland":{"champion":"Kerry","runner_up":"Cork","semi_final_losers":["Meath","Dublin"],"quarter_final_losers":["Sligo","Tyrone","Derry","Monaghan"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2008,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Mayo"},"Leinster":{"winner":"Dublin","loser":"Wexford"},"Munster":{"winner":"Cork","loser":"Kerry"},"Ulster":{"winner":"Armagh","loser":"Fermanagh"}},"all_ireland":{"champion":"Tyrone","runner_up":"Kerry","semi_final_losers":["Cork","Wexford"],"quarter_final_losers":["Armagh","Galway","Kildare","Dublin"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2009,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Cork","loser":"Limerick"},"Ulster":{"winner":"Tyrone","loser":"Antrim"}},"all_ireland":{"champion":"Kerry","runner_up":"Cork","semi_final_losers":["Tyrone","Meath"],"quarter_final_losers":["Donegal","Kildare","Dublin","Mayo"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2010,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Roscommon","loser":"Sligo"},"Leinster":{"winner":"Meath","loser":"Louth"},"Munster":{"winner":"Kerry","loser":"Limerick"},"Ulster":{"winner":"Tyrone","loser":"Monaghan"}},"all_ireland":{"champion":"Cork","runner_up":"Down","semi_final_losers":["Dublin","Kildare"],"quarter_final_losers":["Kerry","Tyrone","Roscommon","Meath"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2011,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Roscommon"},"Leinster":{"winner":"Dublin","loser":"Wexford"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Donegal","loser":"Derry"}},"all_ireland":{"champion":"Dublin","runner_up":"Kerry","semi_final_losers":["Mayo","Donegal"],"quarter_final_losers":["Limerick","Cork","Kildare","Tyrone"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2012,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Sligo"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Cork","loser":"Clare"},"Ulster":{"winner":"Donegal","loser":"Down"}},"all_ireland":{"champion":"Donegal","runner_up":"Mayo","semi_final_losers":["Cork","Dublin"],"quarter_final_losers":["Down","Laois","Kildare","Kerry"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2013,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"London"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Monaghan","loser":"Donegal"}},"all_ireland":{"champion":"Dublin","runner_up":"Mayo","semi_final_losers":["Tyrone","Kerry"],"quarter_final_losers":["Cork","Cavan","Donegal","Monaghan"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2014,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Donegal","loser":"Monaghan"}},"all_ireland":{"champion":"Kerry","runner_up":"Donegal","semi_final_losers":["Mayo","Dublin"],"quarter_final_losers":["Galway","Cork","Armagh","Monaghan"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2015,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Sligo"},"Leinster":{"winner":"Dublin","loser":"Westmeath"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Monaghan","loser":"Donegal"}},"all_ireland":{"champion":"Dublin","runner_up":"Kerry","semi_final_losers":["Tyrone","Mayo"],"quarter_final_losers":["Kildare","Fermanagh","Monaghan","Donegal"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2016,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Roscommon"},"Leinster":{"winner":"Dublin","loser":"Westmeath"},"Munster":{"winner":"Kerry","loser":"Tipperary"},"Ulster":{"winner":"Tyrone","loser":"Donegal"}},"all_ireland":{"champion":"Dublin","runner_up":"Mayo","semi_final_losers":["Tipperary","Kerry"],"quarter_final_losers":["Clare","Galway","Tyrone","Donegal"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2017,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Roscommon","loser":"Leitrim"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Tyrone","loser":"Down"}},"all_ireland":{"champion":"Dublin","runner_up":"Mayo","semi_final_losers":["Kerry","Tyrone"],"quarter_final_losers":["Galway","Roscommon","Armagh","Monaghan"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-
-    {"year":2018,"format":"super8","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Roscommon"},"Leinster":{"winner":"Dublin","loser":"Laois"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Donegal","loser":"Fermanagh"}},"all_ireland":{"champion":"Dublin","runner_up":"Tyrone","semi_final_losers":["Monaghan","Galway"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":["Kerry","Kildare","Roscommon","Donegal"],"group_exits":[]}},
-    {"year":2019,"format":"super8","provincial_finals":{"Connacht":{"winner":"Roscommon","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Limerick"},"Ulster":{"winner":"Donegal","loser":"Tyrone"}},"all_ireland":{"champion":"Dublin","runner_up":"Kerry","semi_final_losers":["Mayo","Tyrone"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":["Donegal","Meath","Cork","Roscommon"],"group_exits":[]}},
-
-    {"year":2020,"format":"knockout_covid","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Meath"},"Munster":{"winner":"Tipperary","loser":"Cork"},"Ulster":{"winner":"Cavan","loser":"Donegal"}},"all_ireland":{"champion":"Dublin","runner_up":"Mayo","semi_final_losers":["Cavan","Tipperary"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-    {"year":2021,"format":"knockout_covid","provincial_finals":{"Connacht":{"winner":"Mayo","loser":"Galway"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Kerry","loser":"Cork"},"Ulster":{"winner":"Tyrone","loser":"Monaghan"}},"all_ireland":{"champion":"Tyrone","runner_up":"Mayo","semi_final_losers":["Dublin","Kerry"],"quarter_final_losers":[],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-
-    {"year":2022,"format":"qualifier","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Roscommon"},"Leinster":{"winner":"Dublin","loser":"Kildare"},"Munster":{"winner":"Kerry","loser":"Limerick"},"Ulster":{"winner":"Derry","loser":"Donegal"}},"all_ireland":{"champion":"Kerry","runner_up":"Galway","semi_final_losers":["Derry","Dublin"],"quarter_final_losers":["Clare","Cork","Armagh","Mayo"],"prelim_qf_losers":[],"super8_group_exits":[],"group_exits":[]}},
-
-    {"year":2023,"format":"round_robin","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Sligo"},"Leinster":{"winner":"Dublin","loser":"Louth"},"Munster":{"winner":"Kerry","loser":"Clare"},"Ulster":{"winner":"Derry","loser":"Armagh"}},"all_ireland":{"champion":"Dublin","runner_up":"Kerry","semi_final_losers":["Monaghan","Derry"],"quarter_final_losers":["Tyrone","Armagh","Cork","Mayo"],"prelim_qf_losers":["Roscommon","Kildare","Donegal","Galway"],"super8_group_exits":[],"group_exits":["Louth","Westmeath","Sligo","Clare"]}},
-    {"year":2024,"format":"round_robin","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Mayo"},"Leinster":{"winner":"Dublin","loser":"Louth"},"Munster":{"winner":"Kerry","loser":"Clare"},"Ulster":{"winner":"Donegal","loser":"Armagh"}},"all_ireland":{"champion":"Armagh","runner_up":"Galway","semi_final_losers":["Kerry","Donegal"],"quarter_final_losers":["Roscommon","Dublin","Louth","Derry"],"prelim_qf_losers":["Monaghan","Tyrone","Mayo","Cork"],"super8_group_exits":[],"group_exits":["Westmeath","Cavan","Clare","Meath"]}},
-    {"year":2025,"format":"round_robin","provincial_finals":{"Connacht":{"winner":"Galway","loser":"Mayo"},"Leinster":{"winner":"Louth","loser":"Meath"},"Munster":{"winner":"Kerry","loser":"Clare"},"Ulster":{"winner":"Donegal","loser":"Armagh"}},"all_ireland":{"champion":"Kerry","runner_up":"Donegal","semi_final_losers":["Tyrone","Meath"],"quarter_final_losers":["Monaghan","Dublin","Galway","Armagh"],"prelim_qf_losers":["Cavan","Cork","Down","Louth"],"super8_group_exits":[],"group_exits":["Mayo","Roscommon","Clare","Derry"]}}
-  ]
+ "_README": "Raw placement FACTS for the GAA All-Ireland Senior Football Championship, 1887-2025 (1888 omitted: championship unfinished). Contains NO points - points are derived by build.py from params.json. Each year lists the provincial finals (winner/beaten finalist) and the All-Ireland series finishing stages, plus all_ireland.final detail (scoreline, venue, attendance, replay, captain, manager). GENERATED by assemble.py from the audited files in db/sources/ - edit those, not this file, then re-run assemble.py. 'best finish only' is applied at scoring time. Stage lists: semi_final_losers, quarter_final_losers (early-era extra rounds + 2023+ preliminary QFs are prelim_qf_losers), super8_group_exits (2018-19), group_exits (2023+ round-robin). For 1929-1989 the two semi_final_losers are derived as the provincial champions who did not reach the final.",
+ "years": [
+  {
+   "year": 1887,
+   "format": "foundation",
+   "provincial_finals": {},
+   "all_ireland": {
+    "champion": "Limerick",
+    "runner_up": "Louth",
+    "semi_final_losers": [
+     "Tipperary"
+    ],
+    "quarter_final_losers": [
+     "Wexford",
+     "Clare",
+     "Kilkenny"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-04",
+     "runner_up_score": "0-03",
+     "venue": "Donnybrook",
+     "attendance": 7000,
+     "replay": false,
+     "captain": "Denis Corbett",
+     "manager": null,
+     "notes": "First All-Ireland final; played 29 April 1888."
+    }
+   }
+  },
+  {
+   "year": 1889,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Laois",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Cork"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tipperary",
+    "runner_up": "Laois",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-06",
+     "runner_up_score": "0-00",
+     "venue": "Inchicore",
+     "attendance": 1500,
+     "replay": false,
+     "captain": "Gil Cavanagh",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1890,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Wexford",
+    "semi_final_losers": [
+     "Armagh",
+     "Galway"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-04",
+     "runner_up_score": "0-01",
+     "venue": "Clonturk",
+     "attendance": 1000,
+     "replay": false,
+     "captain": "Jim Power",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1891,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-01",
+     "runner_up_score": "1-01",
+     "venue": null,
+     "attendance": 2000,
+     "replay": false,
+     "captain": "John Kennedy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1892,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Roscommon"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-04",
+     "runner_up_score": "0-03",
+     "venue": null,
+     "attendance": 5000,
+     "replay": false,
+     "captain": "John Kennedy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1893,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Kilkenny"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Wexford",
+    "runner_up": "Cork",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-01",
+     "runner_up_score": "0-01",
+     "venue": "Phoenix Park",
+     "attendance": 1000,
+     "replay": false,
+     "captain": "Tom Hayes",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1894,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Cork",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-05",
+     "runner_up_score": "1-02",
+     "venue": "Thurles",
+     "attendance": 10000,
+     "replay": true,
+     "captain": "John Kennedy",
+     "manager": null,
+     "notes": "Replay abandoned amid crowd trouble; Dublin awarded the title."
+    }
+   }
+  },
+  {
+   "year": 1895,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Limerick"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tipperary",
+    "runner_up": "Meath",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-04",
+     "runner_up_score": "0-03",
+     "venue": "Jones' Road",
+     "attendance": 8000,
+     "replay": false,
+     "captain": "Paddy Finn",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1896,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Limerick",
+     "loser": "Waterford"
+    }
+   },
+   "all_ireland": {
+    "champion": "Limerick",
+    "runner_up": "Dublin",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-05",
+     "runner_up_score": "0-07",
+     "venue": null,
+     "attendance": 3500,
+     "replay": false,
+     "captain": "Con Fitzgerald",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1897,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wicklow"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Limerick"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Cork",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-06",
+     "runner_up_score": "0-02",
+     "venue": null,
+     "attendance": 4000,
+     "replay": false,
+     "captain": "P. J. Walsh",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1898,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Waterford",
+     "loser": "Cork"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Waterford",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-08",
+     "runner_up_score": "0-04",
+     "venue": "Tipperary",
+     "attendance": 1000,
+     "replay": false,
+     "captain": "Matt Rea",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1899,
+   "format": "foundation",
+   "provincial_finals": {
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Cork",
+    "semi_final_losers": [],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "0-06",
+     "venue": "Jones' Road",
+     "attendance": 2000,
+     "replay": false,
+     "captain": "Matt Rea",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1900,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": ""
+    },
+    "Leinster": {
+     "winner": "Kilkenny",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Kerry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tipperary",
+    "runner_up": "London",
+    "semi_final_losers": [
+     "Antrim",
+     "Kilkenny",
+     "Galway"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-07",
+     "runner_up_score": "0-02",
+     "venue": null,
+     "attendance": 2000,
+     "replay": false,
+     "captain": "Jack Tobin",
+     "manager": null,
+     "notes": "London contested the final as the 'away' champion."
+    }
+   }
+  },
+  {
+   "year": 1901,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "London",
+    "semi_final_losers": [
+     "Antrim",
+     "Mayo",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-14",
+     "runner_up_score": "0-02",
+     "venue": null,
+     "attendance": 2000,
+     "replay": false,
+     "captain": "Jack Darcy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1902,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": ""
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "London",
+    "semi_final_losers": [
+     "Galway",
+     "Armagh",
+     "Tipperary"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-08",
+     "runner_up_score": "0-04",
+     "venue": "Cork",
+     "attendance": 10000,
+     "replay": false,
+     "captain": "Jack Dempsey",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1903,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Kilkenny"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "London",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan",
+     "Kildare"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-11",
+     "runner_up_score": "0-03",
+     "venue": "Jones' Road",
+     "attendance": 10000,
+     "replay": false,
+     "captain": "Thady Gorman",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1904,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kilkenny"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Cavan",
+     "Mayo"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-05",
+     "runner_up_score": "0-02",
+     "venue": "Cork",
+     "attendance": 10000,
+     "replay": false,
+     "captain": "Austin Stack",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1905,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kildare",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Roscommon",
+     "Cavan"
+    ],
+    "quarter_final_losers": [
+     "London"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-07",
+     "runner_up_score": "0-05",
+     "venue": "Thurles",
+     "attendance": 15000,
+     "replay": false,
+     "captain": "Jack Murray",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1906,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "London",
+     "Mayo"
+    ],
+    "quarter_final_losers": [
+     "Monaghan"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-05",
+     "runner_up_score": "0-04",
+     "venue": "Athy",
+     "attendance": 8000,
+     "replay": false,
+     "captain": "Jack Grace",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1907,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Monaghan",
+     "London"
+    ],
+    "quarter_final_losers": [
+     "Mayo"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-06",
+     "runner_up_score": "0-02",
+     "venue": "Tipperary",
+     "attendance": 5000,
+     "replay": false,
+     "captain": "Jack Grace",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1908,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "London",
+    "semi_final_losers": [
+     "Mayo",
+     "Antrim",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "0-04",
+     "venue": "Jones' Road",
+     "attendance": 10000,
+     "replay": false,
+     "captain": "Dave Kelleher",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1909,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Kilkenny"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Louth",
+    "semi_final_losers": [
+     "Antrim",
+     "Mayo"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "0-06",
+     "venue": null,
+     "attendance": 16000,
+     "replay": false,
+     "captain": "Tom Costelloe",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1910,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Louth",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Galway",
+     "London"
+    ],
+    "quarter_final_losers": [
+     "Antrim"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": null,
+     "runner_up_score": null,
+     "venue": "Jones' Road",
+     "attendance": null,
+     "replay": false,
+     "captain": "Larry McCormack",
+     "manager": null,
+     "notes": "Kerry refused to travel in a rail dispute; Louth awarded the title by walkover."
+    }
+   }
+  },
+  {
+   "year": 1911,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Kilkenny",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Antrim",
+    "semi_final_losers": [
+     "Galway",
+     "Kilkenny"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "6-06",
+     "runner_up_score": "1-02",
+     "venue": "Jones' Road",
+     "attendance": 11000,
+     "replay": false,
+     "captain": "Mick Mehigan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1912,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Louth",
+    "runner_up": "Antrim",
+    "semi_final_losers": [
+     "Kerry",
+     "Roscommon"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-07",
+     "runner_up_score": "1-02",
+     "venue": null,
+     "attendance": 13000,
+     "replay": false,
+     "captain": "Jim Smith",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1913,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Wexford",
+    "semi_final_losers": [
+     "Antrim",
+     "Galway"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-02",
+     "runner_up_score": "0-03",
+     "venue": "Croke Park",
+     "attendance": 17000,
+     "replay": false,
+     "captain": "Dick Fitzgerald",
+     "manager": null,
+     "notes": "First final at the newly named Croke Park."
+    }
+   }
+  },
+  {
+   "year": 1914,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Fermanagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Wexford",
+    "semi_final_losers": [
+     "Roscommon",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-03",
+     "runner_up_score": "0-06",
+     "venue": "Croke Park",
+     "attendance": 20000,
+     "replay": false,
+     "captain": "Dick Fitzgerald",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1915,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Wexford",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Roscommon",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-04",
+     "runner_up_score": "2-01",
+     "venue": "Croke Park",
+     "attendance": 27000,
+     "replay": false,
+     "captain": "Sean O'Kennedy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1916,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Wexford",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Monaghan",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-04",
+     "runner_up_score": "1-02",
+     "venue": null,
+     "attendance": 3000,
+     "replay": false,
+     "captain": "Sean O'Kennedy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1917,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Clare",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Wexford",
+    "runner_up": "Clare",
+    "semi_final_losers": [
+     "Galway",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-09",
+     "runner_up_score": "0-05",
+     "venue": null,
+     "attendance": 6500,
+     "replay": false,
+     "captain": "Sean O'Kennedy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1918,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Wexford",
+    "runner_up": "Tipperary",
+    "semi_final_losers": [
+     "Cavan",
+     "Mayo"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-05",
+     "runner_up_score": "0-04",
+     "venue": null,
+     "attendance": 12000,
+     "replay": false,
+     "captain": "Tom McGrath",
+     "manager": null,
+     "notes": "Wexford's fourth title in a row."
+    }
+   }
+  },
+  {
+   "year": 1919,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kildare",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Kerry",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-05",
+     "runner_up_score": "0-01",
+     "venue": null,
+     "attendance": 32000,
+     "replay": false,
+     "captain": "Larry Stanley",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1920,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tipperary",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Cavan",
+     "Mayo"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-06",
+     "runner_up_score": "1-02",
+     "venue": null,
+     "attendance": 17000,
+     "replay": false,
+     "captain": "Jerry Shelly",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1921,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Monaghan",
+     "Tipperary"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "0-02",
+     "venue": null,
+     "attendance": 16000,
+     "replay": false,
+     "captain": "Eddie Carroll",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1922,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kilkenny"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Monaghan",
+     "Tipperary"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-06",
+     "runner_up_score": "0-04",
+     "venue": null,
+     "attendance": 11792,
+     "replay": false,
+     "captain": "Paddy Carey",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1923,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Cavan",
+     "Mayo"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-05",
+     "runner_up_score": "1-03",
+     "venue": null,
+     "attendance": 18500,
+     "replay": false,
+     "captain": "Paddy McDonnell",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1924,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-04",
+     "runner_up_score": "0-03",
+     "venue": null,
+     "attendance": 28844,
+     "replay": false,
+     "captain": "Phil O'Sullivan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1925,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Cavan",
+    "semi_final_losers": [
+     "Wexford",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-02",
+     "runner_up_score": "1-02",
+     "venue": null,
+     "attendance": null,
+     "replay": false,
+     "captain": "Michael Walsh",
+     "manager": null,
+     "notes": "Title awarded after disqualifications; Galway named champions, Cavan special runners-up. The 3-02 v 1-02 line refers to the related Central Council final."
+    }
+   }
+  },
+  {
+   "year": 1926,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Kildare",
+    "semi_final_losers": [
+     "Cavan",
+     "Galway"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-04",
+     "runner_up_score": "0-04",
+     "venue": "Croke Park",
+     "attendance": 35500,
+     "replay": true,
+     "captain": "John Joe Sheehy",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1927,
+   "format": "foundation",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Leitrim",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kildare",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Leitrim",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-05",
+     "runner_up_score": "0-03",
+     "venue": "Croke Park",
+     "attendance": 36529,
+     "replay": false,
+     "captain": "Mick Buckley",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1928,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Sligo",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kildare",
+    "runner_up": "Cavan",
+    "semi_final_losers": [
+     "Sligo",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-06",
+     "runner_up_score": "2-05",
+     "venue": null,
+     "attendance": 24700,
+     "replay": false,
+     "captain": "Bill Gannon",
+     "manager": null,
+     "notes": "First final for the Sam Maguire Cup."
+    }
+   }
+  },
+  {
+   "year": 1929,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Kildare",
+    "semi_final_losers": [
+     "Mayo",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-08",
+     "runner_up_score": "1-05",
+     "venue": null,
+     "attendance": 43839,
+     "replay": false,
+     "captain": "Joe Barrett",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1930,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Monaghan",
+    "semi_final_losers": [
+     "Mayo",
+     "Kildare"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-11",
+     "runner_up_score": "0-02",
+     "venue": null,
+     "attendance": 33280,
+     "replay": false,
+     "captain": "John Joe Sheehy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1931,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Westmeath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Kildare",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-11",
+     "runner_up_score": "0-08",
+     "venue": null,
+     "attendance": 42350,
+     "replay": false,
+     "captain": "Con Brosnan",
+     "manager": null,
+     "notes": "Kerry's four-in-a-row begins to take shape (third of four)."
+    }
+   }
+  },
+  {
+   "year": 1932,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Dublin",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-07",
+     "runner_up_score": "2-04",
+     "venue": null,
+     "attendance": 25816,
+     "replay": false,
+     "captain": "Joe Barrett",
+     "manager": null,
+     "notes": "Kerry complete four-in-a-row (1929-32)."
+    }
+   }
+  },
+  {
+   "year": 1933,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cavan",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Dublin",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-05",
+     "runner_up_score": "1-04",
+     "venue": null,
+     "attendance": 45188,
+     "replay": false,
+     "captain": "Jim Smith",
+     "manager": null,
+     "notes": "First Ulster team to win the Sam Maguire."
+    }
+   }
+  },
+  {
+   "year": 1934,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Kerry",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-05",
+     "runner_up_score": "1-09",
+     "venue": null,
+     "attendance": 36143,
+     "replay": false,
+     "captain": "Michael Higgins",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1935,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Fermanagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cavan",
+    "runner_up": "Kildare",
+    "semi_final_losers": [
+     "Mayo",
+     "Tipperary"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-06",
+     "runner_up_score": "2-05",
+     "venue": null,
+     "attendance": 50380,
+     "replay": false,
+     "captain": "Hughie O'Reilly",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1936,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Laois",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Mayo",
+    "runner_up": "Laois",
+    "semi_final_losers": [
+     "Kerry",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "4-11",
+     "runner_up_score": "0-05",
+     "venue": null,
+     "attendance": 50168,
+     "replay": false,
+     "captain": "Seamus O'Malley",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1937,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Laois",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Cavan",
+    "semi_final_losers": [
+     "Mayo",
+     "Laois"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "4-04",
+     "runner_up_score": "1-07",
+     "venue": "Croke Park",
+     "attendance": 51234,
+     "replay": true,
+     "captain": "Miko Doyle",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1938,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Laois",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Laois",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-04",
+     "runner_up_score": "0-07",
+     "venue": null,
+     "attendance": 47851,
+     "replay": true,
+     "captain": "John Dunne",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1939,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-05",
+     "runner_up_score": "2-03",
+     "venue": "Croke Park",
+     "attendance": 46828,
+     "replay": false,
+     "captain": "Tom O'Connor",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1940,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Meath",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-07",
+     "runner_up_score": "1-03",
+     "venue": null,
+     "attendance": 60821,
+     "replay": false,
+     "captain": "Dan Spring",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1941,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Carlow"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Dublin",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-08",
+     "runner_up_score": "0-07",
+     "venue": null,
+     "attendance": 45512,
+     "replay": false,
+     "captain": "Bill Dillon",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1942,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Carlow"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Kerry",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "1-08",
+     "venue": null,
+     "attendance": 37105,
+     "replay": false,
+     "captain": "Joe Fitzgerald",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1943,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Roscommon",
+    "runner_up": "Cavan",
+    "semi_final_losers": [
+     "Louth",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-07",
+     "runner_up_score": "2-02",
+     "venue": "Croke Park",
+     "attendance": 47193,
+     "replay": true,
+     "captain": "Jimmy Murray",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1944,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Carlow",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Roscommon",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Carlow",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "2-04",
+     "venue": "Croke Park",
+     "attendance": 79245,
+     "replay": false,
+     "captain": "Jimmy Murray",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1945,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Wexford",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Fermanagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Cavan",
+    "semi_final_losers": [
+     "Galway",
+     "Wexford"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-05",
+     "runner_up_score": "0-07",
+     "venue": null,
+     "attendance": 67329,
+     "replay": false,
+     "captain": "Tadhg Crowley",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1946,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Laois",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Roscommon",
+    "semi_final_losers": [
+     "Laois",
+     "Antrim"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-08",
+     "runner_up_score": "0-10",
+     "venue": "Croke Park",
+     "attendance": 65661,
+     "replay": true,
+     "captain": "Paddy Kennedy",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1947,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cavan",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Roscommon",
+     "Meath"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-11",
+     "runner_up_score": "2-07",
+     "venue": "Polo Grounds, New York",
+     "attendance": 34491,
+     "replay": false,
+     "captain": "John Joe O'Reilly",
+     "manager": null,
+     "notes": "The only All-Ireland final played outside Ireland."
+    }
+   }
+  },
+  {
+   "year": 1948,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cavan",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Louth",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "4-05",
+     "runner_up_score": "4-04",
+     "venue": "Croke Park",
+     "attendance": 74645,
+     "replay": false,
+     "captain": "John Joe O'Reilly",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1949,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Westmeath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Cavan",
+    "semi_final_losers": [
+     "Mayo",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "1-06",
+     "venue": null,
+     "attendance": 79460,
+     "replay": false,
+     "captain": "Brian Smyth",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1950,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Mayo",
+    "runner_up": "Louth",
+    "semi_final_losers": [
+     "Kerry",
+     "Armagh"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-05",
+     "runner_up_score": "1-06",
+     "venue": null,
+     "attendance": 76174,
+     "replay": false,
+     "captain": "Sean Flanagan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1951,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Antrim",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Mayo",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Kerry",
+     "Antrim"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-08",
+     "runner_up_score": "0-09",
+     "venue": null,
+     "attendance": 78201,
+     "replay": false,
+     "captain": "Sean Flanagan",
+     "manager": null,
+     "notes": "Mayo back-to-back champions (1950-51)."
+    }
+   }
+  },
+  {
+   "year": 1952,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cavan",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Roscommon",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-09",
+     "runner_up_score": "0-05",
+     "venue": "Croke Park",
+     "attendance": 62515,
+     "replay": true,
+     "captain": "Mick Higgins",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1953,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Armagh",
+    "semi_final_losers": [
+     "Roscommon",
+     "Louth"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-13",
+     "runner_up_score": "1-06",
+     "venue": "Croke Park",
+     "attendance": 86155,
+     "replay": false,
+     "captain": "Jas Murphy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1954,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Galway",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-13",
+     "runner_up_score": "1-07",
+     "venue": null,
+     "attendance": 75276,
+     "replay": false,
+     "captain": "Peter McDermott",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1955,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-12",
+     "runner_up_score": "1-06",
+     "venue": null,
+     "attendance": 87102,
+     "replay": false,
+     "captain": "John Dowling",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1956,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Kildare",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-13",
+     "runner_up_score": "3-07",
+     "venue": null,
+     "attendance": 70772,
+     "replay": false,
+     "captain": "Jack Mangan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1957,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Louth",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Galway",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "1-07",
+     "venue": null,
+     "attendance": 72732,
+     "replay": false,
+     "captain": "Dermot O'Brien",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1958,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Derry",
+    "semi_final_losers": [
+     "Galway",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-12",
+     "runner_up_score": "1-09",
+     "venue": null,
+     "attendance": 73371,
+     "replay": false,
+     "captain": "Kevin Heffernan",
+     "manager": null,
+     "notes": "Derry's first final."
+    }
+   }
+  },
+  {
+   "year": 1959,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Dublin",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-07",
+     "runner_up_score": "1-04",
+     "venue": null,
+     "attendance": 85897,
+     "replay": false,
+     "captain": "Mick O'Connell",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1960,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Waterford"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Down",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Galway",
+     "Offaly"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-10",
+     "runner_up_score": "0-08",
+     "venue": null,
+     "attendance": 87768,
+     "replay": false,
+     "captain": "Kevin Mussen",
+     "manager": null,
+     "notes": "Sam Maguire crosses the border for the first time."
+    }
+   }
+  },
+  {
+   "year": 1961,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Down",
+    "runner_up": "Offaly",
+    "semi_final_losers": [
+     "Roscommon",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-06",
+     "runner_up_score": "2-08",
+     "venue": "Croke Park",
+     "attendance": 90556,
+     "replay": false,
+     "captain": "Paddy Doherty",
+     "manager": null,
+     "notes": "Record All-Ireland final attendance."
+    }
+   }
+  },
+  {
+   "year": 1962,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Roscommon",
+    "semi_final_losers": [
+     "Dublin",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-12",
+     "runner_up_score": "1-06",
+     "venue": "Croke Park",
+     "attendance": 75771,
+     "replay": false,
+     "captain": "Sean Og Sheehy",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1963,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Kerry",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "0-10",
+     "venue": "Croke Park",
+     "attendance": 87106,
+     "replay": false,
+     "captain": "Des Foley",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1964,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Meath",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-15",
+     "runner_up_score": "0-10",
+     "venue": "Croke Park",
+     "attendance": 76498,
+     "replay": false,
+     "captain": "John Donnellan",
+     "manager": null,
+     "notes": "Galway three-in-a-row begins (1964-66)."
+    }
+   }
+  },
+  {
+   "year": 1965,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Longford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Dublin",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-12",
+     "runner_up_score": "0-09",
+     "venue": "Croke Park",
+     "attendance": 77735,
+     "replay": false,
+     "captain": "Enda Colleran",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1966,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Cork",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "0-07",
+     "venue": "Croke Park",
+     "attendance": 71569,
+     "replay": false,
+     "captain": "Enda Colleran",
+     "manager": null,
+     "notes": "Galway complete three-in-a-row."
+    }
+   }
+  },
+  {
+   "year": 1967,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "0-09",
+     "venue": "Croke Park",
+     "attendance": 70343,
+     "replay": false,
+     "captain": "Peter Darby",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1968,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Longford",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Down",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Galway",
+     "Longford"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-12",
+     "runner_up_score": "1-13",
+     "venue": "Croke Park",
+     "attendance": 71294,
+     "replay": false,
+     "captain": "Joe Lennon",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1969,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Offaly",
+    "semi_final_losers": [
+     "Mayo",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-10",
+     "runner_up_score": "0-07",
+     "venue": "Croke Park",
+     "attendance": 67828,
+     "replay": false,
+     "captain": "Johnny Culloty",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1970,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Galway",
+     "Derry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-19",
+     "runner_up_score": "0-18",
+     "venue": "Croke Park",
+     "attendance": 71775,
+     "replay": false,
+     "captain": "Donie O'Sullivan",
+     "manager": null,
+     "notes": "First final played over 80 minutes."
+    }
+   }
+  },
+  {
+   "year": 1971,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Offaly",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Cork",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-14",
+     "runner_up_score": "2-08",
+     "venue": "Croke Park",
+     "attendance": 70789,
+     "replay": false,
+     "captain": "Willie Bryan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1972,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Offaly",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Roscommon",
+     "Donegal"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-19",
+     "runner_up_score": "0-13",
+     "venue": "Croke Park",
+     "attendance": 66136,
+     "replay": true,
+     "captain": "Tony McTague",
+     "manager": null,
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 1973,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Offaly",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-17",
+     "runner_up_score": "2-13",
+     "venue": "Croke Park",
+     "attendance": 73308,
+     "replay": false,
+     "captain": "Billy Morgan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1974,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Cork",
+     "Donegal"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-14",
+     "runner_up_score": "1-06",
+     "venue": "Croke Park",
+     "attendance": 71898,
+     "replay": false,
+     "captain": "Sean Doherty",
+     "manager": null,
+     "notes": "Start of the Heffernan-era Dublin revival."
+    }
+   }
+  },
+  {
+   "year": 1975,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Sligo",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Sligo",
+     "Derry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-12",
+     "runner_up_score": "0-11",
+     "venue": "Croke Park",
+     "attendance": 66346,
+     "replay": false,
+     "captain": "Mickey O'Sullivan",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1976,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Galway",
+     "Derry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-08",
+     "runner_up_score": "0-10",
+     "venue": "Croke Park",
+     "attendance": 73588,
+     "replay": false,
+     "captain": "Tony Hanahoe",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1977,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Armagh",
+    "semi_final_losers": [
+     "Roscommon",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "5-12",
+     "runner_up_score": "3-06",
+     "venue": "Croke Park",
+     "attendance": 66542,
+     "replay": false,
+     "captain": "Tony Hanahoe",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1978,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Roscommon",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "5-11",
+     "runner_up_score": "0-09",
+     "venue": "Croke Park",
+     "attendance": 71503,
+     "replay": false,
+     "captain": "Denis Moran",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1979,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Roscommon",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-13",
+     "runner_up_score": "1-08",
+     "venue": "Croke Park",
+     "attendance": 72185,
+     "replay": false,
+     "captain": "Tim Kennelly",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1980,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Roscommon",
+    "semi_final_losers": [
+     "Offaly",
+     "Armagh"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-09",
+     "runner_up_score": "1-06",
+     "venue": "Croke Park",
+     "attendance": 63854,
+     "replay": false,
+     "captain": "Ger Power",
+     "manager": null,
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1981,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Offaly",
+    "semi_final_losers": [
+     "Mayo",
+     "Down"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-12",
+     "runner_up_score": "0-08",
+     "venue": "Croke Park",
+     "attendance": 61489,
+     "replay": false,
+     "captain": "Jimmy Deenihan",
+     "manager": "Mick O'Dwyer",
+     "notes": "Kerry four-in-a-row (1978-81)."
+    }
+   }
+  },
+  {
+   "year": 1982,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Fermanagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Offaly",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Galway",
+     "Armagh"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-15",
+     "runner_up_score": "0-17",
+     "venue": "Croke Park",
+     "attendance": 62309,
+     "replay": false,
+     "captain": "Richie Connor",
+     "manager": "Eugene McGee",
+     "notes": "Offaly deny Kerry a historic five-in-a-row with a late Seamus Darby goal."
+    }
+   }
+  },
+  {
+   "year": 1983,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Cork",
+     "Donegal"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "1-08",
+     "venue": "Croke Park",
+     "attendance": 71988,
+     "replay": false,
+     "captain": "Tommy Drumm",
+     "manager": "Kevin Heffernan",
+     "notes": "The 'twelve apostles' final; Dublin won with 12 men."
+    }
+   }
+  },
+  {
+   "year": 1984,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Galway",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-14",
+     "runner_up_score": "1-06",
+     "venue": "Croke Park",
+     "attendance": 68365,
+     "replay": false,
+     "captain": "Ambrose O'Donovan",
+     "manager": "Mick O'Dwyer",
+     "notes": "GAA centenary final."
+    }
+   }
+  },
+  {
+   "year": 1985,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Mayo",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-12",
+     "runner_up_score": "2-08",
+     "venue": "Croke Park",
+     "attendance": 69389,
+     "replay": false,
+     "captain": "Paidi O Se",
+     "manager": "Mick O'Dwyer",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1986,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Tyrone",
+    "semi_final_losers": [
+     "Galway",
+     "Meath"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-15",
+     "runner_up_score": "1-10",
+     "venue": "Croke Park",
+     "attendance": 68628,
+     "replay": false,
+     "captain": "Tommy Doyle",
+     "manager": "Mick O'Dwyer",
+     "notes": "Tyrone's first final."
+    }
+   }
+  },
+  {
+   "year": 1987,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Galway",
+     "Derry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-14",
+     "runner_up_score": "0-11",
+     "venue": "Croke Park",
+     "attendance": 68431,
+     "replay": false,
+     "captain": "Mick Lyons",
+     "manager": "Sean Boylan",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1988,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Mayo",
+     "Monaghan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-13",
+     "runner_up_score": "0-12",
+     "venue": "Croke Park",
+     "attendance": 64069,
+     "replay": true,
+     "captain": "Joe Cassells",
+     "manager": "Sean Boylan",
+     "notes": "Won after a replay (first game drawn 1-09 each)."
+    }
+   }
+  },
+  {
+   "year": 1989,
+   "format": "sam_maguire",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Dublin",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-17",
+     "runner_up_score": "1-11",
+     "venue": "Croke Park",
+     "attendance": 65519,
+     "replay": false,
+     "captain": "Dinny Allen",
+     "manager": "Billy Morgan",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1990,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Roscommon",
+     "Donegal"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-11",
+     "runner_up_score": "0-09",
+     "venue": "Croke Park",
+     "attendance": 65723,
+     "replay": false,
+     "captain": "Larry Tompkins",
+     "manager": "Billy Morgan",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1991,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Down",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Roscommon",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-16",
+     "runner_up_score": "1-14",
+     "venue": "Croke Park",
+     "attendance": 64500,
+     "replay": false,
+     "captain": "Paddy O'Rourke",
+     "manager": "Pete McGrath",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1992,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Clare",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Donegal",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Mayo",
+     "Clare"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-18",
+     "runner_up_score": "0-14",
+     "venue": "Croke Park",
+     "attendance": 64547,
+     "replay": false,
+     "captain": "Anthony Molloy",
+     "manager": "Brian McEniff",
+     "notes": "Donegal's first All-Ireland."
+    }
+   }
+  },
+  {
+   "year": 1993,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Derry",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Mayo",
+     "Dublin"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-14",
+     "runner_up_score": "2-08",
+     "venue": "Croke Park",
+     "attendance": 64500,
+     "replay": false,
+     "captain": "Henry Downey",
+     "manager": "Eamonn Coleman",
+     "notes": "Derry's first All-Ireland."
+    }
+   }
+  },
+  {
+   "year": 1994,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Leitrim",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Down",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Down",
+    "runner_up": "Dublin",
+    "semi_final_losers": [
+     "Leitrim",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-12",
+     "runner_up_score": "0-13",
+     "venue": "Croke Park",
+     "attendance": 58684,
+     "replay": false,
+     "captain": "D. J. Kane",
+     "manager": "Pete McGrath",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1995,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Tyrone",
+    "semi_final_losers": [
+     "Galway",
+     "Cork"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-10",
+     "runner_up_score": "0-12",
+     "venue": "Croke Park",
+     "attendance": 65000,
+     "replay": false,
+     "captain": "John O'Leary",
+     "manager": "Pat O'Neill",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1996,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Kerry",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-09",
+     "runner_up_score": "1-11",
+     "venue": "Croke Park",
+     "attendance": 65802,
+     "replay": true,
+     "captain": "Tommy Dowd",
+     "manager": "Sean Boylan",
+     "notes": "Won after a replay (first game drawn 0-12 each)."
+    }
+   }
+  },
+  {
+   "year": 1997,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Offaly",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Offaly",
+     "Cavan"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-13",
+     "runner_up_score": "1-07",
+     "venue": "Croke Park",
+     "attendance": 65601,
+     "replay": false,
+     "captain": "Liam Hassett",
+     "manager": "Paidi O Se",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1998,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Kildare",
+    "semi_final_losers": [
+     "Kerry",
+     "Derry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-14",
+     "runner_up_score": "1-10",
+     "venue": "Croke Park",
+     "attendance": 65886,
+     "replay": false,
+     "captain": "Ray Silke",
+     "manager": "John O'Mahony",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 1999,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Meath",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Mayo",
+     "Armagh"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-11",
+     "runner_up_score": "1-08",
+     "venue": "Croke Park",
+     "attendance": 63276,
+     "replay": false,
+     "captain": "Graham Geraghty",
+     "manager": "Sean Boylan",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2000,
+   "format": "pre_qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Kildare",
+     "loser": "Dublin"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Kildare",
+     "Armagh"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-17",
+     "runner_up_score": "1-10",
+     "venue": "Croke Park",
+     "attendance": 64094,
+     "replay": true,
+     "captain": "Seamus Moynihan",
+     "manager": "Paidi O Se",
+     "notes": "Won after a replay (first game drawn)."
+    }
+   }
+  },
+  {
+   "year": 2001,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Cavan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Galway",
+    "runner_up": "Meath",
+    "semi_final_losers": [
+     "Derry",
+     "Kerry"
+    ],
+    "quarter_final_losers": [
+     "Roscommon",
+     "Dublin",
+     "Tyrone",
+     "Westmeath"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-17",
+     "runner_up_score": "0-08",
+     "venue": "Croke Park",
+     "attendance": 70842,
+     "replay": false,
+     "captain": "Gary Fahey",
+     "manager": "John O'Mahony",
+     "notes": "First champions via the qualifier (back-door) route."
+    }
+   }
+  },
+  {
+   "year": 2002,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Armagh",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Cork",
+     "Dublin"
+    ],
+    "quarter_final_losers": [
+     "Galway",
+     "Sligo",
+     "Mayo",
+     "Donegal"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-12",
+     "runner_up_score": "0-14",
+     "venue": "Croke Park",
+     "attendance": 79500,
+     "replay": false,
+     "captain": "Kieran McGeeney",
+     "manager": "Joe Kernan",
+     "notes": "Armagh's first All-Ireland."
+    }
+   }
+  },
+  {
+   "year": 2003,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Laois",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tyrone",
+    "runner_up": "Armagh",
+    "semi_final_losers": [
+     "Kerry",
+     "Donegal"
+    ],
+    "quarter_final_losers": [
+     "Fermanagh",
+     "Laois",
+     "Galway",
+     "Roscommon"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-12",
+     "runner_up_score": "0-09",
+     "venue": "Croke Park",
+     "attendance": 79394,
+     "replay": false,
+     "captain": "Peter Canavan",
+     "manager": "Mickey Harte",
+     "notes": "Tyrone's first All-Ireland; first all-Ulster final."
+    }
+   }
+  },
+  {
+   "year": 2004,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Westmeath",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Fermanagh",
+     "Derry"
+    ],
+    "quarter_final_losers": [
+     "Armagh",
+     "Tyrone",
+     "Westmeath",
+     "Dublin"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-20",
+     "runner_up_score": "2-09",
+     "venue": "Croke Park",
+     "attendance": 79749,
+     "replay": false,
+     "captain": "Dara O Cinneide",
+     "manager": "Jack O'Connor",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2005,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tyrone",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Cork",
+     "Armagh"
+    ],
+    "quarter_final_losers": [
+     "Mayo",
+     "Galway",
+     "Dublin",
+     "Laois"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-16",
+     "runner_up_score": "2-10",
+     "venue": "Croke Park",
+     "attendance": 82112,
+     "replay": false,
+     "captain": "Brian Dooher",
+     "manager": "Mickey Harte",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2006,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Offaly"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Cork",
+     "Dublin"
+    ],
+    "quarter_final_losers": [
+     "Armagh",
+     "Donegal",
+     "Westmeath",
+     "Laois"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "4-15",
+     "runner_up_score": "3-05",
+     "venue": "Croke Park",
+     "attendance": 82289,
+     "replay": false,
+     "captain": "Declan O'Sullivan",
+     "manager": "Jack O'Connor",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2007,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Sligo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Meath",
+     "Dublin"
+    ],
+    "quarter_final_losers": [
+     "Sligo",
+     "Tyrone",
+     "Derry",
+     "Monaghan"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "3-13",
+     "runner_up_score": "1-09",
+     "venue": "Croke Park",
+     "attendance": 82126,
+     "replay": false,
+     "captain": "Declan O'Sullivan",
+     "manager": "Pat O'Shea",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2008,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Kerry"
+    },
+    "Ulster": {
+     "winner": "Armagh",
+     "loser": "Fermanagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tyrone",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Cork",
+     "Wexford"
+    ],
+    "quarter_final_losers": [
+     "Armagh",
+     "Galway",
+     "Kildare",
+     "Dublin"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-15",
+     "runner_up_score": "0-14",
+     "venue": "Croke Park",
+     "attendance": 82204,
+     "replay": false,
+     "captain": "Brian Dooher",
+     "manager": "Mickey Harte",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2009,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Antrim"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Cork",
+    "semi_final_losers": [
+     "Tyrone",
+     "Meath"
+    ],
+    "quarter_final_losers": [
+     "Donegal",
+     "Kildare",
+     "Dublin",
+     "Mayo"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-16",
+     "runner_up_score": "1-09",
+     "venue": "Croke Park",
+     "attendance": 82246,
+     "replay": false,
+     "captain": "Darran O'Sullivan",
+     "manager": "Jack O'Connor",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2010,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Meath",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Cork",
+    "runner_up": "Down",
+    "semi_final_losers": [
+     "Dublin",
+     "Kildare"
+    ],
+    "quarter_final_losers": [
+     "Kerry",
+     "Tyrone",
+     "Roscommon",
+     "Meath"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-16",
+     "runner_up_score": "0-15",
+     "venue": "Croke Park",
+     "attendance": 81604,
+     "replay": false,
+     "captain": "Graham Canty",
+     "manager": "Conor Counihan",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2011,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Wexford"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Derry"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Mayo",
+     "Donegal"
+    ],
+    "quarter_final_losers": [
+     "Limerick",
+     "Cork",
+     "Kildare",
+     "Tyrone"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-12",
+     "runner_up_score": "1-11",
+     "venue": "Croke Park",
+     "attendance": 82300,
+     "replay": false,
+     "captain": "Bryan Cullen",
+     "manager": "Pat Gilroy",
+     "notes": "Dublin's first title since 1995."
+    }
+   }
+  },
+  {
+   "year": 2012,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Cork",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Donegal",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Cork",
+     "Dublin"
+    ],
+    "quarter_final_losers": [
+     "Down",
+     "Laois",
+     "Kildare",
+     "Kerry"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-11",
+     "runner_up_score": "0-13",
+     "venue": "Croke Park",
+     "attendance": 82269,
+     "replay": false,
+     "captain": "Michael Murphy",
+     "manager": "Jim McGuinness",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2013,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "London"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Tyrone",
+     "Kerry"
+    ],
+    "quarter_final_losers": [
+     "Cork",
+     "Cavan",
+     "Donegal",
+     "Monaghan"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-12",
+     "runner_up_score": "1-14",
+     "venue": "Croke Park",
+     "attendance": 82274,
+     "replay": false,
+     "captain": "Stephen Cluxton",
+     "manager": "Jim Gavin",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2014,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Donegal",
+    "semi_final_losers": [
+     "Mayo",
+     "Dublin"
+    ],
+    "quarter_final_losers": [
+     "Galway",
+     "Cork",
+     "Armagh",
+     "Monaghan"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-09",
+     "runner_up_score": "0-12",
+     "venue": "Croke Park",
+     "attendance": 82184,
+     "replay": false,
+     "captain": "Fionn Fitzgerald",
+     "manager": "Eamonn Fitzmaurice",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2015,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Westmeath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Monaghan",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Tyrone",
+     "Mayo"
+    ],
+    "quarter_final_losers": [
+     "Kildare",
+     "Fermanagh",
+     "Monaghan",
+     "Donegal"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-12",
+     "runner_up_score": "0-09",
+     "venue": "Croke Park",
+     "attendance": 82243,
+     "replay": false,
+     "captain": "Stephen Cluxton",
+     "manager": "Jim Gavin",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2016,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Westmeath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Tipperary"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Tipperary",
+     "Kerry"
+    ],
+    "quarter_final_losers": [
+     "Clare",
+     "Galway",
+     "Tyrone",
+     "Donegal"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-15",
+     "runner_up_score": "1-14",
+     "venue": "Croke Park",
+     "attendance": 82249,
+     "replay": true,
+     "captain": "Stephen Cluxton",
+     "manager": "Jim Gavin",
+     "notes": "Won after a replay (first game drawn 2-09 to 0-15)."
+    }
+   }
+  },
+  {
+   "year": 2017,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Leitrim"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Down"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Kerry",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [
+     "Galway",
+     "Roscommon",
+     "Armagh",
+     "Monaghan"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-17",
+     "runner_up_score": "1-16",
+     "venue": "Croke Park",
+     "attendance": 82243,
+     "replay": false,
+     "captain": "Stephen Cluxton",
+     "manager": "Jim Gavin",
+     "notes": "Dublin three-in-a-row."
+    }
+   }
+  },
+  {
+   "year": 2018,
+   "format": "super8",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Laois"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Fermanagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Tyrone",
+    "semi_final_losers": [
+     "Monaghan",
+     "Galway"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [
+     "Kerry",
+     "Kildare",
+     "Roscommon",
+     "Donegal"
+    ],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-17",
+     "runner_up_score": "1-14",
+     "venue": "Croke Park",
+     "attendance": 82300,
+     "replay": false,
+     "captain": "Stephen Cluxton",
+     "manager": "Jim Gavin",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2019,
+   "format": "super8",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Roscommon",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Tyrone"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Mayo",
+     "Tyrone"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [
+     "Donegal",
+     "Meath",
+     "Cork",
+     "Roscommon"
+    ],
+    "group_exits": [],
+    "final": {
+     "champion_score": "1-18",
+     "runner_up_score": "0-15",
+     "venue": "Croke Park",
+     "attendance": 82300,
+     "replay": true,
+     "captain": "Stephen Cluxton",
+     "manager": "Jim Gavin",
+     "notes": "Won after a replay; Dublin's historic five-in-a-row (first game drawn 1-16 each)."
+    }
+   }
+  },
+  {
+   "year": 2020,
+   "format": "knockout_covid",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Tipperary",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Cavan",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Cavan",
+     "Tipperary"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-14",
+     "runner_up_score": "0-15",
+     "venue": "Croke Park",
+     "attendance": 0,
+     "replay": false,
+     "captain": "Stephen Cluxton",
+     "manager": "Dessie Farrell",
+     "notes": "Played behind closed doors (COVID-19); December final. Dublin six-in-a-row."
+    }
+   }
+  },
+  {
+   "year": 2021,
+   "format": "knockout_covid",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Mayo",
+     "loser": "Galway"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Cork"
+    },
+    "Ulster": {
+     "winner": "Tyrone",
+     "loser": "Monaghan"
+    }
+   },
+   "all_ireland": {
+    "champion": "Tyrone",
+    "runner_up": "Mayo",
+    "semi_final_losers": [
+     "Dublin",
+     "Kerry"
+    ],
+    "quarter_final_losers": [],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "2-14",
+     "runner_up_score": "0-15",
+     "venue": "Croke Park",
+     "attendance": 41150,
+     "replay": false,
+     "captain": "Padraig Hampsey",
+     "manager": "Feargal Logan & Brian Dooher",
+     "notes": "Played at 50% capacity (COVID-19)."
+    }
+   }
+  },
+  {
+   "year": 2022,
+   "format": "qualifier",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Roscommon"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Kildare"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Limerick"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Donegal"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Derry",
+     "Dublin"
+    ],
+    "quarter_final_losers": [
+     "Clare",
+     "Cork",
+     "Armagh",
+     "Mayo"
+    ],
+    "prelim_qf_losers": [],
+    "super8_group_exits": [],
+    "group_exits": [],
+    "final": {
+     "champion_score": "0-20",
+     "runner_up_score": "0-16",
+     "venue": "Croke Park",
+     "attendance": 82300,
+     "replay": false,
+     "captain": "Joe O'Connor",
+     "manager": "Jack O'Connor",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2023,
+   "format": "round_robin",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Sligo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Derry",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Dublin",
+    "runner_up": "Kerry",
+    "semi_final_losers": [
+     "Monaghan",
+     "Derry"
+    ],
+    "quarter_final_losers": [
+     "Tyrone",
+     "Armagh",
+     "Cork",
+     "Mayo"
+    ],
+    "prelim_qf_losers": [
+     "Roscommon",
+     "Kildare",
+     "Donegal",
+     "Galway"
+    ],
+    "super8_group_exits": [],
+    "group_exits": [
+     "Louth",
+     "Westmeath",
+     "Sligo",
+     "Clare"
+    ],
+    "final": {
+     "champion_score": "1-15",
+     "runner_up_score": "1-13",
+     "venue": "Croke Park",
+     "attendance": 82300,
+     "replay": false,
+     "captain": "James McCarthy",
+     "manager": "Dessie Farrell",
+     "notes": ""
+    }
+   }
+  },
+  {
+   "year": 2024,
+   "format": "round_robin",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Dublin",
+     "loser": "Louth"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Armagh",
+    "runner_up": "Galway",
+    "semi_final_losers": [
+     "Kerry",
+     "Donegal"
+    ],
+    "quarter_final_losers": [
+     "Roscommon",
+     "Dublin",
+     "Louth",
+     "Derry"
+    ],
+    "prelim_qf_losers": [
+     "Monaghan",
+     "Tyrone",
+     "Mayo",
+     "Cork"
+    ],
+    "super8_group_exits": [],
+    "group_exits": [
+     "Westmeath",
+     "Cavan",
+     "Clare",
+     "Meath"
+    ],
+    "final": {
+     "champion_score": "1-11",
+     "runner_up_score": "0-13",
+     "venue": "Croke Park",
+     "attendance": 82164,
+     "replay": false,
+     "captain": "Aidan Forker",
+     "manager": "Kieran McGeeney",
+     "notes": "Armagh's second All-Ireland."
+    }
+   }
+  },
+  {
+   "year": 2025,
+   "format": "round_robin",
+   "provincial_finals": {
+    "Connacht": {
+     "winner": "Galway",
+     "loser": "Mayo"
+    },
+    "Leinster": {
+     "winner": "Louth",
+     "loser": "Meath"
+    },
+    "Munster": {
+     "winner": "Kerry",
+     "loser": "Clare"
+    },
+    "Ulster": {
+     "winner": "Donegal",
+     "loser": "Armagh"
+    }
+   },
+   "all_ireland": {
+    "champion": "Kerry",
+    "runner_up": "Donegal",
+    "semi_final_losers": [
+     "Tyrone",
+     "Meath"
+    ],
+    "quarter_final_losers": [
+     "Monaghan",
+     "Dublin",
+     "Galway",
+     "Armagh"
+    ],
+    "prelim_qf_losers": [
+     "Cavan",
+     "Cork",
+     "Down",
+     "Louth"
+    ],
+    "super8_group_exits": [],
+    "group_exits": [
+     "Mayo",
+     "Roscommon",
+     "Clare",
+     "Derry"
+    ],
+    "final": {
+     "champion_score": "1-26",
+     "runner_up_score": "0-19",
+     "venue": "Croke Park",
+     "attendance": 82109,
+     "replay": false,
+     "captain": "Gavin White",
+     "manager": "Jack O'Connor",
+     "notes": "First final under the 2025 rule changes (two-pointers); Kerry's 39th title."
+    }
+   }
+  }
+ ]
 }
