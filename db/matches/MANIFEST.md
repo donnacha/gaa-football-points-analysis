@@ -26,13 +26,13 @@ second source (JTurek CSV 2016–23, gaa.world, HoganStand) where available.
 
 | Wave | Sport | Grade | Competition | Years done | Matches | Notes |
 |------|-------|-------|-------------|-----------|---------|-------|
-| 1 | football | senior | championship (AI+prov) | 1910–2024 | 4301 | full field set, validated (0 warnings) |
+| 1 | football | senior | championship (AI+prov) | 1900–2024 | 4573 | full field set, validated (0 warnings) |
 
-Running total: **4301 matches** (football senior championship, 1910–2024). Early-era field
-completeness tapers (date 97%, referee 60%, attendance 35%) — expected. 1910 final awarded to Louth
-(Kerry refused to travel); several years had nominee teams while a province's championship ran late.
-Next: 1900s then 1887–1899 (via /loop) to complete the football senior championship. Then wave 2
-(National League), wave 3+ (hurling, lower grades).
+Running total: **4573 matches** (football senior championship, 1900–2024). Early era handled:
+abandoned games (null winner), byes as single-team rows, walkovers, the 1903 three-game final saga,
+championships played 1-2 years late.
+Next: 1887–1899 (via /loop) — the founding years, sparsest of all — to COMPLETE the football senior
+championship spine. Then wave 2 (National League), wave 3+ (hurling, lower grades).
 Compiler skips the winner/score check for null-winner rows (abandoned/void) and for notes
 containing "objection"/"awarded"/"penalt"/"source-score-disputed".
 
