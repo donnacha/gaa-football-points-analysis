@@ -21,13 +21,9 @@
 
 <main>
   <nav class="tabs">
-    <button class="active" data-t="overview">Overview</button>
-    <button data-t="standings">Standings</button>
-    <button data-t="overall">Overall (+ league)</button>
-    <button data-t="eras">By era</button>
+    <button class="active" data-t="overview">Standings</button>
     <button data-t="matrix">Year-by-year</button>
     <button data-t="chart">Points race</button>
-    <button data-t="honour">Roll of honour</button>
     <button data-t="method">Method</button>
     <a class="tab-link" href="reference.html">Finals &amp; records →</a>
   </nav>
@@ -38,36 +34,20 @@
        who were perennially close. This system scores every county on how far it got each year,
        so consistency across 138 championships (1887–2025) becomes visible.</p>
     <div class="cards" id="stats"></div>
-    <div class="note">
-      <strong>Why averages matter.</strong> The championship changed shape repeatedly over 138 years
-      (see <em>By era</em>), so raw totals reward longevity. The <em>Avg / scoring year</em> column
-      in the standings is the era-fair view: how deep a county runs <em>when</em> it shows up.
-      The <em>Roll of honour</em> tab ranks raw silverware; the full finals record, records and
-      National League "doubles" live on the <a href="reference.html">Finals &amp; records</a> page.
-    </div>
-  </section>
 
-  <section class="panel" id="standings">
-    <h2>All-time standings</h2>
-    <p class="sub">Click any column to sort. Points are cumulative across all 138 championships,
-       1887–2025.</p>
+    <h2 style="margin-top:26px">All-time standings</h2>
+    <p class="sub"><strong>Championship</strong> points are the headline (best finish each year,
+       1887–2025). <strong>League</strong> and <strong>Combined</strong> add the National League:
+       a Division 1 title <strong id="lp-champ">2</strong>, a league final <strong id="lp-ru">1</strong>,
+       a Division 1 semi-final or any lower-division title <strong id="lp-minor">0.5</strong> — kept
+       below an All-Ireland semi-final (3). Click any column to sort.</p>
     <div id="standings-table"></div>
-  </section>
-
-  <section class="panel" id="overall">
-    <h2>Overall annual performance — championship + league</h2>
-    <p class="sub">The championship and the National League are separate competitions in different
-       parts of the year, so here their points are <strong>added</strong> per season. A Division 1
-       league title is worth <strong id="lp-champ">2</strong>, a league final
-       <strong id="lp-ru">1</strong>, and a Division 1 semi-final or any lower-division title
-       <strong id="lp-minor">0.5</strong> — all kept below an All-Ireland semi-final (3) so the league
-       adds texture without outranking a real championship challenge. Click any column to sort.</p>
-    <div id="overall-table"></div>
     <div class="note">
-      <strong>What the league adds.</strong> Counties with strong league pedigrees but lighter
-      championship hauls rise here — most visibly <em>Mayo</em>, who climb on the back of the
-      second-richest league record. The National League dates from 1926, so seasons before then are
-      championship-only.
+      <strong>Reading the table.</strong> Raw totals reward longevity, so <em>Avg / scoring year</em>
+      is the era-fair view: how deep a county runs <em>when</em> it shows up. Sort by <em>Combined</em>
+      to fold in the league — Mayo climb to 3rd on the second-richest league record. The full finals
+      record, records and National League "doubles" live on the
+      <a href="reference.html">Finals &amp; records</a> page.
     </div>
   </section>
 
