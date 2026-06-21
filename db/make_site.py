@@ -120,6 +120,25 @@ def main():
                for yr in all_years
                if str(yr) in league and league[str(yr)]["winner"] == ai_champ_by_year.get(yr)]
 
+    # ---- overall annual performance (championship + National League, added) ----
+    lp = params.get("league_points", {"champion": 0, "runner_up": 0})
+    league_total = defaultdict(int)
+    for ys, rec in league.items():
+        league_total[rec["winner"]] += lp.get("champion", 0)
+        if rec.get("runner_up"):
+            league_total[rec["runner_up"]] += lp.get("runner_up", 0)
+    for c in COUNTY_PROVINCE:
+        league_total[c] += 0
+    combined = {c: cumulative[c] + league_total[c] for c in set(cumulative) | set(league_total)}
+    overall = []
+    for rank, c in enumerate(sorted(combined, key=lambda c:(-combined[c], c)), 1):
+        tot = combined[c]
+        overall.append({
+            "rank": rank, "county": c, "championship": cumulative[c],
+            "league": league_total[c], "combined": tot,
+            "league_share": round(100*league_total[c]/tot, 1) if tot else 0,
+        })
+
     # ---- record lists ----
     played = [f for f in finals if f["margin"] is not None]
     att = [f for f in finals if f["attendance"]]
@@ -146,6 +165,8 @@ def main():
         "years": all_years,
         "year_totals": year_totals,
         "standings": standings,
+        "overall": overall,
+        "league_points": params.get("league_points", {}),
         "finals": finals,
         "roll_of_honour": roll,
         "national_league": nl,

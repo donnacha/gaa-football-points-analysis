@@ -261,6 +261,21 @@ def main():
             if lr and lr["winner"] == ai_champ_by_year.get(yr):
                 w.writerow([yr, lr["winner"], "National League + All-Ireland in the same year"])
 
+    # ---- overall_performance.csv (championship + National League, added per year) ----
+    lp = params.get("league_points", {"champion": 0, "runner_up": 0})
+    league_total = defaultdict(int)
+    for yr_s, rec in league.items():
+        league_total[rec["winner"]] += lp.get("champion", 0)
+        if rec.get("runner_up"):
+            league_total[rec["runner_up"]] += lp.get("runner_up", 0)
+    combined = {c: cumulative[c] + league_total[c]
+                for c in set(cumulative) | set(league_total)}
+    with open(os.path.join(OUT,"overall_performance.csv"),"w",newline="",encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["rank","county","championship_points","league_points","combined_points"])
+        for rank, c in enumerate(sorted(combined, key=lambda c:(-combined[c], c)), 1):
+            w.writerow([rank, c, cumulative[c], league_total[c], combined[c]])
+
     # ---- console summary + checksums ----
     print(f"Years loaded: {min(all_years)}-{max(all_years)}  ({n_years} championships)")
     print("\nPer-year point totals (checksum aid):")

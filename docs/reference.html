@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Finals &amp; Records — GAA Football Championship (1887–2025)</title>
+<meta name="description" content="The complete All-Ireland Senior Football final record (scores, venues, attendances, captains, managers), records, and National League doubles, 1887–2025.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <h1>Finals &amp; Records</h1>
+    <p>The reference shelf: every All-Ireland final, the record book, and the National League —
+       supporting the <a href="index.html" style="color:#fff;text-decoration:underline">alternative
+       points analysis</a>.</p>
+    <span class="tag">138 finals · 1887–2025</span>
+  </div>
+</header>
+
+<main>
+  <nav class="tabs">
+    <a class="tab-link" href="index.html">← Points analysis</a>
+    <button class="active" data-t="finals">Finals</button>
+    <button data-t="records">Records</button>
+    <button data-t="league">League &amp; doubles</button>
+  </nav>
+
+  <section class="panel active" id="finals">
+    <h2>Every All-Ireland final</h2>
+    <p class="sub">Score, winning margin, venue, attendance, captain and (from 1981) manager for
+       each of the 138 finals. Type a county, year or venue to filter.</p>
+    <input id="finals-filter" class="filter" placeholder="Filter by county, year or venue…">
+    <div id="finals-table"></div>
+  </section>
+
+  <section class="panel" id="records">
+    <h2>Records &amp; extremes</h2>
+    <p class="sub">The biggest, tightest, highest-scoring finals and the largest crowds in the
+       championship's history.</p>
+    <div id="records-wrap"></div>
+  </section>
+
+  <section class="panel" id="league">
+    <h2>National League &amp; the double</h2>
+    <p class="sub">The other national competition. Winning the top-division National League and the
+       All-Ireland in the <em>same</em> year — the "double" — is the rarest feat of a season.</p>
+    <div class="cards" id="league-stats"></div>
+    <h3>League + Championship doubles</h3>
+    <div id="doubles-table"></div>
+    <h3>National League (Division 1) roll of honour</h3>
+    <div id="league-table"></div>
+  </section>
+</main>
+
+<footer>
+  Generated from the project database · last updated <span id="updated"></span> ·
+  <a href="index.html">back to the points analysis</a>.
+</footer>
+
+<script src="reference.js"></script>
+</body>
+</html>
