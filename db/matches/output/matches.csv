@@ -1082,13 +1082,20 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1939-09-10,football,senior,all_ireland,Semi-final,Kerry,3,8,17,Mayo,1,4,7,Kerry,"Croke Park, Dublin",,,Replay,https://en.wikipedia.org/wiki/1939_All-Ireland_Senior_Football_Championship
 1939-09-24,football,senior,all_ireland,Final,Kerry,2,5,11,Meath,2,3,9,Kerry,"Croke Park, Dublin",46828,J Flaherty (Offaly),,https://en.wikipedia.org/wiki/1939_All-Ireland_Senior_Football_Championship
 1940-05-05,football,senior,leinster,Provincial preliminary round,Laois,1,7,10,Carlow,1,6,9,Laois,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-05-05,hurling,senior,leinster,First Round,Westmeath,5,7,22,Meath,2,1,7,Westmeath,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-05-12,football,senior,leinster,Provincial quarter-final,Meath,3,11,20,Longford,1,7,10,Meath,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-05-12,hurling,senior,leinster,Quarter-Final,Laois,4,8,20,Offaly,3,4,13,Laois,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-05-19,football,senior,leinster,Provincial preliminary round,Offaly,1,13,16,Wicklow,1,5,8,Offaly,Naas,,G Higgins,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-05-19,football,senior,leinster,Provincial quarter-final,Dublin,1,9,12,Louth,2,5,11,Dublin,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-05-19,football,senior,munster,Provincial quarter-final,Kerry,4,9,21,Limerick,1,2,5,Kerry,"Páirc Uí Chathaláin, Glin",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-05-19,football,senior,munster,Provincial quarter-final,Tipperary,2,7,13,Cork,1,5,8,Tipperary,Mitchelstown,,P McKenna,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-05-19,football,senior,munster,Provincial semi-final,Clare,1,6,9,Waterford,2,3,9,draw,"The Cricket Field, Kilrush",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-05-26,hurling,senior,leinster,Quarter-Final,Westmeath,2,5,11,Wexford,2,4,10,Westmeath,"Croke Park, Dublin",,E McMahon (Dublin),,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-06-02,football,senior,leinster,Provincial quarter-final,Laois,3,4,13,Wexford,0,4,4,Laois,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-06-02,hurling,senior,munster,Quarter-Final,Tipperary,2,6,12,Cork,6,3,21,Cork,Thurles Sportsfield,,J Roche (Limerick),,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
+1940-06-09,hurling,senior,leinster,Semi-Final,Dublin,2,8,14,Laois,1,8,11,Dublin,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
+1940-06-14,hurling,senior,leinster,Semi-Final,Kilkenny,3,16,25,Westmeath,1,5,8,Kilkenny,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
+1940-06-16,hurling,senior,munster,Semi-Final,Limerick,4,2,14,Waterford,3,5,14,draw,"FitzGerald Stadium, Killarney",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-06-23,football,senior,leinster,Provincial quarter-final,Offaly,2,6,12,Kildare,0,8,8,Offaly,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-06-23,football,senior,ulster,Provincial quarter-final,Antrim,3,3,12,Cavan,0,12,12,draw,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-06-23,football,senior,ulster,Provincial quarter-final,Donegal,0,6,6,Armagh,0,5,5,Donegal,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
@@ -1097,18 +1104,25 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1940-06-30,football,senior,munster,Provincial semi-final,Clare,1,3,6,Waterford,2,5,11,Waterford,"Fraher Field, Dungarvan",,,replay,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-06-30,football,senior,ulster,Provincial quarter-final,Down,3,8,17,Tyrone,2,5,11,Down,"St. Patrick's Park, Newcastle",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-07,football,senior,leinster,Provincial semi-final,Meath,1,7,10,Dublin,0,4,4,Meath,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-07-07,hurling,senior,munster,Semi-Final,Cork,7,6,27,Clare,3,5,14,Cork,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-07-07,football,senior,ulster,Provincial quarter-final,Antrim,0,4,4,Cavan,6,13,31,Cavan,"Breffni Park, Cavan",,,replay,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-14,football,senior,connacht,Provincial semi-final,Sligo,0,7,7,Mayo,3,2,11,Mayo,Sligo,,,replay,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-14,football,senior,leinster,Provincial semi-final,Offaly,0,7,7,Laois,2,7,13,Laois,"Geraldine Park, Athy",,T Kehoe,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-07-14,hurling,senior,munster,Semi-Final Replay,Limerick,3,5,14,Waterford,3,3,12,Limerick,"Clonmel Sportsfield, Clonmel",,S Bourke (Clare),replay,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-07-14,football,senior,ulster,Provincial semi-final,Cavan,0,12,12,Donegal,2,3,9,Cavan,Bundoran,3000,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-14,football,senior,ulster,Provincial semi-final,Monaghan,2,3,9,Down,2,3,9,draw,"St. Mary's Park, Castleblayney",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-21,football,senior,connacht,Provincial final,Galway,1,7,10,Mayo,0,5,5,Galway,"St. Coman's Park, Roscommon",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-07-21,hurling,senior,leinster,Final,Kilkenny,3,6,15,Dublin,2,5,11,Kilkenny,"Nowlan Park, Kilkenny",,J Flaherty (Offaly),,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-07-21,football,senior,munster,Provincial final,Kerry,1,10,13,Waterford,0,6,6,Kerry,"Walsh Park, Waterford",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-21,football,senior,ulster,Provincial semi-final,Monaghan,1,3,6,Down,0,8,8,Down,"St. Patrick's Park, Newcastle",,,replay,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-07-28,football,senior,leinster,Provincial final,Meath,2,7,13,Laois,1,7,10,Meath,"Croke Park, Dublin",19803,Dave Hamilton,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-07-28,hurling,senior,munster,Final,Limerick,4,3,15,Cork,3,6,15,draw,Thurles Sportsfield,,D Ryan (Kerry),,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-07-28,football,senior,ulster,Provincial final,Cavan,4,10,22,Down,1,5,8,Cavan,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-08-04,hurling,senior,munster,Final Replay,Limerick,3,3,12,Cork,2,4,10,Limerick,Thurles Sportsfield,,D Ryan (Kerry),replay,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
+1940-08-11,hurling,senior,all_ireland,Semi-Final,Limerick,3,6,15,Galway,0,5,5,Limerick,"Cusack Park, Ennis",,J Regan (Cork),,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-08-18,football,senior,all_ireland,Semi-final,Galway,3,8,17,Meath,2,5,11,Galway,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1940-08-18,football,senior,all_ireland,Semi-final,Kerry,3,4,13,Cavan,0,8,8,Kerry,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
+1940-09-01,hurling,senior,all_ireland,Final,Limerick,3,7,16,Kilkenny,1,7,10,Limerick,"Croke Park, Dublin",,JJ Callanan (Tipperary),,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Hurling_Championship
 1940-09-22,football,senior,all_ireland,Final,Kerry,0,7,7,Galway,1,3,6,Kerry,"Croke Park, Dublin",60821,Seamus Burke,,https://en.wikipedia.org/wiki/1940_All-Ireland_Senior_Football_Championship
 1941-04-27,football,senior,leinster,Provincial preliminary round,Longford,1,5,8,Westmeath,1,3,6,Longford,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-05-11,football,senior,leinster,Provincial preliminary round,Kildare,2,5,11,Offaly,1,7,10,Kildare,"O'Connor Park, Tullamore",,M Lynch,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
@@ -1116,15 +1130,19 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1941-05-11,football,senior,munster,Provincial preliminary round,Tipperary,1,6,9,Waterford,1,5,8,Tipperary,"Fraher Field, Dungarvan",,A. Scannell (Cork),Limerick refused to take part in the championship,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-05-18,football,senior,leinster,Provincial preliminary round,Dublin,2,7,13,Louth,3,4,13,draw,"Drogheda Park, Drogheda",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-05-18,football,senior,leinster,Provincial quarter-final,Carlow,3,4,13,Laois,3,1,10,Carlow,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-05-18,hurling,senior,leinster,First round,Westmeath,2,2,8,Offaly,8,4,28,Offaly,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-05-18,football,senior,munster,Provincial quarter-final,Clare,,,,Tipperary,,,,Clare,,,,"walkover; Clare advanced, no score recorded",https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-05-25,football,senior,leinster,Provincial preliminary round,Dublin,1,9,12,Louth,1,4,7,Dublin,"Croke Park, Dublin",,,replay,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-05-25,hurling,senior,leinster,Quarter-final,Wexford,3,2,11,Laois,5,6,21,Laois,Enniscorthy Sportsfield,,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-05-25,football,senior,munster,Provincial semi-final,Clare,1,8,11,Cork,1,3,6,Clare,"Cusack Park, Ennis",,,Cork had a bye to the semi-final,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-06-01,football,senior,leinster,Provincial quarter-final,Dublin,1,8,11,Meath,1,6,9,Dublin,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-06-08,football,senior,leinster,Provincial quarter-final,Kildare,5,7,22,Longford,0,6,6,Kildare,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-06-08,football,senior,leinster,Provincial semi-final,Carlow,3,10,19,Wexford,4,7,19,draw,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-06-08,football,senior,ulster,Provincial quarter-final,Armagh,4,8,20,Tyrone,1,17,20,draw,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-06-15,hurling,senior,leinster,Quarter-final,Offaly,2,4,10,Dublin,5,11,26,Dublin,O'Connor Park,,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-06-15,football,senior,ulster,Provincial quarter-final,Down,5,4,19,Antrim,0,4,4,Down,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-06-22,football,senior,leinster,Provincial semi-final,Carlow,2,7,13,Wexford,2,7,13,draw,"Wexford Park, Wexford",,,replay; after extra time,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-06-22,hurling,senior,munster,Semi-final,Clare,1,5,8,Limerick,8,3,27,Limerick,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-06-29,football,senior,connacht,Provincial semi-final,Galway,0,10,10,Mayo,1,5,8,Galway,Tuam,15000,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-07-06,football,senior,connacht,Provincial semi-final,Roscommon,1,9,12,Sligo,0,5,5,Roscommon,Boyle,,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-07-06,football,senior,ulster,Provincial quarter-final,Armagh,0,1,1,Tyrone,3,13,22,Tyrone,"Fr. Peter Campbell Park, Coalisland",,,replay,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
@@ -1134,21 +1152,34 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1941-07-13,football,senior,ulster,Provincial semi-final,Tyrone,1,10,13,Down,1,9,12,Tyrone,"St. Patrick's Park, Newcastle",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-07-20,football,senior,connacht,Provincial final,Galway,0,8,8,Roscommon,1,4,7,Galway,"St. Coman's Park, Roscommon",15000,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-07-20,football,senior,leinster,Provincial semi-final,Carlow,1,12,15,Wexford,3,6,15,draw,"Croke Park, Dublin",,,second replay; after extra time,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-07-20,hurling,senior,leinster,Semi-final,Laois,5,7,22,Dublin,6,11,29,Dublin,O'Moore Park,,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-07-27,football,senior,leinster,Provincial semi-final,Carlow,2,8,14,Wexford,0,3,3,Carlow,"Croke Park, Dublin",,,third replay,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-07-27,hurling,senior,munster,First round,Tipperary,4,7,19,Waterford,3,4,13,Tipperary,"Thurles Sportsfield, Thurles",,,refixture; original 1 June 1941 fixture postponed due to foot-and-mouth disease restrictions,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-08-03,football,senior,ulster,Provincial final,Cavan,3,9,18,Tyrone,0,5,5,Cavan,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-08-10,football,senior,all_ireland,Semi-final,Kerry,0,4,4,Dublin,0,4,4,draw,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-08-10,football,senior,munster,Provincial final,Kerry,2,9,15,Clare,0,6,6,Kerry,"Gaelic Grounds, Limerick",,,Kerry had a bye to the Munster final; Munster series delayed by foot-and-mouth restrictions,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-08-17,football,senior,all_ireland,Semi-final,Kerry,2,9,15,Dublin,0,3,3,Kerry,Tralee,,,replay; last All-Ireland semi-final replay held outside Croke Park until 1983,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-08-17,football,senior,all_ireland,Semi-final,Galway,1,12,15,Cavan,1,4,7,Galway,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1941-09-07,football,senior,all_ireland,Final,Kerry,1,8,11,Galway,0,7,7,Kerry,"Croke Park, Dublin",45512,Patrick McKenna (Limerick),,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
+1941-09-14,hurling,senior,all_ireland,Semi-final,Dublin,2,4,10,Galway,2,2,8,Dublin,St. Cronan's Park,,,,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
+1941-09-14,hurling,senior,munster,Final,Cork,8,10,34,Limerick,3,2,11,Cork,"Cork Athletic Grounds, Cork",,,played as the Munster final to nominate the Munster representative since the Cork-Tipperary semi-final was cancelled due to foot-and-mouth disease restrictions,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
+1941-09-28,hurling,senior,all_ireland,Final,Cork,5,11,26,Dublin,0,6,6,Cork,Croke Park,26150,W. O'Donnell (Tipperary),,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
+1941-10-26,hurling,senior,munster,Final,Tipperary,5,4,19,Cork,2,5,11,Tipperary,"Gaelic Grounds, Limerick",,,"final refixture; the delayed Cork-Tipperary game played after the All-Ireland series and deemed the Munster decider, won by Tipperary, though Cork had already qualified for and won the All-Ireland",https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
+1941-11-02,hurling,senior,leinster,Final,Dublin,2,8,14,Kilkenny,1,8,11,Dublin,Croke Park,,,delayed until after the All-Ireland final due to foot-and-mouth disease restrictions; Dublin had already represented Leinster in the All-Ireland series,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Hurling_Championship
 1941-11-09,football,senior,leinster,Provincial final,Dublin,4,6,18,Carlow,1,4,7,Dublin,"Dr. Cullen Park, Carlow",,Tom Kehoe (Wexford),postponed to November due to foot-and-mouth restrictions,https://en.wikipedia.org/wiki/1941_All-Ireland_Senior_Football_Championship
 1942-04-26,football,senior,leinster,Provincial preliminary round,Longford,0,4,4,Westmeath,0,3,3,Longford,"Pearse Park, Longford",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-05-03,football,senior,leinster,Provincial preliminary round,Meath,2,11,17,Louth,0,8,8,Meath,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-05-03,hurling,senior,leinster,quarter-final,Offaly,6,5,23,Westmeath,4,3,15,Offaly,O'Connor Park,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
+1942-05-03,hurling,senior,leinster,quarter-final,Laois,5,3,18,Wexford,6,2,20,Wexford,O'Moore Park,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-05-10,football,senior,leinster,Provincial preliminary round,Offaly,1,6,9,Kildare,0,7,7,Offaly,"St. Conleth's Park, Newbridge",,J Hayden,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-05-10,football,senior,leinster,Provincial quarter-final,Dublin,0,7,7,Longford,0,7,7,draw,"Cusack Park, Mullingar",,,drawn match; replay 24 May,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-05-17,hurling,senior,munster,semi-final,Tipperary,5,13,28,Clare,1,3,6,Tipperary,Gaelic Grounds,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-05-24,football,senior,leinster,Provincial quarter-final,Offaly,6,5,23,Laois,2,7,13,Offaly,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-05-24,football,senior,leinster,Provincial quarter-final,Dublin,2,15,21,Longford,1,3,6,Dublin,"Croke Park, Dublin",,,replay,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-05-31,football,senior,leinster,Provincial semi-final,Dublin,3,5,14,Meath,1,10,13,Dublin,"Drogheda Park, Drogheda",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-05-31,hurling,senior,leinster,semi-final,Wexford,4,4,16,Kilkenny,5,5,20,Kilkenny,O'Kennedy Park,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
+1942-05-31,hurling,senior,leinster,semi-final,Offaly,1,4,7,Dublin,4,7,19,Dublin,St. Brendan's Park,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
+1942-05-31,hurling,senior,munster,first round,Waterford,2,5,11,Limerick,4,4,16,Limerick,Cork Athletic Grounds,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-05-31,football,senior,ulster,Provincial quarter-final,Armagh,3,4,13,Tyrone,0,0,0,Armagh,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-06-14,football,senior,connacht,Provincial quarter-final,Roscommon,1,8,11,Mayo,0,8,8,Roscommon,Tuam,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-06-14,football,senior,leinster,Provincial semi-final,Offaly,1,10,13,Carlow,0,13,13,draw,"Geraldine Park, Athy",,T Kehoe (Wexford),drawn match; replay 21 June,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
@@ -1158,67 +1189,94 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1942-06-14,football,senior,ulster,Provincial quarter-final,Cavan,1,4,7,Monaghan,0,6,6,Cavan,"St. Mary's Park, Castleblayney",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-06-21,football,senior,connacht,Provincial semi-final,Galway,4,9,21,Leitrim,1,2,5,Galway,"St Manchans GAA Park, Mohill",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-06-21,football,senior,leinster,Provincial semi-final,Offaly,0,6,6,Carlow,1,9,12,Carlow,"O'Moore Park, Portlaoise",,,replay,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-06-21,hurling,senior,munster,semi-final,Limerick,5,3,18,Cork,4,8,20,Cork,Gaelic Grounds,6030,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-06-21,football,senior,ulster,Provincial quarter-final,Down,2,11,17,Antrim,1,5,8,Down,"Corrigan Park, Belfast",,,replay,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-06-28,football,senior,connacht,Provincial semi-final,Roscommon,0,14,14,Sligo,0,6,6,Roscommon,Boyle,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-06-28,hurling,senior,leinster,final,Kilkenny,1,4,7,Dublin,4,8,20,Dublin,Nowlan Park,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-06-28,football,senior,munster,Provincial semi-final,Kerry,3,6,15,Tipperary,1,5,8,Kerry,"Seán Tracey Park, Tipperary",,P. McKenna (Limerick),,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-06-28,football,senior,ulster,Provincial semi-final,Cavan,7,10,31,Donegal,4,4,16,Cavan,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-07-05,football,senior,ulster,Provincial semi-final,Down,0,7,7,Armagh,0,6,6,Down,"St. Patrick's Park, Newcastle",,,objection made and replay ordered,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-07-12,hurling,senior,munster,final,Cork,4,15,27,Tipperary,4,1,13,Cork,Cork Athletic Grounds,24320,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-07-12,football,senior,ulster,Provincial semi-final,Down,1,12,15,Armagh,2,5,11,Down,"St. Patrick's Park, Newcastle",,,replay,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-07-19,football,senior,connacht,Provincial final,Galway,2,6,12,Roscommon,3,2,11,Galway,"Dunlo GAA Grounds, Ballinasloe",9000,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-07-19,football,senior,leinster,Provincial final,Dublin,0,8,8,Carlow,0,6,6,Dublin,"Geraldine Park, Athy",,Peter Waters (Kildare),,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-07-19,football,senior,munster,Provincial final,Kerry,3,7,16,Cork,0,8,8,Kerry,Tralee,,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-07-19,football,senior,ulster,Provincial final,Cavan,5,11,26,Down,1,3,6,Cavan,Dundalk,7000,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-07-26,hurling,senior,all_ireland,semi-final,Cork,6,8,26,Galway,2,4,10,Cork,Gaelic Grounds,,M Hennessy (Clare),,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-08-02,football,senior,all_ireland,Semi-final,Dublin,1,6,9,Cavan,1,3,6,Dublin,"Croke Park, Dublin",8059,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1942-08-19,football,senior,all_ireland,Semi-final,Galway,1,3,6,Kerry,0,3,3,Galway,"Croke Park, Dublin",20420,,,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
+1942-09-06,hurling,senior,all_ireland,final,Cork,2,14,20,Dublin,3,4,13,Cork,Croke Park,27313,M Hennessy (Clare),,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Hurling_Championship
 1942-09-20,football,senior,all_ireland,Final,Dublin,1,10,13,Galway,1,8,11,Dublin,"Croke Park, Dublin",37105,Sean Kennedy (Donegal),,https://en.wikipedia.org/wiki/1942_All-Ireland_Senior_Football_Championship
 1943-04-25,football,senior,leinster,Provincial first round,Carlow,1,11,14,Wicklow,1,10,13,Carlow,Enniscorthy,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-05-02,football,senior,leinster,Provincial first round,Louth,2,10,16,Meath,1,8,11,Louth,"Drogheda Park, Drogheda",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-05-02,hurling,senior,leinster,quarter-final,Wicklow,1,1,4,Dublin,3,9,18,Dublin,Wicklow,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
+1943-05-02,hurling,senior,leinster,quarter-final,Kilkenny,4,9,21,Wexford,3,4,13,Kilkenny,Nowlan Park,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-05-09,football,senior,leinster,Provincial first round,Westmeath,1,5,8,Longford,2,2,8,draw,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-05-09,football,senior,leinster,Provincial first round,Wexford,3,6,15,Kilkenny,0,0,0,Wexford,"Barrett's Park, New Ross",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-05-09,hurling,senior,leinster,quarter-final,Laois,2,3,9,Offaly,2,14,20,Offaly,O'Moore Park,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-05-16,football,senior,leinster,Provincial quarter-final,Kildare,1,10,13,Laois,4,8,20,Laois,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-05-16,hurling,senior,leinster,quarter-final,Meath,6,7,25,Westmeath,5,1,16,Meath,St. Loman's Park,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-05-16,football,senior,munster,Provincial quarter-final,Tipperary,2,7,13,Waterford,0,9,9,Tipperary,"Ned Hall Park, Clonmel",,P. J. O'Sullivan,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-05-23,football,senior,leinster,Provincial first round,Longford,2,6,12,Westmeath,1,8,11,Longford,"Pearse Park, Longford",,,replay,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-05-23,football,senior,leinster,Provincial quarter-final,Carlow,2,6,12,Wexford,2,6,12,draw,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-05-23,football,senior,munster,Provincial quarter-final,Clare,2,10,16,Limerick,2,4,10,Clare,Foynes,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-05-30,football,senior,leinster,Provincial quarter-final,Louth,1,6,9,Dublin,1,5,8,Louth,"Drogheda Park, Drogheda",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-05-30,hurling,senior,leinster,semi-final,Offaly,1,2,5,Kilkenny,6,10,28,Kilkenny,St. Brendan's Park,,M Kelly,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-06-06,football,senior,leinster,Provincial quarter-final,Carlow,1,7,10,Wexford,1,1,4,Carlow,"Wexford Park, Wexford",,,replay,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-06,football,senior,leinster,Provincial quarter-final,Offaly,2,11,17,Longford,2,9,15,Offaly,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-06-06,hurling,senior,leinster,semi-final,Meath,1,5,8,Dublin,8,1,25,Dublin,St. Loman's Park,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-06-06,football,senior,munster,Provincial semi-final,Cork,0,9,9,Kerry,0,9,9,draw,"Cork Athletic Grounds, Cork",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-06-06,hurling,senior,munster,first round,Clare,3,3,12,Limerick,6,4,22,Limerick,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
+1943-06-13,hurling,senior,munster,first round,Waterford,4,5,17,Tipperary,1,2,5,Waterford,"Fraher Field, Dungarvan",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-06-20,football,senior,connacht,Provincial semi-final,Galway,3,6,15,Mayo,1,5,8,Galway,Kiltimagh,3000,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-20,football,senior,leinster,Provincial semi-final,Louth,1,9,12,Offaly,2,3,9,Louth,"Croke Park, Dublin",,P Dunne,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-20,football,senior,munster,Provincial semi-final,Tipperary,3,5,14,Clare,2,6,12,Tipperary,"Gaelic Grounds, Limerick",,B. Scannell,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-06-20,hurling,senior,munster,semi-final,Kerry,2,7,13,Cork,8,3,27,Cork,Ballyduff,,J Roche (Limerick),,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-06-20,football,senior,ulster,Provincial quarter-final,Donegal,0,7,7,Tyrone,1,8,11,Tyrone,Omagh,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-27,football,senior,connacht,Provincial quarter-final,Leitrim,4,9,21,Sligo,2,8,14,Leitrim,"Boyle, County Roscommon",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-27,football,senior,leinster,Provincial semi-final,Laois,3,8,17,Carlow,3,6,15,Laois,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-27,football,senior,ulster,Provincial quarter-final,Monaghan,3,8,17,Armagh,3,4,13,Monaghan,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-06-27,football,senior,ulster,Provincial quarter-final,Antrim,0,13,13,Down,1,8,11,Antrim,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-07-04,hurling,senior,all_ireland,quarter-final,Antrim,7,0,21,Galway,6,2,20,Antrim,Corrigan Park,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-07-04,football,senior,connacht,Provincial semi-final,Roscommon,2,12,18,Leitrim,1,3,6,Roscommon,Carrick-on-Shannon,,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-07-04,hurling,senior,leinster,final,Kilkenny,3,9,18,Dublin,2,6,12,Kilkenny,Nowlan Park,,E Long,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
+1943-07-04,hurling,senior,munster,semi-final,Waterford,3,7,16,Limerick,4,3,15,Waterford,"Cork Athletic Grounds, Cork",,J O'Regan (Cork),,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-07-04,football,senior,ulster,Provincial semi-final,Cavan,4,10,22,Tyrone,1,3,6,Cavan,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-07-11,football,senior,munster,Provincial semi-final,Cork,1,5,8,Kerry,1,4,7,Cork,"Cork Athletic Grounds, Cork",,,replay,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-07-11,football,senior,ulster,Provincial semi-final,Monaghan,1,10,13,Antrim,1,5,8,Monaghan,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-07-18,football,senior,connacht,Provincial final,Roscommon,2,8,14,Galway,0,8,8,Roscommon,"St. Coman's Park, Roscommon",,Gerald Courell,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-07-25,football,senior,leinster,Provincial final,Louth,3,16,25,Laois,2,4,10,Louth,"Croke Park, Dublin",,Paddy Mythen,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-07-25,football,senior,munster,Provincial final,Cork,1,7,10,Tipperary,1,4,7,Cork,"Páirc MacGearailt, Fermoy",,T. Greaney,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-08-01,hurling,senior,all_ireland,semi-final,Antrim,3,3,12,Kilkenny,1,6,9,Antrim,Corrigan Park,,JJ Stuart (Dublin),,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
+1943-08-01,hurling,senior,munster,final,Cork,2,13,19,Waterford,3,8,17,Cork,"Cork Athletic Grounds, Cork",15000,M Hennessy (Clare),,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-08-01,football,senior,ulster,Provincial final,Cavan,2,3,9,Monaghan,0,5,5,Cavan,"Breffni Park, Cavan",7000,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-08-08,football,senior,all_ireland,Semi-final,Roscommon,3,10,19,Louth,3,6,15,Roscommon,"Croke Park, Dublin",18347,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-08-15,football,senior,all_ireland,Semi-final,Cavan,1,8,11,Cork,1,7,10,Cavan,"Croke Park, Dublin",30322,,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1943-09-05,hurling,senior,all_ireland,final,Cork,5,16,31,Antrim,0,4,4,Cork,Croke Park,48843,JJ Stuart (Dublin),,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Hurling_Championship
 1943-09-26,football,senior,all_ireland,Final,Roscommon,1,6,9,Cavan,1,6,9,draw,"Croke Park, Dublin",68023,Patrick McKenna,,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
 1943-10-10,football,senior,all_ireland,Final,Roscommon,2,7,13,Cavan,2,2,8,Roscommon,"Croke Park, Dublin",47193,P O Miotain,replay,https://en.wikipedia.org/wiki/1943_All-Ireland_Senior_Football_Championship
+1944-05-07,hurling,senior,leinster,First Round,Westmeath,5,3,18,Offaly,5,5,20,Offaly,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-05-14,football,senior,leinster,Provincial first round,Wexford,4,12,24,Kilkenny,0,2,2,Wexford,"Barrett's Park, New Ross",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-05-14,football,senior,leinster,Provincial first round,Carlow,1,10,13,Kildare,2,7,13,draw,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-05-14,hurling,senior,leinster,First Round,Meath,1,11,14,Dublin,6,10,28,Dublin,"St. Loman's Park, Trim",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-05-14,football,senior,munster,Provincial quarter-final,Kerry,4,8,20,Clare,1,4,7,Kerry,"Austin Stack Park, Tralee",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-05-14,football,senior,munster,Provincial quarter-final,Tipperary,1,10,13,Waterford,0,5,5,Tipperary,"Walsh Park, Waterford",,P. J. O'Sullivan (Tipperary),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-05-21,football,senior,leinster,Provincial first round,Offaly,3,9,18,Westmeath,2,8,14,Offaly,"O'Connor Park, Tullamore",,J Dowling (Kildare),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-05-28,football,senior,leinster,Provincial first round,Carlow,3,11,20,Kildare,2,5,11,Carlow,"Dr. Cullen Park, Carlow",,,replay,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-05-28,football,senior,leinster,Provincial first round,Dublin,1,8,11,Meath,1,6,9,Dublin,"Drogheda Park, Drogheda",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-05-28,hurling,senior,munster,First Round,Tipperary,3,5,14,Waterford,1,7,10,Tipperary,Clonmel,,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-06-04,football,senior,leinster,Provincial quarter-final,Longford,4,3,15,Offaly,1,4,7,Longford,"Pearse Park, Longford",,J Geraghty,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-06-11,football,senior,leinster,Provincial quarter-final,Wexford,2,7,13,Wicklow,1,4,7,Wexford,"Aughrim Park, Aughrim, County Wicklow",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-06-11,hurling,senior,munster,Semi-final,Limerick,5,9,24,Clare,4,1,13,Limerick,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-06-18,football,senior,connacht,Provincial semi-final,Galway,1,3,6,Mayo,1,11,14,Mayo,"McHale Park, Castlebar",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-06-18,football,senior,leinster,Provincial quarter-final,Carlow,2,8,14,Laois,2,3,9,Carlow,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-06-18,football,senior,leinster,Provincial quarter-final,Dublin,2,10,16,Louth,3,6,15,Dublin,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-06-18,hurling,senior,leinster,Semi-final,Dublin,10,7,37,Offaly,1,4,7,Dublin,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
+1944-06-18,hurling,senior,leinster,Semi-final,Wexford,6,4,22,Kilkenny,4,6,18,Wexford,"O'Kennedy Park, New Ross",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-06-18,football,senior,munster,Provincial semi-final,Kerry,3,9,18,Limerick,1,4,7,Kerry,"Frank Sheehy Park, Listowel",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-06-18,football,senior,munster,Provincial semi-final,Tipperary,1,9,12,Cork,1,3,6,Tipperary,"Ned Hall Park, Clonmel",5000,P. McKenna (Limerick),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-06-25,football,senior,connacht,Provincial quarter-final,Leitrim,4,5,17,Sligo,4,10,22,Sligo,"Boyle, County Roscommon",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-06-25,hurling,senior,munster,Semi-final,Cork,1,9,12,Tipperary,1,3,6,Cork,"Gaelic Grounds, Limerick",11000,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-07-02,football,senior,connacht,Provincial semi-final,Roscommon,1,5,8,Sligo,0,8,8,draw,"Boyle, County Roscommon",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-07-02,football,senior,ulster,Provincial quarter-final,Monaghan,3,7,16,Armagh,3,3,12,Monaghan,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-07-02,football,senior,ulster,Provincial quarter-final,Down,3,4,13,Tyrone,0,4,4,Down,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
@@ -1228,44 +1286,68 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1944-07-09,football,senior,munster,Provincial final,Kerry,1,6,9,Tipperary,0,5,5,Kerry,"Gaelic Grounds, Limerick",,P. McKenna (Limerick),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-07-09,football,senior,ulster,Provincial semi-final,Monaghan,1,5,8,Down,1,4,7,Monaghan,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-07-16,football,senior,leinster,Provincial semi-final,Carlow,5,7,22,Wexford,3,6,15,Carlow,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-07-16,hurling,senior,munster,Final,Cork,6,7,25,Limerick,4,13,25,draw,Thurles Sportsfield,19950,,draw,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-07-16,football,senior,ulster,Provincial semi-final,Cavan,5,9,24,Donegal,2,3,9,Cavan,Omagh,,J Murtagh (Down),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-07-23,hurling,senior,leinster,Final,Dublin,4,7,19,Wexford,3,3,12,Dublin,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-07-30,football,senior,leinster,Provincial final,Carlow,2,6,12,Dublin,1,6,9,Carlow,"Geraldine Park, Athy",15000,J Dowling (Kildare),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-07-30,hurling,senior,munster,Final,Cork,4,6,18,Limerick,3,6,15,Cork,Thurles Sportsfield,18000,,replay,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-07-30,football,senior,ulster,Provincial final,Cavan,1,9,12,Monaghan,1,6,9,Cavan,"St. Tiernach's Park, Clones, County Monaghan",13000,J Murtagh (Down),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-08-06,football,senior,connacht,Provincial final,Roscommon,2,11,17,Mayo,1,6,9,Roscommon,Tuam,,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-08-13,hurling,senior,all_ireland,Semi-final,Cork,1,10,13,Galway,3,3,12,Cork,"Cusack Park, Ennis",9800,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
+1944-08-13,hurling,senior,all_ireland,Semi-final,Dublin,6,12,30,Antrim,3,1,10,Dublin,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-08-20,football,senior,all_ireland,Semi-final,Roscommon,5,8,23,Cavan,1,3,6,Roscommon,"Croke Park, Dublin",33290,Sgt P McKenna (Limerick),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1944-08-27,football,senior,all_ireland,Semi-final,Kerry,3,3,12,Carlow,0,10,10,Kerry,"Croke Park, Dublin",40727,,,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
+1944-09-03,hurling,senior,all_ireland,Final,Cork,2,13,19,Dublin,1,2,5,Cork,"Croke Park, Dublin",26896,M. Hennessy (Clare),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Hurling_Championship
 1944-09-24,football,senior,all_ireland,Final,Roscommon,1,9,12,Kerry,2,4,10,Roscommon,"Croke Park, Dublin",79245,Paddy Mythen (Wexford),,https://en.wikipedia.org/wiki/1944_All-Ireland_Senior_Football_Championship
 1945-04-29,football,senior,leinster,Provincial first round,Longford,1,5,8,Westmeath,1,5,8,draw,"Cusack Park, Mullingar",,,Draw,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-05-06,football,senior,leinster,Provincial first round,Longford,1,10,13,Westmeath,2,6,12,Longford,"Pearse Park, Longford",,,Replay,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-05-06,football,senior,leinster,Provincial first round,Kildare,2,13,19,Carlow,2,10,16,Kildare,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-05-06,football,senior,leinster,Provincial first round,Meath,2,9,15,Louth,2,7,13,Meath,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-05-13,hurling,senior,leinster,First round,Kilkenny,2,11,17,Wexford,2,4,10,Kilkenny,Nowlan Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
+1945-05-13,hurling,senior,leinster,First round,Meath,1,4,7,Westmeath,2,7,13,Westmeath,St. Loman's Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-05-13,football,senior,munster,Provincial quarter-final,Tipperary,0,7,7,Waterford,0,3,3,Tipperary,"Páirc Daibhín, Carrick-on-Suir",,A Scannell (Cork),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-05-13,hurling,senior,munster,First round,Kerry,0,1,1,Clare,8,6,30,Clare,"Austin Stack Park, Tralee",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
+1945-05-20,hurling,senior,leinster,First round,Offaly,5,3,18,Laois,4,6,18,draw,St. Brendan's Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-05-20,football,senior,munster,Provincial quarter-final,Limerick,6,2,20,Clare,3,3,12,Limerick,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-05-27,football,senior,leinster,Provincial quarter-final,Wexford,5,5,20,Kildare,0,6,6,Wexford,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-05-27,hurling,senior,leinster,First round,Wicklow,7,5,26,Dublin,10,6,36,Dublin,Ashford,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
+1945-05-27,hurling,senior,leinster,First round replay,Laois,3,4,13,Offaly,5,3,18,Offaly,O'Moore Park,,,replay,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
+1945-06-03,hurling,senior,leinster,Semi-final,Kilkenny,4,15,27,Offaly,2,1,7,Kilkenny,Nowlan Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-06-10,football,senior,connacht,Provincial quarter-final,Mayo,3,12,21,Leitrim,0,6,6,Mayo,Castlerea,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-10,football,senior,leinster,Provincial quarter-final,Longford,1,6,9,Offaly,3,4,13,Offaly,"Cusack Park, Mullingar",,J Dowling (Kildare),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-10,football,senior,leinster,Provincial quarter-final,Meath,3,6,15,Dublin,4,3,15,draw,"Drogheda Park, Drogheda",10000,,Draw,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-10,football,senior,munster,Provincial semi-final,Kerry,5,8,23,Limerick,2,7,13,Kerry,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-06-10,hurling,senior,munster,First round,Tipperary,3,6,15,Waterford,0,3,3,Tipperary,"Páirc Mac Gearailt, Fermoy",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-06-10,football,senior,ulster,Provincial quarter-final,Donegal,3,7,16,Derry,2,3,9,Donegal,"O'Donnell Park, Letterkenny",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-17,football,senior,leinster,Provincial quarter-final,Meath,2,16,22,Dublin,1,10,13,Meath,"Croke Park, Dublin",20196,,Replay,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-06-17,hurling,senior,leinster,Semi-final,Dublin,8,3,27,Westmeath,2,4,10,Dublin,Tullamore Sportsfield,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-06-17,football,senior,ulster,Provincial first round,Cavan,2,11,17,Antrim,2,3,9,Cavan,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-24,football,senior,connacht,Provincial semi-final,Galway,2,7,13,Sligo,1,5,8,Galway,"St. Coman's Park, Roscommon",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-24,football,senior,leinster,Provincial semi-final,Meath,0,5,5,Offaly,1,8,11,Offaly,"O'Moore Park, Portlaoise",6000,PJ Sheehy (Offaly),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-24,football,senior,munster,Provincial semi-final,Cork,1,7,10,Tipperary,1,6,9,Cork,"Fraher Field, Dungarvan",,Sgt. V. Aston,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-06-24,hurling,senior,munster,Semi-final,Clare,3,3,12,Limerick,3,6,15,Limerick,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-06-24,football,senior,ulster,Provincial quarter-final,Armagh,3,13,22,Tyrone,0,2,2,Armagh,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-06-24,football,senior,ulster,Provincial quarter-final,Fermanagh,4,13,25,Monaghan,0,5,5,Fermanagh,"Brewster Park, Enniskillen",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-07-01,football,senior,leinster,Provincial semi-final,Wexford,4,5,17,Laois,1,11,14,Wexford,"Nowlan Park, Kilkenny",11939,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-07-01,hurling,senior,leinster,Semi-final replay,Kilkenny,4,15,27,Offaly,2,1,7,Kilkenny,Nowlan Park,,,replay,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
+1945-07-01,hurling,senior,munster,Semi-final,Tipperary,2,13,19,Cork,3,2,11,Tipperary,"Thurles Sportsfield, Thurles",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-07-01,football,senior,ulster,Provincial quarter-final,Cavan,0,14,14,Down,1,3,6,Cavan,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-07-08,football,senior,connacht,Provincial semi-final,Mayo,2,8,14,Roscommon,1,6,9,Mayo,Sligo,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-07-08,football,senior,munster,Provincial final,Cork,1,11,14,Kerry,1,6,9,Cork,"Fitzgerald Stadium, Killarney",7000,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-07-08,football,senior,ulster,Provincial semi-final,Fermanagh,2,4,10,Armagh,1,6,9,Fermanagh,"St. Tiernach's Park, Clones",6000,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-07-15,hurling,senior,leinster,Final,Kilkenny,5,12,27,Dublin,3,4,13,Kilkenny,Croke Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
+1945-07-15,hurling,senior,munster,Final,Tipperary,4,3,15,Limerick,2,6,12,Tipperary,"Thurles Sportsfield, Thurles",25000,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-07-15,football,senior,ulster,Provincial semi-final,Cavan,6,12,30,Donegal,2,4,10,Cavan,"St. Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-07-22,football,senior,connacht,Provincial final,Galway,2,6,12,Mayo,1,7,10,Galway,"St. Coman's Park, Roscommon",8800,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-07-22,football,senior,leinster,Provincial final,Wexford,1,9,12,Offaly,1,4,7,Wexford,"O'Moore Park, Portlaoise",9873,Mick Leech (Louth),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-07-29,hurling,senior,all_ireland,Semi-final,Kilkenny,5,3,18,Galway,2,11,17,Kilkenny,St. Brendan's Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-07-29,football,senior,ulster,Provincial final,Cavan,4,10,22,Fermanagh,1,4,7,Cavan,"St. Tiernach's Park, Clones",10000,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-08-05,hurling,senior,all_ireland,Semi-final,Tipperary,5,9,24,Antrim,1,6,9,Tipperary,Croke Park,,,,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-08-12,football,senior,all_ireland,Semi-final,Cork,2,12,18,Galway,2,8,14,Cork,"Croke Park, Dublin",33336,P Lynch (Cavan),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
 1945-08-19,football,senior,all_ireland,Semi-final,Cavan,1,4,7,Wexford,0,5,5,Cavan,"Croke Park, Dublin",44526,B Nestor (Galway),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1945-09-02,hurling,senior,all_ireland,Final,Tipperary,5,6,21,Kilkenny,3,6,15,Tipperary,Croke Park,69456,V Baston (Waterford),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Hurling_Championship
 1945-09-23,football,senior,all_ireland,Final,Cork,2,5,11,Cavan,0,7,7,Cork,"Croke Park, Dublin",67329,J Dunne (Galway),,https://en.wikipedia.org/wiki/1945_All-Ireland_Senior_Football_Championship
+1946-04-28,hurling,senior,leinster,First round,Offaly,5,3,18,Laois,1,8,11,Offaly,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-05-05,football,senior,leinster,Provincial quarter-final,Kildare,2,3,9,Carlow,2,3,9,draw,"Geraldine Park, Athy",,,drawn match,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-05-12,football,senior,leinster,Provincial quarter-final replay,Kildare,3,5,14,Carlow,0,7,7,Kildare,"Dr. Cullen Park, Carlow",,,replay,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-05-12,football,senior,leinster,Preliminary round,Meath,2,11,17,Longford,0,8,8,Meath,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
@@ -1275,29 +1357,40 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1946-05-26,football,senior,connacht,Provincial quarter-final,Sligo,6,10,28,Leitrim,0,6,6,Sligo,Carrick-on-Shannon,,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-05-26,football,senior,munster,Provincial quarter-final,Clare,3,6,15,Limerick,4,3,15,draw,"Hennessy Memorial Park, Miltown Malbay",,,drawn match,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-02,football,senior,leinster,Provincial quarter-final,Laois,1,7,10,Offaly,1,5,8,Laois,"O'Connor Park, Tullamore",9000,Kennedy,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-06-02,hurling,senior,leinster,Quarter-final,Westmeath,3,9,18,Offaly,6,8,26,Offaly,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
+1946-06-02,hurling,senior,leinster,Semi-final,Wexford,2,2,8,Kilkenny,7,4,25,Kilkenny,"O'Kennedy Park, New Ross",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-06-02,football,senior,munster,Provincial quarter-final replay,Clare,2,12,18,Limerick,1,0,3,Clare,"Gaelic Grounds, Limerick",,,replay,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-02,football,senior,munster,Provincial quarter-final,Kerry,1,8,11,Cork,1,4,7,Kerry,"Fitzgerald Stadium, Killarney",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-09,football,senior,leinster,Provincial quarter-final,Louth,1,6,9,Meath,0,6,6,Louth,"Drogheda Park, Drogheda",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-09,football,senior,munster,Provincial semi-final,Waterford,2,4,10,Tipperary,1,5,8,Waterford,"Fraher Field, Dungarvan",,D. O'Leary (Cork),,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-06-09,hurling,senior,munster,Quarter-final,Cork,2,9,15,Clare,2,1,7,Cork,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-06-09,football,senior,ulster,Preliminary round,Derry,4,6,18,Fermanagh,0,4,4,Derry,"Rossa Park, Magherafelt",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-16,football,senior,connacht,Provincial semi-final,Roscommon,0,7,7,Galway,0,4,4,Roscommon,"St. Coman's Park, Roscommon",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-16,football,senior,leinster,Provincial semi-final,Kildare,3,3,12,Wexford,0,10,10,Kildare,"Dr. Cullen Park, Carlow",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-06-16,hurling,senior,munster,Semi-final,Limerick,3,5,14,Tipperary,2,2,8,Limerick,"Cork Athletic Grounds, Cork",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-06-23,football,senior,connacht,Provincial semi-final,Mayo,2,9,15,Sligo,2,6,12,Mayo,"James Stephens Park, Ballina",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-06-23,hurling,senior,leinster,Semi-final,Dublin,4,6,18,Offaly,3,4,13,Dublin,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-06-23,football,senior,ulster,Provincial quarter-final,Cavan,8,13,37,Tyrone,2,3,9,Cavan,Omagh,,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-23,football,senior,ulster,Provincial quarter-final,Donegal,4,5,17,Monaghan,1,9,12,Donegal,"St. Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-23,football,senior,ulster,Provincial quarter-final,Armagh,0,13,13,Down,0,4,4,Armagh,"St. Patrick's Park, Newcastle",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-06-30,football,senior,leinster,Provincial semi-final,Laois,1,9,12,Louth,0,10,10,Laois,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-06-30,hurling,senior,munster,Semi-final,Cork,3,9,18,Waterford,1,6,9,Cork,"Clonmel GAA Ground, Clonmel",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-06-30,football,senior,ulster,Provincial quarter-final,Antrim,1,11,14,Derry,0,10,10,Antrim,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-07-07,hurling,senior,leinster,Final,Kilkenny,3,8,17,Dublin,1,12,15,Kilkenny,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-07-07,football,senior,munster,Provincial semi-final,Kerry,1,6,9,Clare,0,7,7,Kerry,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-07-07,football,senior,ulster,Provincial semi-final,Cavan,5,8,23,Donegal,0,3,3,Cavan,Omagh,,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-07-14,football,senior,leinster,Provincial final,Laois,0,11,11,Kildare,1,6,9,Laois,"Croke Park, Dublin",27353,Patsy Ratty (Meath),,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-07-14,hurling,senior,munster,Final,Cork,3,8,17,Limerick,1,3,6,Cork,"Thurles Sportsfield, Thurles",,W. O'Donnell (Tipperary),,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-07-14,football,senior,ulster,Provincial semi-final,Antrim,1,12,15,Armagh,0,6,6,Antrim,Omagh,,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-07-21,football,senior,connacht,Provincial final,Roscommon,1,4,7,Mayo,0,6,6,Roscommon,"Dunlo GAA Grounds, Ballinasloe",,P. McKenna (Limerick),,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-07-21,football,senior,munster,Provincial final,Kerry,2,16,22,Waterford,2,1,7,Kerry,"Austin Stack Park, Tralee",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-07-21,football,senior,ulster,Provincial final,Antrim,2,8,14,Cavan,1,7,10,Antrim,"St. Tiernach's Park, Clones",15000,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-07-27,hurling,senior,all_ireland,Semi-final,Cork,2,10,16,Galway,0,3,3,Cork,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
+1946-08-04,hurling,senior,all_ireland,Semi-final,Kilkenny,7,11,32,Antrim,0,7,7,Kilkenny,"Croke Park, Dublin",,G. Kelly (Dublin),,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-08-11,football,senior,connacht,Provincial final replay,Roscommon,1,9,12,Mayo,1,2,5,Roscommon,"St. Coman's Park, Roscommon",,Alf Murray (Armagh),replay,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-08-18,football,senior,all_ireland,Semi-final,Kerry,2,7,13,Antrim,0,10,10,Kerry,"Croke Park, Dublin",30051,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-08-25,football,senior,all_ireland,Semi-final,Roscommon,3,5,14,Laois,2,6,12,Roscommon,"Croke Park, Dublin",51275,,,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
+1946-09-01,hurling,senior,all_ireland,Final,Cork,7,5,26,Kilkenny,3,8,17,Cork,"Croke Park, Dublin",64415,J. Flaherty (Offaly),,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Hurling_Championship
 1946-10-06,football,senior,all_ireland,Final,Kerry,2,4,10,Roscommon,1,7,10,draw,"Croke Park, Dublin",75771,Bill Delaney (Laois),drawn match,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1946-10-27,football,senior,all_ireland,Final replay,Kerry,2,8,14,Roscommon,0,10,10,Kerry,"Croke Park, Dublin",65661,Paddy Mythen (Wexford),replay,https://en.wikipedia.org/wiki/1946_All-Ireland_Senior_Football_Championship
 1947-05-11,football,senior,leinster,Provincial first round,Meath,5,7,22,Wicklow,2,3,9,Meath,"St. Conleth's Park, Newbridge",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
@@ -1307,16 +1400,23 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1947-05-25,football,senior,connacht,Provincial quarter-final,Roscommon,1,10,13,Mayo,0,4,4,Roscommon,"James Stephens Park, Ballina",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-01,football,senior,connacht,Provincial semi-final,Sligo,2,6,12,Galway,1,6,9,Sligo,"St. Coman's Park, Roscommon",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-01,football,senior,leinster,Provincial quarter-final,Louth,3,11,20,Dublin,1,9,12,Louth,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-06-01,hurling,senior,leinster,Quarter-final,Wexford,3,12,21,Laois,2,10,16,Wexford,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-06-01,football,senior,munster,Provincial quarter-final,Tipperary,4,13,25,Waterford,0,4,4,Tipperary,"Páirc Daibhín, Carrick on Suir",,D. Ryan (Kerry),,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-06-08,hurling,senior,leinster,Quarter-final,Offaly,7,2,23,Westmeath,2,6,12,Offaly,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-06-08,football,senior,munster,Provincial quarter-final,Clare,4,9,21,Limerick,2,4,10,Clare,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-08,football,senior,ulster,Provincial preliminary round,Tyrone,0,7,7,Fermanagh,1,4,7,draw,"St. Molaise Park, Irvinestown",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-15,football,senior,leinster,Provincial quarter-final,Meath,1,8,11,Westmeath,0,5,5,Meath,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-06-15,hurling,senior,munster,Quarter-final,Cork,4,9,21,Clare,0,4,4,Cork,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-06-15,football,senior,ulster,Provincial quarter-final,Down,2,11,17,Derry,2,5,11,Down,"The Playing Fields, Lurgan",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-15,football,senior,ulster,Provincial quarter-final,Cavan,0,9,9,Monaghan,1,6,9,draw,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-22,football,senior,leinster,Provincial quarter-final,Laois,2,7,13,Kildare,1,8,11,Laois,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-06-22,hurling,senior,munster,Semi-final,Limerick,6,8,26,Tipperary,2,3,9,Limerick,"Cork Athletic Grounds, Cork",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-06-22,football,senior,ulster,Provincial quarter-final,Cavan,1,11,14,Monaghan,1,9,12,Cavan,"St. Tiernach's Park, Clones",,,replay,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-22,football,senior,ulster,Provincial quarter-final,Armagh,1,6,9,Tyrone,1,6,9,draw,"Athletic Grounds, Armagh",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-06-29,football,senior,connacht,Provincial semi-final,Roscommon,1,9,12,Leitrim,0,3,3,Roscommon,Carrick-on-Shannon,,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-06-29,hurling,senior,leinster,Semi-final,Kilkenny,5,11,26,Wexford,3,8,17,Kilkenny,"Nowlan Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
+1947-06-29,hurling,senior,leinster,Semi-final,Dublin,5,6,21,Offaly,0,3,3,Dublin,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
+1947-06-29,hurling,senior,munster,Semi-final,Cork,3,10,19,Waterford,1,5,8,Cork,"Clonmel GAA Ground, Clonmel",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-06-29,football,senior,ulster,Provincial quarter-final,Armagh,1,4,7,Tyrone,2,5,11,Tyrone,"O'Neill Park, Dungannon",10000,,replay,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-07-06,football,senior,leinster,Provincial semi-final,Laois,5,11,26,Offaly,0,4,4,Laois,"O'Moore Park, Portlaoise",15000,P Mythen (Laois),,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-07-06,football,senior,leinster,Provincial semi-final,Meath,0,9,9,Louth,1,4,7,Meath,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
@@ -1324,18 +1424,26 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1947-07-06,football,senior,munster,Provincial semi-final,Cork,2,3,9,Tipperary,1,2,5,Cork,"Páirc MacGearailt, Fermoy",,D. O'Sullivan (W),,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-07-06,football,senior,ulster,Provincial semi-final,Antrim,3,13,22,Down,1,7,10,Antrim,"The Playing Fields, Lurgan",17000,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-07-06,football,senior,ulster,Provincial semi-final,Cavan,4,5,17,Tyrone,0,2,2,Cavan,"O'Neill Park, Dungannon",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-07-13,hurling,senior,leinster,Final,Kilkenny,7,10,31,Dublin,3,6,15,Kilkenny,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-07-20,football,senior,connacht,Provincial final,Roscommon,2,12,18,Sligo,1,8,11,Roscommon,"James Stephens Park, Ballina",14000,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-07-20,football,senior,leinster,Provincial final,Meath,3,7,16,Laois,1,7,10,Meath,"Croke Park, Dublin",41631,Paddy Mythen (Wexford),,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-07-20,hurling,senior,munster,Final,Cork,2,6,12,Limerick,2,3,9,Cork,"Thurles Sportsfield, Thurles",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-07-20,football,senior,ulster,Provincial final,Cavan,3,4,13,Antrim,1,6,9,Cavan,"St. Tiernach's Park, Clones",34000,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-07-27,hurling,senior,all_ireland,Semi-final,Kilkenny,2,9,15,Galway,1,11,14,Kilkenny,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-07-27,football,senior,munster,Provincial final,Kerry,3,8,17,Cork,2,6,12,Kerry,"Cork Athletic Grounds, Cork",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1947-08-03,football,senior,all_ireland,Semi-final,Cavan,2,4,10,Roscommon,0,6,6,Cavan,"Croke Park, Dublin",60075,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-08-03,hurling,senior,all_ireland,Semi-final,Cork,7,10,31,Antrim,0,5,5,Cork,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-08-10,football,senior,all_ireland,Semi-final,Kerry,1,11,14,Meath,0,5,5,Kerry,"Croke Park, Dublin",65939,,,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
+1947-09-07,hurling,senior,all_ireland,Final,Kilkenny,0,14,14,Cork,2,7,13,Kilkenny,"Croke Park, Dublin",61510,P. Purcell (Tipperary),,https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Hurling_Championship
 1947-09-14,football,senior,all_ireland,Final,Cavan,2,11,17,Kerry,2,7,13,Cavan,"Polo Grounds, New York City",34491,M O'Neill (Wexford),"Polo Grounds, New York",https://en.wikipedia.org/wiki/1947_All-Ireland_Senior_Football_Championship
 1948-05-02,football,senior,leinster,Provincial first round,Carlow,3,11,20,Wicklow,1,5,8,Carlow,Enniscorthy,,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-05-02,football,senior,leinster,Provincial quarter-final,Meath,0,14,14,Westmeath,1,6,9,Meath,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-05-09,football,senior,leinster,Provincial first round,Louth,2,14,20,Longford,1,2,5,Louth,"Páirc Tailteann, Navan",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-05-09,football,senior,leinster,Provincial first round,Offaly,5,5,20,Kildare,1,8,11,Offaly,"O'Moore Park, Portlaoise",,W Delaney (Laois),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-05-16,football,senior,leinster,Provincial quarter-final,Carlow,4,4,16,Laois,1,7,10,Carlow,"Geraldine Park, Athy",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
+1948-05-16,hurling,senior,leinster,first_round,Wexford,8,5,29,Offaly,2,4,10,Wexford,"St. James' Park, Kilkenny",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
+1948-05-23,hurling,senior,leinster,first_round,Laois,7,10,31,Westmeath,3,0,9,Laois,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
+1948-05-23,hurling,senior,munster,semi_final,Waterford,4,8,20,Clare,5,3,18,Waterford,"Thurles Sportsfield, Thurles",,P Purcell (Tipperary),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
 1948-05-30,football,senior,munster,Provincial quarter-final,Clare,4,10,22,Limerick,0,2,2,Clare,"Cusack Park, Ennis",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-06-06,football,senior,leinster,Provincial quarter-final,Offaly,3,8,17,Wexford,4,6,18,Wexford,"Dr. Cullen Park, Carlow",,W Delaney (Laois),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-06-06,football,senior,ulster,Provincial quarter-final,Antrim,1,3,6,Donegal,0,1,1,,"Corrigan Park, Belfast",,,unfinished/abandoned; replayed 20 June 1948,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
@@ -1349,50 +1457,73 @@ date,sport,grade,competition,stage,team1,t1_g,t1_p,t1_total,team2,t2_g,t2_p,t2_t
 1948-06-20,football,senior,ulster,Provincial quarter-final,Cavan,2,9,15,Down,2,4,10,Cavan,"The Playing Fields, Lurgan",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-06-20,football,senior,ulster,Provincial quarter-final,Antrim,4,5,17,Donegal,1,4,7,Antrim,"Corrigan Park, Belfast",,,replay,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-06-27,football,senior,connacht,Provincial semi-final,Mayo,4,2,14,Sligo,1,5,8,Mayo,Sligo,,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
+1948-06-27,hurling,senior,leinster,semi_final,Laois,4,5,17,Kilkenny,2,7,13,Laois,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
+1948-06-27,hurling,senior,leinster,semi_final,Wexford,3,9,18,Dublin,6,4,22,Dublin,Enniscorthy,,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
+1948-06-27,hurling,senior,munster,first_round,Tipperary,6,4,22,Limerick,8,4,28,Limerick,"Cork Athletic Grounds, Cork",,PJ Quane (Clare),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
 1948-07-04,football,senior,leinster,Provincial semi-final,Wexford,3,9,18,Carlow,4,5,17,Wexford,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-04,football,senior,munster,Provincial semi-final,Kerry,6,6,24,Clare,1,8,11,Kerry,Ballylongford,,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-04,football,senior,munster,Provincial semi-final,Cork,0,12,12,Tipperary,1,8,11,Cork,"Fraher Field, Dungarvan",,P. Ryan (W),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-04,football,senior,ulster,Provincial semi-final,Antrim,0,12,12,Tyrone,1,3,6,Antrim,"The Playing Fields, Lurgan",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-11,football,senior,leinster,Provincial semi-final,Meath,2,6,12,Louth,2,5,11,Meath,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
+1948-07-11,hurling,senior,leinster,final,Dublin,5,9,24,Laois,3,3,12,Dublin,"O'Connor Park, Tullamore",25719,J Flaherty (Offaly),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
 1948-07-11,football,senior,ulster,Provincial semi-final,Cavan,1,9,12,Monaghan,0,7,7,Cavan,"Breffni Park, Cavan",14000,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-18,football,senior,connacht,Provincial final,Mayo,2,4,10,Galway,1,7,10,draw,"St. Coman's Park, Roscommon",,Simon Duignan (Cavan),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
+1948-07-18,hurling,senior,munster,semi_final,Cork,5,3,18,Limerick,2,5,11,Cork,"Thurles Sportsfield, Thurles",,PJ Quane (Clare),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
 1948-07-25,football,senior,connacht,Provincial final,Mayo,2,10,16,Galway,2,7,13,Mayo,"St. Coman's Park, Roscommon",,P.J. Sheehy (Longford),"replay, after extra time",https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-25,football,senior,leinster,Provincial final,Louth,2,10,16,Wexford,2,5,11,Louth,"Croke Park, Dublin",,Jimmy Flaherty (Offaly),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-25,football,senior,munster,Provincial final,Kerry,2,9,15,Cork,2,6,12,Kerry,"Fitzgerald Stadium, Killarney",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-07-25,football,senior,ulster,Provincial final,Cavan,2,12,18,Antrim,2,4,10,Cavan,"St. Tiernach's Park, Clones",,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
+1948-08-01,hurling,senior,all_ireland,semi_final,Dublin,8,13,37,Antrim,2,6,12,Dublin,"Croke Park, Dublin",,D O'Riordan (Kildare),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
+1948-08-01,hurling,senior,munster,final,Waterford,4,7,19,Cork,3,9,18,Waterford,"Thurles Sportsfield, Thurles",,J Roche (Limerick),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
+1948-08-15,hurling,senior,all_ireland,semi_final,Waterford,3,7,16,Galway,1,6,9,Waterford,"Croke Park, Dublin",31843,J Flaherty (Offaly),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
 1948-08-22,football,senior,all_ireland,Semi-final,Cavan,1,14,17,Louth,4,2,14,Cavan,"Croke Park, Dublin",51117,M. Colbert (Limerick),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1948-08-29,football,senior,all_ireland,Semi-final,Mayo,0,13,13,Kerry,0,3,3,Mayo,"Croke Park, Dublin",51305,,,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
+1948-09-05,hurling,senior,all_ireland,final,Waterford,6,7,25,Dublin,4,2,14,Waterford,"Croke Park, Dublin",61742,C Murphy (Cork),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Hurling_Championship
 1948-09-26,football,senior,all_ireland,Final,Cavan,4,5,17,Mayo,4,4,16,Cavan,"Croke Park, Dublin",74645,M.J. Flaherty (Offaly),,https://en.wikipedia.org/wiki/1948_All-Ireland_Senior_Football_Championship
 1949-05-01,football,senior,leinster,Provincial first round,Dublin,2,9,15,Longford,2,5,11,Dublin,"Cusack Park, Mullingar",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-05-01,football,senior,ulster,Provincial first round,Down,0,8,8,Monaghan,2,6,12,Monaghan,"St. Patrick's Park, Newcastle",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-05-08,football,senior,leinster,Provincial first round,Westmeath,3,7,16,Carlow,1,5,8,Westmeath,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-05-15,football,senior,leinster,Provincial first round,Meath,0,11,11,Kildare,1,5,8,Meath,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-05-15,hurling,senior,leinster,quarter-final,Wexford,1,4,7,Kilkenny,4,11,23,Kilkenny,"Wexford Park, Wexford",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
+1949-05-15,hurling,senior,leinster,quarter-final,Offaly,4,2,14,Laois,7,5,26,Laois,"St. Brendan's Park, Birr",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-05-22,football,senior,leinster,Provincial quarter-final,Louth,0,7,7,Wicklow,0,5,5,Louth,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-05-22,hurling,senior,leinster,quarter-final,Meath,6,10,28,Westmeath,3,2,11,Meath,"St. Loman's Park, Trim",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-05-22,football,senior,munster,Provincial quarter-final,Tipperary,3,8,17,Waterford,3,4,13,Tipperary,"Fraher Field, Dungarvan",,M. Colbert (Limerick),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-05-29,football,senior,leinster,Provincial quarter-final,Westmeath,2,5,11,Laois,0,7,7,Westmeath,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-05-29,hurling,senior,munster,first round,Tipperary,3,10,19,Cork,3,10,19,draw,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-06-04,football,senior,ulster,Provincial quarter-final,Antrim,5,9,24,Derry,1,6,9,Antrim,"Rossa Park, Magherafelt",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-06-04,football,senior,ulster,Provincial quarter-final,Armagh,3,6,15,Monaghan,1,8,11,Armagh,"The Playing Fields, Lurgan",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-06-05,football,senior,connacht,Provincial quarter-final,Mayo,2,10,16,Roscommon,1,9,12,Mayo,"Corran Park, Ballymote",20000,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-06-05,football,senior,leinster,Provincial quarter-final,Offaly,4,7,19,Dublin,3,7,16,Offaly,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-06-12,football,senior,connacht,Provincial semi-final,Leitrim,3,3,12,Galway,1,7,10,Leitrim,Carrick-on-Shannon,9000,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-06-12,football,senior,leinster,Provincial quarter-final,Meath,0,14,14,Wexford,4,0,12,Meath,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-06-12,hurling,senior,munster,semi-final,Limerick,3,8,17,Waterford,3,3,12,Limerick,"Thurles Sportsfield, Thurles",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-06-12,football,senior,ulster,Provincial quarter-final,Cavan,7,10,31,Tyrone,1,7,10,Cavan,"Breffni Park, Cavan",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-06-19,football,senior,connacht,Provincial semi-final,Mayo,7,10,31,Sligo,0,2,2,Mayo,"James Stephens Park, Ballina",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-06-19,hurling,senior,leinster,semi-final,Kilkenny,4,13,25,Meath,2,6,12,Kilkenny,"O'Moore Park, Portlaoise",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-06-19,football,senior,munster,Provincial semi-final,Clare,3,7,16,Kerry,1,8,11,Clare,"Cusack Park, Ennis",,Frank Cunniffe (Galway),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-06-26,hurling,senior,leinster,semi-final,Laois,6,6,24,Dublin,3,7,16,Laois,"Nowlan Park, Kilkenny",,P Grace (Kilkenny),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
+1949-06-26,hurling,senior,munster,first round,Tipperary,2,8,14,Cork,1,9,12,Tipperary,"Gaelic Grounds, Limerick",,,replay; after extra time,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-06-26,football,senior,ulster,Provincial semi-final,Antrim,1,6,9,Cavan,3,7,16,Cavan,"Corrigan Park, Belfast",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-03,football,senior,leinster,Provincial semi-final,Meath,1,5,8,Louth,1,5,8,draw,"Croke Park, Dublin",32000,,Draw; replay required,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-07-03,hurling,senior,munster,semi-final,Tipperary,1,15,18,Clare,1,7,10,Tipperary,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-07-03,football,senior,ulster,Provincial semi-final,Armagh,0,14,14,Donegal,1,4,7,Armagh,"O'Neill Park, Dungannon",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-10,football,senior,leinster,Provincial semi-final,Meath,2,9,15,Louth,3,6,15,draw,"Croke Park, Dublin",,,Replay; draw after extra time; second replay required,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-10,football,senior,leinster,Provincial semi-final,Offaly,1,9,12,Westmeath,2,6,12,draw,"O'Connor Park, Tullamore",,J Dowling (Kildare),Draw; replay required,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-10,football,senior,munster,Provincial semi-final,Cork,4,2,14,Tipperary,2,4,10,Cork,"Fraher Field, Dungarvan",,D. O'Sullivan (W),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-17,football,senior,leinster,Provincial semi-final,Offaly,1,2,5,Westmeath,0,8,8,Westmeath,"Cusack Park, Mullingar",,J Dowling (Kildare),Replay,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-07-17,hurling,senior,leinster,final,Kilkenny,3,6,15,Laois,3,8,17,Laois,"Nowlan Park, Kilkenny",22000,E Long (Carlow),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
+1949-07-17,hurling,senior,munster,final,Tipperary,1,16,19,Limerick,2,10,16,Tipperary,"Cork Athletic Grounds, Cork",35000,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-07-24,football,senior,leinster,Provincial semi-final,Meath,2,5,11,Louth,1,7,10,Meath,"Croke Park, Dublin",,,Second replay,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-07-31,hurling,senior,all_ireland,semi-final,Tipperary,6,18,36,Antrim,1,4,7,Tipperary,"Croke Park, Dublin",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-07-31,football,senior,connacht,Provincial final,Mayo,4,6,18,Leitrim,0,3,3,Mayo,"St. Coman's Park, Roscommon",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-31,football,senior,leinster,Provincial final,Meath,4,5,17,Westmeath,0,6,6,Meath,"Croke Park, Dublin",37102,J. Dowling (Kildare),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-31,football,senior,munster,Provincial final,Cork,3,6,15,Clare,0,7,7,Cork,"Gaelic Grounds, Limerick",,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-07-31,football,senior,ulster,Provincial final,Cavan,1,7,10,Armagh,1,6,9,Cavan,"St. Tiernach's Park, Clones",24000,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-08-07,hurling,senior,all_ireland,semi-final,Laois,4,6,18,Galway,3,5,14,Laois,"Croke Park, Dublin",,C Murphy (Cork),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-08-14,football,senior,all_ireland,Semi-final,Meath,3,10,19,Mayo,1,10,13,Meath,"Croke Park, Dublin",48200,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1949-08-21,football,senior,all_ireland,Semi-final,Cavan,1,9,12,Cork,2,3,9,Cavan,"Croke Park, Dublin",49789,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
+1949-09-04,hurling,senior,all_ireland,final,Tipperary,3,11,20,Laois,0,3,3,Tipperary,"Croke Park, Dublin",67168,,,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Hurling_Championship
 1949-09-25,football,senior,all_ireland,Final,Meath,1,10,13,Cavan,1,6,9,Meath,"Croke Park, Dublin",79460,D. Ryan (Kerry),,https://en.wikipedia.org/wiki/1949_All-Ireland_Senior_Football_Championship
 1950-04-30,football,senior,leinster,Provincial first round,Longford,0,12,12,Westmeath,0,5,5,Longford,"O'Connor Park, Tullamore",,,,https://en.wikipedia.org/wiki/1950_All-Ireland_Senior_Football_Championship
 1950-04-30,hurling,senior,leinster,first_round,Wexford,3,9,18,Meath,0,1,1,Wexford,Enniscorthy,,,,https://en.wikipedia.org/wiki/1950_All-Ireland_Senior_Hurling_Championship
