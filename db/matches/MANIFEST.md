@@ -39,12 +39,16 @@ Running total: **6760 matches** (football championship 1887–2025 + NFL 2008–
 ✅ Wave 2 essentially complete to the limit of reliable match-level data (2008–2025). **Pre-2008
 NFL** (two-year en-dash seasons) is finals/standings-only on Wikipedia — DEFERRED as an optional
 later finals-only sub-wave (db/matches… `<year>_nfl.json`), not worth full waves now.
-| 3 | hurling | senior | championship (AI+Lein+Mun) | 1900–2025 | 1937 | knockout; sparse early era; home finals, walkovers, London/Britain entrants; Ulster excluded |
+| 3 | hurling | senior | championship (AI+Lein+Mun) | **1887–2025 COMPLETE** | **2029** | every season; founding open-draw era + abandoned 1888; Ulster SHC excluded |
 
-Running total: **8697 matches** (football 1887–2025 champ + NFL 2008–2025; hurling SHC 1900–2025).
-Wave 3 in progress — hurling SHC (Liam MacCarthy). Next: hurling SHC 1887–1899 (founding years,
-open-draw/representative format) to COMPLETE the hurling championship. Then wave 4 (hurling NHL),
-wave 5+ (Tailteann, U20/U21, minor).
+✅ **Wave 3 complete: hurling senior championship 1887–2025 — 2029 matches, 0 warnings.**
+✅✅ Both senior championships (football + hurling) now fully archived 1887–2025.
+
+Running total: **8789 matches across 296 files** (football champ 1887–2025; football NFL 2008–2025;
+hurling SHC 1887–2025). Zero validation warnings.
+Next: **wave 4 — hurling National League** (Allianz NHL, full match-by-match modern first ~2008+,
+in `hurling/senior/<year>_nhl.json`). Then wave 5 (Tailteann Cup football), wave 6+ (U20/U21, minor).
+Also still open: football pre-2008 NFL (finals-only, deferred).
 
 ### Spot-check / verify later (added)
 - 1918 Leinster SF Wexford 1-0 v Offaly 6-0: score implies Offaly but Wexford contested the

@@ -1,0 +1,40 @@
+[
+  {
+    "sport": "hurling",
+    "grade": "senior",
+    "competition": "munster",
+    "stage": "Final",
+    "date": "1892-10-30",
+    "team1": "Kerry",
+    "team2": "Cork",
+    "t1_g": 2,
+    "t1_p": 5,
+    "t2_g": 5,
+    "t2_p": 3,
+    "winner": "Cork",
+    "venue": "Killarney",
+    "attendance": 10000,
+    "referee": null,
+    "notes": "goal-outweighs-points: Cork's 5 goals outweigh Kerry's score under the era's convention",
+    "source_url": "https://en.wikipedia.org/wiki/1892_All-Ireland_Senior_Hurling_Championship"
+  },
+  {
+    "sport": "hurling",
+    "grade": "senior",
+    "competition": "all_ireland",
+    "stage": "Final",
+    "date": "1893-03-26",
+    "team1": "Cork",
+    "team2": "Dublin",
+    "t1_g": 2,
+    "t1_p": 3,
+    "t2_g": 1,
+    "t2_p": 5,
+    "winner": "Cork",
+    "venue": "Clonturk Park",
+    "attendance": 5000,
+    "referee": "D Fraher (Waterford)",
+    "notes": "goal-outweighs-points: Cork's 2 goals outweigh Dublin's 1 goal; game ended in disarray as Dublin players walked off with five minutes left following a dispute over a goal",
+    "source_url": "https://en.wikipedia.org/wiki/1892_All-Ireland_Senior_Hurling_Championship"
+  }
+]
