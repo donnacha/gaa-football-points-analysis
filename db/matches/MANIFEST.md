@@ -39,10 +39,10 @@ Running total: **6760 matches** (football championship 1887–2025 + NFL 2008–
 ✅ Wave 2 essentially complete to the limit of reliable match-level data (2008–2025). **Pre-2008
 NFL** (two-year en-dash seasons) is finals/standings-only on Wikipedia — DEFERRED as an optional
 later finals-only sub-wave (db/matches… `<year>_nfl.json`), not worth full waves now.
-| 3 | hurling | senior | championship (AI+Lein+Mun) | 1970–2025 | 1122 | knockout→back-door(1997)→qualifier→round-robin; Ulster SHC excluded |
+| 3 | hurling | senior | championship (AI+Lein+Mun) | 1960–2025 | 1242 | knockout era; Galway in Munster (often no AI semis); Ulster SHC excluded |
 
-Running total: **7882 matches** (football 1887–2025 champ + NFL 2008–2025; hurling SHC 1970–2025).
-Wave 3 in progress — hurling SHC (Liam MacCarthy). Next: hurling SHC 1960–1969, then back toward
+Running total: **8002 matches** (football 1887–2025 champ + NFL 2008–2025; hurling SHC 1960–2025).
+Wave 3 in progress — hurling SHC (Liam MacCarthy). Next: hurling SHC 1950–1959, then back toward
 1887. Then wave 4 (hurling NHL), wave 5+ (Tailteann, U20/U21, minor).
 Compiler skips the winner/score check for null-winner rows (abandoned/void) and for notes
 containing "objection"/"awarded"/"penalt"/"source-score-disputed".
