@@ -81,12 +81,21 @@ last two. Every table on the site updates from `data.json`.
 
 The championship and the National League are separate competitions run in different parts of the
 year, so the *overall* view **adds** their points within a season (rather than taking the best of the
-two). Within each competition best-finish still applies. The league is scored below the championship,
-tuned in `params.json` under `league_points` (default: Division 1 champion `2`, runner-up `1` — a
-league title equals a championship quarter-final and sits below an All-Ireland semi-final). The league
-dates from 1926, so earlier seasons are championship-only. This view rewards league-strong counties:
-Mayo rise to 3rd overall on the second-richest league record, and New York register on their league
-titles alone.
+two). Within each competition best-finish still applies (a county scores the highest league tier it
+reached that year). The league is scored below the championship, tuned in `params.json` under
+`league_points`:
+
+| League result | Points | Equivalent |
+|---|---|---|
+| Division 1 champion | `2` | championship quarter-final |
+| Division 1 runner-up | `1` | provincial final |
+| Division 1 semi-final, or any lower-division title | `0.5` | the third tier |
+
+A league title sits below an All-Ireland semi-final (3). The league dates from 1926 (Division 1
+semi-finalists where a semi-final stage existed; lower-division titles from 1999 for Division 2 and
+2008 for Divisions 3–4), so earlier seasons are championship-only. This rewards league-strong
+counties: Mayo rise to 3rd overall on the second-richest league record, and New York register on
+their league titles alone. (Combined totals can carry a `.5`.)
 
 ## Deployment (GitHub Pages)
 

@@ -80,9 +80,11 @@ function buildStandings(){
 let overKey='combined', overDir=-1;
 function buildOverall(){
   if(DATA.league_points){
-    const c=document.getElementById('lp-champ'), r=document.getElementById('lp-ru');
+    const c=document.getElementById('lp-champ'), r=document.getElementById('lp-ru'),
+          m=document.getElementById('lp-minor');
     if(c)c.textContent=DATA.league_points.champion;
     if(r)r.textContent=DATA.league_points.runner_up;
+    if(m)m.textContent=DATA.league_points.semi_final;
   }
   const cols=[
     ['county','County','l'],['championship','Championship',''],['league','League',''],
@@ -130,41 +132,53 @@ function buildEras(){
   document.getElementById('eras-table').innerHTML=h;
 }
 
-let matrixDecade='all';
+const decadeOf=y=>Math.floor(y/10)*10;
+const fmtPts=v=>Number.isInteger(v)?v:Math.round(v*10)/10;
+let mxDecades=new Set();   // empty = all years
+let mxLeague=false;
 function buildMatrix(){
   const allYrs=DATA.years;
-  const decades=[...new Set(allYrs.map(y=>Math.floor(y/10)*10))].sort((a,b)=>a-b);
+  const decades=[...new Set(allYrs.map(decadeOf))].sort((a,b)=>a-b);
   const wrap=document.getElementById('matrix-table');
-  const filterEl=document.getElementById('matrix-decades');
+  const ctl=document.getElementById('matrix-decades');
+  const cellVal=(r,y)=>(r.by_year[y]||0)+(mxLeague?((r.lg_by_year&&r.lg_by_year[y])||0):0);
 
-  const decadeBtns=()=>{
-    let h=`<button class="dec${matrixDecade==='all'?' active':''}" data-d="all">All years</button>`;
-    decades.forEach(d=>{h+=`<button class="dec${matrixDecade==d?' active':''}" data-d="${d}">${d}s</button>`;});
+  const toolbar=()=>{
+    let h=`<div class="dec-row"><button class="dec${mxDecades.size===0?' active':''}" data-d="all">All years</button>`;
+    decades.forEach(d=>{h+=`<button class="dec${mxDecades.has(d)?' active':''}" data-d="${d}">${d}s</button>`;});
+    h+=`</div><div class="dec-row"><button class="dec toggle${mxLeague?' active':''}" data-toggle="1">`+
+       `${mxLeague?'✓ ':'+ '}Add league points</button>`+
+       `<span class="hint">${mxLeague?'cells = championship + National League':'cells = championship finish'}</span></div>`;
     return h;
   };
   const render=()=>{
-    const yrs = matrixDecade==='all' ? allYrs
-              : allYrs.filter(y=>Math.floor(y/10)*10==matrixDecade);
-    // only show counties that scored in the visible range, to keep it readable
-    const rows=DATA.standings.filter(r=>matrixDecade==='all'||yrs.some(y=>r.by_year[y]>0));
-    let h='<div class="card"><table class="matrix"><thead><tr><th class="county l">County</th>';
-    yrs.forEach(y=>h+=`<th>${matrixDecade==='all'?String(y).slice(2):y}</th>`);
+    const yrs = mxDecades.size===0 ? allYrs : allYrs.filter(y=>mxDecades.has(decadeOf(y)));
+    const tot=r=>yrs.reduce((s,y)=>s+cellVal(r,y),0);
+    const rows=DATA.standings.map(r=>({r,t:tot(r)})).filter(o=>o.t>0)
+                 .sort((a,b)=>b.t-a.t||a.r.county.localeCompare(b.r.county));
+    const single=yrs.length<=12;
+    let h='<div class="card"><table class="matrix"><thead><tr>'+
+      '<th class="county l">County</th><th class="seltot">Pts</th>';
+    yrs.forEach(y=>h+=`<th>${single?y:String(y).slice(2)}</th>`);
     h+='</tr></thead><tbody>';
-    rows.forEach(r=>{
-      h+=`<tr><td class="county l">${r.county}</td>`;
-      yrs.forEach(y=>{const v=r.by_year[y]||0;
-        h+=`<td><span class="cell" style="background:${TIER[v]};color:${v>=3?'#fff':'#456'}">${v||''}</span></td>`;});
+    rows.forEach(({r,t})=>{
+      h+=`<tr><td class="county l">${r.county}</td><td class="seltot">${fmtPts(t)}</td>`;
+      yrs.forEach(y=>{const v=cellVal(r,y);const tier=Math.min(5,Math.round(v));
+        h+=`<td><span class="cell" style="background:${TIER[tier]};color:${tier>=3?'#fff':'#456'}">${v?fmtPts(v):''}</span></td>`;});
       h+='</tr>';
     });
     h+='</tbody></table></div>';
+    if(!rows.length)h='<p class="sub">No counties scored in the selected years.</p>';
     wrap.innerHTML=h;
   };
-  filterEl.innerHTML=decadeBtns();
-  filterEl.querySelectorAll('button.dec').forEach(b=>b.onclick=()=>{
-    matrixDecade=b.dataset.d==='all'?'all':+b.dataset.d;
-    filterEl.querySelectorAll('button.dec').forEach(x=>x.classList.remove('active'));
-    b.classList.add('active'); render();
-  });
+  ctl.innerHTML=toolbar();
+  ctl.onclick=e=>{
+    const b=e.target.closest('button'); if(!b)return;
+    if(b.dataset.toggle){mxLeague=!mxLeague;}
+    else if(b.dataset.d==='all'){mxDecades.clear();}
+    else{const d=+b.dataset.d; mxDecades.has(d)?mxDecades.delete(d):mxDecades.add(d);}
+    ctl.innerHTML=toolbar(); render();
+  };
   render();
 }
 

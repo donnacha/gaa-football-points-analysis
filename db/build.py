@@ -120,14 +120,42 @@ def score_total(s):
     except ValueError:
         return None
 
+def fmt_num(x):
+    """Drop a trailing .0 so integer totals print clean alongside .5 ones."""
+    return int(x) if float(x).is_integer() else round(float(x), 2)
+
+def league_scores(nl_data, lp):
+    """National League points per county, best-finish across the three tiers
+    (Division 1 champion / runner-up / [semi-final or lower-division title]).
+    Returns (total: {county: pts}, by_year: {county: {year: pts}})."""
+    by_year = defaultdict(dict)
+    def bump(county, year, pts):
+        if not county or not pts:
+            return
+        y = int(year)
+        if pts > by_year[county].get(y, 0):
+            by_year[county][y] = pts
+    for ys, rec in nl_data.get("league_finals", {}).items():
+        bump(rec.get("winner"), ys, lp.get("champion", 0))
+        bump(rec.get("runner_up"), ys, lp.get("runner_up", 0))
+    for ys, teams in nl_data.get("division1_semifinalists", {}).items():
+        for c in teams:
+            bump(c, ys, lp.get("semi_final", 0))
+    for ys, teams in nl_data.get("lower_division_champions", {}).items():
+        for c in teams:
+            bump(c, ys, lp.get("lower_division", 0))
+    total = {c: sum(yrs.values()) for c, yrs in by_year.items()}
+    return total, by_year
+
 def main():
     data = load("championship.json")
     params = load("params.json")
     years = data["years"]
     try:
-        league = load("national_league.json")["league_finals"]
+        nl_data = load("national_league.json")
     except FileNotFoundError:
-        league = {}
+        nl_data = {}
+    league = nl_data.get("league_finals", {})
 
     # ---- results_long.csv + gather totals ----
     long_rows = []
@@ -262,19 +290,15 @@ def main():
                 w.writerow([yr, lr["winner"], "National League + All-Ireland in the same year"])
 
     # ---- overall_performance.csv (championship + National League, added per year) ----
-    lp = params.get("league_points", {"champion": 0, "runner_up": 0})
-    league_total = defaultdict(int)
-    for yr_s, rec in league.items():
-        league_total[rec["winner"]] += lp.get("champion", 0)
-        if rec.get("runner_up"):
-            league_total[rec["runner_up"]] += lp.get("runner_up", 0)
-    combined = {c: cumulative[c] + league_total[c]
+    lp = params.get("league_points", {})
+    league_total, _ = league_scores(nl_data, lp)
+    combined = {c: cumulative[c] + league_total.get(c, 0)
                 for c in set(cumulative) | set(league_total)}
     with open(os.path.join(OUT,"overall_performance.csv"),"w",newline="",encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["rank","county","championship_points","league_points","combined_points"])
         for rank, c in enumerate(sorted(combined, key=lambda c:(-combined[c], c)), 1):
-            w.writerow([rank, c, cumulative[c], league_total[c], combined[c]])
+            w.writerow([rank, c, cumulative[c], fmt_num(league_total.get(c, 0)), fmt_num(combined[c])])
 
     # ---- console summary + checksums ----
     print(f"Years loaded: {min(all_years)}-{max(all_years)}  ({n_years} championships)")
